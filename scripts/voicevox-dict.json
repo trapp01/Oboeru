@@ -1,0 +1,9 @@
+[
+  {"surface": "日本", "pronunciation": "ニホン", "accent": 2, "type": "PROPER_NOUN"},
+  {"surface": "日本人", "pronunciation": "ニホンジン", "accent": 4, "type": "COMMON_NOUN"},
+  {"surface": "二十歳", "pronunciation": "ハタチ", "accent": 1, "type": "COMMON_NOUN"},
+  {"surface": "十分", "pronunciation": "ジュップン", "accent": 1, "type": "COMMON_NOUN"},
+  {"surface": "九分", "pronunciation": "キュウフン", "accent": 1, "type": "COMMON_NOUN"},
+  {"surface": "二分", "pronunciation": "ニフン", "accent": 1, "type": "COMMON_NOUN"},
+  {"surface": "毎朝", "pronunciation": "マイアサ", "accent": 1, "type": "COMMON_NOUN"}
+]
