@@ -1,0 +1,284 @@
+[
+ {
+  "lesson": 1,
+  "title": "Greetings and first words",
+  "sections": [
+   {
+    "id": "greetings",
+    "title": "Greetings",
+    "count": 22
+   },
+   {
+    "id": "replies",
+    "title": "Short replies",
+    "count": 14
+   }
+  ]
+ },
+ {
+  "lesson": 2,
+  "title": "Numbers and time",
+  "sections": [
+   {
+    "id": "numbers",
+    "title": "Numbers",
+    "count": 29
+   },
+   {
+    "id": "counting-things",
+    "title": "Counting things",
+    "count": 10
+   },
+   {
+    "id": "clock-time",
+    "title": "Clock time",
+    "count": 21
+   }
+  ]
+ },
+ {
+  "lesson": 3,
+  "title": "People and family",
+  "sections": [
+   {
+    "id": "people",
+    "title": "People",
+    "count": 15
+   },
+   {
+    "id": "counting-people",
+    "title": "Counting people",
+    "count": 7
+   },
+   {
+    "id": "family",
+    "title": "Family",
+    "count": 19
+   }
+  ]
+ },
+ {
+  "lesson": 4,
+  "title": "School and work",
+  "sections": [
+   {
+    "id": "school",
+    "title": "School",
+    "count": 35
+   },
+   {
+    "id": "countries-languages",
+    "title": "Countries and languages",
+    "count": 12
+   },
+   {
+    "id": "work",
+    "title": "Work",
+    "count": 12
+   }
+  ]
+ },
+ {
+  "lesson": 5,
+  "title": "Things and shopping",
+  "sections": [
+   {
+    "id": "pointing",
+    "title": "This and that",
+    "count": 8
+   },
+   {
+    "id": "things",
+    "title": "Things",
+    "count": 20
+   },
+   {
+    "id": "clothes",
+    "title": "Clothes",
+    "count": 9
+   },
+   {
+    "id": "shopping",
+    "title": "Shopping",
+    "count": 14
+   }
+  ]
+ },
+ {
+  "lesson": 6,
+  "title": "Food and drink",
+  "sections": [
+   {
+    "id": "meals",
+    "title": "Meals",
+    "count": 11
+   },
+   {
+    "id": "food",
+    "title": "Food",
+    "count": 27
+   },
+   {
+    "id": "drinks",
+    "title": "Drinks",
+    "count": 7
+   },
+   {
+    "id": "eating",
+    "title": "Eating and cooking",
+    "count": 9
+   }
+  ]
+ },
+ {
+  "lesson": 7,
+  "title": "Around town",
+  "sections": [
+   {
+    "id": "places",
+    "title": "Places",
+    "count": 27
+   },
+   {
+    "id": "location",
+    "title": "Where things are",
+    "count": 14
+   },
+   {
+    "id": "moving",
+    "title": "Being there and getting there",
+    "count": 15
+   }
+  ]
+ },
+ {
+  "lesson": 8,
+  "title": "Days and routines",
+  "sections": [
+   {
+    "id": "days",
+    "title": "Days and dates",
+    "count": 26
+   },
+   {
+    "id": "day-parts",
+    "title": "Morning to night",
+    "count": 5
+   },
+   {
+    "id": "routine",
+    "title": "Routine",
+    "count": 13
+   },
+   {
+    "id": "how-often",
+    "title": "How often and when",
+    "count": 15
+   }
+  ]
+ },
+ {
+  "lesson": 9,
+  "title": "Describing things",
+  "sections": [
+   {
+    "id": "i-adjectives",
+    "title": "い-adjectives",
+    "count": 24
+   },
+   {
+    "id": "na-adjectives",
+    "title": "な-adjectives",
+    "count": 12
+   },
+   {
+    "id": "colours",
+    "title": "Colours",
+    "count": 8
+   },
+   {
+    "id": "weather",
+    "title": "Weather and seasons",
+    "count": 16
+   },
+   {
+    "id": "degree",
+    "title": "How much",
+    "count": 8
+   }
+  ]
+ },
+ {
+  "lesson": 10,
+  "title": "Free time",
+  "sections": [
+   {
+    "id": "hobbies",
+    "title": "Things to do",
+    "count": 25
+   },
+   {
+    "id": "doing",
+    "title": "Doing them",
+    "count": 12
+   },
+   {
+    "id": "likes",
+    "title": "Likes and skills",
+    "count": 7
+   }
+  ]
+ },
+ {
+  "lesson": 11,
+  "title": "Travel and transport",
+  "sections": [
+   {
+    "id": "transport",
+    "title": "Transport",
+    "count": 16
+   },
+   {
+    "id": "trips",
+    "title": "Trips",
+    "count": 11
+   },
+   {
+    "id": "going",
+    "title": "Going places",
+    "count": 12
+   },
+   {
+    "id": "how",
+    "title": "How and why",
+    "count": 8
+   }
+  ]
+ },
+ {
+  "lesson": 12,
+  "title": "Home and health",
+  "sections": [
+   {
+    "id": "home",
+    "title": "Home",
+    "count": 13
+   },
+   {
+    "id": "housework",
+    "title": "Around the house",
+    "count": 14
+   },
+   {
+    "id": "body",
+    "title": "Body",
+    "count": 16
+   },
+   {
+    "id": "health",
+    "title": "Feeling ill",
+    "count": 14
+   }
+  ]
+ }
+]

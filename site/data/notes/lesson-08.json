@@ -1,0 +1,2000 @@
+{
+  "l08-001": {
+    "sentence": {
+      "ja": "{月曜日[げつようび]}に日本語[にほんご]のクラスがあります。",
+      "en": "I have Japanese class on Mondays.",
+      "breakdown": [
+        {
+          "text": "月曜日",
+          "en": "Monday(s)"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "日本語",
+          "en": "Japanese language"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "クラス",
+          "en": "class"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "あります",
+          "en": "there is (I have)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "gets + yōbi",
+      "story": "Day names end in yōbi, and getsu is the moon. **Monday** *gets* you every week: the moon is still up when the alarm goes off. Getsu-yōbi: Monday."
+    }
+  },
+  "l08-002": {
+    "sentence": {
+      "ja": "{火曜日[かようび]}に山田[やまだ]さんに会[あ]いました。",
+      "en": "I met Yamada-san on Tuesday.",
+      "breakdown": [
+        {
+          "text": "火曜日",
+          "en": "Tuesday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "に",
+          "en": "marks the person met"
+        },
+        {
+          "text": "会いました",
+          "en": "met",
+          "base": "会[あ]う",
+          "baseEn": "to meet"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "car + yōbi",
+      "story": "Ka is fire. Every **Tuesday** your old *car* coughs and bursts into flames in the driveway, and you toast marshmallows over it. Ka-yōbi: Tuesday."
+    }
+  },
+  "l08-003": {
+    "sentence": {
+      "ja": "{水曜日[すいようび]}は図書館[としょかん]で勉強[べんきょう]します。",
+      "en": "On Wednesdays I study at the library.",
+      "breakdown": [
+        {
+          "text": "水曜日",
+          "en": "Wednesday(s)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "図書館",
+          "en": "library"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "勉強します",
+          "en": "study",
+          "base": "勉強[べんきょう]する",
+          "baseEn": "to study"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sooey + yōbi",
+      "story": "Sui is water. On **Wednesday** you fill the trough and holler the old pig call, \"*Sooey!*\", and the pigs come splashing. Sui-yōbi: Wednesday."
+    }
+  },
+  "l08-004": {
+    "sentence": {
+      "ja": "{木曜日[もくようび]}は学校[がっこう]へ行[い]きません。",
+      "en": "I don't go to school on Thursdays.",
+      "breakdown": [
+        {
+          "text": "木曜日",
+          "en": "Thursday(s)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "学校",
+          "en": "school"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きません",
+          "en": "don't go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "(s)moke + yōbi",
+      "story": "Moku is wood. On **Thursday** you burn a pile of damp wood and thick *smoke* rolls over the fence; drop the s and you have mok-. Moku-yōbi: Thursday."
+    }
+  },
+  "l08-005": {
+    "sentence": {
+      "ja": "{金曜日[きんようび]}に友達[ともだち]とカフェへ行[い]きます。",
+      "en": "I'm going to a cafe with a friend on Friday.",
+      "breakdown": [
+        {
+          "text": "金曜日",
+          "en": "Friday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "友達",
+          "en": "friend"
+        },
+        {
+          "text": "と",
+          "en": "with"
+        },
+        {
+          "text": "カフェ",
+          "en": "cafe"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きます",
+          "en": "am going",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kin + yōbi",
+      "story": "Kin is gold. **Friday** is payday, and all your *kin* line up at the door for their share of the gold coins. Kin-yōbi: Friday."
+    }
+  },
+  "l08-006": {
+    "sentence": {
+      "ja": "{土曜日[どようび]}はたいてい十時[じゅうじ]に起[お]きます。",
+      "en": "On Saturdays I usually get up at ten.",
+      "breakdown": [
+        {
+          "text": "土曜日",
+          "en": "Saturday"
+        },
+        {
+          "text": "は",
+          "en": "topic marker (on Saturdays)"
+        },
+        {
+          "text": "たいてい",
+          "en": "usually"
+        },
+        {
+          "text": "十時",
+          "en": "ten o'clock"
+        },
+        {
+          "text": "に",
+          "en": "at (a time)"
+        },
+        {
+          "text": "起きます",
+          "en": "get up",
+          "base": "起[お]きる",
+          "baseEn": "to get up"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "do + yōbi",
+      "story": "Day names end in yōbi, \"day of the week\", and do is soil. On **Saturday** a *doe* digs in your garden, hooves black with soil. Do-yōbi: Saturday."
+    }
+  },
+  "l08-007": {
+    "sentence": {
+      "ja": "{日曜日[にちようび]}に山田[やまだ]さんのうちへ行[い]きます。",
+      "en": "I'm going to Yamada-san's place on Sunday.",
+      "breakdown": [
+        {
+          "text": "日曜日",
+          "en": "Sunday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "うち",
+          "en": "home, house"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きます",
+          "en": "am going",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nichi + yōbi",
+      "story": "Nichi is the sun, so nichi-yōbi is sun-day: **Sunday**, literally. Sunlight pours into a wall *niche* and warms it like a little oven. Nichi-yōbi."
+    }
+  },
+  "l08-008": {
+    "sentence": {
+      "ja": "{週末[しゅうまつ]}はよくカフェへ行[い]きます。",
+      "en": "I often go to cafes on weekends.",
+      "breakdown": [
+        {
+          "text": "週末",
+          "en": "weekend"
+        },
+        {
+          "text": "は",
+          "en": "topic marker (on weekends)"
+        },
+        {
+          "text": "よく",
+          "en": "often"
+        },
+        {
+          "text": "カフェ",
+          "en": "cafe"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きます",
+          "en": "go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shoe mats",
+      "story": "Every **weekend** you drag the *shoe mats* out to the balcony and beat them, thwack, thwack, a week of dust in the air. Shūmatsu: weekend."
+    }
+  },
+  "l08-009": {
+    "sentence": {
+      "ja": "{今日[きょう]}はどこへ行[い]きますか。",
+      "en": "Where are you going today?",
+      "breakdown": [
+        {
+          "text": "今日",
+          "en": "today"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "どこ",
+          "en": "where"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きます",
+          "en": "go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Kyoto",
+      "story": "In *Kyoto* a temple bell booms once and the calendar on the gate rips off its page: **today** has begun. Kyō is just the Kyo of Kyoto: today."
+    }
+  },
+  "l08-010": {
+    "sentence": {
+      "ja": "{明日[あした]}は何[なに]をしますか。",
+      "en": "What are you doing tomorrow?",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "何",
+          "en": "what"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "します",
+          "en": "do",
+          "base": "する",
+          "baseEn": "to do"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a cheetah",
+      "story": "*A cheetah* sprints so fast it reaches **tomorrow** before you do, and is waiting at your bedroom door when you wake, yawning. Ashita: tomorrow."
+    }
+  },
+  "l08-011": {
+    "sentence": {
+      "ja": "{昨日[きのう]}は何[なに]をしましたか。",
+      "en": "What did you do yesterday?",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "何",
+          "en": "what"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "しました",
+          "en": "did",
+          "base": "する",
+          "baseEn": "to do"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "key, no",
+      "story": "Patting every pocket, you remember **yesterday**: you locked the door, and your *key*... *no!* It's still on the kitchen table. Kinō: yesterday."
+    }
+  },
+  "l08-012": {
+    "sentence": {
+      "ja": "{あさって}は友達[ともだち]の誕生日[たんじょうび]です。",
+      "en": "The day after tomorrow is my friend's birthday.",
+      "breakdown": [
+        {
+          "text": "あさって",
+          "en": "the day after tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "友達",
+          "en": "friend"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "誕生日",
+          "en": "birthday"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a satay",
+      "story": "**The day after tomorrow** you're grilling *a satay* skewer on the balcony, peanut sauce spitting on the coals. Ashita, then asatte: one day further."
+    }
+  },
+  "l08-013": {
+    "sentence": {
+      "ja": "{おととい}、本屋[ほんや]へ行[い]きました。",
+      "en": "I went to the bookstore the day before yesterday.",
+      "breakdown": [
+        {
+          "text": "おととい",
+          "en": "the day before yesterday"
+        },
+        {
+          "text": "本屋",
+          "en": "bookstore"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きました",
+          "en": "went",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, toe, toy",
+      "story": "**The day before yesterday** you stepped barefoot on a *toy*: \"*Oh! Toe!*\" It still throbs. Ototoi ends in i, a day; ototoshi ends in toshi, a year."
+    }
+  },
+  "l08-014": {
+    "sentence": {
+      "ja": "{毎日[まいにち]}日本語[にほんご]を勉強[べんきょう]します。",
+      "en": "I study Japanese every day.",
+      "breakdown": [
+        {
+          "text": "毎日",
+          "en": "every day"
+        },
+        {
+          "text": "日本語",
+          "en": "Japanese language"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "勉強します",
+          "en": "study",
+          "base": "勉強[べんきょう]する",
+          "baseEn": "to study"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mai (every) + nichi (day)",
+      "story": "Mai means every and nichi means day: **every day** you set a fresh flower in *my niche* in the hallway wall. Mai-nichi."
+    }
+  },
+  "l08-015": {
+    "sentence": {
+      "ja": "{今週[こんしゅう]}の土曜日[どようび]は何[なに]をしますか。",
+      "en": "What are you doing this Saturday?",
+      "breakdown": [
+        {
+          "text": "今週",
+          "en": "this week"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "土曜日",
+          "en": "Saturday"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "何",
+          "en": "what"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "します",
+          "en": "do, will do",
+          "base": "する",
+          "baseEn": "to do"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kon (this) + shū (week)",
+      "story": "Kon is \"this\", as in konban, tonight; shū is week: **this week**. On the shoe rack, konshū's pair is missing, because those *shoes* are on your feet. Kon-shū."
+    }
+  },
+  "l08-016": {
+    "sentence": {
+      "ja": "{来週[らいしゅう]}の金曜日[きんようび]に田中[たなか]さんが来[き]ます。",
+      "en": "Tanaka-san is coming next Friday.",
+      "breakdown": [
+        {
+          "text": "来週",
+          "en": "next week"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "金曜日",
+          "en": "Friday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "来ます",
+          "en": "is coming",
+          "base": "来[く]る",
+          "baseEn": "to come"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "rai (coming) + shū (week)",
+      "story": "Rai means coming, the one ahead; with shū, week, it's **next week**. You bake a loaf of *rye* bread for next week's picnic. Rai-shū."
+    }
+  },
+  "l08-017": {
+    "sentence": {
+      "ja": "{先週[せんしゅう]}、京都[きょうと]へ行[い]きました。",
+      "en": "I went to Kyoto last week.",
+      "breakdown": [
+        {
+          "text": "先週",
+          "en": "last week"
+        },
+        {
+          "text": "京都",
+          "en": "Kyoto"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きました",
+          "en": "went",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cent + shoe",
+      "story": "**Last week** a *cent* got stuck in your *shoe*, and you limped on it for seven days before shaking it out. Sen-shū: last week."
+    }
+  },
+  "l08-018": {
+    "sentence": {
+      "ja": "{毎週[まいしゅう]}、母[はは]に電話[でんわ]します。",
+      "en": "I call my mother every week.",
+      "breakdown": [
+        {
+          "text": "毎週",
+          "en": "every week"
+        },
+        {
+          "text": "母",
+          "en": "(my) mother"
+        },
+        {
+          "text": "に",
+          "en": "to (a person)"
+        },
+        {
+          "text": "電話します",
+          "en": "call",
+          "base": "電話[でんわ]する",
+          "baseEn": "to make a phone call"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mai (every) + shū (week)",
+      "story": "Mai means every, as in mainichi. Shū is the week from shūmatsu and its *shoe* mats. So **every week** you drag those shoe mats outside and beat them again. Mai-shū: every week."
+    }
+  },
+  "l08-019": {
+    "sentence": {
+      "ja": "{今月[こんげつ]}は毎日[まいにち]公園[こうえん]へ行[い]きました。",
+      "en": "I've gone to the park every day this month.",
+      "breakdown": [
+        {
+          "text": "今月",
+          "en": "this month"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "毎日",
+          "en": "every day"
+        },
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きました",
+          "en": "went",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kon (this) + getsu (month)",
+      "story": "Kon, this, plus getsu, month: **this month**. Tonight's moon is a thin curl, like the rim of an ice-cream *cone*. Kon-getsu."
+    }
+  },
+  "l08-020": {
+    "sentence": {
+      "ja": "{来月[らいげつ]}、アメリカへ帰[かえ]ります。",
+      "en": "I'm going back to America next month.",
+      "breakdown": [
+        {
+          "text": "来月",
+          "en": "next month"
+        },
+        {
+          "text": "アメリカ",
+          "en": "America"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "帰ります",
+          "en": "go back (home)",
+          "base": "帰[かえ]る",
+          "baseEn": "to go back, to return"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "rai (coming) + getsu (month)",
+      "story": "Rai, coming, plus getsu, month: **next month**. Next month's moon will rise over a field of ripe *rye*. Rai-getsu."
+    }
+  },
+  "l08-021": {
+    "sentence": {
+      "ja": "{先月[せんげつ]}はアルバイトがたくさんありました。",
+      "en": "I had a lot of shifts at work last month.",
+      "breakdown": [
+        {
+          "text": "先月",
+          "en": "last month"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "アルバイト",
+          "en": "part-time job (shifts)"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "たくさん",
+          "en": "lots, many"
+        },
+        {
+          "text": "ありました",
+          "en": "there were (I had)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sen (previous) + getsu (month)",
+      "story": "Sen, previous, as in senshū; getsu, month, the moon of getsu-yōbi: **last month**. Last month's moon hung low and round like a copper *cent*. Sen-getsu."
+    }
+  },
+  "l08-022": {
+    "sentence": {
+      "ja": "{今年[ことし]}は日本[にほん]にいます。",
+      "en": "I'm in Japan this year.",
+      "breakdown": [
+        {
+          "text": "今年",
+          "en": "this year"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "います",
+          "en": "am (here)",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "koto (the harp) + shi",
+      "story": "**This year** your resolution is the *koto*, the long Japanese zither, and by December your fingertips are hard as nails. Koto-shi: this year, a reading of 今年 all its own."
+    }
+  },
+  "l08-023": {
+    "sentence": {
+      "ja": "{来年[らいねん]}、日本[にほん]の大学[だいがく]へ行[い]きます。",
+      "en": "Next year I'm going to a Japanese university.",
+      "breakdown": [
+        {
+          "text": "来年",
+          "en": "next year"
+        },
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "大学",
+          "en": "university"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きます",
+          "en": "am going",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "rai (coming) + nen (year)",
+      "story": "Rai, coming, plus nen, year: **next year**. You sow *rye* this autumn and harvest it next year, golden and rustling. Rai-nen."
+    }
+  },
+  "l08-024": {
+    "sentence": {
+      "ja": "{去年[きょねん]}は大学[だいがく]の一年生[いちねんせい]でした。",
+      "en": "Last year I was a first-year at university.",
+      "breakdown": [
+        {
+          "text": "去年",
+          "en": "last year"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "大学",
+          "en": "university"
+        },
+        {
+          "text": "の",
+          "en": "'s / of (at)"
+        },
+        {
+          "text": "一年生",
+          "en": "first-year student"
+        },
+        {
+          "text": "でした",
+          "en": "was",
+          "base": "です",
+          "baseEn": "is, am, are"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kyo + nen (year)",
+      "story": "Nen is year, as in ichi-nensei; kyo means gone. **Last year** is the gone year: you drop its calendar into a *Kyoto* canal and watch it float off. Kyo-nen, with a short kyo."
+    }
+  },
+  "l08-025": {
+    "sentence": {
+      "ja": "さくらさんの{誕生日[たんじょうび]}はいつですか。",
+      "en": "When is Sakura-san's birthday?",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "誕生日",
+          "en": "birthday"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "いつ",
+          "en": "when"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tanjō (tan Joe) + bi (day)",
+      "story": "On his **birthday**, *tan Joe* lies on the beach until he is toasted brown, the candles on his cake melting beside him. Tanjō is birth, bi is the day of nichi-yōbi. Tanjō-bi: birthday."
+    }
+  },
+  "l08-026": {
+    "sentence": {
+      "ja": "明日[あした]は{休[やす]み}です。",
+      "en": "Tomorrow is a holiday.",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "休み",
+          "en": "holiday; day off"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yes, me",
+      "story": "The boss asks who wants a **holiday** and you leap onto your desk shouting \"*Yes, me!*\", papers flying everywhere. Yasumi: holiday, day off; also an absence."
+    }
+  },
+  "l08-027": {
+    "sentence": {
+      "ja": "{朝[あさ]}は何[なに]を食[た]べますか。",
+      "en": "What do you eat in the morning?",
+      "breakdown": [
+        {
+          "text": "朝",
+          "en": "morning"
+        },
+        {
+          "text": "は",
+          "en": "topic marker (in the mornings)"
+        },
+        {
+          "text": "何",
+          "en": "what"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a saw",
+      "story": "Every **morning** at sunrise *a saw* starts buzzing next door, and sawdust drifts through your window onto the pillow. Asa: morning."
+    }
+  },
+  "l08-028": {
+    "sentence": {
+      "ja": "{今朝[けさ]}は何[なに]も食[た]べませんでした。",
+      "en": "I didn't eat anything this morning.",
+      "breakdown": [
+        {
+          "text": "今朝",
+          "en": "this morning"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "何も",
+          "en": "(not) anything"
+        },
+        {
+          "text": "食べませんでした",
+          "en": "didn't eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "quesa(dilla)",
+      "story": "**This morning** starts with a breakfast *quesadilla* so hot the cheese strings from your mouth to the plate. Bite off only the front, quesa-: kesa, this morning."
+    }
+  },
+  "l08-029": {
+    "sentence": {
+      "ja": "{夜[よる]}はたいてい家[うち]で本[ほん]を読[よ]みます。",
+      "en": "At night I usually read at home.",
+      "breakdown": [
+        {
+          "text": "夜",
+          "en": "night"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "たいてい",
+          "en": "usually"
+        },
+        {
+          "text": "家",
+          "en": "home"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "本",
+          "en": "book"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "読みます",
+          "en": "read",
+          "base": "読[よ]む",
+          "baseEn": "to read"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yo, roo",
+      "story": "\"*Yo, roo!*\" you hiss into the dark, but the pet kangaroo keeps bouncing on your bed, springs twanging all **night** long. Yoru: night."
+    }
+  },
+  "l08-030": {
+    "sentence": {
+      "ja": "{今晩[こんばん]}電話[でんわ]します。",
+      "en": "I'll call you tonight.",
+      "breakdown": [
+        {
+          "text": "今晩",
+          "en": "tonight"
+        },
+        {
+          "text": "電話します",
+          "en": "will call",
+          "base": "電話[でんわ]する",
+          "baseEn": "to phone, to call"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kon + ban (from konbanwa)",
+      "story": "You already say *konbanwa*, \"good evening\", which is literally \"this evening is...\". Drop the wa and konban is this evening: **tonight**."
+    }
+  },
+  "l08-031": {
+    "sentence": {
+      "ja": "{毎晩[まいばん]}十一時[じゅういちじ]に寝[ね]ます。",
+      "en": "I go to bed at eleven every night.",
+      "breakdown": [
+        {
+          "text": "毎晩",
+          "en": "every night"
+        },
+        {
+          "text": "十一時",
+          "en": "eleven o'clock"
+        },
+        {
+          "text": "に",
+          "en": "at (a time)"
+        },
+        {
+          "text": "寝ます",
+          "en": "go to bed",
+          "base": "寝[ね]る",
+          "baseEn": "to sleep, to go to sleep"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mai (every) + ban (evening)",
+      "story": "Mai means every and ban means evening: **every night** you light *my bonfire* in the back yard, same crackle, same smoky sleeves. Mai-ban."
+    }
+  },
+  "l08-032": {
+    "sentence": {
+      "ja": "明日[あした]は五時[ごじ]に{起[お]きます}。",
+      "en": "I'm getting up at five tomorrow.",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "五時",
+          "en": "five o'clock"
+        },
+        {
+          "text": "に",
+          "en": "at (a time)"
+        },
+        {
+          "text": "起きます",
+          "en": "get up",
+          "base": "起[お]きる",
+          "baseEn": "to get up"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "okey(-dokey)",
+      "story": "The alarm blares, your feet hit the cold floor, and you **get up**: \"*Okey*-dokey, here we go.\" Oki-ru: to get up."
+    }
+  },
+  "l08-033": {
+    "sentence": {
+      "ja": "ケンさんは十二時[じゅうにじ]ごろ{寝[ね]ます}。",
+      "en": "Ken goes to bed around midnight.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "十二時",
+          "en": "twelve o'clock"
+        },
+        {
+          "text": "ごろ",
+          "en": "at about"
+        },
+        {
+          "text": "寝ます",
+          "en": "goes to bed",
+          "base": "寝[ね]る",
+          "baseEn": "to sleep, to go to sleep"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "neigh",
+      "story": "A horse **sleeps** standing up in its stall, one last drowsy *neigh* fading into a snore. Ne-ru: to sleep."
+    }
+  },
+  "l08-034": {
+    "sentence": {
+      "ja": "九時[くじ]に仕事[しごと]を{始[はじ]めます}。",
+      "en": "I start work at nine.",
+      "breakdown": [
+        {
+          "text": "九時",
+          "en": "nine o'clock"
+        },
+        {
+          "text": "に",
+          "en": "at (a time)"
+        },
+        {
+          "text": "仕事",
+          "en": "work"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "始めます",
+          "en": "start",
+          "base": "始[はじ]める",
+          "baseEn": "to begin"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hajime (from hajimemashite)",
+      "story": "Every friendship **begins** with *hajime*mashite and a bow on day one. Strip off -mashite, add -ru, and you have the verb for starting anything. Hajime-ru: to begin."
+    }
+  },
+  "l08-035": {
+    "sentence": {
+      "ja": "昨日[きのう]は友達[ともだち]と{出[で]かけました}。",
+      "en": "I went out with friends yesterday.",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "友達",
+          "en": "friends"
+        },
+        {
+          "text": "と",
+          "en": "with"
+        },
+        {
+          "text": "出かけました",
+          "en": "went out",
+          "base": "出[で]かける",
+          "baseEn": "to go out"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "deck a ca(ke)",
+      "story": "You *deck a cake* with sprinkles, box it, and **go out** the door to the party with frosting smeared on your sleeve. Dekake-ru: to go out."
+    }
+  },
+  "l08-036": {
+    "sentence": {
+      "ja": "映画[えいが]が{始[はじ]まりました}よ。",
+      "en": "The movie has started!",
+      "breakdown": [
+        {
+          "text": "映画",
+          "en": "movie"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "始まりました",
+          "en": "has started",
+          "base": "始[はじ]まる",
+          "baseEn": "(something) begins"
+        },
+        {
+          "text": "よ",
+          "en": "I'm telling you"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ha, Jim, a roo",
+      "story": "*Ha, Jim, a roo!* A kangaroo bounds onto the stage, the drums thump, and the show **begins**. Hajima-ru: (something) begins; hajime-ru is you starting it."
+    }
+  },
+  "l08-037": {
+    "sentence": {
+      "ja": "試験[しけん]が{終[お]わりました}。",
+      "en": "The exam is over.",
+      "breakdown": [
+        {
+          "text": "試験",
+          "en": "exam"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "終わりました",
+          "en": "ended, is over",
+          "base": "終[お]わる",
+          "baseEn": "(something) ends"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, wah-wah",
+      "story": "The show flops and **ends** to a sad trombone, *oh, wah-wah*, the last note sliding down as the curtain thuds shut. Owa-ru: (something) ends."
+    }
+  },
+  "l08-038": {
+    "sentence": {
+      "ja": "昨日[きのう]、学校[がっこう]を{休[やす]みました}。",
+      "en": "I was absent from school yesterday.",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "学校",
+          "en": "school"
+        },
+        {
+          "text": "を",
+          "en": "marks what you miss"
+        },
+        {
+          "text": "休みました",
+          "en": "was absent from",
+          "base": "休[やす]む",
+          "baseEn": "to be absent, to rest"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ya, sumo",
+      "story": "A *sumo* wrestler is asleep across the school doorway. \"*Ya*, sumo...\" you sigh, and you are **absent** from class all day, napping on his warm belly. Yasum-u: to be absent; also to rest."
+    }
+  },
+  "l08-039": {
+    "sentence": {
+      "ja": "時間[じかん]がありませんから、{急[いそ]いで}ください。",
+      "en": "There's no time, so please hurry.",
+      "breakdown": [
+        {
+          "text": "時間",
+          "en": "time"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "ありません",
+          "en": "there isn't",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        },
+        {
+          "text": "から",
+          "en": "so (gives the reason)"
+        },
+        {
+          "text": "急いでください",
+          "en": "please hurry",
+          "base": "急[いそ]ぐ",
+          "baseEn": "to hurry"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eee, soggy",
+      "story": "\"*Eee, soggy!*\" you squeal as the rain soaks through your socks, and you **hurry** home, shoes squelching at every step. Isog-u: to hurry."
+    }
+  },
+  "l08-040": {
+    "sentence": {
+      "ja": "学校[がっこう]でテニスを{します}。",
+      "en": "I play tennis at school.",
+      "breakdown": [
+        {
+          "text": "学校",
+          "en": "school"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "テニス",
+          "en": "tennis"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "します",
+          "en": "do (play)",
+          "base": "する",
+          "baseEn": "to do"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sue",
+      "story": "A lawyer slaps papers on your desk: \"**Do** it, or we *sue*.\" Your pen scratches as you sign. Su-ru: to do."
+    }
+  },
+  "l08-041": {
+    "sentence": {
+      "ja": "今晩[こんばん]、お母[かあ]さんに{電話[でんわ]します}。",
+      "en": "I'm going to call my mom tonight.",
+      "breakdown": [
+        {
+          "text": "今晩",
+          "en": "tonight"
+        },
+        {
+          "text": "お母さん",
+          "en": "mom, mother"
+        },
+        {
+          "text": "に",
+          "en": "to (the person called)"
+        },
+        {
+          "text": "電話します",
+          "en": "will call",
+          "base": "電話[でんわ]する",
+          "baseEn": "to call"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "denwa (telephone) + suru (do)",
+      "story": "Denwa is telephone, suru is to do: \"doing the phone\" is **to call**. The phone in your *den* wails *wah, wah* like a baby until you call back. Denwa suru: to call."
+    }
+  },
+  "l08-042": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]{シャワーを浴[あ]びます}。",
+      "en": "I take a shower every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "シャワー",
+          "en": "shower"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "浴びます",
+          "en": "take (a shower)",
+          "base": "浴[あ]びる",
+          "baseEn": "to bathe in, to take (a shower)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shawā (shower) + abiru (a bee)",
+      "story": "Shawā is shower; abiru means to have something pour over you. *A bee* hovers under the spray beside you, soaked and buzzing, as you **take a shower**. Shawā o abi-ru."
+    }
+  },
+  "l08-043": {
+    "sentence": {
+      "ja": "毎晩[まいばん]、{お風呂[ふろ]に入[はい]ります}。",
+      "en": "I take a bath every night.",
+      "breakdown": [
+        {
+          "text": "毎晩",
+          "en": "every night"
+        },
+        {
+          "text": "お風呂に入ります",
+          "en": "take a bath",
+          "base": "お風呂[ふろ]に入[はい]る",
+          "baseEn": "to take a bath"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ofuro (bath) + ni hairu (enter)",
+      "story": "Japanese doesn't take a bath, it walks into one: ofuro, the *furrow*-fingers bath, ni hairu, enter. You step over the tub's edge like a doorway and sink to your chin. Ofuro ni hairu: **to take a bath**."
+    }
+  },
+  "l08-044": {
+    "sentence": {
+      "ja": "すみません、少[すこ]し{遅[おそ]くなります}。",
+      "en": "Sorry, I'll be a little late.",
+      "breakdown": [
+        {
+          "text": "すみません",
+          "en": "sorry"
+        },
+        {
+          "text": "少し",
+          "en": "a little"
+        },
+        {
+          "text": "遅くなります",
+          "en": "will be late",
+          "base": "遅[おそ]くなる",
+          "baseEn": "to be late"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, soak (osoku) + naru (become)",
+      "story": "\"*Oh, soak* five more minutes,\" you sigh in the warm tub, while the clock keeps ticking and you **become late**. Osoku is late, naru is become. Osoku naru: to be late."
+    }
+  },
+  "l08-045": {
+    "sentence": {
+      "ja": "朝[あさ]は{いつも}コーヒーを飲[の]みます。",
+      "en": "I always drink coffee in the morning.",
+      "breakdown": [
+        {
+          "text": "朝",
+          "en": "morning"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "いつも",
+          "en": "always"
+        },
+        {
+          "text": "コーヒー",
+          "en": "coffee"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飲みます",
+          "en": "drink",
+          "base": "飲[の]む",
+          "baseEn": "to drink"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eats more",
+      "story": "Your cat **always** *eats more*: full bowl, empty bowl, then a hard stare and a paw rattling the dish across the floor. Itsu is when; itsumo is every when. Itsumo: always."
+    }
+  },
+  "l08-046": {
+    "sentence": {
+      "ja": "晩[ばん]ご飯[はん]は{たいてい}うちで食[た]べます。",
+      "en": "I usually eat dinner at home.",
+      "breakdown": [
+        {
+          "text": "晩ご飯",
+          "en": "dinner"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "たいてい",
+          "en": "usually"
+        },
+        {
+          "text": "うち",
+          "en": "home"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Thai tea",
+      "story": "You **usually** order *Thai tea*: the same orange glass, the same rattle of ice, every single time. Taitei: usually."
+    }
+  },
+  "l08-047": {
+    "sentence": {
+      "ja": "{よく}このカフェへ来[き]ます。",
+      "en": "I come to this cafe a lot.",
+      "breakdown": [
+        {
+          "text": "よく",
+          "en": "often, a lot"
+        },
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "カフェ",
+          "en": "cafe"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "来ます",
+          "en": "come",
+          "base": "来[く]る",
+          "baseEn": "to come"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yolk",
+      "story": "You crack an egg and **often** find a double *yolk*: two yellow eyes staring up at you from the pan, again. Yoku: often."
+    }
+  },
+  "l08-048": {
+    "sentence": {
+      "ja": "{時々[ときどき]}ハンバーガーを食[た]べます。",
+      "en": "I sometimes eat hamburgers.",
+      "breakdown": [
+        {
+          "text": "時々",
+          "en": "sometimes"
+        },
+        {
+          "text": "ハンバーガー",
+          "en": "hamburgers"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "toe key, door key",
+      "story": "You keep a spare *toe key* in your sock, because **sometimes** the *door key* goes missing; it sits cold against your foot. Toki-doki: sometimes."
+    }
+  },
+  "l08-049": {
+    "sentence": {
+      "ja": "魚[さかな]は{あまり}食[た]べません。",
+      "en": "I don't eat much fish.",
+      "breakdown": [
+        {
+          "text": "魚",
+          "en": "fish"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "あまり",
+          "en": "not much (with a negative)"
+        },
+        {
+          "text": "食べません",
+          "en": "don't eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a marina",
+      "story": "Do you sail from *a marina*? **Not much**: last time a gull stole your sandwich and you sat on wet rope all afternoon. Amari with a negative: not much."
+    }
+  },
+  "l08-050": {
+    "sentence": {
+      "ja": "お酒[さけ]は{全然[ぜんぜん]}飲[の]みません。",
+      "en": "I don't drink alcohol at all.",
+      "breakdown": [
+        {
+          "text": "お酒",
+          "en": "alcohol"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "全然",
+          "en": "not at all (with a negative)"
+        },
+        {
+          "text": "飲みません",
+          "en": "don't drink",
+          "base": "飲[の]む",
+          "baseEn": "to drink"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Zen, Zen",
+      "story": "Two *Zen* monks sit perfectly still on either side of you while you fidget and itch: you are **not at all** calm. Zenzen with a negative: not at all."
+    }
+  },
+  "l08-051": {
+    "sentence": {
+      "ja": "{もう}晩[ばん]ご飯[はん]を食[た]べました。",
+      "en": "I've already had dinner.",
+      "breakdown": [
+        {
+          "text": "もう",
+          "en": "already"
+        },
+        {
+          "text": "晩ご飯",
+          "en": "dinner"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べました",
+          "en": "have eaten",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mow",
+      "story": "You drag the mower out to *mow* the lawn, but it is **already** cut, neat green stripes and the smell of fresh grass. Mō: already."
+    }
+  },
+  "l08-052": {
+    "sentence": {
+      "ja": "十月[じゅうがつ]ですが、{まだ}寒[さむ]くないです。",
+      "en": "It's October, but it isn't cold yet.",
+      "breakdown": [
+        {
+          "text": "十月",
+          "en": "October"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "が",
+          "en": "but"
+        },
+        {
+          "text": "まだ",
+          "en": "(not) yet"
+        },
+        {
+          "text": "寒くないです",
+          "en": "isn't cold",
+          "base": "寒[さむ]い",
+          "baseEn": "cold"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Ma! Da!",
+      "story": "From the back seat you wail \"*Ma! Da!* Are we there?\" and the answer is always **not yet**, then another hour of humming tyres. Mada + negative: not yet."
+    }
+  },
+  "l08-053": {
+    "sentence": {
+      "ja": "{すぐ}電話[でんわ]してください。",
+      "en": "Please call right away.",
+      "breakdown": [
+        {
+          "text": "すぐ",
+          "en": "right away"
+        },
+        {
+          "text": "電話してください",
+          "en": "please call",
+          "base": "電話[でんわ]する",
+          "baseEn": "to call"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Sue, go",
+      "story": "The race starter drops the flag: \"*Sue, go!*\" Your friend Sue bolts **right away**, gravel spraying from her heels before anyone else has moved. Sugu: right away."
+    }
+  },
+  "l08-054": {
+    "sentence": {
+      "ja": "今[いま]忙[いそが]しいですから、{後[あと]で}電話[でんわ]します。",
+      "en": "I'm busy right now, so I'll call you later.",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "忙しいです",
+          "en": "I'm busy",
+          "base": "忙[いそが]しい",
+          "baseEn": "busy"
+        },
+        {
+          "text": "から",
+          "en": "so (gives the reason)"
+        },
+        {
+          "text": "後で",
+          "en": "later on"
+        },
+        {
+          "text": "電話します",
+          "en": "will call",
+          "base": "電話[でんわ]する",
+          "baseEn": "to call"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a toad, eh",
+      "story": "\"*A toad, eh?* I'll move it **later**,\" you mumble, and the toad on your pillow croaks all evening, cold and damp against your cheek. Ato de: later on."
+    }
+  },
+  "l08-055": {
+    "sentence": {
+      "ja": "「朝[あさ]、公園[こうえん]へ行[い]きました。」「{それから}？」",
+      "en": "\"I went to the park this morning.\" \"And then?\"",
+      "breakdown": [
+        {
+          "text": "朝",
+          "en": "this morning"
+        },
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きました",
+          "en": "went",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        },
+        {
+          "text": "それから",
+          "en": "and then"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sore (that) + kara (from)",
+      "story": "Sore is \"that\" and kara is \"from\": from that, **and then**. Your road trip goes breakfast, sorekara the *car*, sorekara the beach, sorekara ice cream. Sore-kara."
+    }
+  },
+  "l08-056": {
+    "sentence": {
+      "ja": "さくらさん、{早[はや]い}ですね。",
+      "en": "Sakura, you're early!",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "早い",
+          "en": "early"
+        },
+        {
+          "text": "です",
+          "en": "are"
+        },
+        {
+          "text": "ね",
+          "en": "(shared surprise) huh"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hi-yah",
+      "story": "At four a.m. a rooster karate-chops your alarm clock with a \"*Hi-yah!*\": far too **early**. Haya-i: early."
+    }
+  },
+  "l08-057": {
+    "sentence": {
+      "ja": "このパソコンはとても{遅[おそ]い}です。",
+      "en": "This computer is really slow.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "パソコン",
+          "en": "computer"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "really, very"
+        },
+        {
+          "text": "遅い",
+          "en": "slow"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh so",
+      "story": "The last bus crawls up the hill, *oh so* **slow**, and you let out a long \"eee\" at your watch: late again. Oso-i: slow, late."
+    }
+  },
+  "l08-058": {
+    "say": "から",
+    "sentence": {
+      "ja": "仕事[しごと]は九時[くじ]{から}です。",
+      "en": "Work starts at nine.",
+      "breakdown": [
+        {
+          "text": "仕事",
+          "en": "work"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "九時",
+          "en": "nine o'clock"
+        },
+        {
+          "text": "から",
+          "en": "from"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "car-ah",
+      "story": "A flag drops and your *car* roars away **from** the starting line, tires squealing, smoke everywhere. Kara: from. After a sentence, kara means because."
+    }
+  },
+  "l08-059": {
+    "say": "まで",
+    "sentence": {
+      "ja": "仕事[しごと]は五時[ごじ]{まで}です。",
+      "en": "Work goes until five.",
+      "breakdown": [
+        {
+          "text": "仕事",
+          "en": "work"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "五時",
+          "en": "five o'clock"
+        },
+        {
+          "text": "まで",
+          "en": "until"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mud, eh",
+      "story": "You slog all the way **to** the finish line through knee-deep *mud, eh*, every step a sucking squelch. Made: to, until. Kara and made together: from and to."
+    }
+  }
+}

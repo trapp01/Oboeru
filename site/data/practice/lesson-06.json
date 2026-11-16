@@ -1,0 +1,499 @@
+{
+  "lesson": 6,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Say what the person in the cue eats, drinks or makes, with the place when the cue gives one.",
+      "kind": "typed",
+      "example": { "cue": "Ken · eat · bread · home", "answer": "ケンさんはうちでパンを食[た]べます。" },
+      "items": [
+        {
+          "id": "l06-p001",
+          "cue": "Sakura · drink · green tea",
+          "answers": [
+            "さくらさんはお茶[ちゃ]を飲[の]みます。"
+          ],
+          "en": "Sakura drinks green tea.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "お茶", "en": "green tea" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "飲みます", "en": "drinks", "base": "飲[の]む", "baseEn": "to drink" }
+          ]
+        },
+        {
+          "id": "l06-p002",
+          "cue": "Tanaka · eat · udon · the company cafeteria",
+          "answers": [
+            "田中[たなか]さんは会社[かいしゃ]の食堂[しょくどう]でうどんを食[た]べます。"
+          ],
+          "en": "Tanaka-san eats udon in the company cafeteria.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "会社", "en": "company" },
+            { "text": "の", "en": "'s" },
+            { "text": "食堂", "en": "cafeteria" },
+            { "text": "で", "en": "in (where it happens)" },
+            { "text": "うどん", "en": "udon noodles" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "食べます", "en": "eats", "base": "食[た]べる", "baseEn": "to eat" }
+          ]
+        },
+        {
+          "id": "l06-p003",
+          "cue": "Yamada-sensei · drink · coffee · university",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は大学[だいがく]でコーヒーを飲[の]みます。"
+          ],
+          "en": "Yamada-sensei drinks coffee at the university.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "大学", "en": "university" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "コーヒー", "en": "coffee" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "飲みます", "en": "drinks", "base": "飲[の]む", "baseEn": "to drink" }
+          ]
+        },
+        {
+          "id": "l06-p004",
+          "cue": "Ken · not drink · beer",
+          "answers": [
+            "ケンさんはビールを飲[の]みません。"
+          ],
+          "en": "Ken doesn't drink beer.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "ビール", "en": "beer" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "飲みません", "en": "doesn't drink", "base": "飲[の]む", "baseEn": "to drink" }
+          ]
+        },
+        {
+          "id": "l06-p005",
+          "cue": "Yamada-sensei · not eat · meat",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は肉[にく]を食[た]べません。"
+          ],
+          "en": "Yamada-sensei doesn't eat meat.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "肉", "en": "meat" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "食べません", "en": "doesn't eat", "base": "食[た]べる", "baseEn": "to eat" }
+          ]
+        },
+        {
+          "id": "l06-p006",
+          "cue": "Tanaka · make · boxed lunch",
+          "answers": [
+            "田中[たなか]さんはお弁当[べんとう]を作[つく]ります。"
+          ],
+          "en": "Tanaka-san makes a boxed lunch.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "お弁当", "en": "boxed lunch" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "作ります", "en": "makes", "base": "作[つく]る", "baseEn": "to make" }
+          ]
+        },
+        {
+          "id": "l06-p007",
+          "cue": "Ken · make · miso soup",
+          "answers": [
+            "ケンさんはみそ汁[しる]を作[つく]ります。"
+          ],
+          "en": "Ken makes miso soup.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "みそ汁", "en": "miso soup" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "作ります", "en": "makes", "base": "作[つく]る", "baseEn": "to make" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Say how often Sakura eats, drinks or makes the thing, with よく, 時々, あまり or 全然.",
+      "kind": "typed",
+      "example": { "cue": "often · eat · rice balls", "answer": "おにぎりをよく食[た]べます。" },
+      "items": [
+        {
+          "id": "l06-p008",
+          "cue": "often · eat · fish",
+          "answers": [
+            "(さくらさんは)魚[さかな]をよく食[た]べます。",
+            "(さくらさんは)よく魚[さかな]を食[た]べます。"
+          ],
+          "en": "Sakura often eats fish.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "魚", "en": "fish" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "よく", "en": "often" },
+            { "text": "食べます", "en": "eats", "base": "食[た]べる", "baseEn": "to eat" }
+          ]
+        },
+        {
+          "id": "l06-p009",
+          "cue": "sometimes · drink · juice",
+          "answers": [
+            "(さくらさんは)ジュースを時々[ときどき]飲[の]みます。",
+            "(さくらさんは)時々[ときどき]ジュースを飲[の]みます。"
+          ],
+          "en": "Sakura sometimes drinks juice.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "ジュース", "en": "juice" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "時々", "en": "sometimes" },
+            { "text": "飲みます", "en": "drinks", "base": "飲[の]む", "baseEn": "to drink" }
+          ]
+        },
+        {
+          "id": "l06-p010",
+          "cue": "not much · eat · meat",
+          "answers": [
+            "(さくらさんは)肉[にく]をあまり食[た]べません。",
+            "(さくらさんは)あまり肉[にく]を食[た]べません。",
+            "(さくらさんは)肉[にく]はあまり食[た]べません。"
+          ],
+          "en": "Sakura doesn't eat much meat.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "肉", "en": "meat" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "あまり", "en": "not much (with a negative)" },
+            { "text": "食べません", "en": "doesn't eat", "base": "食[た]べる", "baseEn": "to eat" }
+          ]
+        },
+        {
+          "id": "l06-p011",
+          "cue": "not at all · drink · alcohol",
+          "answers": [
+            "(さくらさんは)お酒[さけ]を全然[ぜんぜん]飲[の]みません。",
+            "(さくらさんは)全然[ぜんぜん]お酒[さけ]を飲[の]みません。",
+            "(さくらさんは)お酒[さけ]は全然[ぜんぜん]飲[の]みません。"
+          ],
+          "en": "Sakura doesn't drink alcohol at all.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "お酒", "en": "alcohol" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "全然", "en": "not at all (with a negative)" },
+            { "text": "飲みません", "en": "doesn't drink", "base": "飲[の]む", "baseEn": "to drink" }
+          ]
+        },
+        {
+          "id": "l06-p012",
+          "cue": "often · make · curry and rice",
+          "answers": [
+            "(さくらさんは)カレーライスをよく作[つく]ります。",
+            "(さくらさんは)よくカレーライスを作[つく]ります。"
+          ],
+          "en": "Sakura often makes curry and rice.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "カレーライス", "en": "curry and rice" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "よく", "en": "often" },
+            { "text": "作ります", "en": "makes", "base": "作[つく]る", "baseEn": "to make" }
+          ]
+        },
+        {
+          "id": "l06-p013",
+          "cue": "sometimes · eat · cake",
+          "answers": [
+            "(さくらさんは)ケーキを時々[ときどき]食[た]べます。",
+            "(さくらさんは)時々[ときどき]ケーキを食[た]べます。"
+          ],
+          "en": "Sakura sometimes eats cake.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "ケーキ", "en": "cake" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "時々", "en": "sometimes" },
+            { "text": "食べます", "en": "eats", "base": "食[た]べる", "baseEn": "to eat" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Invite a friend to do what the cue says, with 〜ませんか.",
+      "kind": "typed",
+      "example": { "cue": "drink some tea", "answer": "お茶[ちゃ]を飲[の]みませんか。" },
+      "items": [
+        {
+          "id": "l06-p014",
+          "cue": "eat lunch together",
+          "answers": [
+            "一緒[いっしょ]に昼[ひる]ご飯[はん]を食[た]べませんか。"
+          ],
+          "en": "Would you like to have lunch together?",
+          "breakdown": [
+            { "text": "一緒に", "en": "together" },
+            { "text": "昼ご飯", "en": "lunch" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "食べません", "en": "won't (we) eat", "base": "食[た]べる", "baseEn": "to eat" },
+            { "text": "か", "en": "question marker (here: an invitation)" }
+          ]
+        },
+        {
+          "id": "l06-p015",
+          "cue": "drink some coffee",
+          "answers": [
+            "コーヒーを飲[の]みませんか。"
+          ],
+          "en": "Would you like some coffee?",
+          "breakdown": [
+            { "text": "コーヒー", "en": "coffee" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "飲みません", "en": "won't (you) drink", "base": "飲[の]む", "baseEn": "to drink" },
+            { "text": "か", "en": "question marker (here: an invitation)" }
+          ]
+        },
+        {
+          "id": "l06-p016",
+          "cue": "eat sushi together",
+          "answers": [
+            "一緒[いっしょ]にすしを食[た]べませんか。"
+          ],
+          "en": "Shall we have sushi together?",
+          "breakdown": [
+            { "text": "一緒に", "en": "together" },
+            { "text": "すし", "en": "sushi" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "食べません", "en": "won't (we) eat", "base": "食[た]べる", "baseEn": "to eat" },
+            { "text": "か", "en": "question marker (here: an invitation)" }
+          ]
+        },
+        {
+          "id": "l06-p017",
+          "cue": "make a cake together",
+          "answers": [
+            "一緒[いっしょ]にケーキを作[つく]りませんか。"
+          ],
+          "en": "Shall we make a cake together?",
+          "breakdown": [
+            { "text": "一緒に", "en": "together" },
+            { "text": "ケーキ", "en": "cake" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "作りません", "en": "won't (we) make", "base": "作[つく]る", "baseEn": "to make" },
+            { "text": "か", "en": "question marker (here: an invitation)" }
+          ]
+        },
+        {
+          "id": "l06-p018",
+          "cue": "tonight · eat ramen together",
+          "answers": [
+            "今晩[こんばん]一緒[いっしょ]にラーメンを食[た]べませんか。"
+          ],
+          "en": "Shall we have ramen together tonight?",
+          "breakdown": [
+            { "text": "今晩", "en": "tonight" },
+            { "text": "一緒に", "en": "together" },
+            { "text": "ラーメン", "en": "ramen" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "食べません", "en": "won't (we) eat", "base": "食[た]べる", "baseEn": "to eat" },
+            { "text": "か", "en": "question marker (here: an invitation)" }
+          ]
+        },
+        {
+          "id": "l06-p019",
+          "cue": "eat some sweets",
+          "answers": [
+            "お菓子[かし]を食[た]べませんか。"
+          ],
+          "en": "Would you like some sweets?",
+          "breakdown": [
+            { "text": "お菓子", "en": "sweets, snacks" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "食べません", "en": "won't (you) eat", "base": "食[た]べる", "baseEn": "to eat" },
+            { "text": "か", "en": "question marker (here: an invitation)" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Answer with はい or いいえ, the frequency word and the verb, from the fact given.",
+      "kind": "typed",
+      "example": { "cue": "田中[たなか]さんはパンを食[た]べますか。 · Tanaka-san eats bread often.", "answer": "はい、よく食[た]べます。" },
+      "items": [
+        {
+          "id": "l06-p020",
+          "context": "Ken eats fish sometimes.",
+          "cue": "ケンさんは魚[さかな]を食[た]べますか。",
+          "cueEn": "Does Ken eat fish?",
+          "answers": [
+            "はい、時々[ときどき]食[た]べます。"
+          ],
+          "en": "Yes, sometimes.",
+          "breakdown": [
+            { "text": "はい", "en": "yes" },
+            { "text": "時々", "en": "sometimes" },
+            { "text": "食べます", "en": "eats", "base": "食[た]べる", "baseEn": "to eat" }
+          ]
+        },
+        {
+          "id": "l06-p021",
+          "context": "Sakura drinks milk often.",
+          "cue": "さくらさんは牛乳[ぎゅうにゅう]を飲[の]みますか。",
+          "cueEn": "Does Sakura drink milk?",
+          "answers": [
+            "はい、よく飲[の]みます。"
+          ],
+          "en": "Yes, often.",
+          "breakdown": [
+            { "text": "はい", "en": "yes" },
+            { "text": "よく", "en": "often" },
+            { "text": "飲みます", "en": "drinks", "base": "飲[の]む", "baseEn": "to drink" }
+          ]
+        },
+        {
+          "id": "l06-p022",
+          "context": "Tanaka-san doesn't drink coffee much.",
+          "cue": "田中[たなか]さんはコーヒーを飲[の]みますか。",
+          "cueEn": "Does Tanaka-san drink coffee?",
+          "answers": [
+            "いいえ、あまり飲[の]みません。"
+          ],
+          "en": "No, not much.",
+          "breakdown": [
+            { "text": "いいえ", "en": "no" },
+            { "text": "あまり", "en": "not much (with a negative)" },
+            { "text": "飲みません", "en": "doesn't drink", "base": "飲[の]む", "baseEn": "to drink" }
+          ]
+        },
+        {
+          "id": "l06-p023",
+          "context": "Yamada-sensei never eats meat.",
+          "cue": "山田[やまだ]先生[せんせい]は肉[にく]を食[た]べますか。",
+          "cueEn": "Does Yamada-sensei eat meat?",
+          "answers": [
+            "いいえ、全然[ぜんぜん]食[た]べません。"
+          ],
+          "en": "No, not at all.",
+          "breakdown": [
+            { "text": "いいえ", "en": "no" },
+            { "text": "全然", "en": "not at all (with a negative)" },
+            { "text": "食べません", "en": "doesn't eat", "base": "食[た]べる", "baseEn": "to eat" }
+          ]
+        },
+        {
+          "id": "l06-p024",
+          "context": "Ken makes dinner often.",
+          "cue": "ケンさんは晩[ばん]ご飯[はん]を作[つく]りますか。",
+          "cueEn": "Does Ken make dinner?",
+          "answers": [
+            "はい、よく作[つく]ります。"
+          ],
+          "en": "Yes, often.",
+          "breakdown": [
+            { "text": "はい", "en": "yes" },
+            { "text": "よく", "en": "often" },
+            { "text": "作ります", "en": "makes", "base": "作[つく]る", "baseEn": "to make" }
+          ]
+        },
+        {
+          "id": "l06-p025",
+          "context": "Sakura doesn't make boxed lunches much.",
+          "cue": "さくらさんはお弁当[べんとう]を作[つく]りますか。",
+          "cueEn": "Does Sakura make boxed lunches?",
+          "answers": [
+            "いいえ、あまり作[つく]りません。"
+          ],
+          "en": "No, not much.",
+          "breakdown": [
+            { "text": "いいえ", "en": "no" },
+            { "text": "あまり", "en": "not much (with a negative)" },
+            { "text": "作りません", "en": "doesn't make", "base": "作[つく]る", "baseEn": "to make" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Answer the question about yourself.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l06-p026",
+          "cue": "朝[あさ]ご飯[はん]は何[なに]を食[た]べますか。",
+          "cueEn": "What do you eat for breakfast?",
+          "answers": [
+            "パンと卵[たまご]を食[た]べます。"
+          ],
+          "en": "I eat bread and eggs.",
+          "breakdown": [
+            { "text": "パン", "en": "bread" },
+            { "text": "と", "en": "and" },
+            { "text": "卵", "en": "eggs" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "食べます", "en": "eat", "base": "食[た]べる", "baseEn": "to eat" }
+          ]
+        },
+        {
+          "id": "l06-p027",
+          "cue": "お酒[さけ]をよく飲[の]みますか。",
+          "cueEn": "Do you drink alcohol often?",
+          "answers": [
+            "いいえ、あまり飲[の]みません。",
+            "はい、時々[ときどき]飲[の]みます。"
+          ],
+          "en": "No, not much.",
+          "breakdown": [
+            { "text": "いいえ", "en": "no" },
+            { "text": "あまり", "en": "not much (with a negative)" },
+            { "text": "飲みません", "en": "don't drink", "base": "飲[の]む", "baseEn": "to drink" }
+          ]
+        },
+        {
+          "id": "l06-p028",
+          "cue": "何[なに]をよく作[つく]りますか。",
+          "cueEn": "What do you often make?",
+          "answers": [
+            "カレーライスをよく作[つく]ります。"
+          ],
+          "en": "I often make curry and rice.",
+          "breakdown": [
+            { "text": "カレーライス", "en": "curry and rice" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "よく", "en": "often" },
+            { "text": "作ります", "en": "make", "base": "作[つく]る", "baseEn": "to make" }
+          ]
+        },
+        {
+          "id": "l06-p029",
+          "cue": "invite a friend to eat or drink something",
+          "answers": [
+            "一緒[いっしょ]にピザを食[た]べませんか。"
+          ],
+          "en": "Shall we have pizza together?",
+          "breakdown": [
+            { "text": "一緒に", "en": "together" },
+            { "text": "ピザ", "en": "pizza" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "食べません", "en": "won't (we) eat", "base": "食[た]べる", "baseEn": "to eat" },
+            { "text": "か", "en": "question marker (here: an invitation)" }
+          ]
+        }
+      ]
+    }
+  ]
+}

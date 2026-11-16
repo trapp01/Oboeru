@@ -1,0 +1,980 @@
+{
+  "l01-001": {
+    "sentence": {
+      "ja": "さくらさん、{おはよう}。",
+      "en": "Morning, Sakura.",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "おはよう",
+          "en": "good morning"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Ohio",
+      "story": "Sunrise over an *Ohio* cornfield: the rooster on the fence crows \"O-hi-o!\" instead of cock-a-doodle-doo, and the whole farm yawns **good morning**. Ohayō: good morning, the casual one for friends and family."
+    }
+  },
+  "l01-002": {
+    "sentence": {
+      "ja": "先生[せんせい]、{おはようございます}。",
+      "en": "Good morning, professor.",
+      "breakdown": [
+        {
+          "text": "先生",
+          "en": "teacher, professor"
+        },
+        {
+          "text": "おはようございます",
+          "en": "good morning (polite)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Ohio + goes, sigh, moss",
+      "story": "Ohayō plus gozaimasu, a polite \"it is\". Your sleepy boss shuffles in with an *Ohio* mug, *goes* \"*sigh*\" and slumps onto the office *moss* while you bow: **good morning (polite)**. Ohayō gozaimasu: good morning."
+    }
+  },
+  "l01-003": {
+    "sentence": {
+      "ja": "田中[たなか]さん、{こんにちは}。",
+      "en": "Good afternoon, Ms. Tanaka.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Ms. Tanaka"
+        },
+        {
+          "text": "こんにちは",
+          "en": "good afternoon"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cone + niche + wah",
+      "story": "Midday sun: you wedge your dripping ice-cream *cone* into a stone *niche* in the wall, and a neighbour strolling past calls \"*Wah*, **good afternoon**!\" The last kana is written ha but said wa. Konnichiwa: good afternoon; also plain hello."
+    }
+  },
+  "l01-004": {
+    "sentence": {
+      "ja": "山田[やまだ]さん、{こんばんは}。",
+      "en": "Good evening, Mr. Yamada.",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr. Yamada"
+        },
+        {
+          "text": "こんばんは",
+          "en": "good evening"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cone + bun + wah",
+      "story": "After dark the ice-cream *cone* is gone, so you swap it for a warm *bun* from a night stall, and the baker calls \"*Wah*, **good evening**!\" Noon is cone-niche, night is cone-bun. Konbanwa: good evening."
+    }
+  },
+  "l01-005": {
+    "sentence": {
+      "ja": "みなさん、{さようなら}。",
+      "en": "Good-bye, everyone.",
+      "breakdown": [
+        {
+          "text": "みなさん",
+          "en": "everyone"
+        },
+        {
+          "text": "さようなら",
+          "en": "good-bye"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sigh, oh, Nora",
+      "story": "On the platform you *sigh*, \"*Oh*, *Nora*,\" and wave **good-bye** as her train pulls away, the whistle fading into the hills. It sounds final, so friends who meet tomorrow often use something lighter. Sayōnara: good-bye."
+    }
+  },
+  "l01-006": {
+    "sentence": {
+      "ja": "お父[とう]さん、{おやすみなさい}。",
+      "en": "Good night, Dad.",
+      "breakdown": [
+        {
+          "text": "お父さん",
+          "en": "dad, father"
+        },
+        {
+          "text": "おやすみなさい",
+          "en": "good night"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh ya, sue me",
+      "story": "Yasumi means rest and nasai makes it a polite \"please\": please rest. Your cat sits on your pillow and glares; \"*Oh ya*, *sue me*,\" you mumble, shoving it over and clicking off the lamp. **Good night**. Oyasumi (nasai): good night."
+    }
+  },
+  "l01-007": {
+    "sentence": {
+      "ja": "お茶[ちゃ]、{ありがとう}。",
+      "en": "Thanks for the tea.",
+      "breakdown": [
+        {
+          "text": "お茶",
+          "en": "tea"
+        },
+        {
+          "text": "ありがとう",
+          "en": "thank you, thanks"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "alligator",
+      "story": "An *alligator* slides out of the pond and drops your stolen sandal at your feet, slimy and dented. You say **thank you**, very carefully, while counting your toes. Arigatō: thank you, the casual one."
+    }
+  },
+  "l01-008": {
+    "sentence": {
+      "ja": "お土産[みやげ]、{ありがとうございます}。",
+      "en": "Thank you for the souvenir.",
+      "breakdown": [
+        {
+          "text": "お土産",
+          "en": "souvenir"
+        },
+        {
+          "text": "ありがとうございます",
+          "en": "thank you (polite)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "alligator + gozaimasu",
+      "story": "This time the *alligator* returns your sandal polished and gift-wrapped, so plain thanks won't do. Add gozaimasu, the same polite tail as the morning greeting, and bow: **thank you (polite)**. Arigatō gozaimasu: thank you."
+    }
+  },
+  "l01-009": {
+    "sentence": {
+      "ja": "{すみません}、今[いま]何時[なんじ]ですか。",
+      "en": "Excuse me, what time is it?",
+      "breakdown": [
+        {
+          "text": "すみません",
+          "en": "excuse me"
+        },
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "何時",
+          "en": "what time"
+        },
+        {
+          "text": "です",
+          "en": "is (it)"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sue me, Mason",
+      "story": "Squeezing off a packed train, your backpack knocks a builder's hard hat crooked. \"*Sue me*, *Mason*, **excuse me**!\" you blurt as the doors hiss shut behind you. Sumimasen: excuse me; also I'm sorry."
+    }
+  },
+  "l01-010": {
+    "sentence": {
+      "ja": "{ごめんなさい}、昨日[きのう]はアルバイトがありました。",
+      "en": "Sorry, I had work yesterday.",
+      "breakdown": [
+        {
+          "text": "ごめんなさい",
+          "en": "I'm sorry"
+        },
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "アルバイト",
+          "en": "part-time job"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "ありました",
+          "en": "there was (I had)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "go, men + nah, sigh",
+      "story": "You yell \"*Go, men!*\" and your relay team runs straight into a wall. \"*Nah... sigh*.\" **I'm sorry**. Gomen-nasai: literally \"pardon, please\"; casual, for friends and family."
+    }
+  },
+  "l01-011": {
+    "sentence": {
+      "ja": "{はじめまして}。山田[やまだ]です。",
+      "en": "How do you do? I'm Yamada.",
+      "breakdown": [
+        {
+          "text": "はじめまして",
+          "en": "how do you do?"
+        },
+        {
+          "text": "山田",
+          "en": "Yamada"
+        },
+        {
+          "text": "です",
+          "en": "(I) am"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ha, Jimmy, mashed tea",
+      "story": "\"*Ha*!\" laughs a stranger named *Jimmy*, shaking your hand with fingers still green from the *mashed tea* he was whisking: **how do you do?** Hajimemashite: \"for the first time\", said only when you first meet."
+    }
+  },
+  "l01-012": {
+    "sentence": {
+      "ja": "田中[たなか]です。{よろしくお願[ねが]いします}。",
+      "en": "I'm Tanaka. Nice to meet you.",
+      "breakdown": [
+        {
+          "text": "田中",
+          "en": "Tanaka"
+        },
+        {
+          "text": "です",
+          "en": "(I) am"
+        },
+        {
+          "text": "よろしくお願いします",
+          "en": "nice to meet you"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yo, rosy coo",
+      "story": "\"*Yo*!\" A *rosy*-cheeked pigeon struts up, bows and *coos* yoroshiku, \"please be kind to me\". Onegaishimasu, \"I ask of you\", makes it polite. Together, **nice to meet you**. Yoroshiku onegaishimasu: nice to meet you."
+    }
+  },
+  "l01-013": {
+    "sentence": {
+      "ja": "じゃあ、{いってきます}。",
+      "en": "Right, I'm off. See you later.",
+      "breakdown": [
+        {
+          "text": "じゃあ",
+          "en": "right, well then"
+        },
+        {
+          "text": "いってきます",
+          "en": "I'll go and come back"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "it, techie, moss",
+      "story": "Itte means go and kimasu means come. On your way out you step over your *techie* roommate, asleep on the *moss*-green rug among cables, and call **I'll go and come back**. Ittekimasu: said by the one leaving home."
+    }
+  },
+  "l01-014": {
+    "sentence": {
+      "ja": "ケンさん、{いってらっしゃい}。",
+      "en": "Have a good day, Ken. See you when you're back.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "いってらっしゃい",
+          "en": "please go and come back"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "it, terrace, shy",
+      "story": "Your grandmother leans over the *terrace* railing and gives a *shy* little wave as you set off: **please go and come back**. Itterasshai: said by whoever stays home; the one leaving says ittekimasu."
+    }
+  },
+  "l01-015": {
+    "sentence": {
+      "ja": "お母[かあ]さん、{ただいま}。",
+      "en": "Mom, I'm home.",
+      "breakdown": [
+        {
+          "text": "お母さん",
+          "en": "mom, mother"
+        },
+        {
+          "text": "ただいま",
+          "en": "I'm home"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ta-da, I'm",
+      "story": "You kick the front door open, fling your arms wide and announce \"*Ta-da*, *I'm*... **home**!\" to a hallway that smells of curry. Tadaima: I'm home."
+    }
+  },
+  "l01-016": {
+    "sentence": {
+      "ja": "「ただいま。」「{おかえり}。」",
+      "en": "\"I'm home.\" \"Welcome back.\"",
+      "breakdown": [
+        {
+          "text": "ただいま",
+          "en": "I'm home"
+        },
+        {
+          "text": "おかえり",
+          "en": "welcome home"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, carry",
+      "story": "Kaeri means return. Your mum meets you at the door, grabs your heavy bag with \"*Oh*, *carry*? Give it here,\" and steers you inside: **welcome home**. Okaeri (nasai): the reply to tadaima."
+    }
+  },
+  "l01-017": {
+    "sentence": {
+      "ja": "では、{いただきます}。",
+      "en": "Well then, let's eat.",
+      "breakdown": [
+        {
+          "text": "では",
+          "en": "well then"
+        },
+        {
+          "text": "いただきます",
+          "en": "thank you for the meal (before eating)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eee, ta-da!",
+      "story": "\"*Eee*, *ta-da*!\" The lid comes off the bubbling hotpot, steam fogs your glasses, and everyone presses their palms together: **thank you for the meal**. Itadakimasu: literally \"I humbly receive\", said before the first bite."
+    }
+  },
+  "l01-018": {
+    "sentence": {
+      "ja": "田中[たなか]さん、{ごちそうさまでした}。",
+      "en": "Thank you for the meal, Mr. Tanaka.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr. Tanaka"
+        },
+        {
+          "text": "ごちそうさまでした",
+          "en": "thank you for the meal (after eating)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "go, cheese, so, summer",
+      "story": "You *go* for the last *cheese* wedge, *so* the *summer* picnic is officially over; chopsticks down, hands together: **thank you for the meal (after eating)**. Gochisōsama (deshita): literally \"it was a feast\"."
+    }
+  },
+  "l01-019": {
+    "sentence": {
+      "ja": "{もしもし}、田中[たなか]さんですか。",
+      "en": "Hello, is this Tanaka-san?",
+      "breakdown": [
+        {
+          "text": "もしもし",
+          "en": "hello? (on the phone)"
+        },
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "です",
+          "en": "is (it)"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mo' sheep, mo' sheep",
+      "story": "You ring the farm, ask \"**Hello?**\", and the farmer just yells \"*Mo' sheep, mo' sheep!*\" over the baaing. Moshi-moshi: hello, only on the phone."
+    }
+  },
+  "l01-020": {
+    "sentence": {
+      "ja": "田中[たなか]さん、{久[ひさ]しぶり}ですね。",
+      "en": "Tanaka-san, it's been a long time!",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "久しぶり",
+          "en": "it has been a long time"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "he sashays + Brie",
+      "story": "\"Look, *he sashays*!\" Your old friend glides in after years away with a wheel of *Brie*: **it's been a long time**. Hisashi is a long while, buri after a gap. Hisashi-buri."
+    }
+  },
+  "l01-021": {
+    "sentence": {
+      "ja": "「風邪[かぜ]をひきました。」「{お大事[だいじ]に}。」",
+      "en": "\"I've caught a cold.\" \"Get well soon.\"",
+      "breakdown": [
+        {
+          "text": "風邪",
+          "en": "a cold"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "ひきました",
+          "en": "caught",
+          "base": "ひく",
+          "baseEn": "to catch (a cold)"
+        },
+        {
+          "text": "お大事に",
+          "en": "get well soon"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "o + dye + genie",
+      "story": "Literally 'preciously': o, daiji (precious), ni. A *dye genie* swirls out of the medicine bottle, wraps your friend in a warm purple blanket and whispers, '**Get well soon**.' O-daiji ni."
+    }
+  },
+  "l01-022": {
+    "sentence": {
+      "ja": "ケンさんの誕生日[たんじょうび]に{乾杯[かんぱい]}！",
+      "en": "Here's to Ken's birthday!",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "誕生日",
+          "en": "birthday"
+        },
+        {
+          "text": "に",
+          "en": "to (what the toast is for)"
+        },
+        {
+          "text": "乾杯",
+          "en": "cheers! (a toast)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "can + pie",
+      "story": "Kan is dry and pai is cup: dry your cup. Everyone clinks *cans* above a birthday *pie*, foam dripping onto the crust, and shouts **Cheers!** Kanpai."
+    }
+  },
+  "l01-023": {
+    "sentence": {
+      "ja": "「日本人[にほんじん]ですか。」「{はい}、日本人[にほんじん]です。」",
+      "en": "\"Are you Japanese?\" \"Yes, I am.\"",
+      "breakdown": [
+        {
+          "text": "日本人",
+          "en": "Japanese person"
+        },
+        {
+          "text": "です",
+          "en": "are (you)"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        },
+        {
+          "text": "はい",
+          "en": "yes"
+        },
+        {
+          "text": "日本人",
+          "en": "Japanese person"
+        },
+        {
+          "text": "です",
+          "en": "(I) am"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hi",
+      "story": "The teacher calls your name and you shoot an arm up: \"*Hi!*\" In Japanese that means **yes**, present, here. Hai: a formal yes, not a greeting."
+    }
+  },
+  "l01-024": {
+    "sentence": {
+      "ja": "「学生[がくせい]ですか。」「{いいえ}、先生[せんせい]です。」",
+      "en": "\"Are you a student?\" \"No, I'm a teacher.\"",
+      "breakdown": [
+        {
+          "text": "学生",
+          "en": "student"
+        },
+        {
+          "text": "です",
+          "en": "are (you)"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        },
+        {
+          "text": "いいえ",
+          "en": "no"
+        },
+        {
+          "text": "先生",
+          "en": "teacher"
+        },
+        {
+          "text": "です",
+          "en": "(I) am"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eee-eh (a rusty hinge)",
+      "story": "A salesman wedges his foot in your door; you lean on it and the rusty hinges squeal a long *eee-eh* as it shuts. That squeal is **no**. Iie: no; also \"not at all\" when someone thanks or apologises."
+    }
+  },
+  "l01-025": {
+    "sentence": {
+      "ja": "{ええ}、いいですよ。",
+      "en": "Yeah, sure.",
+      "breakdown": [
+        {
+          "text": "ええ",
+          "en": "yeah"
+        },
+        {
+          "text": "いい",
+          "en": "good, fine"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "よ",
+          "en": "I tell you"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eh",
+      "story": "Mouth full of noodles, you can only nod and hum a long \"*ehh*\" when your friend asks if they're good: **yes**. Ē is a soft yes; iie is no."
+    }
+  },
+  "l01-026": {
+    "sentence": {
+      "ja": "「明日[あした]、来[く]る？」「{うん}、行[い]く。」",
+      "en": "\"Are you coming tomorrow?\" \"Yeah, I'll go.\"",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "来る",
+          "en": "(are you) coming?"
+        },
+        {
+          "text": "うん",
+          "en": "yeah"
+        },
+        {
+          "text": "行く",
+          "en": "I'll go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oon (a nodding grunt)",
+      "story": "Mouth full of noodles, you nod and grunt one short *oon*: a **yes** so lazy it is barely a word. Hai is for teachers; un is for friends. Un: uh-huh, yes."
+    }
+  },
+  "l01-027": {
+    "sentence": {
+      "ja": "「コーヒー、飲[の]む？」「{ううん}、いらない。」",
+      "en": "\"Want some coffee?\" \"Nah, I'm fine.\"",
+      "breakdown": [
+        {
+          "text": "コーヒー",
+          "en": "coffee"
+        },
+        {
+          "text": "飲む",
+          "en": "(want to) drink?"
+        },
+        {
+          "text": "ううん",
+          "en": "nah; no"
+        },
+        {
+          "text": "いらない",
+          "en": "don't need (I'm fine)",
+          "base": "いる",
+          "baseEn": "to need"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oo-oon (a head-shaking hum)",
+      "story": "Shake your head and hum two beats, *oo-oon*, the second one dipping: a friendly **no**. Un is one beat and means yes, so count the beats. Uun: uh-uh, no."
+    }
+  },
+  "l01-028": {
+    "sentence": {
+      "ja": "「ケンさんですか。」「はい、{そうです}。」",
+      "en": "\"Are you Ken?\" \"Yes, that's right.\"",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "です",
+          "en": "are (you)"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        },
+        {
+          "text": "はい",
+          "en": "yes"
+        },
+        {
+          "text": "そうです",
+          "en": "that's right"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sō (so) + desu (it is)",
+      "story": "Sō means so and desu means it is: \"It is *so*.\" A quiz host slaps the buzzer, ding: **That's right**. Sō desu."
+    }
+  },
+  "l01-029": {
+    "sentence": {
+      "ja": "「十九歳[じゅうきゅうさい]です。」「{そうですか}。」",
+      "en": "\"I'm nineteen.\" \"I see.\"",
+      "breakdown": [
+        {
+          "text": "十九歳",
+          "en": "nineteen years old"
+        },
+        {
+          "text": "です",
+          "en": "(I) am"
+        },
+        {
+          "text": "そうですか",
+          "en": "I see"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sō desu ka (falling)",
+      "story": "Sō desu plus ka, a question: \"Is it so?\" Let your voice sink like a slow nod, *sō desu ka*..., and it means **I see**. Said rising, it turns into surprise."
+    }
+  },
+  "l01-030": {
+    "sentence": {
+      "ja": "{どうぞ}、私[わたし]の傘[かさ]です。",
+      "en": "Here, please take my umbrella.",
+      "breakdown": [
+        {
+          "text": "どうぞ",
+          "en": "here, please take it"
+        },
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "'s (私の: my)"
+        },
+        {
+          "text": "傘",
+          "en": "umbrella"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "dozer",
+      "story": "A bull*dozer* rumbles to a stop at the crossing and the driver waves you across: **please**, after you. Dōzo: please; also here it is."
+    }
+  },
+  "l01-031": {
+    "sentence": {
+      "ja": "「これ、どうぞ。」「あ、{どうも}。」",
+      "en": "\"Here, this is for you.\" \"Oh, thanks.\"",
+      "breakdown": [
+        {
+          "text": "これ",
+          "en": "this"
+        },
+        {
+          "text": "どうぞ",
+          "en": "here you are"
+        },
+        {
+          "text": "あ",
+          "en": "oh"
+        },
+        {
+          "text": "どうも",
+          "en": "thanks"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "dough, more",
+      "story": "The baker slips extra *dough* into your bag, \"*more*?\", and you bow twice: **thank you**. Dōmo: thank you."
+    }
+  },
+  "l01-032": {
+    "sentence": {
+      "ja": "{あのう}、留学生[りゅうがくせい]ですか。",
+      "en": "Um, are you an international student?",
+      "breakdown": [
+        {
+          "text": "あのう",
+          "en": "um ..."
+        },
+        {
+          "text": "留学生",
+          "en": "international student"
+        },
+        {
+          "text": "です",
+          "en": "are (you)"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ah, no...",
+      "story": "You tap a stranger on the shoulder, \"*Ah, no*...\", then lose your nerve and just hover there: **um...** Anō, the long ō a polite way to stall before a question."
+    }
+  },
+  "l01-033": {
+    "sentence": {
+      "ja": "{じゃあ}、これをお願[ねが]いします。",
+      "en": "Then I'll have this one, please.",
+      "breakdown": [
+        {
+          "text": "じゃあ",
+          "en": "then, in that case"
+        },
+        {
+          "text": "これ",
+          "en": "this one"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "お願いします",
+          "en": "please (I would like)",
+          "base": "お願[ねが]いする",
+          "baseEn": "to ask for, to request"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "jar",
+      "story": "The shop is out of bags? **Then** you'll carry the honey home in the sticky *jar*, cradled in both hands. Jā: then; if that's the case."
+    }
+  },
+  "l01-034": {
+    "sentence": {
+      "ja": "「雨[あめ]ですよ。」「{大丈夫[だいじょうぶ]}です。傘[かさ]があります。」",
+      "en": "\"It's raining.\" \"It's okay. I have an umbrella.\"",
+      "breakdown": [
+        {
+          "text": "雨",
+          "en": "rain"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        },
+        {
+          "text": "よ",
+          "en": "you know (telling news)"
+        },
+        {
+          "text": "大丈夫です",
+          "en": "it's okay",
+          "base": "大丈夫[だいじょうぶ]",
+          "baseEn": "okay, all right"
+        },
+        {
+          "text": "傘",
+          "en": "umbrella"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "あります",
+          "en": "there is (I have)",
+          "base": "ある",
+          "baseEn": "there is (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "dye Joe boo",
+      "story": "You knock a bucket of *dye* over *Joe*. He rises dripping purple, says \"*Boo!*\", and laughs: **it's okay**, no harm done. Daijōbu: it's okay, not to worry."
+    }
+  },
+  "l01-035": {
+    "sentence": {
+      "ja": "「明日[あした]テストがありますよ。」「えっ、{本当[ほんとう]ですか}。」",
+      "en": "\"There's a test tomorrow.\" \"What, really?\"",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "テスト",
+          "en": "test"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        },
+        {
+          "text": "よ",
+          "en": "you know (tells news)"
+        },
+        {
+          "text": "えっ",
+          "en": "what? (surprise)"
+        },
+        {
+          "text": "本当",
+          "en": "true"
+        },
+        {
+          "text": "です",
+          "en": "is (it)"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hone + toe",
+      "story": "Hontō is the truth; desu ka makes \"is that the truth?\": **Really?** A friend swears they *hone* each *toe*nail on a knife sharpener, grinding sparks. \"Hontō desu ka?\""
+    }
+  },
+  "l01-036": {
+    "sentence": {
+      "ja": "「明日[あした]、来[き]ますか。」「{もちろん}行[い]きます。」",
+      "en": "\"Are you coming tomorrow?\" \"Of course I'll be there.\"",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "来ます",
+          "en": "come",
+          "base": "来[く]る",
+          "baseEn": "to come"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        },
+        {
+          "text": "もちろん",
+          "en": "of course"
+        },
+        {
+          "text": "行きます",
+          "en": "will go (be there)",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mochi run",
+      "story": "A midnight *mochi run* to the corner shop? **Of course**. You're already pulling on your shoes, sweet rice powder still on your fingers from the last batch. Mochiron: of course."
+    }
+  }
+}

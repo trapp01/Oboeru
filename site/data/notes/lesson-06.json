@@ -1,0 +1,1936 @@
+{
+  "l06-001": {
+    "sentence": {
+      "ja": "日本[にほん]の{食[た]べ物[もの]}はおいしいです。",
+      "en": "Japanese food is delicious.",
+      "breakdown": [
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "の",
+          "en": "of (Japan's, so 'Japanese')"
+        },
+        {
+          "text": "食べ物",
+          "en": "food"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "おいしいです",
+          "en": "is delicious",
+          "base": "おいしい",
+          "baseEn": "delicious"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tabe (eat) + mono (monorail)",
+      "story": "Tabe is the eat of taberu, and mono means thing: eating things are **food**. Picture a *monorail* gliding past your open mouth, each car piled with sushi. Tabe-mono: food."
+    }
+  },
+  "l06-002": {
+    "sentence": {
+      "ja": "{飲[の]み物[もの]}は何[なに]がいいですか。",
+      "en": "What would you like to drink?",
+      "breakdown": [
+        {
+          "text": "飲み物",
+          "en": "drink"
+        },
+        {
+          "text": "は",
+          "en": "topic marker (as for drinks)"
+        },
+        {
+          "text": "何",
+          "en": "what"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "いいです",
+          "en": "would be good",
+          "base": "いい",
+          "baseEn": "good"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nomi (drink) + mono (monorail)",
+      "story": "Nomi is the drink of nomu, plus mono, thing. This time the *monorail* carries only cups of **drinks**, sloshing over the rails on every curve. Nomi-mono: drink."
+    }
+  },
+  "l06-003": {
+    "sentence": {
+      "ja": "昼[ひる]は{ご飯[はん]}と魚[さかな]を食[た]べました。",
+      "en": "I had rice and fish for lunch.",
+      "breakdown": [
+        {
+          "text": "昼",
+          "en": "lunchtime, noon"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "ご飯",
+          "en": "rice"
+        },
+        {
+          "text": "と",
+          "en": "and"
+        },
+        {
+          "text": "魚",
+          "en": "fish"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べました",
+          "en": "ate",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "go on",
+      "story": "A bowl of steaming **rice** sits in front of you and the cook nods: \"*Go on*.\" It is the gohan in asa-gohan; alone, gohan is rice, and also a whole meal."
+    }
+  },
+  "l06-004": {
+    "sentence": {
+      "ja": "七時[しちじ]に{朝[あさ]ご飯[はん]}を食[た]べます。",
+      "en": "I have breakfast at seven.",
+      "breakdown": [
+        {
+          "text": "七時",
+          "en": "seven o'clock"
+        },
+        {
+          "text": "に",
+          "en": "at (a time)"
+        },
+        {
+          "text": "朝ご飯",
+          "en": "breakfast"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "asa (morning) + gohan (meal)",
+      "story": "Asa is morning; gohan is cooked rice, and so any meal. A morning meal is **breakfast**: a rice bowl steams at sunrise, telling you to *go on*, eat. Asa-gohan."
+    }
+  },
+  "l06-005": {
+    "sentence": {
+      "ja": "学校[がっこう]で{昼[ひる]ご飯[はん]}を食[た]べます。",
+      "en": "I eat lunch at school.",
+      "breakdown": [
+        {
+          "text": "学校",
+          "en": "school"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "昼ご飯",
+          "en": "lunch"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hiru (noon) + gohan (meal)",
+      "story": "Hiru is noon, gohan is a meal: the noon meal is **lunch**. At twelve sharp a *hero* in a cape lands on your desk and steals your rice bowl. Hiru-gohan."
+    }
+  },
+  "l06-006": {
+    "sentence": {
+      "ja": "今晩[こんばん]、うちで{晩[ばん]ご飯[はん]}を食[た]べませんか。",
+      "en": "Would you like to have dinner at my place tonight?",
+      "breakdown": [
+        {
+          "text": "今晩",
+          "en": "tonight"
+        },
+        {
+          "text": "うち",
+          "en": "my place, home"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "晩ご飯",
+          "en": "dinner"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べません",
+          "en": "don't eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        },
+        {
+          "text": "か",
+          "en": "question marker (an invitation)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ban (evening) + gohan (meal)",
+      "story": "Ban is evening, gohan is a meal: the evening meal is **dinner**. Rice bowls pass around a crackling *bonfire* after dark, smoke in your hair. Ban-gohan."
+    }
+  },
+  "l06-007": {
+    "sentence": {
+      "ja": "毎日[まいにち]{お弁当[べんとう]}を作[つく]ります。",
+      "en": "I make a boxed lunch every day.",
+      "breakdown": [
+        {
+          "text": "毎日",
+          "en": "every day"
+        },
+        {
+          "text": "お弁当",
+          "en": "boxed lunch"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "作ります",
+          "en": "make",
+          "base": "作[つく]る",
+          "baseEn": "to make"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "o + Ben tow",
+      "story": "Your friend *Ben* packs a **boxed lunch** so huge he has to *tow* it to school on a little wagon, rice and pickles rattling behind him. O-bentō: boxed lunch."
+    }
+  },
+  "l06-008": {
+    "sentence": {
+      "ja": "どこの国[くに]の{料理[りょうり]}が一番[いちばん]好[す]きですか。",
+      "en": "Which country's cuisine do you like best?",
+      "breakdown": [
+        {
+          "text": "どこ",
+          "en": "where (here: which)"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "国",
+          "en": "country"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "料理",
+          "en": "cuisine"
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "一番",
+          "en": "best, most"
+        },
+        {
+          "text": "好きです",
+          "en": "like",
+          "base": "好[す]き",
+          "baseEn": "liked, to be fond of"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Rio reel",
+      "story": "Fishermen in *Rio* *reel* their catch straight onto grills set up in the sand, and the whole city's **cuisine** sizzles and smokes along the beach. Ryōri: cuisine, cooking."
+    }
+  },
+  "l06-009": {
+    "sentence": {
+      "ja": "子供[こども]は{お菓子[かし]}が大好[だいす]きです。",
+      "en": "Kids love sweets.",
+      "breakdown": [
+        {
+          "text": "子供",
+          "en": "kids"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "お菓子",
+          "en": "sweets"
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "大好きです",
+          "en": "love",
+          "base": "大好[だいす]き",
+          "baseEn": "very fond of, love"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, cash, she",
+      "story": "\"*Oh, cash!*\" *she* squeals, pulling coins out of the sofa, and spends every one on **sweets**: a crinkling armful of wrappers and gummy bears. O-kashi: snacks, sweets."
+    }
+  },
+  "l06-010": {
+    "sentence": {
+      "ja": "これは英語[えいご]の{メニュー}ですか。",
+      "en": "Is this an English menu?",
+      "breakdown": [
+        {
+          "text": "これ",
+          "en": "this"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "英語",
+          "en": "English"
+        },
+        {
+          "text": "の",
+          "en": "in (a language)"
+        },
+        {
+          "text": "メニュー",
+          "en": "menu"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "menu",
+      "story": "*Menu* becomes me-nyū, the nyū stretched long like a waiter taking his time. Same thing: a **menu**."
+    }
+  },
+  "l06-011": {
+    "sentence": {
+      "ja": "ケンさんは{はし}を使[つか]うのが上手[じょうず]です。",
+      "en": "Ken is good at using chopsticks.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "はし",
+          "en": "chopsticks"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "使う",
+          "en": "use"
+        },
+        {
+          "text": "の",
+          "en": "makes the verb a noun (using)"
+        },
+        {
+          "text": "が",
+          "en": "marks what one is good at"
+        },
+        {
+          "text": "上手です",
+          "en": "is good at",
+          "base": "上手[じょうず]",
+          "baseEn": "skillful; good at"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hash (#)",
+      "story": "Lay two **chopsticks** across two others and they make a *hash* sign, #. Tap the middle and the sticks clack together: hash-ee. Hashi: chopsticks."
+    }
+  },
+  "l06-012": {
+    "sentence": {
+      "ja": "これは日本[にほん]の{魚[さかな]}ですか。",
+      "en": "Is this fish from Japan?",
+      "breakdown": [
+        {
+          "text": "これ",
+          "en": "this"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "の",
+          "en": "from"
+        },
+        {
+          "text": "魚",
+          "en": "fish"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sack, ah, nah",
+      "story": "You open a *sack* and a cold, slippery **fish** slaps you in the face. \"*Ah, nah*!\" Sakana: fish."
+    }
+  },
+  "l06-013": {
+    "sentence": {
+      "ja": "これは何[なん]の{肉[にく]}ですか。",
+      "en": "What kind of meat is this?",
+      "breakdown": [
+        {
+          "text": "これ",
+          "en": "this"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "何",
+          "en": "what"
+        },
+        {
+          "text": "の",
+          "en": "kind of (何の: what kind of)"
+        },
+        {
+          "text": "肉",
+          "en": "meat"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "knee + coo",
+      "story": "A slab of raw **meat** slides onto your *knee*, and a pigeon lands, \"*coo*\", to peck at it. Niku: meat."
+    }
+  },
+  "l06-014": {
+    "sentence": {
+      "ja": "この{野菜[やさい]}は百円[ひゃくえん]ですよ。",
+      "en": "These vegetables are 100 yen.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "these"
+        },
+        {
+          "text": "野菜",
+          "en": "vegetables"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "百円",
+          "en": "100 yen"
+        },
+        {
+          "text": "です",
+          "en": "are"
+        },
+        {
+          "text": "よ",
+          "en": "you know (pointing it out)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yah, sigh",
+      "story": "\"*Yah*...\" Your little brother pushes the **vegetables** round his plate with a fork and lets out a long *sigh*. Yasai: vegetable."
+    }
+  },
+  "l06-015": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]{果物[くだもの]}を食[た]べます。",
+      "en": "I eat fruit every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "果物",
+          "en": "fruit"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "(barra)cuda + mono",
+      "story": "A barra*cuda* rides the *monorail* and chomps every piece of **fruit** off the seats, juice dripping from its fins. Kuda-mono: fruit."
+    }
+  },
+  "l06-016": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]{卵[たまご]}を二[ふた]つ食[た]べます。",
+      "en": "I eat two eggs every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "卵",
+          "en": "eggs"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "二つ",
+          "en": "two (things)"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Tamagotchi",
+      "story": "The egg-shaped *Tamagotchi* toy is named after this word. Picture yours cracking open in your palm, a warm **egg** yolk sliding out over the buttons. Tamago: egg."
+    }
+  },
+  "l06-017": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]{パン}を食[た]べます。",
+      "en": "I have bread every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "パン",
+          "en": "bread"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "pão (Portuguese for bread)",
+      "story": "Portuguese traders brought *pão* to Japan centuries ago, and it stayed as pan. Nothing to do with a frying pan: pan is **bread**."
+    }
+  },
+  "l06-018": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]{りんご}を一[ひと]つ食[た]べます。",
+      "en": "I eat an apple every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "りんご",
+          "en": "apple"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "一つ",
+          "en": "one (thing)"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ring, go",
+      "story": "At the fair you toss a *ring*, \"*go!*\", and it drops neatly around a shiny red **apple**, which you crunch on the spot. Rin-go: apple."
+    }
+  },
+  "l06-019": {
+    "sentence": {
+      "ja": "妹[いもうと]は{いちご}が大好[だいす]きです。",
+      "en": "My little sister loves strawberries.",
+      "breakdown": [
+        {
+          "text": "妹",
+          "en": "(my) little sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "いちご",
+          "en": "strawberries"
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "大好きです",
+          "en": "loves",
+          "base": "大好[だいす]き",
+          "baseEn": "very fond of; to love"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ichi (one) + go (five)",
+      "story": "*Ichi* and *go*, one and five: you count fifteen seeds on one fat **strawberry**, then pop it in your mouth and the juice runs down your chin. Ichi-go: strawberry."
+    }
+  },
+  "l06-020": {
+    "sentence": {
+      "ja": "冬[ふゆ]は毎日[まいにち]{みかん}を食[た]べます。",
+      "en": "In winter I eat mandarin oranges every day.",
+      "breakdown": [
+        {
+          "text": "冬",
+          "en": "winter"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "毎日",
+          "en": "every day"
+        },
+        {
+          "text": "みかん",
+          "en": "mandarin oranges"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "me, can",
+      "story": "Who can peel a **mandarin orange** in one unbroken spiral? \"*Me, can!*\" you shout, and the peel sprays a sharp, sweet mist up your nose. Mikan: mandarin orange."
+    }
+  },
+  "l06-021": {
+    "sentence": {
+      "ja": "私[わたし]は{トマト}があまり好[す]きじゃないです。",
+      "en": "I don't really like tomatoes.",
+      "breakdown": [
+        {
+          "text": "私",
+          "en": "I"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "トマト",
+          "en": "tomatoes"
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "あまり",
+          "en": "(not) really"
+        },
+        {
+          "text": "好きじゃないです",
+          "en": "don't like",
+          "base": "好[す]き",
+          "baseEn": "liked; to like"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tomato",
+      "story": "*Tomato* settles the old argument: to-ma-to, every vowel short and pure, mah and never may. **Tomato**."
+    }
+  },
+  "l06-022": {
+    "sentence": {
+      "ja": "カレーに{たまねぎ}を入[い]れます。",
+      "en": "I put onions in the curry.",
+      "breakdown": [
+        {
+          "text": "カレー",
+          "en": "curry"
+        },
+        {
+          "text": "に",
+          "en": "in (where it goes)"
+        },
+        {
+          "text": "たまねぎ",
+          "en": "onions"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "入れます",
+          "en": "put in",
+          "base": "入[い]れる",
+          "baseEn": "to put in"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tamer, nay, gee",
+      "story": "A lion *tamer* puts down the whip to chop an **onion** and sobs, \"*Nay, gee*, this stings!\" Tama-negi: onion, literally a ball (tama) of leek (negi)."
+    }
+  },
+  "l06-023": {
+    "sentence": {
+      "ja": "{じゃがいも}を三[みっ]つ買[か]ってください。",
+      "en": "Please buy three potatoes.",
+      "breakdown": [
+        {
+          "text": "じゃがいも",
+          "en": "potatoes"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "三つ",
+          "en": "three (things)"
+        },
+        {
+          "text": "買ってください",
+          "en": "please buy",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "jaguar + emo",
+      "story": "A *jaguar* with an *emo* fringe sulks in the corner, mashing a **potato** with one paw and refusing to smile. Jaga-imo: potato."
+    }
+  },
+  "l06-024": {
+    "sentence": {
+      "ja": "{牛肉[ぎゅうにく]}は高[たか]いですね。",
+      "en": "Beef is expensive, isn't it?",
+      "breakdown": [
+        {
+          "text": "牛肉",
+          "en": "beef"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "高いです",
+          "en": "is expensive",
+          "base": "高[たか]い",
+          "baseEn": "expensive; high"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it?"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "gyū (cow) + niku (meat)",
+      "story": "Gyū is cow, the end of *argue*; niku is meat. Cow meat is **beef**, spitting fat on the grill. Gyū-niku: beef."
+    }
+  },
+  "l06-025": {
+    "sentence": {
+      "ja": "スーパーで{豚肉[ぶたにく]}を買[か]いました。",
+      "en": "I bought pork at the supermarket.",
+      "breakdown": [
+        {
+          "text": "スーパー",
+          "en": "supermarket"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "豚肉",
+          "en": "pork"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "butter (buta) + niku (meat)",
+      "story": "Buta is pig: picture one sliding across the kitchen on a puddle of *butter*, squealing happily. Add niku, meat, and pig meat is **pork**. Buta-niku: pork."
+    }
+  },
+  "l06-026": {
+    "sentence": {
+      "ja": "今晩[こんばん]は{鶏肉[とりにく]}のカレーを作[つく]ります。",
+      "en": "I'm making chicken curry tonight.",
+      "breakdown": [
+        {
+          "text": "今晩",
+          "en": "tonight"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "鶏肉",
+          "en": "chicken"
+        },
+        {
+          "text": "の",
+          "en": "of (made with)"
+        },
+        {
+          "text": "カレー",
+          "en": "curry"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "作ります",
+          "en": "will make",
+          "base": "作[つく]る",
+          "baseEn": "to make"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "toe + ree (tori) + niku (meat)",
+      "story": "Tori is bird: one lands on your *toe* and chirps *ree, ree*. Add niku, meat, and bird meat is **chicken**, crackling on a skewer. Tori-niku: chicken."
+    }
+  },
+  "l06-027": {
+    "sentence": {
+      "ja": "今晩[こんばん]は{すし}を食[た]べに行[い]きませんか。",
+      "en": "Do you want to go out for sushi tonight?",
+      "breakdown": [
+        {
+          "text": "今晩",
+          "en": "tonight"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "すし",
+          "en": "sushi"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べに",
+          "en": "to eat (purpose of going)",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        },
+        {
+          "text": "行きません",
+          "en": "don't go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sushi",
+      "story": "English took *sushi* straight from Japanese, but the u is so light it nearly vanishes: s'shi, two quick beats. The word means the vinegared rice, so **sushi** with no fish is still sushi."
+    }
+  },
+  "l06-028": {
+    "sentence": {
+      "ja": "母[はは]は{天[てん]ぷら}を作[つく]るのが上手[じょうず]です。",
+      "en": "My mother is good at making tempura.",
+      "breakdown": [
+        {
+          "text": "母",
+          "en": "my mother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "天ぷら",
+          "en": "tempura"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "作る",
+          "en": "make"
+        },
+        {
+          "text": "の",
+          "en": "turns the verb into a noun"
+        },
+        {
+          "text": "が",
+          "en": "marks what she is good at"
+        },
+        {
+          "text": "上手です",
+          "en": "is good at",
+          "base": "上手[じょうず]",
+          "baseEn": "skillful, good at"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tempura",
+      "story": "English says *tempura* with a heavy first beat; Japanese gives it three even ones, ten-pu-ra, as flat and light as the batter crackling in the oil. **Tempura**."
+    }
+  },
+  "l06-029": {
+    "sentence": {
+      "ja": "夜[よる]、{ラーメン}を食[た]べに行[い]きませんか。",
+      "en": "Want to go out for ramen tonight?",
+      "breakdown": [
+        {
+          "text": "夜",
+          "en": "tonight; at night"
+        },
+        {
+          "text": "ラーメン",
+          "en": "ramen noodles"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べ",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        },
+        {
+          "text": "に",
+          "en": "to (do something)"
+        },
+        {
+          "text": "行きません",
+          "en": "won't (we) go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ramen",
+      "story": "English says *ramen* with a short \"rah\"; Japanese stretches it, rā-men, and the e is a crisp eh. **Ramen noodles**."
+    }
+  },
+  "l06-030": {
+    "sentence": {
+      "ja": "寒[さむ]い日[ひ]は{うどん}を食[た]べます。",
+      "en": "On cold days I eat udon.",
+      "breakdown": [
+        {
+          "text": "寒い",
+          "en": "cold"
+        },
+        {
+          "text": "日",
+          "en": "days"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "うどん",
+          "en": "udon noodles"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ooh, done",
+      "story": "You slurp one fat, chewy **udon noodle** for a full minute, broth spattering your shirt, until at last: \"*Ooh, done.*\" Udon: udon noodles."
+    }
+  },
+  "l06-031": {
+    "sentence": {
+      "ja": "公園[こうえん]で{おにぎり}を食[た]べましょう。",
+      "en": "Let's eat rice balls in the park.",
+      "breakdown": [
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "で",
+          "en": "in (where it happens)"
+        },
+        {
+          "text": "おにぎり",
+          "en": "rice balls"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べましょう",
+          "en": "let's eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, knee, gritty",
+      "story": "At the beach your **rice ball** rolls off your *knee*. \"*Oh!*\" You pick it up and it is *gritty* with sand, seaweed and all. O-nigiri: rice balls."
+    }
+  },
+  "l06-032": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]{みそ汁[しる]}を飲[の]みます。",
+      "en": "I have miso soup every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "みそ汁",
+          "en": "miso soup"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飲みます",
+          "en": "drink (have)",
+          "base": "飲[の]む",
+          "baseEn": "to drink"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "miso + sheer (shiru)",
+      "story": "*Miso* paste melts into the hot broth in *sheer*, cloudy swirls, and the salty steam reaches your nose. Shiru is soup. Miso-shiru: miso **soup**."
+    }
+  },
+  "l06-033": {
+    "sentence": {
+      "ja": "母[はは]の{カレーライス}はおいしいです。",
+      "en": "My mother's curry rice is delicious.",
+      "breakdown": [
+        {
+          "text": "母",
+          "en": "(my) mother"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "カレーライス",
+          "en": "curry with rice"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "おいしいです",
+          "en": "is delicious",
+          "base": "おいしい",
+          "baseEn": "delicious"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "curry rice",
+      "story": "*Curry rice* becomes ka-rē-ra-i-su: curry gets a long ē and rice gains an extra su. It is **curry with rice** on one plate, thick and a little sweet."
+    }
+  },
+  "l06-034": {
+    "sentence": {
+      "ja": "{とんかつ}はおいしいですね。",
+      "en": "Pork cutlet is delicious, isn't it?",
+      "breakdown": [
+        {
+          "text": "とんかつ",
+          "en": "pork cutlet"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "おいしいです",
+          "en": "is delicious",
+          "base": "おいしい",
+          "baseEn": "delicious"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it?"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ton + cats",
+      "story": "Ton is pork and katsu is a shortened cutlet. A *ton* of *cats* pounces on your plate of crunchy **pork cutlet**, panko flying. Ton-katsu: pork cutlet."
+    }
+  },
+  "l06-035": {
+    "sentence": {
+      "ja": "今日[きょう]の昼[ひる]ご飯[はん]は{ハンバーガー}です。",
+      "en": "Today's lunch is a hamburger.",
+      "breakdown": [
+        {
+          "text": "今日",
+          "en": "today"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "昼ご飯",
+          "en": "lunch"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "ハンバーガー",
+          "en": "hamburger"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hamburger",
+      "story": "*Hamburger* becomes han-bā-gā: the m turns into n before the b, and both r sounds melt into a long ā. **Hamburger**."
+    }
+  },
+  "l06-036": {
+    "sentence": {
+      "ja": "晩[ばん]ご飯[はん]に{ピザ}を食[た]べました。",
+      "en": "I had pizza for dinner.",
+      "breakdown": [
+        {
+          "text": "晩ご飯",
+          "en": "dinner"
+        },
+        {
+          "text": "に",
+          "en": "for (a meal)"
+        },
+        {
+          "text": "ピザ",
+          "en": "pizza"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べました",
+          "en": "ate",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "pizza",
+      "story": "*Pizza* shrinks to pi-za: the tz collapses into a plain z, two quick beats, no tsa. **Pizza**."
+    }
+  },
+  "l06-037": {
+    "sentence": {
+      "ja": "友達[ともだち]の誕生日[たんじょうび]に{ケーキ}を作[つく]りました。",
+      "en": "I made a cake for my friend's birthday.",
+      "breakdown": [
+        {
+          "text": "友達",
+          "en": "friend"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "誕生日",
+          "en": "birthday"
+        },
+        {
+          "text": "に",
+          "en": "for (an occasion)"
+        },
+        {
+          "text": "ケーキ",
+          "en": "cake"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "作りました",
+          "en": "made",
+          "base": "作[つく]る",
+          "baseEn": "to make"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cake",
+      "story": "*Cake* becomes kē-ki: the eh stretches long and a little ki sits on the end like a candle on top. **Cake**."
+    }
+  },
+  "l06-038": {
+    "sentence": {
+      "ja": "ケンさんは毎日[まいにち]{アイスクリーム}を食[た]べます。",
+      "en": "Ken eats ice cream every day.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "毎日",
+          "en": "every day"
+        },
+        {
+          "text": "アイスクリーム",
+          "en": "ice cream"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べます",
+          "en": "eats",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ice cream",
+      "story": "*Ice cream* melts out into six beats, a-i-su-ku-rī-mu: each consonant gets its own vowel and the ee stretches long. **Ice cream**."
+    }
+  },
+  "l06-039": {
+    "sentence": {
+      "ja": "すみません、{水[みず]}をください。",
+      "en": "Excuse me, could I have some water?",
+      "breakdown": [
+        {
+          "text": "すみません",
+          "en": "excuse me"
+        },
+        {
+          "text": "水",
+          "en": "water"
+        },
+        {
+          "text": "を",
+          "en": "marks what you ask for"
+        },
+        {
+          "text": "ください",
+          "en": "please give me",
+          "base": "くださる",
+          "baseEn": "to give (to me), polite"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "me + zoo",
+      "story": "\"*Me!*\" you shout at the *zoo* when the keeper asks who wants a splash, and the elephant hoses you with cold **water** that smells of hay. Mizu: water."
+    }
+  },
+  "l06-040": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]{お茶[ちゃ]}を飲[の]みます。",
+      "en": "I drink green tea every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "お茶",
+          "en": "green tea"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飲みます",
+          "en": "drink",
+          "base": "飲[の]む",
+          "baseEn": "to drink"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "o + cha (as in chai)",
+      "story": "Polite o plus *cha*, the same word that travelled west and became chai. In Japan, plain ocha means **green tea**; black tea has a name of its own."
+    }
+  },
+  "l06-041": {
+    "sentence": {
+      "ja": "{コーヒー}をお願[ねが]いします。",
+      "en": "A coffee, please.",
+      "breakdown": [
+        {
+          "text": "コーヒー",
+          "en": "coffee"
+        },
+        {
+          "text": "を",
+          "en": "marks what you ask for"
+        },
+        {
+          "text": "お願いします",
+          "en": "please (I would like)",
+          "base": "お願[ねが]いする",
+          "baseEn": "to ask for, to request"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "coffee",
+      "story": "*Coffee* turns into kō-hī: the f softens into an h and both vowels stretch long. **Coffee**."
+    }
+  },
+  "l06-042": {
+    "sentence": {
+      "ja": "コーヒーに{牛乳[ぎゅうにゅう]}を入[い]れますか。",
+      "en": "Do you take milk in your coffee?",
+      "breakdown": [
+        {
+          "text": "コーヒー",
+          "en": "coffee"
+        },
+        {
+          "text": "に",
+          "en": "into"
+        },
+        {
+          "text": "牛乳",
+          "en": "milk"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "入れます",
+          "en": "put in",
+          "base": "入[い]れる",
+          "baseEn": "to put in"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "gyū (cow) + new",
+      "story": "Gyū is the cow from gyūniku, beef. Every morning she nudges a *new* bottle of **milk** across the barn floor with her nose, the glass clinking. Gyū-nyū: milk."
+    }
+  },
+  "l06-043": {
+    "sentence": {
+      "ja": "{ジュース}を飲[の]みすぎないでください。",
+      "en": "Please don't drink too much juice.",
+      "breakdown": [
+        {
+          "text": "ジュース",
+          "en": "juice"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飲みすぎないでください",
+          "en": "please don't drink too much",
+          "base": "飲[の]みすぎる",
+          "baseEn": "to drink too much"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "juice",
+      "story": "*Juice* stretches to jū-su: the oo goes long and a soft su is added at the end. Fruit **juice**, though sweet fizzy drinks often get called jūsu too."
+    }
+  },
+  "l06-044": {
+    "sentence": {
+      "ja": "冷[つめ]たい{ビール}が飲[の]みたいです。",
+      "en": "I want a cold beer.",
+      "breakdown": [
+        {
+          "text": "冷たい",
+          "en": "cold"
+        },
+        {
+          "text": "ビール",
+          "en": "beer"
+        },
+        {
+          "text": "が",
+          "en": "marks what is wanted"
+        },
+        {
+          "text": "飲みたいです",
+          "en": "want to drink",
+          "base": "飲[の]む",
+          "baseEn": "to drink"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "beer",
+      "story": "*Beer* becomes bī-ru: a long ee and a light ru on the end, closer to the Dutch bier it came from. **Beer**."
+    }
+  },
+  "l06-045": {
+    "sentence": {
+      "ja": "日本[にほん]の{お酒[さけ]}を飲[の]みませんか。",
+      "en": "Shall we have some Japanese sake?",
+      "breakdown": [
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "の",
+          "en": "of, from (Japanese)"
+        },
+        {
+          "text": "お酒",
+          "en": "sake"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飲みません",
+          "en": "don't drink",
+          "base": "飲[の]む",
+          "baseEn": "to drink"
+        },
+        {
+          "text": "か",
+          "en": "question marker (an invitation)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "o + sake",
+      "story": "English borrowed this one as *sake*, but it is said sah-keh, not sah-kee, with a polite o in front. Osake means any **alcoholic drink**, not only rice wine."
+    }
+  },
+  "l06-046": {
+    "sentence": {
+      "ja": "私[わたし]は肉[にく]を{食[た]べません}。",
+      "en": "I don't eat meat.",
+      "breakdown": [
+        {
+          "text": "私",
+          "en": "I"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "肉",
+          "en": "meat"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べません",
+          "en": "don't eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tabby",
+      "story": "A *tabby* cat jumps onto the table and **eats** your dinner, crunching loudly and purring between bites. Tabe-ru: to eat."
+    }
+  },
+  "l06-047": {
+    "sentence": {
+      "ja": "さくらさんはコーヒーを{飲[の]みません}。",
+      "en": "Sakura doesn't drink coffee.",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "コーヒー",
+          "en": "coffee"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飲みません",
+          "en": "doesn't drink",
+          "base": "飲[の]む",
+          "baseEn": "to drink"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "gnome",
+      "story": "A garden *gnome* tips the watering can back and **drinks** it dry, gulp, gulp, its painted cheeks puffing. Nom-u: to drink."
+    }
+  },
+  "l06-048": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]、お弁当[べんとう]を{作[つく]ります}。",
+      "en": "I make a boxed lunch every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "お弁当",
+          "en": "boxed lunch"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "作ります",
+          "en": "make",
+          "base": "作[つく]る",
+          "baseEn": "to make"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "two cooks",
+      "story": "*Two cooks* **make** one enormous cake together, flour flying everywhere and elbows bumping over the mixing bowl. Tsuku-ru: to make."
+    }
+  },
+  "l06-049": {
+    "sentence": {
+      "ja": "トマトを{切[き]って}ください。",
+      "en": "Please cut the tomato.",
+      "breakdown": [
+        {
+          "text": "トマト",
+          "en": "tomato"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "切ってください",
+          "en": "please cut",
+          "base": "切[き]る",
+          "baseEn": "to cut"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "keel",
+      "story": "A ship's sharp *keel* **cuts** the sea in two, cold spray hissing off both sides. Ki-ru: to cut, a u-verb (kirimasu); kiru, to wear, goes kimasu."
+    }
+  },
+  "l06-050": {
+    "sentence": {
+      "ja": "夜[よる]はいつも家[いえ]で{料理[りょうり]します}。",
+      "en": "I always cook at home in the evening.",
+      "breakdown": [
+        {
+          "text": "夜",
+          "en": "evening; night"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "いつも",
+          "en": "always"
+        },
+        {
+          "text": "家",
+          "en": "home"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "料理します",
+          "en": "cook",
+          "base": "料理[りょうり]する",
+          "baseEn": "to cook"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "lorry",
+      "story": "You **cook** curry for the whole town in the back of a *lorry*, the food truck rocking at every pothole and steam pouring out the window. Put a y in it: ryō-ri. Ryōri suru: to cook."
+    }
+  },
+  "l06-051": {
+    "sentence": {
+      "ja": "この魚[さかな]は{おいしい}ですね。",
+      "en": "This fish is delicious, isn't it?",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "魚",
+          "en": "fish"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "おいしいです",
+          "en": "is delicious",
+          "base": "おいしい",
+          "baseEn": "delicious"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it?"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oy, she",
+      "story": "\"*Oy, she* made this?\" You scrape the last smear of chocolate off the plate; the cake is that **delicious**. Oishi-i: delicious."
+    }
+  },
+  "l06-052": {
+    "sentence": {
+      "ja": "このケーキはとても{甘[あま]い}です。",
+      "en": "This cake is very sweet.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "ケーキ",
+          "en": "cake"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "甘いです",
+          "en": "is sweet",
+          "base": "甘[あま]い",
+          "baseEn": "sweet"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ah, my",
+      "story": "'*Ah, my*!' you gasp at the first bite of cake, so **sweet** and sticky your teeth ache. Ama-i: sweet."
+    }
+  },
+  "l06-053": {
+    "sentence": {
+      "ja": "朝[あさ]ご飯[はん]を食[た]べなかったから、{おなかがすきました}。",
+      "en": "I skipped breakfast, so I'm hungry.",
+      "breakdown": [
+        {
+          "text": "朝ご飯",
+          "en": "breakfast"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べなかった",
+          "en": "didn't eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        },
+        {
+          "text": "から",
+          "en": "so (because)"
+        },
+        {
+          "text": "おなか",
+          "en": "stomach"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "すきました",
+          "en": "got empty (I'm hungry)",
+          "base": "すく",
+          "baseEn": "to become empty"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "onaka (stomach) + scoo(p)",
+      "story": "Onaka is your stomach. When it **becomes hungry**, it feels hollow enough to *scoop* out with a ladle, and it gurgles. Onaka ga su-ku: to get hungry."
+    }
+  },
+  "l06-054": {
+    "sentence": {
+      "ja": "{のどが渇[かわ]いた}ので、水[みず]を飲[の]みます。",
+      "en": "I'm thirsty, so I'll drink some water.",
+      "breakdown": [
+        {
+          "text": "のど",
+          "en": "throat"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "渇いた",
+          "en": "got dry (= I'm thirsty)",
+          "base": "渇[かわ]く",
+          "baseEn": "to become dry"
+        },
+        {
+          "text": "ので",
+          "en": "so"
+        },
+        {
+          "text": "水",
+          "en": "water"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飲みます",
+          "en": "will drink",
+          "base": "飲[の]む",
+          "baseEn": "to drink"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nodo (throat) + car wa(sh) (kawaku, to dry)",
+      "story": "Nodo is your throat; kawaku means to dry out. Your throat is a broken *car wash*: brushes spinning, not a drop of water, only hot dust. You **become thirsty**. Nodo ga kawa-ku."
+    }
+  }
+}

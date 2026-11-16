@@ -1,0 +1,359 @@
+{
+ "lesson": 11,
+ "title": "Travel and transport",
+ "sections": [
+  {
+   "id": "transport",
+   "title": "Transport",
+   "words": [
+    {
+     "id": "l11-001",
+     "kana": "でんしゃ",
+     "kanji": "電車",
+     "meaning": "train",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-002",
+     "kana": "バス",
+     "kanji": "",
+     "meaning": "bus",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-003",
+     "kana": "くるま",
+     "kanji": "車",
+     "meaning": "car",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-004",
+     "kana": "じてんしゃ",
+     "kanji": "自転車",
+     "meaning": "bicycle",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-005",
+     "kana": "ちかてつ",
+     "kanji": "地下鉄",
+     "meaning": "subway",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-006",
+     "kana": "しんかんせん",
+     "kanji": "新幹線",
+     "meaning": "bullet train",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-007",
+     "kana": "ひこうき",
+     "kanji": "飛行機",
+     "meaning": "plane",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-008",
+     "kana": "ふね",
+     "kanji": "船",
+     "meaning": "ship, boat",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-009",
+     "kana": "バスてい",
+     "kanji": "バス停",
+     "meaning": "bus stop",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-010",
+     "kana": "きっぷ",
+     "kanji": "切符",
+     "meaning": "ticket (train, bus)",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-011",
+     "kana": "かたみち",
+     "kanji": "片道",
+     "meaning": "one way",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-012",
+     "kana": "おうふく",
+     "kanji": "往復",
+     "meaning": "round trip",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-013",
+     "kana": "のりかえ",
+     "kanji": "乗り換え",
+     "meaning": "transfer, change of trains",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-014",
+     "kana": "しゅうでん",
+     "kanji": "終電",
+     "meaning": "last train of the day",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-015",
+     "kana": "ホーム",
+     "kanji": "",
+     "meaning": "platform",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-016",
+     "kana": "かいさつ",
+     "kanji": "改札",
+     "meaning": "ticket gate",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "trips",
+   "title": "Trips",
+   "words": [
+    {
+     "id": "l11-017",
+     "kana": "りょこう",
+     "kanji": "旅行",
+     "meaning": "trip, travel",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-018",
+     "kana": "せかい",
+     "kanji": "世界",
+     "meaning": "world",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-019",
+     "kana": "うみ",
+     "kanji": "海",
+     "meaning": "sea",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-020",
+     "kana": "やま",
+     "kanji": "山",
+     "meaning": "mountain",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-021",
+     "kana": "かわ",
+     "kanji": "川",
+     "meaning": "river",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-022",
+     "kana": "みずうみ",
+     "kanji": "湖",
+     "meaning": "lake",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-023",
+     "kana": "おんせん",
+     "kanji": "温泉",
+     "meaning": "hot spring",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-024",
+     "kana": "おみやげ",
+     "kanji": "お土産",
+     "meaning": "souvenir",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-025",
+     "kana": "よやく",
+     "kanji": "予約",
+     "meaning": "reservation",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-026",
+     "kana": "じかん",
+     "kanji": "時間",
+     "meaning": "time",
+     "category": "Nouns"
+    },
+    {
+     "id": "l11-027",
+     "kana": "ドライブ",
+     "kanji": "",
+     "meaning": "drive",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "going",
+   "title": "Going places",
+   "words": [
+    {
+     "id": "l11-028",
+     "kana": "のる",
+     "kanji": "乗る",
+     "meaning": "to ride, to get on",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l11-029",
+     "kana": "とまる",
+     "kanji": "泊まる",
+     "meaning": "to stay (overnight)",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l11-030",
+     "kana": "かかる",
+     "kanji": "",
+     "meaning": "to take (time, money)",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l11-031",
+     "kana": "もつ",
+     "kanji": "持つ",
+     "meaning": "to hold, to carry",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l11-032",
+     "kana": "なくす",
+     "kanji": "",
+     "meaning": "to lose (a thing)",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l11-033",
+     "kana": "おりる",
+     "kanji": "降りる",
+     "meaning": "to get off",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l11-034",
+     "kana": "きめる",
+     "kanji": "決める",
+     "meaning": "to decide",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l11-035",
+     "kana": "うんてんする",
+     "kanji": "運転する",
+     "meaning": "to drive",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l11-036",
+     "kana": "りょこうする",
+     "kanji": "旅行する",
+     "meaning": "to travel",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l11-037",
+     "kana": "もってくる",
+     "kanji": "持ってくる",
+     "meaning": "to bring (a thing)",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l11-038",
+     "kana": "つれてくる",
+     "kanji": "連れてくる",
+     "meaning": "to bring (a person)",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l11-039",
+     "kana": "もっていく",
+     "kanji": "持っていく",
+     "meaning": "to take (a thing) along",
+     "category": "Expressions"
+    }
+   ]
+  },
+  {
+   "id": "how",
+   "title": "How and why",
+   "words": [
+    {
+     "id": "l11-040",
+     "kana": "どうやって",
+     "kanji": "",
+     "meaning": "how, by what means",
+     "category": "Question words"
+    },
+    {
+     "id": "l11-041",
+     "kana": "どのぐらい",
+     "kanji": "",
+     "meaning": "how long; how much",
+     "category": "Question words"
+    },
+    {
+     "id": "l11-042",
+     "kana": "どうして",
+     "kanji": "",
+     "meaning": "why",
+     "category": "Question words"
+    },
+    {
+     "id": "l11-043",
+     "kana": "どっち／どちら",
+     "kanji": "",
+     "meaning": "which (of two); which way",
+     "category": "Question words"
+    },
+    {
+     "id": "l11-044",
+     "kana": "あるいて",
+     "kanji": "歩いて",
+     "meaning": "on foot",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l11-045",
+     "kana": "はじめて",
+     "kanji": "初めて",
+     "meaning": "for the first time",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l11-046",
+     "kana": "ゆっくり",
+     "kanji": "",
+     "meaning": "slowly; at ease",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l11-047",
+     "kana": "〜ぐらい",
+     "kanji": "",
+     "meaning": "about (an amount)",
+     "category": "Adverbs"
+    }
+   ]
+  }
+ ]
+}

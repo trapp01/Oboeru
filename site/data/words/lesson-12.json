@@ -1,0 +1,429 @@
+{
+ "lesson": 12,
+ "title": "Home and health",
+ "sections": [
+  {
+   "id": "home",
+   "title": "Home",
+   "words": [
+    {
+     "id": "l12-001",
+     "kana": "いえ",
+     "kanji": "家",
+     "meaning": "house, home",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-002",
+     "kana": "うち",
+     "kanji": "",
+     "meaning": "home, my place",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-003",
+     "kana": "へや",
+     "kanji": "部屋",
+     "meaning": "room",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-004",
+     "kana": "ドア",
+     "kanji": "",
+     "meaning": "door",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-005",
+     "kana": "まど",
+     "kanji": "窓",
+     "meaning": "window",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-006",
+     "kana": "つくえ",
+     "kanji": "机",
+     "meaning": "desk",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-007",
+     "kana": "いす",
+     "kanji": "",
+     "meaning": "chair",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-008",
+     "kana": "でんき",
+     "kanji": "電気",
+     "meaning": "light; electricity",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-009",
+     "kana": "エアコン",
+     "kanji": "",
+     "meaning": "air conditioner",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-010",
+     "kana": "おふろ",
+     "kanji": "お風呂",
+     "meaning": "bath",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-011",
+     "kana": "シャワー",
+     "kanji": "",
+     "meaning": "shower",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-012",
+     "kana": "おてあらい",
+     "kanji": "お手洗い",
+     "meaning": "restroom",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-013",
+     "kana": "パソコン",
+     "kanji": "",
+     "meaning": "computer, PC",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "housework",
+   "title": "Around the house",
+   "words": [
+    {
+     "id": "l12-014",
+     "kana": "あける",
+     "kanji": "開ける",
+     "meaning": "to open",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l12-015",
+     "kana": "しめる",
+     "kanji": "閉める",
+     "meaning": "to close",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l12-016",
+     "kana": "つける",
+     "kanji": "",
+     "meaning": "to turn on",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l12-017",
+     "kana": "すてる",
+     "kanji": "捨てる",
+     "meaning": "to throw away",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l12-018",
+     "kana": "かりる",
+     "kanji": "借りる",
+     "meaning": "to borrow",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l12-019",
+     "kana": "けす",
+     "kanji": "消す",
+     "meaning": "to turn off; to erase",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l12-020",
+     "kana": "つかう",
+     "kanji": "使う",
+     "meaning": "to use",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l12-021",
+     "kana": "あらう",
+     "kanji": "洗う",
+     "meaning": "to wash",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l12-022",
+     "kana": "すわる",
+     "kanji": "座る",
+     "meaning": "to sit down",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l12-023",
+     "kana": "たつ",
+     "kanji": "立つ",
+     "meaning": "to stand up",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l12-024",
+     "kana": "てつだう",
+     "kanji": "手伝う",
+     "meaning": "to help",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l12-025",
+     "kana": "かえす",
+     "kanji": "返す",
+     "meaning": "to give back",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l12-026",
+     "kana": "そうじする",
+     "kanji": "掃除する",
+     "meaning": "to clean",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l12-027",
+     "kana": "せんたくする",
+     "kanji": "洗濯する",
+     "meaning": "to do laundry",
+     "category": "Irregular verbs"
+    }
+   ]
+  },
+  {
+   "id": "body",
+   "title": "Body",
+   "words": [
+    {
+     "id": "l12-028",
+     "kana": "あたま",
+     "kanji": "頭",
+     "meaning": "head",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-029",
+     "kana": "かお",
+     "kanji": "顔",
+     "meaning": "face",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-030",
+     "kana": "かみ",
+     "kanji": "髪",
+     "meaning": "hair",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-031",
+     "kana": "め",
+     "kanji": "目",
+     "meaning": "eye",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-032",
+     "kana": "みみ",
+     "kanji": "耳",
+     "meaning": "ear",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-033",
+     "kana": "はな",
+     "kanji": "鼻",
+     "meaning": "nose",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-034",
+     "kana": "くち",
+     "kanji": "口",
+     "meaning": "mouth",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-035",
+     "kana": "は",
+     "kanji": "歯",
+     "meaning": "tooth",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-036",
+     "kana": "のど",
+     "kanji": "",
+     "meaning": "throat",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-037",
+     "kana": "くび",
+     "kanji": "首",
+     "meaning": "neck",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-038",
+     "kana": "かた",
+     "kanji": "肩",
+     "meaning": "shoulder",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-039",
+     "kana": "て",
+     "kanji": "手",
+     "meaning": "hand",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-040",
+     "kana": "ゆび",
+     "kanji": "指",
+     "meaning": "finger",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-041",
+     "kana": "あし",
+     "kanji": "足",
+     "meaning": "foot; leg",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-042",
+     "kana": "おなか",
+     "kanji": "",
+     "meaning": "belly, stomach",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-043",
+     "kana": "せなか",
+     "kanji": "背中",
+     "meaning": "back",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "health",
+   "title": "Feeling ill",
+   "words": [
+    {
+     "id": "l12-044",
+     "kana": "びょうき",
+     "kanji": "病気",
+     "meaning": "illness",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-045",
+     "kana": "かぜ",
+     "kanji": "風邪",
+     "meaning": "a cold",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-046",
+     "kana": "せき",
+     "kanji": "",
+     "meaning": "cough",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-047",
+     "kana": "くすり",
+     "kanji": "薬",
+     "meaning": "medicine",
+     "category": "Nouns"
+    },
+    {
+     "id": "l12-048",
+     "kana": "いたい",
+     "kanji": "痛い",
+     "meaning": "painful, sore",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l12-049",
+     "kana": "かぜをひく",
+     "kanji": "風邪をひく",
+     "meaning": "to catch a cold",
+     "category": "Expressions"
+    },
+    {
+     "id": "l12-050",
+     "kana": "ねつがある",
+     "kanji": "熱がある",
+     "meaning": "to have a fever",
+     "category": "Expressions"
+    },
+    {
+     "id": "l12-051",
+     "kana": "くすりをのむ",
+     "kanji": "薬を飲む",
+     "meaning": "to take medicine",
+     "category": "Expressions"
+    },
+    {
+     "id": "l12-052",
+     "kana": "せがたかい",
+     "kanji": "背が高い",
+     "meaning": "tall (of a person)",
+     "category": "Expressions"
+    },
+    {
+     "id": "l12-053",
+     "kana": "せがひくい",
+     "kanji": "背が低い",
+     "meaning": "short (of a person)",
+     "category": "Expressions"
+    },
+    {
+     "id": "l12-054",
+     "kana": "つかれる",
+     "kanji": "疲れる",
+     "meaning": "to get tired",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l12-055",
+     "kana": "しんぱいする",
+     "kanji": "心配する",
+     "meaning": "to worry",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l12-056",
+     "kana": "たぶん",
+     "kanji": "多分",
+     "meaning": "probably",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l12-057",
+     "kana": "できるだけ",
+     "kanji": "",
+     "meaning": "as much as one can",
+     "category": "Adverbs"
+    }
+   ]
+  }
+ ]
+}

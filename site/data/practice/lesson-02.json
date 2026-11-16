@@ -1,0 +1,350 @@
+{
+  "lesson": 2,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Read the number aloud in Japanese.",
+      "kind": "typed",
+      "example": { "cue": "45", "answer": "四十五[よんじゅうご]" },
+      "items": [
+        {
+          "id": "l02-p001",
+          "cue": "14",
+          "answers": [
+            "十四[じゅうよん]",
+            "十四[じゅうし]"
+          ],
+          "en": "fourteen"
+        },
+        {
+          "id": "l02-p002",
+          "cue": "27",
+          "answers": [
+            "二十七[にじゅうなな]",
+            "二十七[にじゅうしち]"
+          ],
+          "en": "twenty-seven"
+        },
+        {
+          "id": "l02-p003",
+          "cue": "99",
+          "answers": [
+            "九十九[きゅうじゅうきゅう]",
+            "九十九[きゅうじゅうく]"
+          ],
+          "en": "ninety-nine"
+        },
+        {
+          "id": "l02-p004",
+          "cue": "300",
+          "answers": [
+            "三百[さんびゃく]"
+          ],
+          "en": "three hundred"
+        },
+        {
+          "id": "l02-p005",
+          "cue": "3,000",
+          "answers": [
+            "三千[さんぜん]"
+          ],
+          "en": "three thousand"
+        },
+        {
+          "id": "l02-p006",
+          "cue": "8,000",
+          "answers": [
+            "八千[はっせん]"
+          ],
+          "en": "eight thousand"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Say the price aloud in Japanese.",
+      "kind": "typed",
+      "example": { "cue": "¥250", "answer": "二百五十円[にひゃくごじゅうえん]" },
+      "items": [
+        {
+          "id": "l02-p007",
+          "cue": "¥380",
+          "answers": [
+            "三百八十円[さんびゃくはちじゅうえん]"
+          ],
+          "en": "380 yen"
+        },
+        {
+          "id": "l02-p008",
+          "cue": "¥640",
+          "answers": [
+            "六百四十円[ろっぴゃくよんじゅうえん]"
+          ],
+          "en": "640 yen"
+        },
+        {
+          "id": "l02-p009",
+          "cue": "¥890",
+          "answers": [
+            "八百九十円[はっぴゃくきゅうじゅうえん]"
+          ],
+          "en": "890 yen"
+        },
+        {
+          "id": "l02-p010",
+          "cue": "¥1,600",
+          "answers": [
+            "千六百円[せんろっぴゃくえん]"
+          ],
+          "en": "1,600 yen"
+        },
+        {
+          "id": "l02-p011",
+          "cue": "¥8,300",
+          "answers": [
+            "八千三百円[はっせんさんびゃくえん]"
+          ],
+          "en": "8,300 yen"
+        },
+        {
+          "id": "l02-p012",
+          "cue": "¥12,000",
+          "answers": [
+            "一万二千円[いちまんにせんえん]"
+          ],
+          "en": "12,000 yen"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Say the time aloud in Japanese.",
+      "kind": "typed",
+      "example": { "cue": "2:00", "answer": "二時[にじ]" },
+      "items": [
+        {
+          "id": "l02-p013",
+          "cue": "4:00",
+          "answers": [
+            "四時[よじ]"
+          ],
+          "en": "four o'clock"
+        },
+        {
+          "id": "l02-p014",
+          "cue": "7:00",
+          "answers": [
+            "七時[しちじ]"
+          ],
+          "en": "seven o'clock"
+        },
+        {
+          "id": "l02-p015",
+          "cue": "9:00",
+          "answers": [
+            "九時[くじ]"
+          ],
+          "en": "nine o'clock"
+        },
+        {
+          "id": "l02-p016",
+          "cue": "1:01",
+          "answers": [
+            "一時一分[いちじいっぷん]"
+          ],
+          "en": "one minute past one"
+        },
+        {
+          "id": "l02-p017",
+          "cue": "6:03",
+          "answers": [
+            "六時三分[ろくじさんぷん]"
+          ],
+          "en": "three minutes past six"
+        },
+        {
+          "id": "l02-p018",
+          "cue": "10:10",
+          "answers": [
+            "十時十分[じゅうじじゅっぷん]",
+            "十時十分[じゅうじじっぷん]"
+          ],
+          "en": "ten past ten"
+        },
+        {
+          "id": "l02-p019",
+          "cue": "9:30 a.m.",
+          "answers": [
+            "午前[ごぜん]九時半[くじはん]"
+          ],
+          "en": "half past nine in the morning"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Say how many there are, counting with 〜つ.",
+      "kind": "typed",
+      "example": { "cue": "rice balls · 1", "answer": "一[ひと]つ" },
+      "items": [
+        {
+          "id": "l02-p020",
+          "cue": "apples · 2",
+          "answers": [
+            "二[ふた]つ"
+          ],
+          "en": "two"
+        },
+        {
+          "id": "l02-p021",
+          "cue": "oranges · 3",
+          "answers": [
+            "三[みっ]つ"
+          ],
+          "en": "three"
+        },
+        {
+          "id": "l02-p022",
+          "cue": "eggs · 4",
+          "answers": [
+            "四[よっ]つ"
+          ],
+          "en": "four"
+        },
+        {
+          "id": "l02-p023",
+          "cue": "cups · 6",
+          "answers": [
+            "六[むっ]つ"
+          ],
+          "en": "six"
+        },
+        {
+          "id": "l02-p024",
+          "cue": "chairs · 8",
+          "answers": [
+            "八[やっ]つ"
+          ],
+          "en": "eight"
+        },
+        {
+          "id": "l02-p025",
+          "cue": "bags · 9",
+          "answers": [
+            "九[ここの]つ"
+          ],
+          "en": "nine"
+        },
+        {
+          "id": "l02-p026",
+          "cue": "cakes · 10",
+          "answers": [
+            "十[とお]"
+          ],
+          "en": "ten"
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Answer the question from the clock, with 午前 or 午後 when the clock gives a.m. or p.m.",
+      "kind": "typed",
+      "example": { "cue": "今[いま]何時[なんじ]ですか。", "answer": "五時[ごじ]です。" },
+      "items": [
+        {
+          "id": "l02-p027",
+          "cue": "今[いま]何時[なんじ]ですか。",
+          "context": "The clock says 4:30.",
+          "cueEn": "What time is it now?",
+          "answers": [
+            "四時半[よじはん]です。"
+          ],
+          "en": "It's half past four.",
+          "breakdown": [
+            { "text": "四時半", "en": "half past four" },
+            { "text": "です", "en": "it is" }
+          ]
+        },
+        {
+          "id": "l02-p028",
+          "cue": "今[いま]何時[なんじ]ですか。",
+          "context": "The clock says 7:10.",
+          "cueEn": "What time is it now?",
+          "answers": [
+            "七時十分[しちじじゅっぷん]です。",
+            "七時十分[しちじじっぷん]です。"
+          ],
+          "en": "It's ten past seven.",
+          "breakdown": [
+            { "text": "七時十分", "en": "ten past seven" },
+            { "text": "です", "en": "it is" }
+          ]
+        },
+        {
+          "id": "l02-p029",
+          "cue": "今[いま]何時[なんじ]ですか。",
+          "context": "The clock says 9:03.",
+          "cueEn": "What time is it now?",
+          "answers": [
+            "九時三分[くじさんぷん]です。"
+          ],
+          "en": "It's three minutes past nine.",
+          "breakdown": [
+            { "text": "九時三分", "en": "three minutes past nine" },
+            { "text": "です", "en": "it is" }
+          ]
+        },
+        {
+          "id": "l02-p030",
+          "cue": "今[いま]何時[なんじ]ですか。",
+          "context": "The clock says 2:30 p.m.",
+          "cueEn": "What time is it now?",
+          "answers": [
+            "午後[ごご]二時半[にじはん]です。"
+          ],
+          "en": "It's half past two in the afternoon.",
+          "breakdown": [
+            { "text": "午後", "en": "p.m." },
+            { "text": "二時半", "en": "half past two" },
+            { "text": "です", "en": "it is" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "instruction": "Answer for yourself, where you are right now.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l02-p031",
+          "cue": "今[いま]何時[なんじ]ですか。",
+          "cueEn": "What time is it now?",
+          "answers": [
+            "午後[ごご]三時半[さんじはん]です。",
+            "十時[じゅうじ]ごろです。"
+          ],
+          "en": "It's half past three in the afternoon.",
+          "breakdown": [
+            { "text": "午後", "en": "p.m." },
+            { "text": "三時半", "en": "half past three" },
+            { "text": "です", "en": "it is" }
+          ]
+        },
+        {
+          "id": "l02-p032",
+          "cue": "the price of a cup of coffee where you live",
+          "answers": [
+            "三百五十円[さんびゃくごじゅうえん]です。",
+            "四百二十円[よんひゃくにじゅうえん]です。"
+          ],
+          "en": "It's 350 yen.",
+          "breakdown": [
+            { "text": "三百五十円", "en": "350 yen" },
+            { "text": "です", "en": "it is" }
+          ]
+        }
+      ]
+    }
+  ]
+}

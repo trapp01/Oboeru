@@ -1,0 +1,1600 @@
+{
+  "l10-001": {
+    "sentence": {
+      "ja": "土曜日[どようび]に{映画[えいが]}を見[み]ませんか。",
+      "en": "Do you want to see a movie on Saturday?",
+      "breakdown": [
+        {
+          "text": "土曜日",
+          "en": "Saturday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "映画",
+          "en": "movie"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "見ません",
+          "en": "don't watch",
+          "base": "見[み]る",
+          "baseEn": "to see, to watch"
+        },
+        {
+          "text": "か",
+          "en": "question marker (an invitation)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "agar",
+      "story": "You watch a **movie** projected onto a wobbling wall of *agar* jelly, and every explosion makes the actors' faces jiggle. Eiga: movie."
+    }
+  },
+  "l10-002": {
+    "sentence": {
+      "ja": "日本[にほん]の{音楽[おんがく]}をよく聞[き]きます。",
+      "en": "I often listen to Japanese music.",
+      "breakdown": [
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "の",
+          "en": "of, from (Japanese)"
+        },
+        {
+          "text": "音楽",
+          "en": "music"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "よく",
+          "en": "often"
+        },
+        {
+          "text": "聞きます",
+          "en": "listen (to)",
+          "base": "聞[き]く",
+          "baseEn": "to listen, to hear"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "on + gawk",
+      "story": "You switch the **music** *on* so loud that the whole street stops to *gawk* at your window, the glass buzzing with bass. On-gaku: music."
+    }
+  },
+  "l10-003": {
+    "sentence": {
+      "ja": "この{歌[うた]}が大好[だいす]きです。",
+      "en": "I love this song.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "歌",
+          "en": "song"
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "大好きです",
+          "en": "(I) love",
+          "base": "大好[だいす]き",
+          "baseEn": "very fond of, to love"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Utah",
+      "story": "Around a campfire in *Utah*, cowboys hum the same **song** night after night, the tune bouncing off the red rock. Uta: song."
+    }
+  },
+  "l10-004": {
+    "sentence": {
+      "ja": "田中[たなか]さんはあまり{テレビ}を見[み]ません。",
+      "en": "Tanaka-san doesn't watch much TV.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "あまり",
+          "en": "not much (with a negative)"
+        },
+        {
+          "text": "テレビ",
+          "en": "TV"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "見ません",
+          "en": "doesn't watch",
+          "base": "見[み]る",
+          "baseEn": "to see, to watch"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "television",
+      "story": "Japanese keeps the front of *television* and cuts the rest: te-re-bi, with the v turned into a b. Where English says **TV**, Japanese says terebi."
+    }
+  },
+  "l10-005": {
+    "sentence": {
+      "ja": "週末[しゅうまつ]は友達[ともだち]と{ゲーム}をします。",
+      "en": "On weekends I play games with my friends.",
+      "breakdown": [
+        {
+          "text": "週末",
+          "en": "weekend(s)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "友達",
+          "en": "friends"
+        },
+        {
+          "text": "と",
+          "en": "with"
+        },
+        {
+          "text": "ゲーム",
+          "en": "games"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "します",
+          "en": "play, do",
+          "base": "する",
+          "baseEn": "to do"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "game",
+      "story": "*Game* gets a long vowel and an extra beat: gē-mu, said \"geh-moo\", never \"gaym\". A video **game**, a board game, any game you play."
+    }
+  },
+  "l10-006": {
+    "sentence": {
+      "ja": "ケンさんは{スポーツ}をよく見[み]ます。",
+      "en": "Ken watches a lot of sports.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "スポーツ",
+          "en": "sports"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "よく",
+          "en": "a lot, often"
+        },
+        {
+          "text": "見ます",
+          "en": "watches",
+          "base": "見[み]る",
+          "baseEn": "to see, to watch"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sports",
+      "story": "Japanese drops the r of *sports* and gives each consonant a vowel: su-pō-tsu. The first u is so light it nearly vanishes, so it sounds like \"spōts\". **Sports**."
+    }
+  },
+  "l10-007": {
+    "sentence": {
+      "ja": "日曜日[にちようび]に{テニス}をしませんか。",
+      "en": "Do you want to play tennis on Sunday?",
+      "breakdown": [
+        {
+          "text": "日曜日",
+          "en": "Sunday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "テニス",
+          "en": "tennis"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "しません",
+          "en": "don't do (play)",
+          "base": "する",
+          "baseEn": "to do"
+        },
+        {
+          "text": "か",
+          "en": "question marker (an invitation)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tennis",
+      "story": "*Tennis* gains one extra beat, te-ni-su, the su bouncing off the end like a ball after the point is already over. **Tennis**."
+    }
+  },
+  "l10-008": {
+    "sentence": {
+      "ja": "毎週[まいしゅう]土曜日[どようび]に{サッカー}をします。",
+      "en": "I play soccer every Saturday.",
+      "breakdown": [
+        {
+          "text": "毎週",
+          "en": "every week"
+        },
+        {
+          "text": "土曜日",
+          "en": "Saturday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "サッカー",
+          "en": "soccer"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "します",
+          "en": "play",
+          "base": "する",
+          "baseEn": "to do"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "soccer",
+      "story": "*Soccer* becomes sak-kā: the double k is a tiny stop, like a foot trapping the ball, then a long ā. Same game, **soccer**."
+    }
+  },
+  "l10-009": {
+    "sentence": {
+      "ja": "父[ちち]とテレビで{野球[やきゅう]}を見[み]ました。",
+      "en": "I watched baseball on TV with my dad.",
+      "breakdown": [
+        {
+          "text": "父",
+          "en": "my dad"
+        },
+        {
+          "text": "と",
+          "en": "with"
+        },
+        {
+          "text": "テレビ",
+          "en": "TV"
+        },
+        {
+          "text": "で",
+          "en": "on (by means of)"
+        },
+        {
+          "text": "野球",
+          "en": "baseball"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "見ました",
+          "en": "watched",
+          "base": "見[み]る",
+          "baseEn": "to see, to watch"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yak cue",
+      "story": "A shaggy *yak* steps up to the plate holding a pool *cue* instead of a bat, and still knocks the **baseball** out of the park, crack. Ya-kyū: baseball."
+    }
+  },
+  "l10-010": {
+    "sentence": {
+      "ja": "冬[ふゆ]は毎週[まいしゅう]{スキー}をします。",
+      "en": "In winter I go skiing every week.",
+      "breakdown": [
+        {
+          "text": "冬",
+          "en": "winter"
+        },
+        {
+          "text": "は",
+          "en": "topic marker (in winter)"
+        },
+        {
+          "text": "毎週",
+          "en": "every week"
+        },
+        {
+          "text": "スキー",
+          "en": "skiing"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "します",
+          "en": "do",
+          "base": "する",
+          "baseEn": "to do"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ski",
+      "story": "*Ski* becomes su-kī: a whispered su in front and a long ee. With suru it means to go skiing. **Ski**."
+    }
+  },
+  "l10-011": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]海[うみ]で{サーフィン}をします。",
+      "en": "I go surfing in the sea every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "海",
+          "en": "sea"
+        },
+        {
+          "text": "で",
+          "en": "in (where it happens)"
+        },
+        {
+          "text": "サーフィン",
+          "en": "surfing"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "します",
+          "en": "do (go surfing)",
+          "base": "する",
+          "baseEn": "to do"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "surfing",
+      "story": "*Surfing* becomes sā-fin: the r melts into a long ā and the final g drops off the end of the wave. **Surfing**."
+    }
+  },
+  "l10-012": {
+    "sentence": {
+      "ja": "明日[あした]はサッカーの{試合[しあい]}があります。",
+      "en": "There's a soccer match tomorrow.",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "サッカー",
+          "en": "soccer"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "試合",
+          "en": "match, game"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be (of things), to have"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "she eyes",
+      "story": "At match point *she eyes* the ball like a hawk, sweat dripping, the crowd silent; one swing and the **match** is hers. Shiai: match, game."
+    }
+  },
+  "l10-013": {
+    "sentence": {
+      "ja": "金曜日[きんようび]、{カラオケ}に行[い]きませんか。",
+      "en": "Do you want to go to karaoke on Friday?",
+      "breakdown": [
+        {
+          "text": "金曜日",
+          "en": "Friday"
+        },
+        {
+          "text": "カラオケ",
+          "en": "karaoke"
+        },
+        {
+          "text": "に",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きません",
+          "en": "won't (we) go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "karaoke",
+      "story": "English borrowed *karaoke* from Japanese and bent it into \"carry-oh-key\". Say it back the original way, ka-ra-o-ke: kara (empty) plus oke (orchestra), a band with no singer until you grab the mic. **Karaoke**."
+    }
+  },
+  "l10-014": {
+    "sentence": {
+      "ja": "兄[あに]は毎晩[まいばん]{ギター}を弾[ひ]きます。",
+      "en": "My older brother plays the guitar every night.",
+      "breakdown": [
+        {
+          "text": "兄",
+          "en": "(my) older brother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "毎晩",
+          "en": "every night"
+        },
+        {
+          "text": "ギター",
+          "en": "guitar"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "弾きます",
+          "en": "plays",
+          "base": "弾[ひ]く",
+          "baseEn": "to play (strings or piano)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "guitar",
+      "story": "*Guitar* becomes gi-tā: a hard g with a short ee, then the r melts into a long ah. **Guitar**."
+    }
+  },
+  "l10-015": {
+    "sentence": {
+      "ja": "さくらさんは{ピアノ}が上手[じょうず]です。",
+      "en": "Sakura is good at the piano.",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "ピアノ",
+          "en": "piano"
+        },
+        {
+          "text": "が",
+          "en": "marks what she is good at"
+        },
+        {
+          "text": "上手です",
+          "en": "is good at",
+          "base": "上手[じょうず]",
+          "baseEn": "skillful, good at"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "piano",
+      "story": "*Piano* splits into three even beats, pi-a-no, ee-ah-oh, with no stress on any of them, like three keys pressed in a row. **Piano**."
+    }
+  },
+  "l10-016": {
+    "sentence": {
+      "ja": "土曜日[どようび]に{コンサート}に行[い]きました。",
+      "en": "I went to a concert on Saturday.",
+      "breakdown": [
+        {
+          "text": "土曜日",
+          "en": "Saturday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "コンサート",
+          "en": "concert"
+        },
+        {
+          "text": "に",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きました",
+          "en": "went",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "concert",
+      "story": "*Concert* becomes kon-sā-to: the er stretches into a long ah and a soft o lands on the final t. **Concert**."
+    }
+  },
+  "l10-017": {
+    "sentence": {
+      "ja": "コンサートの{チケット}を買[か]いました。",
+      "en": "I bought a concert ticket.",
+      "breakdown": [
+        {
+          "text": "コンサート",
+          "en": "concert"
+        },
+        {
+          "text": "の",
+          "en": "'s / for"
+        },
+        {
+          "text": "チケット",
+          "en": "ticket"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ticket",
+      "story": "*Ticket* becomes chi-ket-to: ti turns into chi, and the last t doubles with a little catch before the final o. **Ticket**."
+    }
+  },
+  "l10-018": {
+    "sentence": {
+      "ja": "うちで{パーティー}をしましょう。",
+      "en": "Let's have a party at my place.",
+      "breakdown": [
+        {
+          "text": "うち",
+          "en": "my place; home"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "パーティー",
+          "en": "party"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "しましょう",
+          "en": "let's have (do)",
+          "base": "する",
+          "baseEn": "to do"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "party",
+      "story": "*Party* loses its r and stretches both vowels, pā-tī, long enough to shout across a loud room. **Party**."
+    }
+  },
+  "l10-019": {
+    "sentence": {
+      "ja": "夏[なつ]の{お祭[まつ]り}で踊[おど]りました。",
+      "en": "We danced at the summer festival.",
+      "breakdown": [
+        {
+          "text": "夏",
+          "en": "summer"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "お祭り",
+          "en": "festival"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "踊りました",
+          "en": "danced",
+          "base": "踊[おど]る",
+          "baseEn": "to dance"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "o + mat + tree",
+      "story": "At the **festival** you spread a picnic *mat* under a *tree* hung with paper lanterns, drums thumping. The u is nearly silent: o-ma-tsri. O-matsuri: festival."
+    }
+  },
+  "l10-020": {
+    "sentence": {
+      "ja": "夏休[なつやす]みは{キャンプ}をしたり、泳[およ]いだりしました。",
+      "en": "Over summer vacation I went camping, swam, and so on.",
+      "breakdown": [
+        {
+          "text": "夏休み",
+          "en": "summer vacation"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "キャンプ",
+          "en": "camping"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "したり",
+          "en": "did things like (camping)",
+          "base": "する",
+          "baseEn": "to do"
+        },
+        {
+          "text": "泳いだりしました",
+          "en": "swam, and so on",
+          "base": "泳[およ]ぐ",
+          "baseEn": "to swim"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "camp",
+      "story": "*Camp* becomes kyan-pu: the a picks up a little y, the m turns into n, and a soft pu pops off the end like a tent peg. **Camp**, and camping."
+    }
+  },
+  "l10-021": {
+    "sentence": {
+      "ja": "週末[しゅうまつ]は父[ちち]と{つり}に行[い]きます。",
+      "en": "On weekends I go fishing with my dad.",
+      "breakdown": [
+        {
+          "text": "週末",
+          "en": "weekends"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "父",
+          "en": "my dad"
+        },
+        {
+          "text": "と",
+          "en": "with"
+        },
+        {
+          "text": "つり",
+          "en": "fishing"
+        },
+        {
+          "text": "に",
+          "en": "for (the purpose of going)"
+        },
+        {
+          "text": "行きます",
+          "en": "go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tree",
+      "story": "Your **fishing** line snags a *tree* on the far bank, and you reel until the whole tree bends like a rod, leaves shivering. Tsuri, said almost \"tsree\": fishing."
+    }
+  },
+  "l10-022": {
+    "sentence": {
+      "ja": "明日[あした]は{デート}です。",
+      "en": "I have a date tomorrow.",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "デート",
+          "en": "date (romantic)"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "date",
+      "story": "*Date* becomes dē-to, with a flat eh and a soft o added at the end. It is only the romantic **date**; a date on the calendar is a different word."
+    }
+  },
+  "l10-023": {
+    "sentence": {
+      "ja": "公園[こうえん]に{犬[いぬ]}がいます。",
+      "en": "There's a dog in the park.",
+      "breakdown": [
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "犬",
+          "en": "dog"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "います",
+          "en": "there is",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eee, nooo",
+      "story": "A **dog** grabs your sandwich off the bench and bolts, and you wail \"*Eee, nooo!*\" as crumbs spray across the grass. Inu: dog."
+    }
+  },
+  "l10-024": {
+    "sentence": {
+      "ja": "窓[まど]の前[まえ]に{猫[ねこ]}がいます。",
+      "en": "There's a cat in front of the window.",
+      "breakdown": [
+        {
+          "text": "窓",
+          "en": "window"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "前",
+          "en": "front"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "猫",
+          "en": "cat"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "います",
+          "en": "there is",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "neck, oh",
+      "story": "A **cat** drops off the bookshelf and drapes itself round your *neck*. \"*Oh!*\" Warm fur, a rumbling purr against your throat. Neko: cat."
+    }
+  },
+  "l10-025": {
+    "sentence": {
+      "ja": "昨日[きのう]、怖[こわ]い{夢[ゆめ]}を見[み]ました。",
+      "en": "I had a scary dream last night.",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "怖い",
+          "en": "scary"
+        },
+        {
+          "text": "夢",
+          "en": "dream"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "見ました",
+          "en": "had (literally 'saw')",
+          "base": "見[み]る",
+          "baseEn": "to see; to have (a dream)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "you may",
+      "story": "In your **dream** a genie bows and says \"*You may*... fly\", and you float off the bed with the sheets trailing behind you. Yume: dream."
+    }
+  },
+  "l10-026": {
+    "sentence": {
+      "ja": "さくらさんはよく映画[えいが]を{見[み]ます}。",
+      "en": "Sakura watches a lot of movies.",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "よく",
+          "en": "a lot, often"
+        },
+        {
+          "text": "映画",
+          "en": "movies"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "見ます",
+          "en": "watches",
+          "base": "見[み]る",
+          "baseEn": "to see, to watch"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mirror",
+      "story": "You **look** into a *mirror* and catch your reflection already watching you, a second before you blink. Mi-ru: to see, look at, watch."
+    }
+  },
+  "l10-027": {
+    "sentence": {
+      "ja": "ケンさんはカラオケで{歌[うた]っています}。",
+      "en": "Ken is singing at karaoke.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "カラオケ",
+          "en": "karaoke"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "歌っています",
+          "en": "is singing",
+          "base": "歌[うた]う",
+          "baseEn": "to sing"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Utah + ooh",
+      "story": "On a red cliff in *Utah* you **sing** a single note, and the canyon sings it back to you: *ooh*. Uta-u: to sing."
+    }
+  },
+  "l10-028": {
+    "sentence": {
+      "ja": "パーティーで{踊[おど]りました}。",
+      "en": "I danced at the party.",
+      "breakdown": [
+        {
+          "text": "パーティー",
+          "en": "party"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "踊りました",
+          "en": "danced",
+          "base": "踊[おど]る",
+          "baseEn": "to dance"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, door",
+      "story": "Oh, *door*! you cry, lift the door off its hinges and **dance** a waltz with it, the handle rattling on every turn. Odo-ru: to dance."
+    }
+  },
+  "l10-029": {
+    "sentence": {
+      "ja": "海[うみ]で{泳[およ]ぎましょう}。",
+      "en": "Let's swim in the sea.",
+      "breakdown": [
+        {
+          "text": "海",
+          "en": "sea"
+        },
+        {
+          "text": "で",
+          "en": "in (where it happens)"
+        },
+        {
+          "text": "泳ぎましょう",
+          "en": "let's swim",
+          "base": "泳[およ]ぐ",
+          "baseEn": "to swim"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, yogurt",
+      "story": "\"*Oh!*\" You dive in and **swim** laps through a pool of *yogurt*, every stroke thick, cold and creamy. Oyog-u: to swim."
+    }
+  },
+  "l10-030": {
+    "sentence": {
+      "ja": "日曜日[にちようび]に友達[ともだち]と{遊[あそ]びます}。",
+      "en": "I'm hanging out with friends on Sunday.",
+      "breakdown": [
+        {
+          "text": "日曜日",
+          "en": "Sunday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "友達",
+          "en": "friends"
+        },
+        {
+          "text": "と",
+          "en": "with"
+        },
+        {
+          "text": "遊びます",
+          "en": "hang out, have fun",
+          "base": "遊[あそ]ぶ",
+          "baseEn": "to play, to spend time pleasantly"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a sob",
+      "story": "*A sob* echoes from the sandbox until you climb in to **play**, and it turns into giggles and flying sand in seconds. Asob-u: to play, to have a good time."
+    }
+  },
+  "l10-031": {
+    "sentence": {
+      "ja": "ピアノを{弾[ひ]く}のが好[す]きです。",
+      "en": "I like playing the piano.",
+      "breakdown": [
+        {
+          "text": "ピアノ",
+          "en": "piano"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "弾く",
+          "en": "to play (piano)"
+        },
+        {
+          "text": "の",
+          "en": "turns the verb into \"playing\""
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "好きです",
+          "en": "like",
+          "base": "好[す]き",
+          "baseEn": "liked, favorite"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hiccup",
+      "story": "Every time you **play** the guitar, a *hiccup* jerks your hand and the strings twang off key, hic, twang, hic. Hik-u: to play (a string instrument or piano)."
+    }
+  },
+  "l10-032": {
+    "sentence": {
+      "ja": "お寺[てら]で写真[しゃしん]を{撮[と]りました}。",
+      "en": "I took pictures at the temple.",
+      "breakdown": [
+        {
+          "text": "お寺",
+          "en": "temple"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "写真",
+          "en": "pictures"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "撮りました",
+          "en": "took (pictures)",
+          "base": "撮[と]る",
+          "baseEn": "to take (a picture)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tore, ooh",
+      "story": "You lean in to **take a picture** of a goat; it grabs your sleeve, the cloth *tore*, and you yelp \"*ooh!*\" as the flash goes off. To-ru: to take a photo."
+    }
+  },
+  "l10-033": {
+    "sentence": {
+      "ja": "田中[たなか]さんは犬[いぬ]を{飼[か]っています}。",
+      "en": "Tanaka-san has a dog.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "犬",
+          "en": "dog"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飼っています",
+          "en": "owns (as a pet)",
+          "base": "飼[か]う",
+          "baseEn": "to own (a pet)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cow",
+      "story": "You buy a *cow* and keep it as a pet, so now you **own** a cow that naps on your sofa, mooing. Ka-u: to own a pet. Same sound as kau, to buy."
+    }
+  },
+  "l10-034": {
+    "sentence": {
+      "ja": "日本[にほん]の山[やま]に{登[のぼ]った}ことがありますか。",
+      "en": "Have you ever climbed a mountain in Japan?",
+      "breakdown": [
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "の",
+          "en": "of; here 'in Japan'"
+        },
+        {
+          "text": "山",
+          "en": "mountain"
+        },
+        {
+          "text": "に",
+          "en": "marks the place climbed"
+        },
+        {
+          "text": "登った",
+          "en": "climbed",
+          "base": "登[のぼ]る",
+          "baseEn": "to climb"
+        },
+        {
+          "text": "こと",
+          "en": "the experience of"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "あります",
+          "en": "have (there is)",
+          "base": "ある",
+          "baseEn": "to exist, to have"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "no, bro",
+      "story": "Halfway up the cliff your friend yells \"*No, bro!*\" but you keep **climbing**, fingers jammed in cold rock, pebbles skittering down. Nobo-ru: to climb."
+    }
+  },
+  "l10-035": {
+    "sentence": {
+      "ja": "日曜日[にちようび]にゲームを{やりません}か。",
+      "en": "Do you want to play video games on Sunday?",
+      "breakdown": [
+        {
+          "text": "日曜日",
+          "en": "Sunday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "ゲーム",
+          "en": "video games"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "やりません",
+          "en": "won't (you) play",
+          "base": "やる",
+          "baseEn": "to do; to play"
+        },
+        {
+          "text": "か",
+          "en": "question marker (an invitation)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yah, roo!",
+      "story": "\"*Yah, roo!*\" you cheer as a kangaroo **does** fifty push-ups on the gym mat, then performs a backflip for the crowd. Yar-u: to do, to perform; a casual word for suru."
+    }
+  },
+  "l10-036": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]公園[こうえん]で{運動[うんどう]します}。",
+      "en": "I exercise in the park every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "運動します",
+          "en": "exercise",
+          "base": "運動[うんどう]する",
+          "baseEn": "to exercise"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "undo",
+      "story": "You **exercise** so hard that every button on your shirt pops *undo*ne, ping, ping, ping, across the gym floor. Undō plus suru, to do: to exercise."
+    }
+  },
+  "l10-037": {
+    "sentence": {
+      "ja": "夜[よる]、犬[いぬ]と{散歩[さんぽ]します}。",
+      "en": "I take a walk with my dog at night.",
+      "breakdown": [
+        {
+          "text": "夜",
+          "en": "at night"
+        },
+        {
+          "text": "犬",
+          "en": "(my) dog"
+        },
+        {
+          "text": "と",
+          "en": "with"
+        },
+        {
+          "text": "散歩します",
+          "en": "take a walk",
+          "base": "散歩[さんぽ]する",
+          "baseEn": "to take a walk"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shampoo (no sh)",
+      "story": "You *shampoo* the dog, then **take a walk** round the block so it can dry, suds still dripping on the sidewalk and a smell of apples trailing behind. Sanpo plus suru: to take a walk."
+    }
+  },
+  "l10-038": {
+    "sentence": {
+      "ja": "私[わたし]は日本[にほん]の映画[えいが]が{好[す]き}です。",
+      "en": "I like Japanese movies.",
+      "breakdown": [
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "の",
+          "en": "of (Japan's, so 'Japanese')"
+        },
+        {
+          "text": "映画",
+          "en": "movies"
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "好きです",
+          "en": "like",
+          "base": "好[す]き",
+          "baseEn": "fond of; to like"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ski, said \"skee\"",
+      "story": "You are so **fond of** skiing that you *ski* to breakfast, skis scraping across the kitchen tiles. The u nearly vanishes, so suki sounds like \"skee\". Suki: to like."
+    }
+  },
+  "l10-039": {
+    "sentence": {
+      "ja": "田中[たなか]さんはサーフィンが{大好[だいす]き}です。",
+      "en": "Tanaka-san loves surfing.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "サーフィン",
+          "en": "surfing"
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "大好きです",
+          "en": "loves",
+          "base": "大好[だいす]き",
+          "baseEn": "very fond of; to love"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "dai (dye) + suki (ski)",
+      "story": "Dai is big, so a big like is **love**. You love skiing so much you *dye* the whole slope pink and *ski* down it shrieking. Dai-suki: to love."
+    }
+  },
+  "l10-040": {
+    "sentence": {
+      "ja": "私[わたし]は野菜[やさい]が{嫌[きら]い}です。",
+      "en": "I dislike vegetables.",
+      "breakdown": [
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "野菜",
+          "en": "vegetables"
+        },
+        {
+          "text": "が",
+          "en": "marks what is disliked"
+        },
+        {
+          "text": "嫌いです",
+          "en": "dislike",
+          "base": "嫌[きら]い",
+          "baseEn": "disgusted with; to dislike"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "key + rye",
+      "story": "You **dislike** it so much that you take a *key* and lock every loaf of *rye* bread in the cellar, crumbs and all. Kirai: to dislike."
+    }
+  },
+  "l10-041": {
+    "sentence": {
+      "ja": "さくらさんは歌[うた]が{上手[じょうず]}です。",
+      "en": "Sakura is good at singing.",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "歌",
+          "en": "singing; songs"
+        },
+        {
+          "text": "が",
+          "en": "marks what one is good at"
+        },
+        {
+          "text": "上手です",
+          "en": "is good at",
+          "base": "上手[じょうず]",
+          "baseEn": "skillful; good at"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Joe's (zoo)",
+      "story": "The kanji say \"upper hand\". At *Joe's* zoo the keeper is so **skillful** he juggles three penguins with his upper hand and never drops a flipper. Jōzu: skillful, good at."
+    }
+  },
+  "l10-042": {
+    "sentence": {
+      "ja": "私[わたし]は料理[りょうり]が{下手[へた]}です。",
+      "en": "I'm bad at cooking.",
+      "breakdown": [
+        {
+          "text": "私",
+          "en": "I"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "料理",
+          "en": "cooking"
+        },
+        {
+          "text": "が",
+          "en": "marks what one is bad at"
+        },
+        {
+          "text": "下手です",
+          "en": "am bad at",
+          "base": "下手[へた]",
+          "baseEn": "clumsy; poor at"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "heh, ta(-da)",
+      "story": "The opposite of jōzu; its kanji say \"lower hand\". A **clumsy** magician drops the whole deck, the rabbit bolts, and he grins weakly: \"*Heh... ta*-da?\" Heta: clumsy, poor at."
+    }
+  },
+  "l10-043": {
+    "sentence": {
+      "ja": "ケンさんは学校[がっこう]で{人気[にんき]があります}。",
+      "en": "Ken is popular at school.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "学校",
+          "en": "school"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "人気",
+          "en": "popularity"
+        },
+        {
+          "text": "が",
+          "en": "marks what he has"
+        },
+        {
+          "text": "あります",
+          "en": "has (人気がある: is popular)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ninja key + ga aru",
+      "story": "Every kid wants the *ninja key* chain; the shop sells out by noon and the line wraps round the block. Literally popularity exists. Ninki ga aru: **to be popular**."
+    }
+  },
+  "l10-044": {
+    "sentence": {
+      "ja": "日本[にほん]の歴史[れきし]に{興味[きょうみ]があります}。",
+      "en": "I'm interested in Japanese history.",
+      "breakdown": [
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "歴史",
+          "en": "history"
+        },
+        {
+          "text": "に",
+          "en": "in (the topic)"
+        },
+        {
+          "text": "興味",
+          "en": "interest"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "あります",
+          "en": "have",
+          "base": "ある",
+          "baseEn": "to be (of things), to have"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Kyoto + me (kyōmi, interest) + ga aru",
+      "story": "'Who wants to see *Kyoto*?' '*Me*!' Your hand shoots up before the guide finishes: you **are interested**. Kyōmi is interest, ni marks what in, ga aru says you have it."
+    }
+  }
+}

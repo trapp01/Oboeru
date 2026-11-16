@@ -1,0 +1,1940 @@
+{
+  "l12-001": {
+    "sentence": {
+      "ja": "六時[ろくじ]に{家[いえ]}に帰[かえ]ります。",
+      "en": "I go home at six.",
+      "breakdown": [
+        {
+          "text": "六時",
+          "en": "six o'clock"
+        },
+        {
+          "text": "に",
+          "en": "at (a time)"
+        },
+        {
+          "text": "家",
+          "en": "home"
+        },
+        {
+          "text": "に",
+          "en": "to (a place)"
+        },
+        {
+          "text": "帰ります",
+          "en": "go back",
+          "base": "帰[かえ]る",
+          "baseEn": "to go back, to return"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ee-yeh (a door creak)",
+      "story": "Every time you come back to your **house**, the old front door creaks a long \"*ee-yeh*\". Ie: the house, the building itself. One more i makes iie, \"no\"."
+    }
+  },
+  "l12-002": {
+    "sentence": {
+      "ja": "週末[しゅうまつ]、{うち}へ来[き]ませんか。",
+      "en": "Do you want to come over to my place this weekend?",
+      "breakdown": [
+        {
+          "text": "週末",
+          "en": "weekend"
+        },
+        {
+          "text": "うち",
+          "en": "my place"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "来ません",
+          "en": "don't come",
+          "base": "来[く]る",
+          "baseEn": "to come"
+        },
+        {
+          "text": "か",
+          "en": "question marker (an invitation)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ooh, cheese",
+      "story": "You walk into **my place** and smell toast with melted cheese: \"*Ooh, cheese!*\" Uchi is home as in where your people are; ie is the building."
+    }
+  },
+  "l12-003": {
+    "sentence": {
+      "ja": "私[わたし]の{部屋[へや]}に猫[ねこ]がいます。",
+      "en": "There's a cat in my room.",
+      "breakdown": [
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "'s (my)"
+        },
+        {
+          "text": "部屋",
+          "en": "room"
+        },
+        {
+          "text": "に",
+          "en": "in (where something is)"
+        },
+        {
+          "text": "猫",
+          "en": "cat"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "います",
+          "en": "there is (a living thing)",
+          "base": "いる",
+          "baseEn": "there is (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hey-yah!",
+      "story": "You kick open the door of your **room** with a karate \"*Hey-yah!*\" and a tower of laundry topples onto the floor. Heya: room."
+    }
+  },
+  "l12-004": {
+    "sentence": {
+      "ja": "あれはトイレの{ドア}ですよ。",
+      "en": "That over there is the restroom door.",
+      "breakdown": [
+        {
+          "text": "あれ",
+          "en": "that one (over there)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "トイレ",
+          "en": "restroom"
+        },
+        {
+          "text": "の",
+          "en": "'s, of"
+        },
+        {
+          "text": "ドア",
+          "en": "door"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "よ",
+          "en": "you know (pointing it out)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "door",
+      "story": "*Door* becomes do-a, two short beats, the r opening out into an ah. **Door**."
+    }
+  },
+  "l12-005": {
+    "sentence": {
+      "ja": "{窓[まど]}の近[ちか]くに猫[ねこ]がいます。",
+      "en": "There's a cat near the window.",
+      "breakdown": [
+        {
+          "text": "窓",
+          "en": "window"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "近く",
+          "en": "near, the area near"
+        },
+        {
+          "text": "に",
+          "en": "at (where it is)"
+        },
+        {
+          "text": "猫",
+          "en": "cat"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "います",
+          "en": "there is",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Ma, dough",
+      "story": "*Ma* slaps a lump of bread *dough* against the kitchen **window** to cool it, and it slides slowly down the glass, leaving a floury smear. Mado: window."
+    }
+  },
+  "l12-006": {
+    "sentence": {
+      "ja": "先生[せんせい]の{机[つくえ]}はあそこです。",
+      "en": "The teacher's desk is over there.",
+      "breakdown": [
+        {
+          "text": "先生",
+          "en": "teacher"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "机",
+          "en": "desk"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "あそこ",
+          "en": "over there"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "(i)t's cool, eh",
+      "story": "You slap your new **desk**, the polished wood humming under your palm: \"*It's cool, eh?*\" Clip it down to ts-ku-e and you have the word. Tsukue: desk."
+    }
+  },
+  "l12-007": {
+    "sentence": {
+      "ja": "机[つくえ]の前[まえ]に{いす}があります。",
+      "en": "There's a chair in front of the desk.",
+      "breakdown": [
+        {
+          "text": "机",
+          "en": "desk"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "前",
+          "en": "front"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "いす",
+          "en": "chair"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eee-sss (a squeak and a hiss)",
+      "story": "You drop onto an old **chair** and it squeals \"*eee*\", then the cushion sighs \"*sss*\" as the air leaks out. Isu: chair."
+    }
+  },
+  "l12-008": {
+    "sentence": {
+      "ja": "昨日[きのう]の夜[よる]は{電気[でんき]}がありませんでした。",
+      "en": "We had no electricity last night.",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "夜",
+          "en": "night"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "電気",
+          "en": "electricity"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "ありませんでした",
+          "en": "there wasn't",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "den + key",
+      "story": "You turn a brass *key* in the wall of your *den* and **electricity** crackles into every bulb, the whole room humming. Den-ki: electricity; also the light itself."
+    }
+  },
+  "l12-009": {
+    "sentence": {
+      "ja": "暑[あつ]いですから、{エアコン}をつけてもいいですか。",
+      "en": "It's hot, so may I turn on the air conditioner?",
+      "breakdown": [
+        {
+          "text": "暑いです",
+          "en": "it's hot",
+          "base": "暑[あつ]い",
+          "baseEn": "hot (weather)"
+        },
+        {
+          "text": "から",
+          "en": "so (gives the reason)"
+        },
+        {
+          "text": "エアコン",
+          "en": "air conditioner"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "つけてもいいです",
+          "en": "it's all right to turn on",
+          "base": "つける",
+          "baseEn": "to turn on"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "air conditioner",
+      "story": "*Air conditioner* shrinks to two short pieces: e-a for air, kon from the front of conditioner. E-a-kon, the **air conditioner**."
+    }
+  },
+  "l12-010": {
+    "sentence": {
+      "ja": "ホテルの{お風呂[ふろ]}はとても大[おお]きかったです。",
+      "en": "The bath at the hotel was really big.",
+      "breakdown": [
+        {
+          "text": "ホテル",
+          "en": "hotel"
+        },
+        {
+          "text": "の",
+          "en": "'s / at"
+        },
+        {
+          "text": "お風呂",
+          "en": "bath"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "大きかったです",
+          "en": "was big",
+          "base": "大[おお]きい",
+          "baseEn": "big"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "o + furrow",
+      "story": "Polite o plus *furrow*: you soak so long in the hot **bath** that your fingertips wrinkle into deep furrows and steam fogs the mirror. O-furo: bath."
+    }
+  },
+  "l12-011": {
+    "sentence": {
+      "ja": "ホテルの{シャワー}はとても熱[あつ]かったです。",
+      "en": "The shower at the hotel was really hot.",
+      "breakdown": [
+        {
+          "text": "ホテル",
+          "en": "hotel"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "シャワー",
+          "en": "shower"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very, really"
+        },
+        {
+          "text": "熱かったです",
+          "en": "was hot",
+          "base": "熱[あつ]い",
+          "baseEn": "hot (to the touch)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shower",
+      "story": "*Shower* becomes sha-wā: the -er at the end melts into a long ā. **Shower**."
+    }
+  },
+  "l12-012": {
+    "sentence": {
+      "ja": "すみません、{お手洗[てあら]い}はどこですか。",
+      "en": "Excuse me, where is the restroom?",
+      "breakdown": [
+        {
+          "text": "すみません",
+          "en": "excuse me"
+        },
+        {
+          "text": "お手洗い",
+          "en": "restroom"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "どこ",
+          "en": "where"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "o + te (hand) + arai (washing)",
+      "story": "Polite o, *te* for hand, *arai* for washing: the honourable hand-washing place, a politer word for the **restroom** than toire. O-te-arai: restroom."
+    }
+  },
+  "l12-013": {
+    "sentence": {
+      "ja": "この{パソコン}を使[つか]ってもいいですか。",
+      "en": "May I use this computer?",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "パソコン",
+          "en": "personal computer"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "使ってもいいです",
+          "en": "it's all right to use",
+          "base": "使[つか]う",
+          "baseEn": "to use"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "personal computer",
+      "story": "*Personal computer* is clipped to the front of each word: pa-so from pāsonaru, kon from konpyūtā. Paso-kon, a **personal computer**."
+    }
+  },
+  "l12-014": {
+    "sentence": {
+      "ja": "暑[あつ]いから、窓[まど]を{開[あ]けました}。",
+      "en": "It was hot, so I opened the window.",
+      "breakdown": [
+        {
+          "text": "暑い",
+          "en": "hot"
+        },
+        {
+          "text": "から",
+          "en": "because, so"
+        },
+        {
+          "text": "窓",
+          "en": "window"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "開けました",
+          "en": "opened",
+          "base": "開[あ]ける",
+          "baseEn": "to open"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a keg",
+      "story": "You pry **open** *a keg* and foam bursts out with a hiss, soaking your sleeves and smelling of hops. Ake-ru: to open something."
+    }
+  },
+  "l12-015": {
+    "sentence": {
+      "ja": "寒[さむ]いですから、ドアを{閉[し]めて}ください。",
+      "en": "It's cold, so please close the door.",
+      "breakdown": [
+        {
+          "text": "寒いです",
+          "en": "it's cold",
+          "base": "寒[さむ]い",
+          "baseEn": "cold (weather)"
+        },
+        {
+          "text": "から",
+          "en": "so (gives the reason)"
+        },
+        {
+          "text": "ドア",
+          "en": "door"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "閉めてください",
+          "en": "please close",
+          "base": "閉[し]める",
+          "baseEn": "to close (something)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shimmer",
+      "story": "The doorway starts to *shimmer* like heat haze, and you slam it **closed** before whatever is shimmering can step through. Shime-ru: to close, the opposite of ake-ru."
+    }
+  },
+  "l12-016": {
+    "sentence": {
+      "ja": "部屋[へや]のエアコンを{つけて}ください。",
+      "en": "Please turn on the air conditioner in the room.",
+      "breakdown": [
+        {
+          "text": "部屋",
+          "en": "room"
+        },
+        {
+          "text": "の",
+          "en": "of, in"
+        },
+        {
+          "text": "エアコン",
+          "en": "air conditioner"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "つけてください",
+          "en": "please turn on",
+          "base": "つける",
+          "baseEn": "to turn on"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sketch",
+      "story": "You *sketch* a light switch on the wall in chalk, press it, and the lamp clicks **on**. The kestrel's word, kes-u, turns it back off. Tsuke-ru: to turn on."
+    }
+  },
+  "l12-017": {
+    "sentence": {
+      "ja": "ここにごみを{捨[す]てないで}ください。",
+      "en": "Please don't throw trash away here.",
+      "breakdown": [
+        {
+          "text": "ここ",
+          "en": "here"
+        },
+        {
+          "text": "に",
+          "en": "in (where it ends up)"
+        },
+        {
+          "text": "ごみ",
+          "en": "trash"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "捨てないでください",
+          "en": "please don't throw away",
+          "base": "捨[す]てる",
+          "baseEn": "to throw away"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "stale",
+      "story": "The bread is *stale*, hard as a brick, so you **throw away** the whole loaf and it lands in the bin with a thud. Sute-ru: to throw away."
+    }
+  },
+  "l12-018": {
+    "sentence": {
+      "ja": "友達[ともだち]に自転車[じてんしゃ]を{借[か]りました}。",
+      "en": "I borrowed a bike from a friend.",
+      "breakdown": [
+        {
+          "text": "友達",
+          "en": "friend"
+        },
+        {
+          "text": "に",
+          "en": "from (the lender)"
+        },
+        {
+          "text": "自転車",
+          "en": "bicycle"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "借りました",
+          "en": "borrowed",
+          "base": "借[か]りる",
+          "baseEn": "to borrow"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "curry",
+      "story": "You **borrow** a pot of *curry* from your neighbour and carry it home across the hall, steam fogging your glasses. Kari-ru: to borrow; kaes-u gives it back."
+    }
+  },
+  "l12-019": {
+    "sentence": {
+      "ja": "部屋[へや]の電気[でんき]を{消[け]して}ください。",
+      "en": "Please turn off the light in the room.",
+      "breakdown": [
+        {
+          "text": "部屋",
+          "en": "room"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "電気",
+          "en": "light"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "消してください",
+          "en": "please turn off",
+          "base": "消[け]す",
+          "baseEn": "to turn off, to erase"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kestrel",
+      "story": "A *kestrel* swoops into your bedroom, pecks the switch, and the lamp clicks **off**; then it flaps across the whiteboard and wipes it clean. Kes-u: to turn off; also to erase."
+    }
+  },
+  "l12-020": {
+    "sentence": {
+      "ja": "このペンを{使[つか]って}もいいですか。",
+      "en": "May I use this pen?",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "ペン",
+          "en": "pen"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "使ってもいいです",
+          "en": "it's all right to use",
+          "base": "使[つか]う",
+          "baseEn": "to use"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "two cows",
+      "story": "You **use** *two cows* as a lawnmower, and their teeth tear across the grass with a steady crunch while you sip lemonade. Tsuka-u: to use."
+    }
+  },
+  "l12-021": {
+    "sentence": {
+      "ja": "手[て]を{洗[あら]って}ください。",
+      "en": "Please wash your hands.",
+      "breakdown": [
+        {
+          "text": "手",
+          "en": "hands"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "洗ってください",
+          "en": "please wash",
+          "base": "洗[あら]う",
+          "baseEn": "to wash"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a raw",
+      "story": "Mud swirls down the drain as you scrub *a raw* potato under the cold tap, because anything raw you always **wash** first. Ara-u: to wash."
+    }
+  },
+  "l12-022": {
+    "sentence": {
+      "ja": "どうぞ、ここに{座[すわ]って}ください。",
+      "en": "Please, have a seat here.",
+      "breakdown": [
+        {
+          "text": "どうぞ",
+          "en": "please (go ahead)"
+        },
+        {
+          "text": "ここ",
+          "en": "here"
+        },
+        {
+          "text": "に",
+          "en": "in (the seat)"
+        },
+        {
+          "text": "座ってください",
+          "en": "please sit down",
+          "base": "座[すわ]る",
+          "baseEn": "to sit down"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "swan",
+      "story": "You go to **sit down** on a park bench, but a *swan* is already on it, hissing and flapping, refusing to budge an inch. Suwa-ru: to sit down."
+    }
+  },
+  "l12-023": {
+    "sentence": {
+      "ja": "田中[たなか]さん、ちょっと{立[た]って}ください。",
+      "en": "Tanaka-san, could you stand up for a moment?",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "ちょっと",
+          "en": "for a moment"
+        },
+        {
+          "text": "立ってください",
+          "en": "please stand up",
+          "base": "立[た]つ",
+          "baseEn": "to stand up"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tattoo",
+      "story": "You **stand up** on your chair to show off a fresh *tattoo* across your calf, and the whole café stands up with you to get a look. Ta-tsu: to stand up."
+    }
+  },
+  "l12-024": {
+    "sentence": {
+      "ja": "週末[しゅうまつ]、母[はは]の料理[りょうり]を{手伝[てつだ]います}。",
+      "en": "On weekends I help my mother with the cooking.",
+      "breakdown": [
+        {
+          "text": "週末",
+          "en": "weekend"
+        },
+        {
+          "text": "母",
+          "en": "my mother"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "料理",
+          "en": "cooking"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "手伝います",
+          "en": "help",
+          "base": "手伝[てつだ]う",
+          "baseEn": "to help"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Ted's down",
+      "story": "\"*Ted's down!*\" someone shouts, and you rush to **help** haul your friend out of a snowdrift, his boots kicking and snow down your sleeves. Tetsuda-u: to help."
+    }
+  },
+  "l12-025": {
+    "sentence": {
+      "ja": "山田[やまだ]さんに傘[かさ]を{返[かえ]して}ください。",
+      "en": "Please give the umbrella back to Yamada-san.",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "に",
+          "en": "to (a person)"
+        },
+        {
+          "text": "傘",
+          "en": "umbrella"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "返してください",
+          "en": "please give back",
+          "base": "返[かえ]す",
+          "baseEn": "to return (a thing)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "caress",
+      "story": "Before you **return** your friend's borrowed guitar, you give its strings one long *caress*, a last soft strum, then hand it back. Kaes-u: to return a thing to someone."
+    }
+  },
+  "l12-026": {
+    "sentence": {
+      "ja": "部屋[へや]を{掃除[そうじ]して}ください。",
+      "en": "Please clean your room.",
+      "breakdown": [
+        {
+          "text": "部屋",
+          "en": "room"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "掃除してください",
+          "en": "please clean",
+          "base": "掃除[そうじ]する",
+          "baseEn": "to clean"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "so... jee(z)",
+      "story": "You open your brother's bedroom door and gasp, \"*So... jeez!*\", then spend all Saturday **cleaning** it, the mop squelching across sticky floorboards. Sōji suru: to clean."
+    }
+  },
+  "l12-027": {
+    "sentence": {
+      "ja": "週末[しゅうまつ]に服[ふく]を{洗濯[せんたく]します}。",
+      "en": "I wash my clothes on the weekend.",
+      "breakdown": [
+        {
+          "text": "週末",
+          "en": "weekend"
+        },
+        {
+          "text": "に",
+          "en": "on (a day or time)"
+        },
+        {
+          "text": "服",
+          "en": "clothes"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "洗濯します",
+          "en": "wash (do laundry)",
+          "base": "洗濯[せんたく]する",
+          "baseEn": "to do laundry"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cent + taco",
+      "story": "The laundromat machine takes one *cent* and one *taco*, so you **do the laundry** and pull out warm shirts that smell faintly of salsa. Sentaku suru: to do laundry."
+    }
+  },
+  "l12-028": {
+    "sentence": {
+      "ja": "{頭[あたま]}が痛[いた]いです。",
+      "en": "I have a headache.",
+      "breakdown": [
+        {
+          "text": "頭",
+          "en": "head"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "痛いです",
+          "en": "hurts",
+          "base": "痛[いた]い",
+          "baseEn": "painful, sore"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "atom + ma",
+      "story": "You bonk your **head** on a shelf, see *atoms* spinning round it like cartoon stars, and yell \"*Ma!*\" A-ta-ma: head."
+    }
+  },
+  "l12-029": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]、{顔[かお]}を洗[あら]います。",
+      "en": "I wash my face every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "顔",
+          "en": "face"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "洗います",
+          "en": "wash",
+          "base": "洗[あら]う",
+          "baseEn": "to wash"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cow",
+      "story": "A *cow* pushes its big wet **face** through your kitchen window and licks your cheek with a rough, warm tongue. Ka-o: face."
+    }
+  },
+  "l12-030": {
+    "sentence": {
+      "ja": "妹[いもうと]は{髪[かみ]}が長[なが]くてきれいです。",
+      "en": "My younger sister's hair is long and pretty.",
+      "breakdown": [
+        {
+          "text": "妹",
+          "en": "my younger sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "髪",
+          "en": "hair"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "長くて",
+          "en": "is long, and",
+          "base": "長[なが]い",
+          "baseEn": "long"
+        },
+        {
+          "text": "きれいです",
+          "en": "is pretty",
+          "base": "きれい",
+          "baseEn": "pretty, clean"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "calm me",
+      "story": "After a windy ferry ride your **hair** sticks straight up and seems to beg \"*calm me*\", so you press it down with both damp palms. Kami: hair."
+    }
+  },
+  "l12-031": {
+    "sentence": {
+      "ja": "姉[あね]は{目[め]}がきれいです。",
+      "en": "My older sister has beautiful eyes.",
+      "breakdown": [
+        {
+          "text": "姉",
+          "en": "my older sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "目",
+          "en": "eyes"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "きれいです",
+          "en": "are beautiful",
+          "base": "きれい",
+          "baseEn": "pretty, beautiful"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "meh",
+      "story": "A bored goat stares you down with one yellow **eye** and bleats a flat *meh*, chewing all the while. Me: eye."
+    }
+  },
+  "l12-032": {
+    "sentence": {
+      "ja": "うちの猫[ねこ]は{耳[みみ]}が大[おお]きいです。",
+      "en": "Our cat has big ears.",
+      "breakdown": [
+        {
+          "text": "うち",
+          "en": "our household"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "猫",
+          "en": "cat"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "耳",
+          "en": "ears"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "大きいです",
+          "en": "are big",
+          "base": "大[おお]きい",
+          "baseEn": "big"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mi, mi (sung scale)",
+      "story": "The choir member beside you sings warm-up scales straight into your **ear**, *mi, mi, mi*, until it rings. Mimi: ear."
+    }
+  },
+  "l12-033": {
+    "sentence": {
+      "ja": "犬[いぬ]は{鼻[はな]}がいいです。",
+      "en": "Dogs have a good nose.",
+      "breakdown": [
+        {
+          "text": "犬",
+          "en": "dogs"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "鼻",
+          "en": "nose"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "いいです",
+          "en": "is good",
+          "base": "いい",
+          "baseEn": "good"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ha... nah (a sneeze that won't come)",
+      "story": "You bury your **nose** in a flower, and it tickles: *ha... nah*, the sneeze that never arrives. Nose and flower share the sound hana. Hana: nose."
+    }
+  },
+  "l12-034": {
+    "sentence": {
+      "ja": "ケンさんは{口[くち]}が大[おお]きいです。",
+      "en": "Ken has a wide mouth.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "口",
+          "en": "mouth"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "大きいです",
+          "en": "is big (wide)",
+          "base": "大[おお]きい",
+          "baseEn": "big"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cool cheese",
+      "story": "At the picnic you open your **mouth** wide, and a friend lobs a cube of *cool cheese* straight in from three metres away. Kuchi: mouth."
+    }
+  },
+  "l12-035": {
+    "sentence": {
+      "ja": "毎晩[まいばん]{歯[は]}を磨[みが]きます。",
+      "en": "I brush my teeth every night.",
+      "breakdown": [
+        {
+          "text": "毎晩",
+          "en": "every night"
+        },
+        {
+          "text": "歯",
+          "en": "teeth"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "磨きます",
+          "en": "brush",
+          "base": "磨[みが]く",
+          "baseEn": "to brush, to polish"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ha!",
+      "story": "One short *ha!* and your gold **tooth** flashes in the sun. One ha is a tooth; haha, two of them, is your mother. Ha: tooth."
+    }
+  },
+  "l12-036": {
+    "sentence": {
+      "ja": "カラオケで歌[うた]いすぎて、{のど}が痛[いた]いです。",
+      "en": "I sang too much at karaoke, and my throat hurts.",
+      "breakdown": [
+        {
+          "text": "カラオケ",
+          "en": "karaoke"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "歌いすぎて",
+          "en": "sang too much, and",
+          "base": "歌[うた]いすぎる",
+          "baseEn": "to sing too much"
+        },
+        {
+          "text": "のど",
+          "en": "throat"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "痛いです",
+          "en": "hurts",
+          "base": "痛[いた]い",
+          "baseEn": "hurt; painful"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "no dough",
+      "story": "A lump of raw pizza *dough* lodges in your **throat**. '*No dough*!' you croak, swearing off it forever as it slides down, cold and gummy. Nodo: throat."
+    }
+  },
+  "l12-037": {
+    "sentence": {
+      "ja": "キリンは{首[くび]}が長[なが]いです。",
+      "en": "Giraffes have long necks.",
+      "breakdown": [
+        {
+          "text": "キリン",
+          "en": "giraffes"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "首",
+          "en": "neck"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "長いです",
+          "en": "is long",
+          "base": "長[なが]い",
+          "baseEn": "long"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cool bee",
+      "story": "A *cool bee* in tiny sunglasses lands on the back of your **neck** and crawls under your collar, buzzing. Kubi: neck."
+    }
+  },
+  "l12-038": {
+    "sentence": {
+      "ja": "猫[ねこ]が私[わたし]の{肩[かた]}に乗[の]っています。",
+      "en": "The cat is sitting on my shoulder.",
+      "breakdown": [
+        {
+          "text": "猫",
+          "en": "cat"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "'s (my)"
+        },
+        {
+          "text": "肩",
+          "en": "shoulder"
+        },
+        {
+          "text": "に",
+          "en": "on (a place)"
+        },
+        {
+          "text": "乗っています",
+          "en": "is sitting (up) on",
+          "base": "乗[の]る",
+          "baseEn": "to ride, to get on"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kata (karate form)",
+      "story": "Halfway through a karate *kata*, your partner's chop lands on your **shoulder**, thwack, and it aches all week. Kata: shoulder."
+    }
+  },
+  "l12-039": {
+    "sentence": {
+      "ja": "{手[て]}を上[あ]げてください。",
+      "en": "Please raise your hand.",
+      "breakdown": [
+        {
+          "text": "手",
+          "en": "hand"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "上げてください",
+          "en": "please raise",
+          "base": "上[あ]げる",
+          "baseEn": "to raise, to lift"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ten",
+      "story": "You hold up both **hands** and count *ten* fingers out loud, then the n falls off the end like a dropped ring. Te: hand."
+    }
+  },
+  "l12-040": {
+    "sentence": {
+      "ja": "赤[あか]ちゃんが私[わたし]の{指[ゆび]}を持[も]っています。",
+      "en": "The baby is holding my finger.",
+      "breakdown": [
+        {
+          "text": "赤ちゃん",
+          "en": "baby"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "'s (my)"
+        },
+        {
+          "text": "指",
+          "en": "finger"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "持っています",
+          "en": "is holding",
+          "base": "持[も]つ",
+          "baseEn": "to hold"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "you, bee",
+      "story": "A bee lands on your **finger** and stings it, and you shake the swelling finger at it: \"*You, bee!*\" Yubi: finger."
+    }
+  },
+  "l12-041": {
+    "sentence": {
+      "ja": "さくらさんは{足[あし]}が長[なが]いです。",
+      "en": "Sakura has long legs.",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "足",
+          "en": "legs"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "長いです",
+          "en": "are long",
+          "base": "長[なが]い",
+          "baseEn": "long"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ashy",
+      "story": "You wade barefoot through a cold fireplace, and your **legs** come out grey and *ashy* right up to the knee. Ashi: leg; foot."
+    }
+  },
+  "l12-042": {
+    "sentence": {
+      "ja": "{おなか}がすきました。",
+      "en": "I'm hungry.",
+      "breakdown": [
+        {
+          "text": "おなか",
+          "en": "stomach"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "すきました",
+          "en": "got empty (I'm hungry)",
+          "base": "すく",
+          "baseEn": "to become empty"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "o + naka (middle)",
+      "story": "O is polite and naka is middle: your **stomach** is your honourable middle. When it's empty it rumbles like someone at a door: *oh, knock-a, knock-a*. O-naka: stomach."
+    }
+  },
+  "l12-043": {
+    "sentence": {
+      "ja": "{背中[せなか]}がかゆいです。",
+      "en": "My back is itchy.",
+      "breakdown": [
+        {
+          "text": "背中",
+          "en": "back"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "かゆいです",
+          "en": "is itchy",
+          "base": "かゆい",
+          "baseEn": "itchy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "se (back) + naka (middle)",
+      "story": "Se is the back, the height you *say* things up to in se ga takai, and naka is middle. Senaka is the middle of your **back**, where an itch always lands out of reach. Se-naka: back."
+    }
+  },
+  "l12-044": {
+    "sentence": {
+      "ja": "先週[せんしゅう]は{病気[びょうき]}でした。",
+      "en": "I was sick last week.",
+      "breakdown": [
+        {
+          "text": "先週",
+          "en": "last week"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "病気",
+          "en": "sick (illness)"
+        },
+        {
+          "text": "でした",
+          "en": "was",
+          "base": "です",
+          "baseEn": "is, am, are"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "be okey",
+      "story": "Flat in bed with an **illness**, you keep croaking *be okey*, *be okey* through a stuffed nose that squashes okay into okey, the thermometer beeping. Byōki: illness."
+    }
+  },
+  "l12-045": {
+    "sentence": {
+      "ja": "{風邪[かぜ]}なので、早[はや]く寝[ね]ます。",
+      "en": "I have a cold, so I'm going to bed early.",
+      "breakdown": [
+        {
+          "text": "風邪",
+          "en": "a cold"
+        },
+        {
+          "text": "なので",
+          "en": "it is, so"
+        },
+        {
+          "text": "早く",
+          "en": "early",
+          "base": "早[はや]い",
+          "baseEn": "early"
+        },
+        {
+          "text": "寝ます",
+          "en": "go to bed",
+          "base": "寝[ね]る",
+          "baseEn": "to sleep, to go to bed"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kazoo",
+      "story": "Your **cold** has turned your nose into a *kazoo*: every sniffle buzzes, every blow honks, and wet tissues pile up around you. Kaze: a cold (wind is also kaze)."
+    }
+  },
+  "l12-046": {
+    "sentence": {
+      "ja": "{せき}が止[と]まらないんです。",
+      "en": "My cough won't stop.",
+      "breakdown": [
+        {
+          "text": "せき",
+          "en": "cough"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "止まらないんです",
+          "en": "won't stop (explaining)",
+          "base": "止[と]まる",
+          "baseEn": "to stop"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "set key",
+      "story": "One violent **cough** and you hack up a whole *set* of *keys* on a ring, jangling across the table. Seki: cough."
+    }
+  },
+  "l12-047": {
+    "sentence": {
+      "ja": "病院[びょういん]で{薬[くすり]}をもらいました。",
+      "en": "I got some medicine at the hospital.",
+      "breakdown": [
+        {
+          "text": "病院",
+          "en": "hospital"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "薬",
+          "en": "medicine"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "もらいました",
+          "en": "got, received",
+          "base": "もらう",
+          "baseEn": "to get (from somebody)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "coo, sorry",
+      "story": "A sick pigeon goes *coo*; you mutter *sorry* as you push a bitter **medicine** tablet into its beak, and it shudders every feather. Kusuri: medicine."
+    }
+  },
+  "l12-048": {
+    "sentence": {
+      "ja": "頭[あたま]が{痛[いた]い}んです。",
+      "en": "I have a headache.",
+      "breakdown": [
+        {
+          "text": "頭",
+          "en": "head"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "痛いんです",
+          "en": "hurts (explaining)",
+          "base": "痛[いた]い",
+          "baseEn": "hurt; painful"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eat a",
+      "story": "Dared by friends, you *eat a* whole cactus, and every spine **hurts** on the way down. Ita-i: painful; yelped on its own, itai! means ouch."
+    }
+  },
+  "l12-049": {
+    "sentence": {
+      "ja": "雨[あめ]の中[なか]を歩[ある]いて、{風邪[かぜ]をひきました}。",
+      "en": "I walked in the rain and caught a cold.",
+      "breakdown": [
+        {
+          "text": "雨",
+          "en": "rain"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "中",
+          "en": "inside, in"
+        },
+        {
+          "text": "を",
+          "en": "through (a place)"
+        },
+        {
+          "text": "歩いて",
+          "en": "walked, and",
+          "base": "歩[ある]く",
+          "baseEn": "to walk"
+        },
+        {
+          "text": "風邪",
+          "en": "a cold"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "ひきました",
+          "en": "caught",
+          "base": "ひく",
+          "baseEn": "to catch (a cold)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kaze (cold) + hiccup (hiku, to pull)",
+      "story": "Hiku means to pull: you **catch a cold** by pulling it in, like reeling a soggy *kazoo* out of an icy lake, *hiccup*ping with every tug. Kaze o hiku: to catch a cold."
+    }
+  },
+  "l12-050": {
+    "sentence": {
+      "ja": "{熱[ねつ]がある}ので、病院[びょういん]へ行[い]きます。",
+      "en": "I have a fever, so I'm going to the hospital.",
+      "breakdown": [
+        {
+          "text": "熱",
+          "en": "fever"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "ある",
+          "en": "have"
+        },
+        {
+          "text": "ので",
+          "en": "so"
+        },
+        {
+          "text": "病院",
+          "en": "hospital"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きます",
+          "en": "am going",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nets (netsu, fever) + ga aru",
+      "story": "You lie tangled in hot fishing *nets*, sweating, too weak to throw them off: you **have a fever**. Netsu is the fever, ga aru says you have one. Netsu ga aru."
+    }
+  },
+  "l12-051": {
+    "sentence": {
+      "ja": "まだ{薬[くすり]を飲[の]んでいません}。",
+      "en": "I haven't taken my medicine yet.",
+      "breakdown": [
+        {
+          "text": "まだ",
+          "en": "(not) yet"
+        },
+        {
+          "text": "薬",
+          "en": "medicine"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飲んでいません",
+          "en": "haven't taken",
+          "base": "飲[の]む",
+          "baseEn": "to drink; to take (medicine)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kusuri (medicine) + nomu (drink)",
+      "story": "Japanese drinks medicine instead of taking it: kusuri o *nomu*, even for a dry pill. You toss the tablet back and wash it down, glug. Kusuri o nomu: **to take medicine**."
+    }
+  },
+  "l12-052": {
+    "sentence": {
+      "ja": "ケンさんは{背[せ]が高[たか]い}です。",
+      "en": "Ken is tall.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "背が高いです",
+          "en": "is tall",
+          "base": "背[せ]が高[たか]い",
+          "baseEn": "tall (stature)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "se (height) + ga + takai (high)",
+      "story": "Your friend is so **tall** that you *say* everything upward, chin tilted to the ceiling. Se is height and takai is high: \"the height is high\". Se ga taka-i: tall."
+    }
+  },
+  "l12-053": {
+    "sentence": {
+      "ja": "妹[いもうと]は{背[せ]が低[ひく]い}です。",
+      "en": "My younger sister is short.",
+      "breakdown": [
+        {
+          "text": "妹",
+          "en": "my younger sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "背が低いです",
+          "en": "is short",
+          "base": "背[せ]が低[ひく]い",
+          "baseEn": "short (stature)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "se (height) + ga + hiku (hiccup)",
+      "story": "Your **short** cousin gets the *hiccups*, and with every hic he seems to sink lower. Se ga hikui, \"the height is low\"; use it for people, not mijikai. Se ga hiku-i: short."
+    }
+  },
+  "l12-054": {
+    "sentence": {
+      "ja": "たくさん歩[ある]いたから、{疲[つか]れました}。",
+      "en": "I walked a lot, so I'm tired.",
+      "breakdown": [
+        {
+          "text": "たくさん",
+          "en": "a lot"
+        },
+        {
+          "text": "歩いた",
+          "en": "walked",
+          "base": "歩[ある]く",
+          "baseEn": "to walk"
+        },
+        {
+          "text": "から",
+          "en": "so (because)"
+        },
+        {
+          "text": "疲れました",
+          "en": "got tired (am tired)",
+          "base": "疲[つか]れる",
+          "baseEn": "to get tired"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "two car(s)",
+      "story": "You push *two cars* up a hill, one after the other, and by the top you **get tired**: legs shaking, shirt soaked. Tsukare-ru: to get tired."
+    }
+  },
+  "l12-055": {
+    "sentence": {
+      "ja": "{心配[しんぱい]しない}でください。",
+      "en": "Please don't worry.",
+      "breakdown": [
+        {
+          "text": "心配しないでください",
+          "en": "please don't worry",
+          "base": "心配[しんぱい]する",
+          "baseEn": "to worry"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shin + pie",
+      "story": "You **worry** so much about the oven that you pace the kitchen, crack your *shin* on the door, and the *pie* burns anyway. Shinpai suru: to worry."
+    }
+  },
+  "l12-056": {
+    "sentence": {
+      "ja": "{たぶん}明日[あした]は雨[あめ]だと思[おも]います。",
+      "en": "I think it'll probably rain tomorrow.",
+      "breakdown": [
+        {
+          "text": "たぶん",
+          "en": "probably"
+        },
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "雨",
+          "en": "rain"
+        },
+        {
+          "text": "だ",
+          "en": "will be (short form)"
+        },
+        {
+          "text": "と",
+          "en": "that (quoting a thought)"
+        },
+        {
+          "text": "思います",
+          "en": "I think",
+          "base": "思[おも]う",
+          "baseEn": "to think"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "taboo + n",
+      "story": "Is it *taboo* to eat the last dumpling? **Probably**, you decide, chewing it slowly anyway while the whole table glares. Tabun: probably, maybe."
+    }
+  },
+  "l12-057": {
+    "sentence": {
+      "ja": "{できるだけ}野菜[やさい]を食[た]べたほうがいいですよ。",
+      "en": "You should eat as many vegetables as you can.",
+      "breakdown": [
+        {
+          "text": "できるだけ",
+          "en": "as much as possible"
+        },
+        {
+          "text": "野菜",
+          "en": "vegetables"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べたほうがいいです",
+          "en": "should eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        },
+        {
+          "text": "よ",
+          "en": "I'm telling you"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "dekiru (can do) + dake (only)",
+      "story": "Dekiru is 'can do', dake is 'only': only up to what you can. You pile your *deck* chair with books **as much as possible**, until it creaks and folds flat. Dekiru dake."
+    }
+  }
+}

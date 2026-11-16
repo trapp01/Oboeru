@@ -1,0 +1,408 @@
+{
+ "lesson": 6,
+ "title": "Food and drink",
+ "sections": [
+  {
+   "id": "meals",
+   "title": "Meals",
+   "words": [
+    {
+     "id": "l06-001",
+     "kana": "たべもの",
+     "kanji": "食べ物",
+     "meaning": "food",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-002",
+     "kana": "のみもの",
+     "kanji": "飲み物",
+     "meaning": "a drink",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-003",
+     "kana": "ごはん",
+     "kanji": "ご飯",
+     "meaning": "cooked rice; a meal",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-004",
+     "kana": "あさごはん",
+     "kanji": "朝ご飯",
+     "meaning": "breakfast",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-005",
+     "kana": "ひるごはん",
+     "kanji": "昼ご飯",
+     "meaning": "lunch",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-006",
+     "kana": "ばんごはん",
+     "kanji": "晩ご飯",
+     "meaning": "dinner",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-007",
+     "kana": "おべんとう",
+     "kanji": "お弁当",
+     "meaning": "boxed lunch",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-008",
+     "kana": "りょうり",
+     "kanji": "料理",
+     "meaning": "cooking; cuisine",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-009",
+     "kana": "おかし",
+     "kanji": "お菓子",
+     "meaning": "sweets, snacks",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-010",
+     "kana": "メニュー",
+     "kanji": "",
+     "meaning": "menu",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-011",
+     "kana": "はし",
+     "kanji": "",
+     "meaning": "chopsticks",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "words": [
+    {
+     "id": "l06-012",
+     "kana": "さかな",
+     "kanji": "魚",
+     "meaning": "fish",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-013",
+     "kana": "にく",
+     "kanji": "肉",
+     "meaning": "meat",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-014",
+     "kana": "やさい",
+     "kanji": "野菜",
+     "meaning": "vegetables",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-015",
+     "kana": "くだもの",
+     "kanji": "果物",
+     "meaning": "fruit",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-016",
+     "kana": "たまご",
+     "kanji": "卵",
+     "meaning": "egg",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-017",
+     "kana": "パン",
+     "kanji": "",
+     "meaning": "bread",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-018",
+     "kana": "りんご",
+     "kanji": "",
+     "meaning": "apple",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-019",
+     "kana": "いちご",
+     "kanji": "",
+     "meaning": "strawberry",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-020",
+     "kana": "みかん",
+     "kanji": "",
+     "meaning": "mandarin orange",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-021",
+     "kana": "トマト",
+     "kanji": "",
+     "meaning": "tomato",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-022",
+     "kana": "たまねぎ",
+     "kanji": "",
+     "meaning": "onion",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-023",
+     "kana": "じゃがいも",
+     "kanji": "",
+     "meaning": "potato",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-024",
+     "kana": "ぎゅうにく",
+     "kanji": "牛肉",
+     "meaning": "beef",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-025",
+     "kana": "ぶたにく",
+     "kanji": "豚肉",
+     "meaning": "pork",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-026",
+     "kana": "とりにく",
+     "kanji": "鶏肉",
+     "meaning": "chicken (meat)",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-027",
+     "kana": "すし",
+     "kanji": "",
+     "meaning": "sushi",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-028",
+     "kana": "てんぷら",
+     "kanji": "天ぷら",
+     "meaning": "tempura",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-029",
+     "kana": "ラーメン",
+     "kanji": "",
+     "meaning": "ramen",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-030",
+     "kana": "うどん",
+     "kanji": "",
+     "meaning": "udon noodles",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-031",
+     "kana": "おにぎり",
+     "kanji": "",
+     "meaning": "rice ball",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-032",
+     "kana": "みそしる",
+     "kanji": "みそ汁",
+     "meaning": "miso soup",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-033",
+     "kana": "カレーライス",
+     "kanji": "",
+     "meaning": "curry and rice",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-034",
+     "kana": "とんかつ",
+     "kanji": "",
+     "meaning": "pork cutlet",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-035",
+     "kana": "ハンバーガー",
+     "kanji": "",
+     "meaning": "hamburger",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-036",
+     "kana": "ピザ",
+     "kanji": "",
+     "meaning": "pizza",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-037",
+     "kana": "ケーキ",
+     "kanji": "",
+     "meaning": "cake",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-038",
+     "kana": "アイスクリーム",
+     "kanji": "",
+     "meaning": "ice cream",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "drinks",
+   "title": "Drinks",
+   "words": [
+    {
+     "id": "l06-039",
+     "kana": "みず",
+     "kanji": "水",
+     "meaning": "water",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-040",
+     "kana": "おちゃ",
+     "kanji": "お茶",
+     "meaning": "tea (green tea)",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-041",
+     "kana": "コーヒー",
+     "kanji": "",
+     "meaning": "coffee",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-042",
+     "kana": "ぎゅうにゅう",
+     "kanji": "牛乳",
+     "meaning": "milk",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-043",
+     "kana": "ジュース",
+     "kanji": "",
+     "meaning": "juice",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-044",
+     "kana": "ビール",
+     "kanji": "",
+     "meaning": "beer",
+     "category": "Nouns"
+    },
+    {
+     "id": "l06-045",
+     "kana": "おさけ",
+     "kanji": "お酒",
+     "meaning": "alcohol; sake",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "eating",
+   "title": "Eating and cooking",
+   "words": [
+    {
+     "id": "l06-046",
+     "kana": "たべる",
+     "kanji": "食べる",
+     "meaning": "to eat",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l06-047",
+     "kana": "のむ",
+     "kanji": "飲む",
+     "meaning": "to drink",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l06-048",
+     "kana": "つくる",
+     "kanji": "作る",
+     "meaning": "to make",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l06-049",
+     "kana": "きる",
+     "kanji": "切る",
+     "meaning": "to cut",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l06-050",
+     "kana": "りょうりする",
+     "kanji": "料理する",
+     "meaning": "to cook",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l06-051",
+     "kana": "おいしい",
+     "kanji": "",
+     "meaning": "delicious",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l06-052",
+     "kana": "あまい",
+     "kanji": "甘い",
+     "meaning": "sweet",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l06-053",
+     "kana": "おなかがすく",
+     "kanji": "",
+     "meaning": "to get hungry",
+     "category": "Expressions"
+    },
+    {
+     "id": "l06-054",
+     "kana": "のどがかわく",
+     "kanji": "喉が渇く",
+     "meaning": "to get thirsty",
+     "category": "Expressions"
+    }
+   ]
+  }
+ ]
+}

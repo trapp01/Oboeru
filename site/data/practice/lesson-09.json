@@ -1,0 +1,445 @@
+{
+  "lesson": 9,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Make the adjective negative.",
+      "kind": "typed",
+      "example": { "cue": "高[たか]い", "answer": "高[たか]くないです" },
+      "items": [
+        {
+          "id": "l09-p001",
+          "cue": "大[おお]きい",
+          "answers": [
+            "大[おお]きくないです",
+            "大[おお]きくありません"
+          ],
+          "en": "isn't big"
+        },
+        {
+          "id": "l09-p002",
+          "cue": "いい",
+          "answers": [
+            "よくないです",
+            "よくありません"
+          ],
+          "en": "isn't good"
+        },
+        {
+          "id": "l09-p003",
+          "cue": "面白[おもしろ]い",
+          "answers": [
+            "面白[おもしろ]くないです",
+            "面白[おもしろ]くありません"
+          ],
+          "en": "isn't interesting"
+        },
+        {
+          "id": "l09-p004",
+          "cue": "静[しず]か",
+          "answers": [
+            "静[しず]かじゃないです",
+            "静[しず]かではありません",
+            "静[しず]かじゃありません"
+          ],
+          "en": "isn't quiet"
+        },
+        {
+          "id": "l09-p005",
+          "cue": "きれい",
+          "answers": [
+            "きれいじゃないです",
+            "きれいではありません",
+            "きれいじゃありません"
+          ],
+          "en": "isn't pretty"
+        },
+        {
+          "id": "l09-p006",
+          "cue": "便利[べんり]",
+          "answers": [
+            "便利[べんり]じゃないです",
+            "便利[べんり]ではありません",
+            "便利[べんり]じゃありません"
+          ],
+          "en": "isn't convenient"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Change the adjective to its past form.",
+      "kind": "typed",
+      "example": { "cue": "安[やす]い", "answer": "安[やす]かったです" },
+      "items": [
+        {
+          "id": "l09-p007",
+          "cue": "楽[たの]しい",
+          "answers": [
+            "楽[たの]しかったです"
+          ],
+          "en": "was fun"
+        },
+        {
+          "id": "l09-p008",
+          "cue": "寒[さむ]い",
+          "answers": [
+            "寒[さむ]かったです"
+          ],
+          "en": "was cold"
+        },
+        {
+          "id": "l09-p009",
+          "cue": "いい",
+          "answers": [
+            "よかったです"
+          ],
+          "en": "was good"
+        },
+        {
+          "id": "l09-p010",
+          "cue": "暇[ひま]",
+          "answers": [
+            "暇[ひま]でした"
+          ],
+          "en": "was free"
+        },
+        {
+          "id": "l09-p011",
+          "cue": "大変[たいへん]",
+          "answers": [
+            "大変[たいへん]でした"
+          ],
+          "en": "was tough"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Change the adjective to its past negative form.",
+      "kind": "typed",
+      "example": { "cue": "暑[あつ]い", "answer": "暑[あつ]くなかったです" },
+      "items": [
+        {
+          "id": "l09-p012",
+          "cue": "忙[いそが]しい",
+          "answers": [
+            "忙[いそが]しくなかったです",
+            "忙[いそが]しくありませんでした"
+          ],
+          "en": "wasn't busy"
+        },
+        {
+          "id": "l09-p013",
+          "cue": "元気[げんき]",
+          "answers": [
+            "元気[げんき]じゃなかったです",
+            "元気[げんき]ではありませんでした",
+            "元気[げんき]じゃありませんでした"
+          ],
+          "en": "wasn't well"
+        },
+        {
+          "id": "l09-p014",
+          "cue": "いい",
+          "answers": [
+            "よくなかったです",
+            "よくありませんでした"
+          ],
+          "en": "wasn't good"
+        },
+        {
+          "id": "l09-p015",
+          "cue": "有名[ゆうめい]",
+          "answers": [
+            "有名[ゆうめい]じゃなかったです",
+            "有名[ゆうめい]ではありませんでした",
+            "有名[ゆうめい]じゃありませんでした"
+          ],
+          "en": "wasn't famous"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Make a sentence with the adjective in front of the noun.",
+      "kind": "typed",
+      "example": { "cue": "this · new · bag", "answer": "これは新[あたら]しいかばんです。" },
+      "items": [
+        {
+          "id": "l09-p016",
+          "cue": "Yamada-sensei · interesting · teacher",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は面白[おもしろ]い先生[せんせい]です。"
+          ],
+          "en": "Yamada-sensei is an interesting teacher.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "面白い", "en": "interesting" },
+            { "text": "先生", "en": "teacher" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l09-p017",
+          "cue": "this town · quiet · town",
+          "answers": [
+            "この町[まち]は静[しず]かな町[まち]です。"
+          ],
+          "en": "This town is a quiet town.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "町", "en": "town" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "静かな", "en": "quiet", "base": "静[しず]か", "baseEn": "quiet" },
+            { "text": "町", "en": "town" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l09-p018",
+          "cue": "Sakura · energetic · person",
+          "answers": [
+            "さくらさんは元気[げんき]な人[ひと]です。"
+          ],
+          "en": "Sakura is an energetic person.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "元気な", "en": "energetic", "base": "元気[げんき]", "baseEn": "well, full of energy" },
+            { "text": "人", "en": "person" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l09-p019",
+          "cue": "Tanaka-san · busy · office worker",
+          "answers": [
+            "田中[たなか]さんは忙[いそが]しい会社員[かいしゃいん]です。"
+          ],
+          "en": "Tanaka-san is a busy office worker.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "忙しい", "en": "busy" },
+            { "text": "会社員", "en": "office worker" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l09-p020",
+          "cue": "that red umbrella over there · Sakura's",
+          "answers": [
+            "あの赤[あか]い傘[かさ]はさくらさんのです。"
+          ],
+          "en": "That red umbrella over there is Sakura's.",
+          "breakdown": [
+            { "text": "あの", "en": "that … over there" },
+            { "text": "赤い", "en": "red" },
+            { "text": "傘", "en": "umbrella" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "の", "en": "'s (hers)" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l09-p021",
+          "cue": "the station · lively · place",
+          "answers": [
+            "駅[えき]はにぎやかな所[ところ]です。"
+          ],
+          "en": "The station is a lively place.",
+          "breakdown": [
+            { "text": "駅", "en": "station" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "にぎやかな", "en": "lively", "base": "にぎやか", "baseEn": "lively, bustling" },
+            { "text": "所", "en": "place" },
+            { "text": "です", "en": "is" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Say it in Japanese.",
+      "kind": "typed",
+      "items": [
+        {
+          "id": "l09-p022",
+          "cue": "It is very hot today.",
+          "answers": [
+            "今日[きょう]はとても暑[あつ]いです。"
+          ],
+          "en": "It is very hot today.",
+          "breakdown": [
+            { "text": "今日", "en": "today" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "とても", "en": "very" },
+            { "text": "暑いです", "en": "is hot", "base": "暑[あつ]い", "baseEn": "hot (weather)" }
+          ]
+        },
+        {
+          "id": "l09-p023",
+          "cue": "It was cold yesterday.",
+          "answers": [
+            "昨日[きのう]は寒[さむ]かったです。"
+          ],
+          "en": "It was cold yesterday.",
+          "breakdown": [
+            { "text": "昨日", "en": "yesterday" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "寒かったです", "en": "was cold", "base": "寒[さむ]い", "baseEn": "cold (weather)" }
+          ]
+        },
+        {
+          "id": "l09-p024",
+          "cue": "This book is not very interesting.",
+          "answers": [
+            "この本[ほん]はあまり面白[おもしろ]くないです。",
+            "この本[ほん]はあまり面白[おもしろ]くありません。"
+          ],
+          "en": "This book is not very interesting.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "本", "en": "book" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "あまり", "en": "not very (with a negative)" },
+            { "text": "面白くないです", "en": "isn't interesting", "base": "面白[おもしろ]い", "baseEn": "interesting; funny" }
+          ]
+        },
+        {
+          "id": "l09-p025",
+          "cue": "The library was very quiet.",
+          "answers": [
+            "図書館[としょかん]はとても静[しず]かでした。"
+          ],
+          "en": "The library was very quiet.",
+          "breakdown": [
+            { "text": "図書館", "en": "library" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "とても", "en": "very" },
+            { "text": "静かでした", "en": "was quiet", "base": "静[しず]か", "baseEn": "quiet" }
+          ]
+        },
+        {
+          "id": "l09-p026",
+          "cue": "Yesterday's test was not very difficult.",
+          "answers": [
+            "昨日[きのう]のテストはあまり難[むずか]しくなかったです。",
+            "昨日[きのう]のテストはあまり難[むずか]しくありませんでした。"
+          ],
+          "en": "Yesterday's test was not very difficult.",
+          "breakdown": [
+            { "text": "昨日", "en": "yesterday" },
+            { "text": "の", "en": "'s" },
+            { "text": "テスト", "en": "test" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "あまり", "en": "not very (with a negative)" },
+            { "text": "難しくなかったです", "en": "wasn't difficult", "base": "難[むずか]しい", "baseEn": "difficult" }
+          ]
+        },
+        {
+          "id": "l09-p027",
+          "cue": "This cafe is not very quiet.",
+          "answers": [
+            "このカフェはあまり静[しず]かじゃないです。",
+            "このカフェはあまり静[しず]かではありません。",
+            "このカフェはあまり静[しず]かじゃありません。"
+          ],
+          "en": "This cafe is not very quiet.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "カフェ", "en": "cafe" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "あまり", "en": "not very (with a negative)" },
+            { "text": "静かじゃないです", "en": "isn't quiet", "base": "静[しず]か", "baseEn": "quiet" }
+          ]
+        },
+        {
+          "id": "l09-p028",
+          "cue": "It will rain tomorrow.",
+          "answers": [
+            "明日[あした]は雨[あめ]です。",
+            "明日[あした]は雨[あめ]が降[ふ]ります。"
+          ],
+          "en": "It will rain tomorrow.",
+          "breakdown": [
+            { "text": "明日", "en": "tomorrow" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "雨", "en": "rain" },
+            { "text": "です", "en": "is" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "instruction": "Answer about yourself and where you live.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l09-p029",
+          "cue": "あなたの部屋[へや]は広[ひろ]いですか。",
+          "cueEn": "Is your room spacious?",
+          "answers": [
+            "いいえ、あまり広[ひろ]くないです。",
+            "はい、とても広[ひろ]いです。"
+          ],
+          "en": "No, it isn't very spacious.",
+          "breakdown": [
+            { "text": "いいえ", "en": "no" },
+            { "text": "あまり", "en": "not very" },
+            { "text": "広くないです", "en": "is not spacious", "base": "広[ひろ]い", "baseEn": "spacious, wide" }
+          ]
+        },
+        {
+          "id": "l09-p030",
+          "cue": "今日[きょう]はどんな天気[てんき]ですか。",
+          "cueEn": "What is the weather like today?",
+          "answers": [
+            "今日[きょう]は晴[は]れです。",
+            "今日[きょう]は雨[あめ]です。"
+          ],
+          "en": "It is sunny today.",
+          "breakdown": [
+            { "text": "今日", "en": "today" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "晴れ", "en": "sunny weather" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l09-p031",
+          "cue": "昨日[きのう]は忙[いそが]しかったですか。",
+          "cueEn": "Were you busy yesterday?",
+          "answers": [
+            "はい、とても忙[いそが]しかったです。",
+            "いいえ、あまり忙[いそが]しくなかったです。"
+          ],
+          "en": "Yes, I was very busy.",
+          "breakdown": [
+            { "text": "はい", "en": "yes" },
+            { "text": "とても", "en": "very" },
+            { "text": "忙しかったです", "en": "was busy", "base": "忙[いそが]しい", "baseEn": "busy" }
+          ]
+        },
+        {
+          "id": "l09-p032",
+          "cue": "日本語[にほんご]の勉強[べんきょう]はどうですか。",
+          "cueEn": "How are your Japanese studies going?",
+          "answers": [
+            "とても楽[たの]しいです。",
+            "ちょっと難[むずか]しいです。"
+          ],
+          "en": "They are a lot of fun.",
+          "breakdown": [
+            { "text": "とても", "en": "very" },
+            { "text": "楽しいです", "en": "is fun", "base": "楽[たの]しい", "baseEn": "fun" }
+          ]
+        }
+      ]
+    }
+  ]
+}

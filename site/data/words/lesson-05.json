@@ -1,0 +1,387 @@
+{
+ "lesson": 5,
+ "title": "Things and shopping",
+ "sections": [
+  {
+   "id": "pointing",
+   "title": "This and that",
+   "words": [
+    {
+     "id": "l05-001",
+     "kana": "これ",
+     "kanji": "",
+     "meaning": "this one",
+     "category": "Pointing words"
+    },
+    {
+     "id": "l05-002",
+     "kana": "それ",
+     "kanji": "",
+     "meaning": "that one (near you)",
+     "category": "Pointing words"
+    },
+    {
+     "id": "l05-003",
+     "kana": "あれ",
+     "kanji": "",
+     "meaning": "that one over there",
+     "category": "Pointing words"
+    },
+    {
+     "id": "l05-004",
+     "kana": "どれ",
+     "kanji": "",
+     "meaning": "which one",
+     "category": "Pointing words"
+    },
+    {
+     "id": "l05-005",
+     "kana": "この",
+     "kanji": "",
+     "meaning": "this (before a noun)",
+     "category": "Pointing words"
+    },
+    {
+     "id": "l05-006",
+     "kana": "その",
+     "kanji": "",
+     "meaning": "that (before a noun)",
+     "category": "Pointing words"
+    },
+    {
+     "id": "l05-007",
+     "kana": "あの",
+     "kanji": "",
+     "meaning": "that … over there (before a noun)",
+     "category": "Pointing words"
+    },
+    {
+     "id": "l05-008",
+     "kana": "どの",
+     "kanji": "",
+     "meaning": "which (before a noun)",
+     "category": "Pointing words"
+    }
+   ]
+  },
+  {
+   "id": "things",
+   "title": "Things",
+   "words": [
+    {
+     "id": "l05-009",
+     "kana": "もの",
+     "kanji": "物",
+     "meaning": "thing",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-010",
+     "kana": "かばん",
+     "kanji": "",
+     "meaning": "bag",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-011",
+     "kana": "さいふ",
+     "kanji": "財布",
+     "meaning": "wallet",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-012",
+     "kana": "スマホ",
+     "kanji": "",
+     "meaning": "smartphone",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-013",
+     "kana": "とけい",
+     "kanji": "時計",
+     "meaning": "clock; watch",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-014",
+     "kana": "かさ",
+     "kanji": "傘",
+     "meaning": "umbrella",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-015",
+     "kana": "めがね",
+     "kanji": "眼鏡",
+     "meaning": "glasses",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-016",
+     "kana": "ほん",
+     "kanji": "本",
+     "meaning": "book",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-017",
+     "kana": "ノート",
+     "kanji": "",
+     "meaning": "notebook",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-018",
+     "kana": "ペン",
+     "kanji": "",
+     "meaning": "pen",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-019",
+     "kana": "えんぴつ",
+     "kanji": "鉛筆",
+     "meaning": "pencil",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-020",
+     "kana": "けしゴム",
+     "kanji": "消しゴム",
+     "meaning": "eraser",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-021",
+     "kana": "しんぶん",
+     "kanji": "新聞",
+     "meaning": "newspaper",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-022",
+     "kana": "ざっし",
+     "kanji": "雑誌",
+     "meaning": "magazine",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-023",
+     "kana": "てがみ",
+     "kanji": "手紙",
+     "meaning": "letter",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-024",
+     "kana": "しゃしん",
+     "kanji": "写真",
+     "meaning": "photo",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-025",
+     "kana": "カメラ",
+     "kanji": "",
+     "meaning": "camera",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-026",
+     "kana": "はな",
+     "kanji": "花",
+     "meaning": "flower",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-027",
+     "kana": "プレゼント",
+     "kanji": "",
+     "meaning": "present, gift",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-028",
+     "kana": "にもつ",
+     "kanji": "荷物",
+     "meaning": "luggage, baggage",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "clothes",
+   "title": "Clothes",
+   "words": [
+    {
+     "id": "l05-029",
+     "kana": "ふく",
+     "kanji": "服",
+     "meaning": "clothes",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-030",
+     "kana": "くつ",
+     "kanji": "靴",
+     "meaning": "shoes",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-031",
+     "kana": "ぼうし",
+     "kanji": "帽子",
+     "meaning": "hat, cap",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-032",
+     "kana": "ジーンズ",
+     "kanji": "",
+     "meaning": "jeans",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-033",
+     "kana": "Tシャツ",
+     "kanji": "",
+     "meaning": "T-shirt",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-034",
+     "kana": "てぶくろ",
+     "kanji": "手袋",
+     "meaning": "gloves",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-035",
+     "kana": "はく",
+     "kanji": "",
+     "meaning": "to put on (trousers, shoes)",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l05-036",
+     "kana": "かぶる",
+     "kanji": "",
+     "meaning": "to put on (a hat)",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l05-037",
+     "kana": "きる",
+     "kanji": "着る",
+     "meaning": "to put on (a shirt, a jacket)",
+     "category": "Ichidan verbs"
+    }
+   ]
+  },
+  {
+   "id": "shopping",
+   "title": "Shopping",
+   "words": [
+    {
+     "id": "l05-038",
+     "kana": "かいもの",
+     "kanji": "買い物",
+     "meaning": "shopping",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-039",
+     "kana": "おかね",
+     "kanji": "お金",
+     "meaning": "money",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-040",
+     "kana": "〜えん",
+     "kanji": "円",
+     "meaning": "yen",
+     "category": "Nouns"
+    },
+    {
+     "id": "l05-041",
+     "kana": "いくら",
+     "kanji": "",
+     "meaning": "how much",
+     "category": "Question words"
+    },
+    {
+     "id": "l05-042",
+     "kana": "たかい",
+     "kanji": "高い",
+     "meaning": "expensive; tall, high",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l05-043",
+     "kana": "やすい",
+     "kanji": "安い",
+     "meaning": "cheap",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l05-044",
+     "kana": "かう",
+     "kanji": "買う",
+     "meaning": "to buy",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l05-045",
+     "kana": "はらう",
+     "kanji": "払う",
+     "meaning": "to pay",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l05-046",
+     "kana": "いる",
+     "kanji": "",
+     "meaning": "to need",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l05-047",
+     "kana": "いらっしゃいませ",
+     "kanji": "",
+     "meaning": "welcome (said by shop staff)",
+     "category": "Expressions"
+    },
+    {
+     "id": "l05-048",
+     "kana": "ください",
+     "kanji": "",
+     "meaning": "please give me …",
+     "category": "Expressions"
+    },
+    {
+     "id": "l05-049",
+     "kana": "おねがいします",
+     "kanji": "",
+     "meaning": "please (when asking for something)",
+     "category": "Expressions"
+    },
+    {
+     "id": "l05-050",
+     "kana": "〜まい",
+     "kanji": "〜枚",
+     "meaning": "counter for flat things",
+     "category": "Counters"
+    },
+    {
+     "id": "l05-051",
+     "kana": "たくさん",
+     "kanji": "",
+     "meaning": "a lot, many",
+     "category": "Adverbs"
+    }
+   ]
+  }
+ ]
+}

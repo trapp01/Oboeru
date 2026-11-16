@@ -1,0 +1,1429 @@
+{
+  "l03-001": {
+    "sentence": {
+      "ja": "{私[わたし]}は日本人[にほんじん]です。",
+      "en": "I'm Japanese.",
+      "breakdown": [
+        {
+          "text": "私",
+          "en": "I"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "日本人",
+          "en": "Japanese person"
+        },
+        {
+          "text": "です",
+          "en": "am"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "water ski",
+      "story": "Who's that on the *water ski*, spraying the whole lake? **I** am! You jab a thumb at your own chest a second before you wipe out. Watashi: I."
+    }
+  },
+  "l03-002": {
+    "sentence": {
+      "ja": "{僕[ぼく]}は猫[ねこ]が大好[だいす]きです。",
+      "en": "I love cats.",
+      "breakdown": [
+        {
+          "text": "僕",
+          "en": "I (used by men)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "猫",
+          "en": "cats"
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "大好きです",
+          "en": "love",
+          "base": "大好[だいす]き",
+          "baseEn": "very fond of; to love"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "beaucoup",
+      "story": "A small boy thumps his chest and lists *beaucoup* reasons he is the best: **I** can whistle, I can jump, I can burp the alphabet. Boku: I, said by boys and men."
+    }
+  },
+  "l03-003": {
+    "sentence": {
+      "ja": "{あなた}も学生[がくせい]ですか。",
+      "en": "Are you a student too?",
+      "breakdown": [
+        {
+          "text": "あなた",
+          "en": "you"
+        },
+        {
+          "text": "も",
+          "en": "also, too"
+        },
+        {
+          "text": "学生",
+          "en": "student"
+        },
+        {
+          "text": "です",
+          "en": "are"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "an otter",
+      "story": "At the aquarium *an otter* presses its paw to the glass and points straight at **you**, whiskers twitching. Anata: you, though Japanese usually uses your name instead."
+    }
+  },
+  "l03-004": {
+    "sentence": {
+      "ja": "{彼[かれ]}は毎朝[まいあさ]走[はし]っています。",
+      "en": "He goes running every morning.",
+      "breakdown": [
+        {
+          "text": "彼",
+          "en": "he"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "走っています",
+          "en": "goes running (habit)",
+          "base": "走[はし]る",
+          "baseEn": "to run"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "car, eh",
+      "story": "**He** leans on his rusty *car*, grinning: '*Car, eh*?' and waits for you to admire the dented door. Kare: he; it also means boyfriend."
+    }
+  },
+  "l03-005": {
+    "sentence": {
+      "ja": "{彼女[かのじょ]}はとても親切[しんせつ]な人[ひと]です。",
+      "en": "She is a very kind person.",
+      "breakdown": [
+        {
+          "text": "彼女",
+          "en": "she"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "親切な",
+          "en": "kind",
+          "base": "親切[しんせつ]",
+          "baseEn": "kind"
+        },
+        {
+          "text": "人",
+          "en": "person"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "canoe Jo",
+      "story": "**She** glides past in a red *canoe* with *Jo* painted on the side, her paddle dripping. Kanojo: she; it also means girlfriend."
+    }
+  },
+  "l03-006": {
+    "sentence": {
+      "ja": "ケンさんは私[わたし]の{友達[ともだち]}です。",
+      "en": "Ken is my friend.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "私",
+          "en": "I"
+        },
+        {
+          "text": "の",
+          "en": "'s (私の = my)"
+        },
+        {
+          "text": "友達",
+          "en": "friend"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tomato + dach(shund)",
+      "story": "Your new **friend** turns up with a *tomato* in one hand and a *dach*shund under the other arm, and the dog licks the juice off your fingers. Tomo-dachi: friend."
+    }
+  },
+  "l03-007": {
+    "sentence": {
+      "ja": "あの{人[ひと]}はだれですか。",
+      "en": "Who is that person?",
+      "breakdown": [
+        {
+          "text": "あの",
+          "en": "that (over there)"
+        },
+        {
+          "text": "人",
+          "en": "person"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "だれ",
+          "en": "who"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hee! toe!",
+      "story": "On a packed train a **person** plants a heel on your foot and you squeal \"*Hee! Toe!*\" Every head turns. Hito: person, the same 人 you read jin in nihonjin."
+    }
+  },
+  "l03-008": {
+    "sentence": {
+      "ja": "ドアの前[まえ]に{男[おとこ]の人[ひと]}がいます。",
+      "en": "There's a man in front of the door.",
+      "breakdown": [
+        {
+          "text": "ドア",
+          "en": "door"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "前",
+          "en": "front"
+        },
+        {
+          "text": "に",
+          "en": "in (a place)"
+        },
+        {
+          "text": "男の人",
+          "en": "man"
+        },
+        {
+          "text": "が",
+          "en": "marks who is there"
+        },
+        {
+          "text": "います",
+          "en": "there is (a person)",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Otto + co + no hito (person)",
+      "story": "A **man** called *Otto* runs a one-man *Co.* from his garage, and the sign above the door reads OTTO CO. Otoko is man; otoko no hito, \"man person\", is the polite way to say it."
+    }
+  },
+  "l03-009": {
+    "sentence": {
+      "ja": "あの{女[おんな]の人[ひと]}はだれですか。",
+      "en": "Who is that woman?",
+      "breakdown": [
+        {
+          "text": "あの",
+          "en": "that (over there)"
+        },
+        {
+          "text": "女の人",
+          "en": "woman"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "だれ",
+          "en": "who"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "owner + no hito (person)",
+      "story": "The **woman** behind the café counter is the *owner*, and she flips the sign to OPEN herself, keys jangling. Onna is woman; onna no hito, \"woman person\", is the polite way to say it."
+    }
+  },
+  "l03-010": {
+    "sentence": {
+      "ja": "{子供[こども]}は何時[なんじ]に寝[ね]ますか。",
+      "en": "What time do the kids go to bed?",
+      "breakdown": [
+        {
+          "text": "子供",
+          "en": "children"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "何時",
+          "en": "what time"
+        },
+        {
+          "text": "に",
+          "en": "at (a time)"
+        },
+        {
+          "text": "寝ます",
+          "en": "go to bed",
+          "base": "寝[ね]る",
+          "baseEn": "to sleep, to go to bed"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cold dough, more",
+      "story": "A **child** at the bakery counter squeezes a lump of *cold dough* and shouts \"*More!*\", flour puffing up like smoke. Kodomo: child."
+    }
+  },
+  "l03-011": {
+    "sentence": {
+      "ja": "クラスの{みんな}はやさしいです。",
+      "en": "Everyone in the class is kind.",
+      "breakdown": [
+        {
+          "text": "クラス",
+          "en": "class"
+        },
+        {
+          "text": "の",
+          "en": "in / of"
+        },
+        {
+          "text": "みんな",
+          "en": "everyone"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "やさしいです",
+          "en": "are kind",
+          "base": "やさしい",
+          "baseEn": "kind, gentle"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "minnow",
+      "story": "You dip your feet in the pond and **all** the *minnows* rush at your toes at once, a thousand tiny nibbles. Minna: all, everyone."
+    }
+  },
+  "l03-012": {
+    "sentence": {
+      "ja": "犬[いぬ]の{名前[なまえ]}は何[なん]ですか。",
+      "en": "What's your dog's name?",
+      "breakdown": [
+        {
+          "text": "犬",
+          "en": "dog"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "名前",
+          "en": "name"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "何",
+          "en": "what"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "namaste (drop the st)",
+      "story": "Palms together, you bow: \"*Namaste*.\" The stranger bows back and writes her **name** on your palm in ticklish felt-tip. Drop the st and you have na-ma-e: name."
+    }
+  },
+  "l03-013": {
+    "say": "さん",
+    "sentence": {
+      "ja": "田中[たなか]{さん}は先生[せんせい]ですか。",
+      "en": "Is Ms. Tanaka a teacher?",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "先生",
+          "en": "teacher"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sun",
+      "story": "Hang san after a name and it shines like a little *sun*: Tanaka-san is **Mr. or Ms.** Tanaka. Never hang it on your own name. ~San."
+    }
+  },
+  "l03-014": {
+    "say": "さい",
+    "sentence": {
+      "ja": "ケンさんは十九[じゅうきゅう]{歳[さい]}です。",
+      "en": "Ken is nineteen.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "十九歳",
+          "en": "nineteen years old"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sigh",
+      "story": "Blow out the birthday candles with one long *sigh*: number + sai gives **... years old**. San-sai is three years old; twenty has a word of its own, hatachi. ~Sai."
+    }
+  },
+  "l03-015": {
+    "sentence": {
+      "ja": "田中[たなか]さんの先生[せんせい]は{だれ}ですか。",
+      "en": "Who is your teacher, Tanaka-san?",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka (here: you)"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "先生",
+          "en": "teacher"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "だれ",
+          "en": "who"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Darren",
+      "story": "A birthday card signed \"*Darren*\" sits on your desk, glitter everywhere. **Who** is Darren? Nobody in the office knows a Darren. Dare: who."
+    }
+  },
+  "l03-016": {
+    "sentence": {
+      "ja": "部屋[へや]に学生[がくせい]が{一人[ひとり]}います。",
+      "en": "There is one student in the room.",
+      "breakdown": [
+        {
+          "text": "部屋",
+          "en": "room"
+        },
+        {
+          "text": "に",
+          "en": "in (a place)"
+        },
+        {
+          "text": "学生",
+          "en": "student"
+        },
+        {
+          "text": "が",
+          "en": "marks who is there"
+        },
+        {
+          "text": "一人",
+          "en": "one person"
+        },
+        {
+          "text": "います",
+          "en": "there is (a person)",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hito (person) + ri",
+      "story": "Counting people starts irregular: **one person** is hitori, built on hito, person. Picture *he* again, alone under the red torii. Not ichinin. Hito-ri: one person."
+    }
+  },
+  "l03-017": {
+    "sentence": {
+      "ja": "公園[こうえん]に子供[こども]が{二人[ふたり]}います。",
+      "en": "There are two children in the park.",
+      "breakdown": [
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "に",
+          "en": "in (a place)"
+        },
+        {
+          "text": "子供",
+          "en": "children"
+        },
+        {
+          "text": "が",
+          "en": "marks who is there"
+        },
+        {
+          "text": "二人",
+          "en": "two people"
+        },
+        {
+          "text": "います",
+          "en": "there are (people)",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "futa + ri",
+      "story": "**Two people** is futari, irregular like hitori: both end in ri. Picture the pair sharing one *food tray* again. From three on, it's number plus nin. Futa-ri: two people."
+    }
+  },
+  "l03-018": {
+    "sentence": {
+      "ja": "子供[こども]が{三人[さんにん]}います。",
+      "en": "I have three children.",
+      "breakdown": [
+        {
+          "text": "子供",
+          "en": "children"
+        },
+        {
+          "text": "が",
+          "en": "marks who you have"
+        },
+        {
+          "text": "三人",
+          "en": "three people"
+        },
+        {
+          "text": "います",
+          "en": "have (people)",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "san + nin",
+      "story": "From three on it's regular: san plus nin. Three *ninjas* land on the wall in a row: **three people**. San-nin: three people."
+    }
+  },
+  "l03-019": {
+    "sentence": {
+      "ja": "私[わたし]の家族[かぞく]は{四人[よにん]}です。",
+      "en": "There are four people in my family.",
+      "breakdown": [
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "'s (my)"
+        },
+        {
+          "text": "家族",
+          "en": "family"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "四人",
+          "en": "four people"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yo + nin",
+      "story": "Four takes the short yo, as in yoji, four o'clock: never yonnin or shinin. Four *ninjas* shout \"yo!\" as they land: **four people**. Yo-nin: four people."
+    }
+  },
+  "l03-020": {
+    "say": "にん",
+    "sentence": {
+      "ja": "クラスに学生[がくせい]が{十五人[じゅうごにん]}います。",
+      "en": "There are fifteen students in the class.",
+      "breakdown": [
+        {
+          "text": "クラス",
+          "en": "class"
+        },
+        {
+          "text": "に",
+          "en": "in (a place)"
+        },
+        {
+          "text": "学生",
+          "en": "students"
+        },
+        {
+          "text": "が",
+          "en": "marks who is there"
+        },
+        {
+          "text": "十五人",
+          "en": "fifteen people"
+        },
+        {
+          "text": "います",
+          "en": "there are (people)",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nin (ninja)",
+      "story": "Count **people** like *ninjas* vaulting a wall: number plus nin, so san-nin, go-nin, jū-nin. Only one and two break the rule (hitori, futari), and four is yo-nin. -Nin: counter for people."
+    }
+  },
+  "l03-021": {
+    "sentence": {
+      "ja": "{一人[ひとり]で}映画[えいが]を見[み]ました。",
+      "en": "I saw a movie by myself.",
+      "breakdown": [
+        {
+          "text": "一人で",
+          "en": "alone, by myself"
+        },
+        {
+          "text": "映画",
+          "en": "movie"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "見ました",
+          "en": "saw, watched",
+          "base": "見[み]る",
+          "baseEn": "to see, to watch"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hitori (one person) + de (by)",
+      "story": "Hito is person and hitori is one person; add de, \"by\": by one person, **alone**. The *Hee! Toe!* train is empty tonight, no stranger on your foot, just you. Hitori de."
+    }
+  },
+  "l03-022": {
+    "sentence": {
+      "ja": "{一緒[いっしょ]に}昼[ひる]ご飯[はん]を食[た]べましょう。",
+      "en": "Let's have lunch together.",
+      "breakdown": [
+        {
+          "text": "一緒に",
+          "en": "together"
+        },
+        {
+          "text": "昼ご飯",
+          "en": "lunch"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べましょう",
+          "en": "let's eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eee, show knee",
+      "story": "In a three-legged race your knee is tied to a friend's, and you both squeal \"*Eee, show knee!*\" as you hobble over the line **together**. Issho ni: together."
+    }
+  },
+  "l03-023": {
+    "sentence": {
+      "ja": "{家族[かぞく]}の写真[しゃしん]を見[み]てください。",
+      "en": "Please take a look at a photo of my family.",
+      "breakdown": [
+        {
+          "text": "家族",
+          "en": "family"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "写真",
+          "en": "photo"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "見てください",
+          "en": "please look (at)",
+          "base": "見[み]る",
+          "baseEn": "to see, to look at"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kazoo + coo",
+      "story": "Your whole **family** squeezes onto the sofa blowing *kazoos*, and the baby joins in at the end with a happy *coo*. Ka-zo-ku: family."
+    }
+  },
+  "l03-024": {
+    "sentence": {
+      "ja": "{母[はは]}は毎朝[まいあさ]六時[ろくじ]に起[お]きます。",
+      "en": "My mother gets up at six every morning.",
+      "breakdown": [
+        {
+          "text": "母",
+          "en": "my mother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "六時",
+          "en": "six o'clock"
+        },
+        {
+          "text": "に",
+          "en": "at (a time)"
+        },
+        {
+          "text": "起きます",
+          "en": "gets up",
+          "base": "起[お]きる",
+          "baseEn": "to get up"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ha ha",
+      "story": "Your **mother** reads your knock-knock joke and laughs, *ha ha*, two loud beats that rattle the teacups. Haha: my mother. Someone else's mother is okāsan."
+    }
+  },
+  "l03-025": {
+    "sentence": {
+      "ja": "{父[ちち]}は毎朝[まいあさ]コーヒーを飲[の]みます。",
+      "en": "My father drinks coffee every morning.",
+      "breakdown": [
+        {
+          "text": "父",
+          "en": "my father"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "コーヒー",
+          "en": "coffee"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飲みます",
+          "en": "drinks",
+          "base": "飲[の]む",
+          "baseEn": "to drink"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cheek, cheek",
+      "story": "Every morning your **father** plants a scratchy, stubbly kiss on each side of your face: *cheek, cheek*. Chichi: my father. Someone else's father is otōsan."
+    }
+  },
+  "l03-026": {
+    "sentence": {
+      "ja": "ケンさんの{お母[かあ]さん}は日本人[にほんじん]です。",
+      "en": "Ken's mother is Japanese.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "お母さん",
+          "en": "mother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "日本人",
+          "en": "Japanese person"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, car + san",
+      "story": "\"*Oh, car!*\" Your **mother** honks and waves from the driver's seat, the long ā like a horn. O-kā-san: mother, someone else's or what you call your own."
+    }
+  },
+  "l03-027": {
+    "sentence": {
+      "ja": "さくらさんの{お父[とう]さん}は医者[いしゃ]ですか。",
+      "en": "Is Sakura's father a doctor?",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "お父さん",
+          "en": "father"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "医者",
+          "en": "doctor"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, toe + san",
+      "story": "\"*Oh*, my *toe*!\" Your **father** stubs it on the coffee table and hops round the room. O-tō-san: father. Otōto, the little brother, has no san."
+    }
+  },
+  "l03-028": {
+    "sentence": {
+      "ja": "{姉[あね]}は看護師[かんごし]です。",
+      "en": "My older sister is a nurse.",
+      "breakdown": [
+        {
+          "text": "姉",
+          "en": "my older sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "看護師",
+          "en": "nurse"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a neigh",
+      "story": "You knock on your own **older sister**'s door and get only *a neigh* back: she still plays ponies with her daughter. Ane: my older sister."
+    }
+  },
+  "l03-029": {
+    "sentence": {
+      "ja": "{兄[あに]}は毎日[まいにち]テニスをしています。",
+      "en": "My older brother plays tennis every day.",
+      "breakdown": [
+        {
+          "text": "兄",
+          "en": "my older brother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "毎日",
+          "en": "every day"
+        },
+        {
+          "text": "テニス",
+          "en": "tennis"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "しています",
+          "en": "plays (as a habit)",
+          "base": "する",
+          "baseEn": "to do"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a knee",
+      "story": "Your own **older brother** kneels and offers *a knee* so you can climb onto his shoulders, the same knee that o-nii-san bangs on doorframes. Ani: my older brother."
+    }
+  },
+  "l03-030": {
+    "sentence": {
+      "ja": "山田[やまだ]さんの{お姉[ねえ]さん}は大学生[だいがくせい]です。",
+      "en": "Yamada-san's older sister is a college student.",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "お姉さん",
+          "en": "older sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "大学生",
+          "en": "college student"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, neigh + san",
+      "story": "\"*Oh, neigh!*\" Your **older sister** gallops past on the pony, mane flying, and still won't give you a turn. O-nē-san: older sister."
+    }
+  },
+  "l03-031": {
+    "sentence": {
+      "ja": "田中[たなか]さんの{お兄[にい]さん}は会社員[かいしゃいん]です。",
+      "en": "Tanaka-san's older brother is an office worker.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "お兄さん",
+          "en": "older brother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "会社員",
+          "en": "office worker"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, knee + san",
+      "story": "\"*Oh*, my *knee*!\" Your **older brother** crashes his skateboard showing off and limps home. O-nī-san: older brother. Nē for sister, nī for brother."
+    }
+  },
+  "l03-032": {
+    "sentence": {
+      "ja": "{妹[いもうと]}は大学[だいがく]二年生[にねんせい]です。",
+      "en": "My younger sister is a second-year at university.",
+      "breakdown": [
+        {
+          "text": "妹",
+          "en": "my younger sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "大学",
+          "en": "university"
+        },
+        {
+          "text": "二年生",
+          "en": "second-year student"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "emo tote",
+      "story": "Your **younger sister** is deep in her *emo* phase: black nail polish, black lipstick, everything she owns in one black *tote*. Imō-to: younger sister."
+    }
+  },
+  "l03-033": {
+    "sentence": {
+      "ja": "{弟[おとうと]}の名前[なまえ]はケンです。",
+      "en": "My younger brother's name is Ken.",
+      "breakdown": [
+        {
+          "text": "弟",
+          "en": "my younger brother"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "名前",
+          "en": "name"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "ケン",
+          "en": "Ken"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, toe, toe",
+      "story": "Your **younger brother** stomps on your *toe*, then your other *toe*, and runs off giggling. O-tō-to: younger brother. Father, otō-san, keeps the san."
+    }
+  },
+  "l03-034": {
+    "sentence": {
+      "ja": "田中[たなか]さんは{兄弟[きょうだい]}がいますか。",
+      "en": "Tanaka-san, do you have any brothers or sisters?",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "兄弟",
+          "en": "brothers and sisters"
+        },
+        {
+          "text": "が",
+          "en": "marks who you have"
+        },
+        {
+          "text": "います",
+          "en": "have (people)",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Kyoto + dye",
+      "story": "In *Kyoto*, all your **brothers and sisters** *dye* matching T-shirts in one big vat and come out blue to the elbows. Kyō-dai: brothers and sisters."
+    }
+  },
+  "l03-035": {
+    "sentence": {
+      "ja": "{おじいさん}は毎朝[まいあさ]新聞[しんぶん]を読[よ]みます。",
+      "en": "Grandpa reads the newspaper every morning.",
+      "breakdown": [
+        {
+          "text": "おじいさん",
+          "en": "grandfather"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "新聞",
+          "en": "newspaper"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "読みます",
+          "en": "reads",
+          "base": "読[よ]む",
+          "baseEn": "to read"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh gee + san",
+      "story": "Every time your phone beeps, your **grandfather** squints at it and sighs \"*Oh, geee*\", the gee stretched long. Short ojisan is an uncle. O-jii-san: grandfather; also any old man."
+    }
+  },
+  "l03-036": {
+    "sentence": {
+      "ja": "{おばあさん}は猫[ねこ]が大好[だいす]きです。",
+      "en": "Grandma loves cats.",
+      "breakdown": [
+        {
+          "text": "おばあさん",
+          "en": "grandmother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "猫",
+          "en": "cats"
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "大好きです",
+          "en": "loves",
+          "base": "大好[だいす]き",
+          "baseEn": "very fond of, to love"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, baa + san",
+      "story": "Your **grandmother** knits on the porch while a sheep leans over her shoulder and comments: *oh, baaa*. Keep the baa long; short obasan is an aunt. O-bā-san: grandmother; also any old woman."
+    }
+  },
+  "l03-037": {
+    "sentence": {
+      "ja": "姉[あね]は来月[らいげつ]ケンさんと{結婚[けっこん]します}。",
+      "en": "My older sister is marrying Ken next month.",
+      "breakdown": [
+        {
+          "text": "姉",
+          "en": "my older sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "来月",
+          "en": "next month"
+        },
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "と",
+          "en": "with"
+        },
+        {
+          "text": "結婚します",
+          "en": "will marry",
+          "base": "結婚[けっこん]する",
+          "baseEn": "to get married"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kettle corn",
+      "story": "When you **get married**, the guests throw *kettle corn* instead of rice, and it crunches under your shoes all the way down the aisle. Kekkon suru: to get married, with to marking the partner."
+    }
+  },
+  "l03-038": {
+    "sentence": {
+      "ja": "姉[あね]は大阪[おおさか]に{住[す]んでいます}。",
+      "en": "My older sister lives in Osaka.",
+      "breakdown": [
+        {
+          "text": "姉",
+          "en": "my older sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "大阪",
+          "en": "Osaka"
+        },
+        {
+          "text": "に",
+          "en": "in (where one lives)"
+        },
+        {
+          "text": "住んでいます",
+          "en": "lives",
+          "base": "住[す]む",
+          "baseEn": "to live"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sumo",
+      "story": "A *sumo* wrestler **lives** in the flat above you, and your ceiling lamp sways every time he rolls over in bed. Sum-u: to live; ni sunde imasu is \"lives in\"."
+    }
+  },
+  "l03-039": {
+    "sentence": {
+      "ja": "先週[せんしゅう]、そのニュースを{知[し]りました}。",
+      "en": "I found out about that news last week.",
+      "breakdown": [
+        {
+          "text": "先週",
+          "en": "last week"
+        },
+        {
+          "text": "その",
+          "en": "that"
+        },
+        {
+          "text": "ニュース",
+          "en": "news"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "知りました",
+          "en": "found out (about)",
+          "base": "知[し]る",
+          "baseEn": "to get to know"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sheer",
+      "story": "Through your *sheer* curtains you **get to know** the neighbours' whole routine: the cat at seven, the trumpet practice at nine. Shi-ru: to get to know."
+    }
+  },
+  "l03-040": {
+    "sentence": {
+      "ja": "田中[たなか]さんを{知[し]っています}か。",
+      "en": "Do you know Tanaka-san?",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "知っています",
+          "en": "know",
+          "base": "知[し]る",
+          "baseEn": "to get to know"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shi(ru) + tte imasu",
+      "story": "Once you have peeked through the *sheer* curtains and got to know the neighbours, you **know** them: shitte imasu, the state of having got to know. Shitte imasu: I know."
+    }
+  },
+  "l03-041": {
+    "sentence": {
+      "ja": "すみません、{知[し]りません}。",
+      "en": "Sorry, I don't know.",
+      "breakdown": [
+        {
+          "text": "すみません",
+          "en": "sorry, excuse me"
+        },
+        {
+          "text": "知りません",
+          "en": "don't know",
+          "base": "知[し]る",
+          "baseEn": "to get to know"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shi(ru) + rimasen",
+      "story": "Behind *sheer* curtains you can't see a thing, so **I don't know**. The yes is shitte imasu, but the no is plain shirimasen; nobody says shitte imasen. Shirimasen: I do not know."
+    }
+  }
+}

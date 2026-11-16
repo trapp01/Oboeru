@@ -1,0 +1,512 @@
+{
+ "lesson": 9,
+ "title": "Describing things",
+ "sections": [
+  {
+   "id": "i-adjectives",
+   "title": "い-adjectives",
+   "words": [
+    {
+     "id": "l09-001",
+     "kana": "おおきい",
+     "kanji": "大きい",
+     "meaning": "big",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-002",
+     "kana": "ちいさい",
+     "kanji": "小さい",
+     "meaning": "small",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-003",
+     "kana": "あたらしい",
+     "kanji": "新しい",
+     "meaning": "new",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-004",
+     "kana": "ふるい",
+     "kanji": "古い",
+     "meaning": "old (of things)",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-005",
+     "kana": "いい",
+     "kanji": "",
+     "meaning": "good",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-006",
+     "kana": "わるい",
+     "kanji": "悪い",
+     "meaning": "bad",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-007",
+     "kana": "ながい",
+     "kanji": "長い",
+     "meaning": "long",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-008",
+     "kana": "みじかい",
+     "kanji": "短い",
+     "meaning": "short",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-009",
+     "kana": "ひろい",
+     "kanji": "広い",
+     "meaning": "spacious, wide",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-010",
+     "kana": "せまい",
+     "kanji": "狭い",
+     "meaning": "cramped, narrow",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-011",
+     "kana": "むずかしい",
+     "kanji": "難しい",
+     "meaning": "difficult",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-012",
+     "kana": "やさしい",
+     "kanji": "",
+     "meaning": "easy; kind",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-013",
+     "kana": "おもしろい",
+     "kanji": "面白い",
+     "meaning": "interesting; amusing",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-014",
+     "kana": "つまらない",
+     "kanji": "",
+     "meaning": "boring",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-015",
+     "kana": "たのしい",
+     "kanji": "楽しい",
+     "meaning": "fun",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-016",
+     "kana": "いそがしい",
+     "kanji": "忙しい",
+     "meaning": "busy",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-017",
+     "kana": "かわいい",
+     "kanji": "",
+     "meaning": "cute",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-018",
+     "kana": "かっこいい",
+     "kanji": "",
+     "meaning": "cool, good-looking",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-019",
+     "kana": "こわい",
+     "kanji": "怖い",
+     "meaning": "scary",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-020",
+     "kana": "はやい",
+     "kanji": "速い",
+     "meaning": "fast",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-021",
+     "kana": "わかい",
+     "kanji": "若い",
+     "meaning": "young",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-022",
+     "kana": "おおい",
+     "kanji": "多い",
+     "meaning": "many, a lot of",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-023",
+     "kana": "さびしい",
+     "kanji": "寂しい",
+     "meaning": "lonely",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-024",
+     "kana": "ねむい",
+     "kanji": "眠い",
+     "meaning": "sleepy",
+     "category": "い-adjectives"
+    }
+   ]
+  },
+  {
+   "id": "na-adjectives",
+   "title": "な-adjectives",
+   "words": [
+    {
+     "id": "l09-025",
+     "kana": "きれい",
+     "kanji": "",
+     "meaning": "pretty; clean",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l09-026",
+     "kana": "しずか",
+     "kanji": "静か",
+     "meaning": "quiet",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l09-027",
+     "kana": "にぎやか",
+     "kanji": "",
+     "meaning": "lively, bustling",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l09-028",
+     "kana": "げんき",
+     "kanji": "元気",
+     "meaning": "well, full of energy",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l09-029",
+     "kana": "ひま",
+     "kanji": "暇",
+     "meaning": "free, not busy",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l09-030",
+     "kana": "しんせつ",
+     "kanji": "親切",
+     "meaning": "kind",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l09-031",
+     "kana": "べんり",
+     "kanji": "便利",
+     "meaning": "convenient",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l09-032",
+     "kana": "ゆうめい",
+     "kanji": "有名",
+     "meaning": "famous",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l09-033",
+     "kana": "かんたん",
+     "kanji": "簡単",
+     "meaning": "easy, simple",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l09-034",
+     "kana": "たいへん",
+     "kanji": "大変",
+     "meaning": "tough, hard",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l09-035",
+     "kana": "すてき",
+     "kanji": "素敵",
+     "meaning": "lovely",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l09-036",
+     "kana": "おなじ",
+     "kanji": "同じ",
+     "meaning": "same",
+     "category": "な-adjectives"
+    }
+   ]
+  },
+  {
+   "id": "colours",
+   "title": "Colours",
+   "words": [
+    {
+     "id": "l09-037",
+     "kana": "いろ",
+     "kanji": "色",
+     "meaning": "colour",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-038",
+     "kana": "みどり",
+     "kanji": "緑",
+     "meaning": "green",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-039",
+     "kana": "あかい",
+     "kanji": "赤い",
+     "meaning": "red",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-040",
+     "kana": "あおい",
+     "kanji": "青い",
+     "meaning": "blue",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-041",
+     "kana": "しろい",
+     "kanji": "白い",
+     "meaning": "white",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-042",
+     "kana": "くろい",
+     "kanji": "黒い",
+     "meaning": "black",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-043",
+     "kana": "きいろい",
+     "kanji": "黄色い",
+     "meaning": "yellow",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-044",
+     "kana": "ちゃいろい",
+     "kanji": "茶色い",
+     "meaning": "brown",
+     "category": "い-adjectives"
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "title": "Weather and seasons",
+   "words": [
+    {
+     "id": "l09-045",
+     "kana": "てんき",
+     "kanji": "天気",
+     "meaning": "weather",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-046",
+     "kana": "はれ",
+     "kanji": "晴れ",
+     "meaning": "sunny weather",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-047",
+     "kana": "あめ",
+     "kanji": "雨",
+     "meaning": "rain",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-048",
+     "kana": "くもり",
+     "kanji": "曇り",
+     "meaning": "cloudy weather",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-049",
+     "kana": "ゆき",
+     "kanji": "雪",
+     "meaning": "snow",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-050",
+     "kana": "きせつ",
+     "kanji": "季節",
+     "meaning": "season",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-051",
+     "kana": "はる",
+     "kanji": "春",
+     "meaning": "spring",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-052",
+     "kana": "なつ",
+     "kanji": "夏",
+     "meaning": "summer",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-053",
+     "kana": "あき",
+     "kanji": "秋",
+     "meaning": "autumn",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-054",
+     "kana": "ふゆ",
+     "kanji": "冬",
+     "meaning": "winter",
+     "category": "Nouns"
+    },
+    {
+     "id": "l09-055",
+     "kana": "あつい",
+     "kanji": "暑い",
+     "meaning": "hot (weather)",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-056",
+     "kana": "さむい",
+     "kanji": "寒い",
+     "meaning": "cold (weather)",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-057",
+     "kana": "あたたかい",
+     "kanji": "暖かい",
+     "meaning": "warm",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-058",
+     "kana": "すずしい",
+     "kanji": "涼しい",
+     "meaning": "cool",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-059",
+     "kana": "つめたい",
+     "kanji": "冷たい",
+     "meaning": "cold (to the touch)",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l09-060",
+     "kana": "ふる",
+     "kanji": "降る",
+     "meaning": "to fall (rain, snow)",
+     "category": "Godan verbs"
+    }
+   ]
+  },
+  {
+   "id": "degree",
+   "title": "How much",
+   "words": [
+    {
+     "id": "l09-061",
+     "kana": "とても",
+     "kanji": "",
+     "meaning": "very",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l09-062",
+     "kana": "すごく",
+     "kanji": "",
+     "meaning": "really, extremely",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l09-063",
+     "kana": "ちょっと",
+     "kanji": "",
+     "meaning": "a little",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l09-064",
+     "kana": "もっと",
+     "kanji": "",
+     "meaning": "more",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l09-065",
+     "kana": "いちばん",
+     "kanji": "一番",
+     "meaning": "the most; number one",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l09-066",
+     "kana": "まあまあ",
+     "kanji": "",
+     "meaning": "so-so",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l09-067",
+     "kana": "どんな",
+     "kanji": "",
+     "meaning": "what kind of",
+     "category": "Question words"
+    },
+    {
+     "id": "l09-068",
+     "kana": "どう",
+     "kanji": "",
+     "meaning": "how",
+     "category": "Question words"
+    }
+   ]
+  }
+ ]
+}

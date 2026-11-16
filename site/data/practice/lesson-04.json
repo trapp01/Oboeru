@@ -1,0 +1,508 @@
+{
+  "lesson": 4,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Give the ます form of the verb.",
+      "kind": "typed",
+      "example": { "cue": "読[よ]む", "answer": "読[よ]みます" },
+      "items": [
+        {
+          "id": "l04-p001",
+          "cue": "書[か]く",
+          "answers": [
+            "書[か]きます"
+          ],
+          "en": "write"
+        },
+        {
+          "id": "l04-p002",
+          "cue": "話[はな]す",
+          "answers": [
+            "話[はな]します"
+          ],
+          "en": "speak"
+        },
+        {
+          "id": "l04-p003",
+          "cue": "教[おし]える",
+          "answers": [
+            "教[おし]えます"
+          ],
+          "en": "teach"
+        },
+        {
+          "id": "l04-p004",
+          "cue": "勉強[べんきょう]する",
+          "answers": [
+            "勉強[べんきょう]します"
+          ],
+          "en": "study"
+        },
+        {
+          "id": "l04-p005",
+          "cue": "働[はたら]く",
+          "answers": [
+            "働[はたら]きます"
+          ],
+          "en": "work"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Give the ません form of the verb.",
+      "kind": "typed",
+      "example": { "cue": "覚[おぼ]える", "answer": "覚[おぼ]えません" },
+      "items": [
+        {
+          "id": "l04-p006",
+          "cue": "聞[き]く",
+          "answers": [
+            "聞[き]きません"
+          ],
+          "en": "don't listen"
+        },
+        {
+          "id": "l04-p007",
+          "cue": "わかる",
+          "answers": [
+            "わかりません"
+          ],
+          "en": "don't understand"
+        },
+        {
+          "id": "l04-p008",
+          "cue": "忘[わす]れる",
+          "answers": [
+            "忘[わす]れません"
+          ],
+          "en": "don't forget"
+        },
+        {
+          "id": "l04-p009",
+          "cue": "習[なら]う",
+          "answers": [
+            "習[なら]いません"
+          ],
+          "en": "don't take lessons"
+        },
+        {
+          "id": "l04-p010",
+          "cue": "練習[れんしゅう]する",
+          "answers": [
+            "練習[れんしゅう]しません"
+          ],
+          "en": "don't practise"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Say what the person in the cue does or doesn't do, with the place when the cue gives one.",
+      "kind": "typed",
+      "example": { "cue": "Ken · study · Japanese · university", "answer": "ケンさんは大学[だいがく]で日本語[にほんご]を勉強[べんきょう]します。" },
+      "items": [
+        {
+          "id": "l04-p011",
+          "cue": "Tanaka · speak · English · company",
+          "answers": [
+            "田中[たなか]さんは会社[かいしゃ]で英語[えいご]を話[はな]します。"
+          ],
+          "en": "Tanaka-san speaks English at the company.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "会社", "en": "company" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "英語", "en": "English (language)" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "話します", "en": "speaks", "base": "話[はな]す", "baseEn": "to speak, to talk" }
+          ]
+        },
+        {
+          "id": "l04-p012",
+          "cue": "Yamada-sensei · teach · Japanese · university",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は大学[だいがく]で日本語[にほんご]を教[おし]えます。"
+          ],
+          "en": "Yamada-sensei teaches Japanese at a university.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "大学", "en": "university" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "日本語", "en": "Japanese (language)" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "教えます", "en": "teaches", "base": "教[おし]える", "baseEn": "to teach" }
+          ]
+        },
+        {
+          "id": "l04-p013",
+          "cue": "Ken · write · essay · home",
+          "answers": [
+            "ケンさんはうちで作文[さくぶん]を書[か]きます。",
+            "ケンさんは家[いえ]で作文[さくぶん]を書[か]きます。"
+          ],
+          "en": "Ken writes his essay at home.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "うち", "en": "home" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "作文", "en": "essay" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "書きます", "en": "writes", "base": "書[か]く", "baseEn": "to write" }
+          ]
+        },
+        {
+          "id": "l04-p014",
+          "cue": "Tanaka · take lessons in · Chinese",
+          "answers": [
+            "田中[たなか]さんは中国語[ちゅうごくご]を習[なら]います。"
+          ],
+          "en": "Tanaka-san takes Chinese lessons.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "中国語", "en": "Chinese (language)" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "習います", "en": "takes lessons in", "base": "習[なら]う", "baseEn": "to learn, to take lessons in" }
+          ]
+        },
+        {
+          "id": "l04-p015",
+          "cue": "Ken · not understand · grammar",
+          "answers": [
+            "ケンさんは文法[ぶんぽう]がわかりません。",
+            "ケンさんは文法[ぶんぽう]はわかりません。"
+          ],
+          "en": "Ken doesn't understand the grammar.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "文法", "en": "grammar" },
+            { "text": "が", "en": "marks what is understood" },
+            { "text": "わかりません", "en": "doesn't understand", "base": "わかる", "baseEn": "to understand" }
+          ]
+        },
+        {
+          "id": "l04-p016",
+          "cue": "Sakura · not speak · Korean",
+          "answers": [
+            "さくらさんは韓国語[かんこくご]を話[はな]しません。"
+          ],
+          "en": "Sakura doesn't speak Korean.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "韓国語", "en": "Korean (language)" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "話しません", "en": "doesn't speak", "base": "話[はな]す", "baseEn": "to speak, to talk" }
+          ]
+        },
+        {
+          "id": "l04-p017",
+          "cue": "Ken · memorize · words",
+          "answers": [
+            "ケンさんは単語[たんご]を覚[おぼ]えます。"
+          ],
+          "en": "Ken memorizes words.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "単語", "en": "words, vocabulary" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "覚えます", "en": "memorizes", "base": "覚[おぼ]える", "baseEn": "to memorize" }
+          ]
+        },
+        {
+          "id": "l04-p018",
+          "cue": "Sakura · practise · English pronunciation",
+          "answers": [
+            "さくらさんは英語[えいご]の発音[はつおん]を練習[れんしゅう]します。"
+          ],
+          "en": "Sakura practises her English pronunciation.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "英語", "en": "English (language)" },
+            { "text": "の", "en": "of (pronunciation of English)" },
+            { "text": "発音", "en": "pronunciation" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "練習します", "en": "practises", "base": "練習[れんしゅう]する", "baseEn": "to practise" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Say the same thing about the person or thing in the cue, using も.",
+      "kind": "typed",
+      "example": { "cue": "ケンさんは英語[えいご]を話[はな]します。 · Sakura, too", "answer": "さくらさんも英語[えいご]を話[はな]します。" },
+      "items": [
+        {
+          "id": "l04-p019",
+          "context": "ケンさんは大学生[だいがくせい]です。",
+          "cue": "Sakura, too",
+          "answers": [
+            "さくらさんも大学生[だいがくせい]です。"
+          ],
+          "en": "Sakura is a university student too.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "も", "en": "also" },
+            { "text": "大学生", "en": "university student" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l04-p020",
+          "context": "さくらさんは韓国語[かんこくご]がわかりません。",
+          "cue": "Ken, too",
+          "answers": [
+            "ケンさんも韓国語[かんこくご]がわかりません。"
+          ],
+          "en": "Ken doesn't understand Korean either.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "も", "en": "also (here: either)" },
+            { "text": "韓国語", "en": "Korean (language)" },
+            { "text": "が", "en": "marks what is understood" },
+            { "text": "わかりません", "en": "doesn't understand", "base": "わかる", "baseEn": "to understand" }
+          ]
+        },
+        {
+          "id": "l04-p021",
+          "context": "田中[たなか]さんは会社員[かいしゃいん]です。",
+          "cue": "Sakura's father, too",
+          "answers": [
+            "さくらさんのお父[とう]さんも会社員[かいしゃいん]です。"
+          ],
+          "en": "Sakura's father is an office worker too.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "の", "en": "'s" },
+            { "text": "お父さん", "en": "father" },
+            { "text": "も", "en": "also" },
+            { "text": "会社員", "en": "office worker" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l04-p022",
+          "context": "ケンさんは漢字[かんじ]を練習[れんしゅう]します。",
+          "cue": "vocabulary, too",
+          "answers": [
+            "ケンさんは単語[たんご]も練習[れんしゅう]します。"
+          ],
+          "en": "Ken practises vocabulary too.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "単語", "en": "words, vocabulary" },
+            { "text": "も", "en": "also" },
+            { "text": "練習します", "en": "practises", "base": "練習[れんしゅう]する", "baseEn": "to practise" }
+          ]
+        },
+        {
+          "id": "l04-p023",
+          "context": "さくらさんは英語[えいご]を習[なら]います。",
+          "cue": "Chinese, too",
+          "answers": [
+            "さくらさんは中国語[ちゅうごくご]も習[なら]います。"
+          ],
+          "en": "Sakura takes Chinese lessons too.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "中国語", "en": "Chinese (language)" },
+            { "text": "も", "en": "also" },
+            { "text": "習います", "en": "takes lessons in", "base": "習[なら]う", "baseEn": "to learn, to take lessons in" }
+          ]
+        },
+        {
+          "id": "l04-p024",
+          "context": "ケンさんは宿題[しゅくだい]を忘[わす]れません。",
+          "cue": "Sakura, too",
+          "answers": [
+            "さくらさんも宿題[しゅくだい]を忘[わす]れません。"
+          ],
+          "en": "Sakura doesn't forget her homework either.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "も", "en": "also (here: either)" },
+            { "text": "宿題", "en": "homework" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "忘れません", "en": "doesn't forget", "base": "忘[わす]れる", "baseEn": "to forget" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Fill in each blank with で, を or の.",
+      "kind": "typed",
+      "example": { "cue": "さくらさんは大学[だいがく]＿英語[えいご]＿勉強[べんきょう]します。", "answer": "さくらさんは大学[だいがく]で英語[えいご]を勉強[べんきょう]します。" },
+      "items": [
+        {
+          "id": "l04-p025",
+          "cue": "田中[たなか]さんは会社[かいしゃ]＿働[はたら]きます。",
+          "cueEn": "Tanaka-san works at a company.",
+          "answers": [
+            "田中[たなか]さんは会社[かいしゃ]で働[はたら]きます。"
+          ],
+          "en": "Tanaka-san works at a company.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "会社", "en": "company" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "働きます", "en": "works", "base": "働[はたら]く", "baseEn": "to work" }
+          ]
+        },
+        {
+          "id": "l04-p026",
+          "cue": "山田[やまだ]先生[せんせい]は日本語[にほんご]＿先生[せんせい]です。",
+          "cueEn": "Yamada-sensei is a Japanese teacher.",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は日本語[にほんご]の先生[せんせい]です。"
+          ],
+          "en": "Yamada-sensei is a Japanese teacher.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "日本語", "en": "Japanese (language)" },
+            { "text": "の", "en": "of (a teacher of Japanese)" },
+            { "text": "先生", "en": "teacher" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l04-p027",
+          "cue": "ケンさんはうち＿宿題[しゅくだい]＿します。",
+          "cueEn": "Ken does his homework at home.",
+          "answers": [
+            "ケンさんはうちで宿題[しゅくだい]をします。"
+          ],
+          "en": "Ken does his homework at home.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "うち", "en": "home" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "宿題", "en": "homework" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "します", "en": "does", "base": "する", "baseEn": "to do" }
+          ]
+        },
+        {
+          "id": "l04-p028",
+          "cue": "ケンさんは山田[やまだ]先生[せんせい]＿授業[じゅぎょう]＿日本語[にほんご]＿話[はな]します。",
+          "cueEn": "Ken speaks Japanese in Yamada-sensei's class.",
+          "answers": [
+            "ケンさんは山田[やまだ]先生[せんせい]の授業[じゅぎょう]で日本語[にほんご]を話[はな]します。"
+          ],
+          "en": "Ken speaks Japanese in Yamada-sensei's class.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "の", "en": "'s" },
+            { "text": "授業", "en": "class" },
+            { "text": "で", "en": "in (where it happens)" },
+            { "text": "日本語", "en": "Japanese (language)" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "話します", "en": "speaks", "base": "話[はな]す", "baseEn": "to speak, to talk" }
+          ]
+        },
+        {
+          "id": "l04-p029",
+          "cue": "ケンさんは日本[にほん]＿大学[だいがく]＿漢字[かんじ]＿習[なら]います。",
+          "cueEn": "Ken learns kanji at a Japanese university.",
+          "answers": [
+            "ケンさんは日本[にほん]の大学[だいがく]で漢字[かんじ]を習[なら]います。"
+          ],
+          "en": "Ken learns kanji at a Japanese university.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "日本", "en": "Japan" },
+            { "text": "の", "en": "of (a university in Japan)" },
+            { "text": "大学", "en": "university" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "漢字", "en": "kanji" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "習います", "en": "learns", "base": "習[なら]う", "baseEn": "to learn, to take lessons in" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "instruction": "Answer the question about yourself.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l04-p030",
+          "cue": "何語[なにご]を話[はな]しますか。",
+          "cueEn": "What languages do you speak?",
+          "answers": [
+            "英語[えいご]と日本語[にほんご]を話[はな]します。"
+          ],
+          "en": "I speak English and Japanese.",
+          "breakdown": [
+            { "text": "英語", "en": "English (language)" },
+            { "text": "と", "en": "and" },
+            { "text": "日本語", "en": "Japanese (language)" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "話します", "en": "speak", "base": "話[はな]す", "baseEn": "to speak, to talk" }
+          ]
+        },
+        {
+          "id": "l04-p031",
+          "cue": "学生[がくせい]ですか。",
+          "cueEn": "Are you a student?",
+          "answers": [
+            "はい、大学生[だいがくせい]です。",
+            "いいえ、会社員[かいしゃいん]です。"
+          ],
+          "en": "Yes, I'm a university student.",
+          "breakdown": [
+            { "text": "はい", "en": "yes" },
+            { "text": "大学生", "en": "university student" },
+            { "text": "です", "en": "am" }
+          ]
+        },
+        {
+          "id": "l04-p032",
+          "cue": "どこで日本語[にほんご]を勉強[べんきょう]しますか。",
+          "cueEn": "Where do you study Japanese?",
+          "answers": [
+            "うちで勉強[べんきょう]します。"
+          ],
+          "en": "I study at home.",
+          "breakdown": [
+            { "text": "うち", "en": "home" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "勉強します", "en": "study", "base": "勉強[べんきょう]する", "baseEn": "to study" }
+          ]
+        },
+        {
+          "id": "l04-p033",
+          "cue": "漢字[かんじ]がわかりますか。",
+          "cueEn": "Do you understand kanji?",
+          "answers": [
+            "いいえ、わかりません。",
+            "はい、わかります。"
+          ],
+          "en": "No, I don't.",
+          "breakdown": [
+            { "text": "いいえ", "en": "no" },
+            { "text": "わかりません", "en": "don't understand", "base": "わかる", "baseEn": "to understand" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+ "lesson": 10,
+ "title": "Free time",
+ "sections": [
+  {
+   "id": "hobbies",
+   "title": "Things to do",
+   "words": [
+    {
+     "id": "l10-001",
+     "kana": "えいが",
+     "kanji": "映画",
+     "meaning": "movie",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-002",
+     "kana": "おんがく",
+     "kanji": "音楽",
+     "meaning": "music",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-003",
+     "kana": "うた",
+     "kanji": "歌",
+     "meaning": "song",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-004",
+     "kana": "テレビ",
+     "kanji": "",
+     "meaning": "TV",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-005",
+     "kana": "ゲーム",
+     "kanji": "",
+     "meaning": "game",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-006",
+     "kana": "スポーツ",
+     "kanji": "",
+     "meaning": "sports",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-007",
+     "kana": "テニス",
+     "kanji": "",
+     "meaning": "tennis",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-008",
+     "kana": "サッカー",
+     "kanji": "",
+     "meaning": "soccer",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-009",
+     "kana": "やきゅう",
+     "kanji": "野球",
+     "meaning": "baseball",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-010",
+     "kana": "スキー",
+     "kanji": "",
+     "meaning": "skiing",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-011",
+     "kana": "サーフィン",
+     "kanji": "",
+     "meaning": "surfing",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-012",
+     "kana": "しあい",
+     "kanji": "試合",
+     "meaning": "match, game",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-013",
+     "kana": "カラオケ",
+     "kanji": "",
+     "meaning": "karaoke",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-014",
+     "kana": "ギター",
+     "kanji": "",
+     "meaning": "guitar",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-015",
+     "kana": "ピアノ",
+     "kanji": "",
+     "meaning": "piano",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-016",
+     "kana": "コンサート",
+     "kanji": "",
+     "meaning": "concert",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-017",
+     "kana": "チケット",
+     "kanji": "",
+     "meaning": "ticket (for a concert, a film)",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-018",
+     "kana": "パーティー",
+     "kanji": "",
+     "meaning": "party",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-019",
+     "kana": "おまつり",
+     "kanji": "お祭り",
+     "meaning": "festival",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-020",
+     "kana": "キャンプ",
+     "kanji": "",
+     "meaning": "camping",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-021",
+     "kana": "つり",
+     "kanji": "",
+     "meaning": "fishing",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-022",
+     "kana": "デート",
+     "kanji": "",
+     "meaning": "date (with someone)",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-023",
+     "kana": "いぬ",
+     "kanji": "犬",
+     "meaning": "dog",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-024",
+     "kana": "ねこ",
+     "kanji": "猫",
+     "meaning": "cat",
+     "category": "Nouns"
+    },
+    {
+     "id": "l10-025",
+     "kana": "ゆめ",
+     "kanji": "夢",
+     "meaning": "dream",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "doing",
+   "title": "Doing them",
+   "words": [
+    {
+     "id": "l10-026",
+     "kana": "みる",
+     "kanji": "見る",
+     "meaning": "to see, to watch",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l10-027",
+     "kana": "うたう",
+     "kanji": "歌う",
+     "meaning": "to sing",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l10-028",
+     "kana": "おどる",
+     "kanji": "踊る",
+     "meaning": "to dance",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l10-029",
+     "kana": "およぐ",
+     "kanji": "泳ぐ",
+     "meaning": "to swim",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l10-030",
+     "kana": "あそぶ",
+     "kanji": "遊ぶ",
+     "meaning": "to play; to hang out",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l10-031",
+     "kana": "ひく",
+     "kanji": "弾く",
+     "meaning": "to play (guitar, piano)",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l10-032",
+     "kana": "とる",
+     "kanji": "撮る",
+     "meaning": "to take (a photo)",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l10-033",
+     "kana": "かう",
+     "kanji": "飼う",
+     "meaning": "to keep (a pet)",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l10-034",
+     "kana": "のぼる",
+     "kanji": "登る",
+     "meaning": "to climb",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l10-035",
+     "kana": "やる",
+     "kanji": "",
+     "meaning": "to do (casual)",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l10-036",
+     "kana": "うんどうする",
+     "kanji": "運動する",
+     "meaning": "to exercise",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l10-037",
+     "kana": "さんぽする",
+     "kanji": "散歩する",
+     "meaning": "to take a walk",
+     "category": "Irregular verbs"
+    }
+   ]
+  },
+  {
+   "id": "likes",
+   "title": "Likes and skills",
+   "words": [
+    {
+     "id": "l10-038",
+     "kana": "すき",
+     "kanji": "好き",
+     "meaning": "liked; to like",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l10-039",
+     "kana": "だいすき",
+     "kanji": "大好き",
+     "meaning": "loved; to love",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l10-040",
+     "kana": "きらい",
+     "kanji": "嫌い",
+     "meaning": "disliked; to dislike",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l10-041",
+     "kana": "じょうず",
+     "kanji": "上手",
+     "meaning": "good at",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l10-042",
+     "kana": "へた",
+     "kanji": "下手",
+     "meaning": "bad at",
+     "category": "な-adjectives"
+    },
+    {
+     "id": "l10-043",
+     "kana": "にんきがある",
+     "kanji": "人気がある",
+     "meaning": "to be popular",
+     "category": "Expressions"
+    },
+    {
+     "id": "l10-044",
+     "kana": "きょうみがある",
+     "kanji": "興味がある",
+     "meaning": "to be interested (in)",
+     "category": "Expressions"
+    }
+   ]
+  }
+ ]
+}

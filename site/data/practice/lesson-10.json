@@ -1,0 +1,503 @@
+{
+  "lesson": 10,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Say how the person feels about the thing.",
+      "kind": "typed",
+      "example": { "cue": "Tanaka-san · fishing · likes", "answer": "田中[たなか]さんはつりが好[す]きです。" },
+      "items": [
+        {
+          "id": "l10-p001",
+          "cue": "Ken · soccer · loves",
+          "answers": [
+            "ケンさんはサッカーが大好[だいす]きです。"
+          ],
+          "en": "Ken loves soccer.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "サッカー", "en": "soccer" },
+            { "text": "が", "en": "marks what is liked" },
+            { "text": "大好きです", "en": "loves", "base": "大好[だいす]き", "baseEn": "loved; to love" }
+          ]
+        },
+        {
+          "id": "l10-p002",
+          "cue": "Sakura · cats · likes",
+          "answers": [
+            "さくらさんは猫[ねこ]が好[す]きです。"
+          ],
+          "en": "Sakura likes cats.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "猫", "en": "cat" },
+            { "text": "が", "en": "marks what is liked" },
+            { "text": "好きです", "en": "likes", "base": "好[す]き", "baseEn": "liked; to like" }
+          ]
+        },
+        {
+          "id": "l10-p003",
+          "cue": "Tanaka-san · karaoke · dislikes",
+          "answers": [
+            "田中[たなか]さんはカラオケが嫌[きら]いです。"
+          ],
+          "en": "Tanaka-san dislikes karaoke.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "カラオケ", "en": "karaoke" },
+            { "text": "が", "en": "marks what is disliked" },
+            { "text": "嫌いです", "en": "dislikes", "base": "嫌[きら]い", "baseEn": "disliked; to dislike" }
+          ]
+        },
+        {
+          "id": "l10-p004",
+          "cue": "Yamada-sensei · baseball · loves",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は野球[やきゅう]が大好[だいす]きです。"
+          ],
+          "en": "Yamada-sensei loves baseball.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "野球", "en": "baseball" },
+            { "text": "が", "en": "marks what is liked" },
+            { "text": "大好きです", "en": "loves", "base": "大好[だいす]き", "baseEn": "loved; to love" }
+          ]
+        },
+        {
+          "id": "l10-p005",
+          "cue": "Ken · TV · doesn't like",
+          "answers": [
+            "ケンさんはテレビが好[す]きじゃないです。",
+            "ケンさんはテレビが好[す]きではありません。"
+          ],
+          "en": "Ken doesn't like TV.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "テレビ", "en": "TV" },
+            { "text": "が", "en": "marks what is liked" },
+            { "text": "好きじゃないです", "en": "doesn't like", "base": "好[す]き", "baseEn": "liked; to like" }
+          ]
+        },
+        {
+          "id": "l10-p006",
+          "cue": "I · dogs · like",
+          "answers": [
+            "(私[わたし]は)犬[いぬ]が好[す]きです。"
+          ],
+          "en": "I like dogs.",
+          "breakdown": [
+            { "text": "私", "en": "I" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "犬", "en": "dog" },
+            { "text": "が", "en": "marks what is liked" },
+            { "text": "好きです", "en": "like", "base": "好[す]き", "baseEn": "liked; to like" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Say what the person is good at or bad at.",
+      "kind": "typed",
+      "example": { "cue": "Ken · tennis · good at", "answer": "ケンさんはテニスが上手[じょうず]です。" },
+      "items": [
+        {
+          "id": "l10-p007",
+          "cue": "Sakura · the piano · good at",
+          "answers": [
+            "さくらさんはピアノが上手[じょうず]です。"
+          ],
+          "en": "Sakura is good at the piano.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "ピアノ", "en": "piano" },
+            { "text": "が", "en": "marks the skill" },
+            { "text": "上手です", "en": "is good at", "base": "上手[じょうず]", "baseEn": "good at" }
+          ]
+        },
+        {
+          "id": "l10-p008",
+          "cue": "Tanaka-san · singing · bad at",
+          "answers": [
+            "田中[たなか]さんは歌[うた]が下手[へた]です。"
+          ],
+          "en": "Tanaka-san is bad at singing.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "歌", "en": "singing (songs)" },
+            { "text": "が", "en": "marks the skill" },
+            { "text": "下手です", "en": "is bad at", "base": "下手[へた]", "baseEn": "bad at" }
+          ]
+        },
+        {
+          "id": "l10-p009",
+          "cue": "Yamada-sensei · cooking · good at",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は料理[りょうり]が上手[じょうず]です。"
+          ],
+          "en": "Yamada-sensei is good at cooking.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "料理", "en": "cooking" },
+            { "text": "が", "en": "marks the skill" },
+            { "text": "上手です", "en": "is good at", "base": "上手[じょうず]", "baseEn": "good at" }
+          ]
+        },
+        {
+          "id": "l10-p010",
+          "cue": "Ken · skiing · bad at",
+          "answers": [
+            "ケンさんはスキーが下手[へた]です。"
+          ],
+          "en": "Ken is bad at skiing.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "スキー", "en": "skiing" },
+            { "text": "が", "en": "marks the skill" },
+            { "text": "下手です", "en": "is bad at", "base": "下手[へた]", "baseEn": "bad at" }
+          ]
+        },
+        {
+          "id": "l10-p011",
+          "cue": "Sakura · English · good at",
+          "answers": [
+            "さくらさんは英語[えいご]が上手[じょうず]です。"
+          ],
+          "en": "Sakura is good at English.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "英語", "en": "English (language)" },
+            { "text": "が", "en": "marks the skill" },
+            { "text": "上手です", "en": "is good at", "base": "上手[じょうず]", "baseEn": "good at" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Change the verb to its ましょう form, \"let's …\".",
+      "kind": "typed",
+      "example": { "cue": "歌[うた]います", "answer": "歌[うた]いましょう" },
+      "items": [
+        {
+          "id": "l10-p012",
+          "cue": "踊[おど]ります",
+          "answers": [
+            "踊[おど]りましょう"
+          ],
+          "en": "let's dance"
+        },
+        {
+          "id": "l10-p013",
+          "cue": "泳[およ]ぎます",
+          "answers": [
+            "泳[およ]ぎましょう"
+          ],
+          "en": "let's swim"
+        },
+        {
+          "id": "l10-p014",
+          "cue": "遊[あそ]びます",
+          "answers": [
+            "遊[あそ]びましょう"
+          ],
+          "en": "let's play, let's hang out"
+        },
+        {
+          "id": "l10-p015",
+          "cue": "散歩[さんぽ]します",
+          "answers": [
+            "散歩[さんぽ]しましょう"
+          ],
+          "en": "let's take a walk"
+        },
+        {
+          "id": "l10-p016",
+          "cue": "登[のぼ]ります",
+          "answers": [
+            "登[のぼ]りましょう"
+          ],
+          "en": "let's climb"
+        },
+        {
+          "id": "l10-p017",
+          "cue": "見[み]ます",
+          "answers": [
+            "見[み]ましょう"
+          ],
+          "en": "let's watch"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Say that you want to do it, with 〜たいです.",
+      "kind": "typed",
+      "example": { "cue": "eat · sushi", "answer": "すしを食[た]べたいです。" },
+      "items": [
+        {
+          "id": "l10-p018",
+          "cue": "watch · a movie",
+          "answers": [
+            "(私[わたし]は)映画[えいが]を見[み]たいです。",
+            "(私[わたし]は)映画[えいが]が見[み]たいです。"
+          ],
+          "en": "I want to watch a movie.",
+          "breakdown": [
+            { "text": "私", "en": "I" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "映画", "en": "movie" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "見たいです", "en": "want to watch", "base": "見[み]る", "baseEn": "to see, to watch" }
+          ]
+        },
+        {
+          "id": "l10-p019",
+          "cue": "keep · a cat",
+          "answers": [
+            "(私[わたし]は)猫[ねこ]を飼[か]いたいです。",
+            "(私[わたし]は)猫[ねこ]が飼[か]いたいです。"
+          ],
+          "en": "I want to have a cat.",
+          "breakdown": [
+            { "text": "私", "en": "I" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "猫", "en": "cat" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "飼いたいです", "en": "want to keep (as a pet)", "base": "飼[か]う", "baseEn": "to keep (a pet)" }
+          ]
+        },
+        {
+          "id": "l10-p020",
+          "cue": "learn · the guitar",
+          "answers": [
+            "(私[わたし]は)ギターを習[なら]いたいです。",
+            "(私[わたし]は)ギターが習[なら]いたいです。"
+          ],
+          "en": "I want to learn the guitar.",
+          "breakdown": [
+            { "text": "私", "en": "I" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "ギター", "en": "guitar" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "習いたいです", "en": "want to learn", "base": "習[なら]う", "baseEn": "to learn, to take lessons in" }
+          ]
+        },
+        {
+          "id": "l10-p021",
+          "cue": "sing · at karaoke",
+          "answers": [
+            "(私[わたし]は)カラオケで歌[うた]いたいです。"
+          ],
+          "en": "I want to sing at karaoke.",
+          "breakdown": [
+            { "text": "私", "en": "I" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "カラオケ", "en": "karaoke" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "歌いたいです", "en": "want to sing", "base": "歌[うた]う", "baseEn": "to sing" }
+          ]
+        },
+        {
+          "id": "l10-p022",
+          "cue": "go · to a concert",
+          "answers": [
+            "(私[わたし]は)コンサートに行[い]きたいです。"
+          ],
+          "en": "I want to go to a concert.",
+          "breakdown": [
+            { "text": "私", "en": "I" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "コンサート", "en": "concert" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きたいです", "en": "want to go", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l10-p023",
+          "cue": "take · photos · at the festival",
+          "answers": [
+            "(私[わたし]は)お祭[まつ]りで写真[しゃしん]を撮[と]りたいです。",
+            "(私[わたし]は)お祭[まつ]りで写真[しゃしん]が撮[と]りたいです。"
+          ],
+          "en": "I want to take photos at the festival.",
+          "breakdown": [
+            { "text": "私", "en": "I" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "お祭り", "en": "festival" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "写真", "en": "photo" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "撮りたいです", "en": "want to take", "base": "撮[と]る", "baseEn": "to take (a photo)" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Suggest doing it together, with 〜ましょうか.",
+      "kind": "typed",
+      "example": { "cue": "Friday · see a movie", "answer": "金曜日[きんようび]に映画[えいが]を見[み]ましょうか。" },
+      "items": [
+        {
+          "id": "l10-p024",
+          "cue": "Saturday · play tennis",
+          "answers": [
+            "土曜日[どようび]にテニスをしましょうか。"
+          ],
+          "en": "Shall we play tennis on Saturday?",
+          "breakdown": [
+            { "text": "土曜日", "en": "Saturday" },
+            { "text": "に", "en": "on (a day)" },
+            { "text": "テニス", "en": "tennis" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "しましょう", "en": "let's do (play)", "base": "する", "baseEn": "to do" },
+            { "text": "か", "en": "question marker (shall we?)" }
+          ]
+        },
+        {
+          "id": "l10-p025",
+          "cue": "tomorrow · watch the soccer match",
+          "answers": [
+            "明日[あした]サッカーの試合[しあい]を見[み]ましょうか。"
+          ],
+          "en": "Shall we watch the soccer match tomorrow?",
+          "breakdown": [
+            { "text": "明日", "en": "tomorrow" },
+            { "text": "サッカー", "en": "soccer" },
+            { "text": "の", "en": "of" },
+            { "text": "試合", "en": "match" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "見ましょう", "en": "let's watch", "base": "見[み]る", "baseEn": "to see, to watch" },
+            { "text": "か", "en": "question marker (shall we?)" }
+          ]
+        },
+        {
+          "id": "l10-p026",
+          "cue": "tonight · go to karaoke",
+          "answers": [
+            "今晩[こんばん]カラオケに行[い]きましょうか。"
+          ],
+          "en": "Shall we go to karaoke tonight?",
+          "breakdown": [
+            { "text": "今晩", "en": "tonight" },
+            { "text": "カラオケ", "en": "karaoke" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きましょう", "en": "let's go", "base": "行[い]く", "baseEn": "to go" },
+            { "text": "か", "en": "question marker (shall we?)" }
+          ]
+        },
+        {
+          "id": "l10-p027",
+          "cue": "the weekend · play games · at my place",
+          "answers": [
+            "週末[しゅうまつ]にうちでゲームをしましょうか。",
+            "週末[しゅうまつ]に家[いえ]でゲームをしましょうか。"
+          ],
+          "en": "Shall we play games at my place on the weekend?",
+          "breakdown": [
+            { "text": "週末", "en": "weekend" },
+            { "text": "に", "en": "on (a time)" },
+            { "text": "うち", "en": "my place" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "ゲーム", "en": "game" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "しましょう", "en": "let's do (play)", "base": "する", "baseEn": "to do" },
+            { "text": "か", "en": "question marker (shall we?)" }
+          ]
+        },
+        {
+          "id": "l10-p028",
+          "cue": "Sunday · go to the festival",
+          "answers": [
+            "日曜日[にちようび]にお祭[まつ]りに行[い]きましょうか。"
+          ],
+          "en": "Shall we go to the festival on Sunday?",
+          "breakdown": [
+            { "text": "日曜日", "en": "Sunday" },
+            { "text": "に", "en": "on (a day)" },
+            { "text": "お祭り", "en": "festival" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きましょう", "en": "let's go", "base": "行[い]く", "baseEn": "to go" },
+            { "text": "か", "en": "question marker (shall we?)" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "instruction": "Answer about yourself.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l10-p029",
+          "cue": "好[す]きなスポーツは何[なん]ですか。",
+          "cueEn": "What is your favourite sport?",
+          "answers": [
+            "サッカーが好[す]きです。",
+            "野球[やきゅう]が大好[だいす]きです。"
+          ],
+          "en": "I like soccer.",
+          "breakdown": [
+            { "text": "サッカー", "en": "soccer" },
+            { "text": "が", "en": "marks what is liked" },
+            { "text": "好きです", "en": "like", "base": "好[す]き", "baseEn": "liked; to like" }
+          ]
+        },
+        {
+          "id": "l10-p030",
+          "cue": "歌[うた]が上手[じょうず]ですか。",
+          "cueEn": "Are you good at singing?",
+          "answers": [
+            "いいえ、下手[へた]です。"
+          ],
+          "en": "No, I'm bad at it.",
+          "breakdown": [
+            { "text": "いいえ", "en": "no" },
+            { "text": "下手です", "en": "am bad at (it)", "base": "下手[へた]", "baseEn": "bad at" }
+          ]
+        },
+        {
+          "id": "l10-p031",
+          "cue": "週末[しゅうまつ]に何[なに]をしたいですか。",
+          "cueEn": "What do you want to do on the weekend?",
+          "answers": [
+            "友達[ともだち]と映画[えいが]を見[み]たいです。"
+          ],
+          "en": "I want to see a movie with a friend.",
+          "breakdown": [
+            { "text": "友達", "en": "friend" },
+            { "text": "と", "en": "with" },
+            { "text": "映画", "en": "movie" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "見たいです", "en": "want to see", "base": "見[み]る", "baseEn": "to see, to watch" }
+          ]
+        },
+        {
+          "id": "l10-p032",
+          "cue": "嫌[きら]いな食[た]べ物[もの]は何[なん]ですか。",
+          "cueEn": "What food do you dislike?",
+          "answers": [
+            "トマトが嫌[きら]いです。"
+          ],
+          "en": "I dislike tomatoes.",
+          "breakdown": [
+            { "text": "トマト", "en": "tomato" },
+            { "text": "が", "en": "marks what is disliked" },
+            { "text": "嫌いです", "en": "dislike", "base": "嫌[きら]い", "baseEn": "disliked; to dislike" }
+          ]
+        }
+      ]
+    }
+  ]
+}

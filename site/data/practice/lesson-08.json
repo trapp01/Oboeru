@@ -1,0 +1,507 @@
+{
+  "lesson": 8,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Change the verb to its past form.",
+      "kind": "typed",
+      "example": { "cue": "食[た]べます", "answer": "食[た]べました" },
+      "items": [
+        {
+          "id": "l08-p001",
+          "cue": "起[お]きます",
+          "answers": [
+            "起[お]きました"
+          ],
+          "en": "got up"
+        },
+        {
+          "id": "l08-p002",
+          "cue": "寝[ね]ます",
+          "answers": [
+            "寝[ね]ました"
+          ],
+          "en": "went to bed"
+        },
+        {
+          "id": "l08-p003",
+          "cue": "来[き]ます",
+          "answers": [
+            "来[き]ました"
+          ],
+          "en": "came"
+        },
+        {
+          "id": "l08-p004",
+          "cue": "します",
+          "answers": [
+            "しました"
+          ],
+          "en": "did"
+        },
+        {
+          "id": "l08-p005",
+          "cue": "始[はじ]まります",
+          "answers": [
+            "始[はじ]まりました"
+          ],
+          "en": "began"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Change the verb to its past negative form.",
+      "kind": "typed",
+      "example": { "cue": "行[い]きます", "answer": "行[い]きませんでした" },
+      "items": [
+        {
+          "id": "l08-p006",
+          "cue": "飲[の]みます",
+          "answers": [
+            "飲[の]みませんでした"
+          ],
+          "en": "didn't drink"
+        },
+        {
+          "id": "l08-p007",
+          "cue": "休[やす]みます",
+          "answers": [
+            "休[やす]みませんでした"
+          ],
+          "en": "didn't rest"
+        },
+        {
+          "id": "l08-p008",
+          "cue": "出[で]かけます",
+          "answers": [
+            "出[で]かけませんでした"
+          ],
+          "en": "didn't go out"
+        },
+        {
+          "id": "l08-p009",
+          "cue": "勉強[べんきょう]します",
+          "answers": [
+            "勉強[べんきょう]しませんでした"
+          ],
+          "en": "didn't study"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Say what Sakura does on a weekday, one row at a time.",
+      "kind": "typed",
+      "example": { "cue": "7:00 · get up", "answer": "(さくらさんは)七時[しちじ]に起[お]きます。" },
+      "items": [
+        {
+          "id": "l08-p010",
+          "cue": "7:30 · eat breakfast",
+          "answers": [
+            "(さくらさんは)七時半[しちじはん]に朝[あさ]ご飯[はん]を食[た]べます。"
+          ],
+          "en": "Sakura eats breakfast at seven thirty.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "七時半", "en": "half past seven" },
+            { "text": "に", "en": "at (a time)" },
+            { "text": "朝ご飯", "en": "breakfast" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "食べます", "en": "eats", "base": "食[た]べる", "baseEn": "to eat" }
+          ]
+        },
+        {
+          "id": "l08-p011",
+          "cue": "8:15 · go out",
+          "answers": [
+            "(さくらさんは)八時十五分[はちじじゅうごふん]に出[で]かけます。"
+          ],
+          "en": "Sakura goes out at a quarter past eight.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "八時十五分", "en": "8:15" },
+            { "text": "に", "en": "at (a time)" },
+            { "text": "出かけます", "en": "goes out", "base": "出[で]かける", "baseEn": "to go out" }
+          ]
+        },
+        {
+          "id": "l08-p012",
+          "cue": "9:00–12:00 · study at the university",
+          "answers": [
+            "(さくらさんは)九時[くじ]から十二時[じゅうにじ]まで大学[だいがく]で勉強[べんきょう]します。"
+          ],
+          "en": "Sakura studies at the university from nine to twelve.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "九時", "en": "nine o'clock" },
+            { "text": "から", "en": "from" },
+            { "text": "十二時", "en": "twelve o'clock" },
+            { "text": "まで", "en": "until" },
+            { "text": "大学", "en": "university" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "勉強します", "en": "studies", "base": "勉強[べんきょう]する", "baseEn": "to study" }
+          ]
+        },
+        {
+          "id": "l08-p013",
+          "cue": "12:30 · eat lunch at the cafeteria",
+          "answers": [
+            "(さくらさんは)十二時半[じゅうにじはん]に食堂[しょくどう]で昼[ひる]ご飯[はん]を食[た]べます。"
+          ],
+          "en": "Sakura eats lunch in the cafeteria at twelve thirty.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "十二時半", "en": "half past twelve" },
+            { "text": "に", "en": "at (a time)" },
+            { "text": "食堂", "en": "cafeteria" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "昼ご飯", "en": "lunch" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "食べます", "en": "eats", "base": "食[た]べる", "baseEn": "to eat" }
+          ]
+        },
+        {
+          "id": "l08-p014",
+          "cue": "1:00–5:00 · part-time job at a cafe",
+          "answers": [
+            "(さくらさんは)一時[いちじ]から五時[ごじ]までカフェでアルバイトをします。",
+            "(さくらさんは)一時[いちじ]から五時[ごじ]までカフェでアルバイトします。"
+          ],
+          "en": "Sakura works part-time at a cafe from one to five.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "一時", "en": "one o'clock" },
+            { "text": "から", "en": "from" },
+            { "text": "五時", "en": "five o'clock" },
+            { "text": "まで", "en": "until" },
+            { "text": "カフェ", "en": "cafe" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "アルバイト", "en": "part-time job" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "します", "en": "does", "base": "する", "baseEn": "to do" }
+          ]
+        },
+        {
+          "id": "l08-p015",
+          "cue": "about 7:00 · eat dinner",
+          "answers": [
+            "(さくらさんは)七時[しちじ]ごろ晩[ばん]ご飯[はん]を食[た]べます。",
+            "(さくらさんは)七時[しちじ]ごろに晩[ばん]ご飯[はん]を食[た]べます。"
+          ],
+          "en": "Sakura eats dinner at about seven.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "七時", "en": "seven o'clock" },
+            { "text": "ごろ", "en": "around (a time)" },
+            { "text": "晩ご飯", "en": "dinner" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "食べます", "en": "eats", "base": "食[た]べる", "baseEn": "to eat" }
+          ]
+        },
+        {
+          "id": "l08-p016",
+          "cue": "about 11:30 · go to bed",
+          "answers": [
+            "(さくらさんは)十一時半[じゅういちじはん]ごろ寝[ね]ます。",
+            "(さくらさんは)十一時半[じゅういちじはん]ごろに寝[ね]ます。"
+          ],
+          "en": "Sakura goes to bed at about half past eleven.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "十一時半", "en": "half past eleven" },
+            { "text": "ごろ", "en": "around (a time)" },
+            { "text": "寝ます", "en": "goes to bed", "base": "寝[ね]る", "baseEn": "to sleep, to go to bed" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Say the sentence about yesterday: put 昨日 in place of the time word and make the verb past.",
+      "kind": "typed",
+      "example": { "cue": "ケンさんは毎日[まいにち]公園[こうえん]を走[はし]ります。", "answer": "ケンさんは昨日[きのう]公園[こうえん]を走[はし]りました。" },
+      "items": [
+        {
+          "id": "l08-p017",
+          "cue": "田中[たなか]さんは毎日[まいにち]六時[ろくじ]に起[お]きます。",
+          "cueEn": "Tanaka-san gets up at six every day.",
+          "answers": [
+            "田中[たなか]さんは昨日[きのう]六時[ろくじ]に起[お]きました。"
+          ],
+          "en": "Tanaka-san got up at six yesterday.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "昨日", "en": "yesterday" },
+            { "text": "六時", "en": "six o'clock" },
+            { "text": "に", "en": "at (a time)" },
+            { "text": "起きました", "en": "got up", "base": "起[お]きる", "baseEn": "to get up" }
+          ]
+        },
+        {
+          "id": "l08-p018",
+          "cue": "さくらさんは毎晩[まいばん]お風呂[ふろ]に入[はい]ります。",
+          "cueEn": "Sakura takes a bath every night.",
+          "answers": [
+            "さくらさんは昨日[きのう]お風呂[ふろ]に入[はい]りました。"
+          ],
+          "en": "Sakura took a bath yesterday.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "昨日", "en": "yesterday" },
+            { "text": "お風呂", "en": "bath" },
+            { "text": "に", "en": "into" },
+            { "text": "入りました", "en": "got in (took a bath)", "base": "入[はい]る", "baseEn": "to enter" }
+          ]
+        },
+        {
+          "id": "l08-p019",
+          "cue": "山田[やまだ]先生[せんせい]は日曜日[にちようび]に学校[がっこう]に行[い]きません。",
+          "cueEn": "Yamada-sensei doesn't go to school on Sundays.",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は昨日[きのう]学校[がっこう]に行[い]きませんでした。"
+          ],
+          "en": "Yamada-sensei didn't go to school yesterday.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "昨日", "en": "yesterday" },
+            { "text": "学校", "en": "school" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きませんでした", "en": "didn't go", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l08-p020",
+          "cue": "さくらさんは毎日[まいにち]友達[ともだち]に電話[でんわ]します。",
+          "cueEn": "Sakura phones a friend every day.",
+          "answers": [
+            "さくらさんは昨日[きのう]友達[ともだち]に電話[でんわ]しました。"
+          ],
+          "en": "Sakura phoned a friend yesterday.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "昨日", "en": "yesterday" },
+            { "text": "友達", "en": "friend" },
+            { "text": "に", "en": "to (a person)" },
+            { "text": "電話しました", "en": "phoned", "base": "電話[でんわ]する", "baseEn": "to phone" }
+          ]
+        },
+        {
+          "id": "l08-p021",
+          "cue": "田中[たなか]さんは今日[きょう]お酒[さけ]を飲[の]みません。",
+          "cueEn": "Tanaka-san isn't drinking alcohol today.",
+          "answers": [
+            "田中[たなか]さんは昨日[きのう]お酒[さけ]を飲[の]みませんでした。"
+          ],
+          "en": "Tanaka-san didn't drink alcohol yesterday.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "昨日", "en": "yesterday" },
+            { "text": "お酒", "en": "alcohol" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "飲みませんでした", "en": "didn't drink", "base": "飲[の]む", "baseEn": "to drink" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Answer the question from the facts given.",
+      "kind": "typed",
+      "items": [
+        {
+          "id": "l08-p022",
+          "cue": "銀行[ぎんこう]は何時[なんじ]から何時[なんじ]までですか。",
+          "context": "The bank: 9:00 to 3:00",
+          "cueEn": "What hours is the bank open?",
+          "answers": [
+            "(銀行[ぎんこう]は)九時[くじ]から三時[さんじ]までです。"
+          ],
+          "en": "The bank is open from nine to three.",
+          "breakdown": [
+            { "text": "銀行", "en": "bank" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "九時", "en": "nine o'clock" },
+            { "text": "から", "en": "from" },
+            { "text": "三時", "en": "three o'clock" },
+            { "text": "まで", "en": "until" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l08-p023",
+          "cue": "昨日[きのう]、ケンさんは何時[なんじ]に寝[ね]ましたか。",
+          "context": "Ken went to bed at about 12:00 last night.",
+          "cueEn": "What time did Ken go to bed yesterday?",
+          "answers": [
+            "(ケンさんは)十二時[じゅうにじ]ごろ寝[ね]ました。",
+            "(ケンさんは)十二時[じゅうにじ]ごろに寝[ね]ました。"
+          ],
+          "en": "Ken went to bed at about twelve.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "十二時", "en": "twelve o'clock" },
+            { "text": "ごろ", "en": "around (a time)" },
+            { "text": "寝ました", "en": "went to bed", "base": "寝[ね]る", "baseEn": "to sleep, to go to bed" }
+          ]
+        },
+        {
+          "id": "l08-p024",
+          "cue": "さくらさんはよく図書館[としょかん]に行[い]きますか。",
+          "context": "Sakura goes to the library every day.",
+          "cueEn": "Does Sakura often go to the library?",
+          "answers": [
+            "はい、(さくらさんは)毎日[まいにち](図書館[としょかん]に)行[い]きます。"
+          ],
+          "en": "Yes, Sakura goes to the library every day.",
+          "breakdown": [
+            { "text": "はい", "en": "yes" },
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "毎日", "en": "every day" },
+            { "text": "図書館", "en": "library" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きます", "en": "goes", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l08-p025",
+          "cue": "田中[たなか]さんはよくコーヒーを飲[の]みますか。",
+          "context": "Tanaka-san doesn't drink coffee often.",
+          "cueEn": "Does Tanaka-san often drink coffee?",
+          "answers": [
+            "いいえ、(田中[たなか]さんは)あまり(コーヒーを)飲[の]みません。"
+          ],
+          "en": "No, Tanaka-san doesn't drink coffee much.",
+          "breakdown": [
+            { "text": "いいえ", "en": "no" },
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "あまり", "en": "not much" },
+            { "text": "コーヒー", "en": "coffee" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "飲みません", "en": "doesn't drink", "base": "飲[の]む", "baseEn": "to drink" }
+          ]
+        },
+        {
+          "id": "l08-p026",
+          "cue": "山田[やまだ]先生[せんせい]は今朝[けさ]何時[なんじ]に学校[がっこう]に来[き]ましたか。",
+          "context": "This morning Yamada-sensei came to school at 8:00.",
+          "cueEn": "What time did Yamada-sensei come to school this morning?",
+          "answers": [
+            "(山田[やまだ]先生[せんせい]は)八時[はちじ]に(学校[がっこう]に)来[き]ました。"
+          ],
+          "en": "Yamada-sensei came to school at eight.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "八時", "en": "eight o'clock" },
+            { "text": "に", "en": "at (a time)" },
+            { "text": "学校", "en": "school" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "来ました", "en": "came", "base": "来[く]る", "baseEn": "to come" }
+          ]
+        },
+        {
+          "id": "l08-p027",
+          "cue": "昨日[きのう]は何曜日[なんようび]でしたか。",
+          "context": "Today is Wednesday.",
+          "cueEn": "What day was it yesterday?",
+          "answers": [
+            "(昨日[きのう]は)火曜日[かようび]でした。"
+          ],
+          "en": "Yesterday was Tuesday.",
+          "breakdown": [
+            { "text": "昨日", "en": "yesterday" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "火曜日", "en": "Tuesday" },
+            { "text": "でした", "en": "was", "base": "です", "baseEn": "is" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "instruction": "Answer about your own days.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l08-p028",
+          "cue": "たいてい何時[なんじ]に起[お]きますか。",
+          "cueEn": "What time do you usually get up?",
+          "answers": [
+            "たいてい七時[しちじ]ごろ起[お]きます。",
+            "六時半[ろくじはん]に起[お]きます。"
+          ],
+          "en": "I usually get up at about seven.",
+          "breakdown": [
+            { "text": "たいてい", "en": "usually" },
+            { "text": "七時", "en": "seven o'clock" },
+            { "text": "ごろ", "en": "around (a time)" },
+            { "text": "起きます", "en": "get up", "base": "起[お]きる", "baseEn": "to get up" }
+          ]
+        },
+        {
+          "id": "l08-p029",
+          "cue": "昨日[きのう]何[なに]をしましたか。",
+          "cueEn": "What did you do yesterday?",
+          "answers": [
+            "図書館[としょかん]で勉強[べんきょう]しました。",
+            "友達[ともだち]とカフェに行[い]きました。"
+          ],
+          "en": "I studied at the library.",
+          "breakdown": [
+            { "text": "図書館", "en": "library" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "勉強しました", "en": "studied", "base": "勉強[べんきょう]する", "baseEn": "to study" }
+          ]
+        },
+        {
+          "id": "l08-p030",
+          "cue": "休[やす]みの日[ひ]はたいてい何[なに]をしますか。",
+          "cueEn": "What do you usually do on your days off?",
+          "answers": [
+            "たいていうちでゆっくり休[やす]みます。",
+            "友達[ともだち]と公園[こうえん]でテニスをします。"
+          ],
+          "en": "I usually take it easy at home.",
+          "breakdown": [
+            { "text": "たいてい", "en": "usually" },
+            { "text": "うち", "en": "home" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "ゆっくり", "en": "at ease, without hurry" },
+            { "text": "休みます", "en": "rest", "base": "休[やす]む", "baseEn": "to rest" }
+          ]
+        },
+        {
+          "id": "l08-p031",
+          "cue": "昨日[きのう]の夜[よる]、何時[なんじ]に寝[ね]ましたか。",
+          "cueEn": "What time did you go to bed last night?",
+          "answers": [
+            "十一時[じゅういちじ]ごろ寝[ね]ました。",
+            "十二時半[じゅうにじはん]に寝[ね]ました。"
+          ],
+          "en": "I went to bed at about eleven.",
+          "breakdown": [
+            { "text": "十一時", "en": "eleven o'clock" },
+            { "text": "ごろ", "en": "at about" },
+            { "text": "寝ました", "en": "went to bed", "base": "寝[ね]る", "baseEn": "to sleep; to go to bed" }
+          ]
+        }
+      ]
+    }
+  ]
+}

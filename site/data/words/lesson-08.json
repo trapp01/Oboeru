@@ -1,0 +1,443 @@
+{
+ "lesson": 8,
+ "title": "Days and routines",
+ "sections": [
+  {
+   "id": "days",
+   "title": "Days and dates",
+   "words": [
+    {
+     "id": "l08-001",
+     "kana": "げつようび",
+     "kanji": "月曜日",
+     "meaning": "Monday",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-002",
+     "kana": "かようび",
+     "kanji": "火曜日",
+     "meaning": "Tuesday",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-003",
+     "kana": "すいようび",
+     "kanji": "水曜日",
+     "meaning": "Wednesday",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-004",
+     "kana": "もくようび",
+     "kanji": "木曜日",
+     "meaning": "Thursday",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-005",
+     "kana": "きんようび",
+     "kanji": "金曜日",
+     "meaning": "Friday",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-006",
+     "kana": "どようび",
+     "kanji": "土曜日",
+     "meaning": "Saturday",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-007",
+     "kana": "にちようび",
+     "kanji": "日曜日",
+     "meaning": "Sunday",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-008",
+     "kana": "しゅうまつ",
+     "kanji": "週末",
+     "meaning": "weekend",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-009",
+     "kana": "きょう",
+     "kanji": "今日",
+     "meaning": "today",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-010",
+     "kana": "あした",
+     "kanji": "明日",
+     "meaning": "tomorrow",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-011",
+     "kana": "きのう",
+     "kanji": "昨日",
+     "meaning": "yesterday",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-012",
+     "kana": "あさって",
+     "kanji": "",
+     "meaning": "the day after tomorrow",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-013",
+     "kana": "おととい",
+     "kanji": "",
+     "meaning": "the day before yesterday",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-014",
+     "kana": "まいにち",
+     "kanji": "毎日",
+     "meaning": "every day",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-015",
+     "kana": "こんしゅう",
+     "kanji": "今週",
+     "meaning": "this week",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-016",
+     "kana": "らいしゅう",
+     "kanji": "来週",
+     "meaning": "next week",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-017",
+     "kana": "せんしゅう",
+     "kanji": "先週",
+     "meaning": "last week",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-018",
+     "kana": "まいしゅう",
+     "kanji": "毎週",
+     "meaning": "every week",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-019",
+     "kana": "こんげつ",
+     "kanji": "今月",
+     "meaning": "this month",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-020",
+     "kana": "らいげつ",
+     "kanji": "来月",
+     "meaning": "next month",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-021",
+     "kana": "せんげつ",
+     "kanji": "先月",
+     "meaning": "last month",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-022",
+     "kana": "ことし",
+     "kanji": "今年",
+     "meaning": "this year",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-023",
+     "kana": "らいねん",
+     "kanji": "来年",
+     "meaning": "next year",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-024",
+     "kana": "きょねん",
+     "kanji": "去年",
+     "meaning": "last year",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-025",
+     "kana": "たんじょうび",
+     "kanji": "誕生日",
+     "meaning": "birthday",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-026",
+     "kana": "やすみ",
+     "kanji": "休み",
+     "meaning": "day off; holiday",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "day-parts",
+   "title": "Morning to night",
+   "words": [
+    {
+     "id": "l08-027",
+     "kana": "あさ",
+     "kanji": "朝",
+     "meaning": "morning",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-028",
+     "kana": "けさ",
+     "kanji": "今朝",
+     "meaning": "this morning",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-029",
+     "kana": "よる",
+     "kanji": "夜",
+     "meaning": "night",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-030",
+     "kana": "こんばん",
+     "kanji": "今晩",
+     "meaning": "tonight",
+     "category": "Nouns"
+    },
+    {
+     "id": "l08-031",
+     "kana": "まいばん",
+     "kanji": "毎晩",
+     "meaning": "every night",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "routine",
+   "title": "Routine",
+   "words": [
+    {
+     "id": "l08-032",
+     "kana": "おきる",
+     "kanji": "起きる",
+     "meaning": "to get up",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l08-033",
+     "kana": "ねる",
+     "kanji": "寝る",
+     "meaning": "to sleep; to go to bed",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l08-034",
+     "kana": "はじめる",
+     "kanji": "始める",
+     "meaning": "to begin (something)",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l08-035",
+     "kana": "でかける",
+     "kanji": "出かける",
+     "meaning": "to go out",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l08-036",
+     "kana": "はじまる",
+     "kanji": "始まる",
+     "meaning": "to begin (something begins)",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l08-037",
+     "kana": "おわる",
+     "kanji": "終わる",
+     "meaning": "to end",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l08-038",
+     "kana": "やすむ",
+     "kanji": "休む",
+     "meaning": "to rest; to be absent",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l08-039",
+     "kana": "いそぐ",
+     "kanji": "急ぐ",
+     "meaning": "to hurry",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l08-040",
+     "kana": "する",
+     "kanji": "",
+     "meaning": "to do",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l08-041",
+     "kana": "でんわする",
+     "kanji": "電話する",
+     "meaning": "to phone",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l08-042",
+     "kana": "シャワーをあびる",
+     "kanji": "シャワーを浴びる",
+     "meaning": "to take a shower",
+     "category": "Expressions"
+    },
+    {
+     "id": "l08-043",
+     "kana": "おふろにはいる",
+     "kanji": "お風呂に入る",
+     "meaning": "to take a bath",
+     "category": "Expressions"
+    },
+    {
+     "id": "l08-044",
+     "kana": "おそくなる",
+     "kanji": "遅くなる",
+     "meaning": "to be late",
+     "category": "Expressions"
+    }
+   ]
+  },
+  {
+   "id": "how-often",
+   "title": "How often and when",
+   "words": [
+    {
+     "id": "l08-045",
+     "kana": "いつも",
+     "kanji": "",
+     "meaning": "always",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l08-046",
+     "kana": "たいてい",
+     "kanji": "",
+     "meaning": "usually",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l08-047",
+     "kana": "よく",
+     "kanji": "",
+     "meaning": "often",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l08-048",
+     "kana": "ときどき",
+     "kanji": "時々",
+     "meaning": "sometimes",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l08-049",
+     "kana": "あまり",
+     "kanji": "",
+     "meaning": "not much, not often (with a negative)",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l08-050",
+     "kana": "ぜんぜん",
+     "kanji": "全然",
+     "meaning": "not at all (with a negative)",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l08-051",
+     "kana": "もう",
+     "kanji": "",
+     "meaning": "already",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l08-052",
+     "kana": "まだ",
+     "kanji": "",
+     "meaning": "not yet (with a negative)",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l08-053",
+     "kana": "すぐ",
+     "kanji": "",
+     "meaning": "right away",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l08-054",
+     "kana": "あとで",
+     "kanji": "後で",
+     "meaning": "later",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l08-055",
+     "kana": "それから",
+     "kanji": "",
+     "meaning": "and then",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l08-056",
+     "kana": "はやい",
+     "kanji": "早い",
+     "meaning": "early",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l08-057",
+     "kana": "おそい",
+     "kanji": "遅い",
+     "meaning": "late; slow",
+     "category": "い-adjectives"
+    },
+    {
+     "id": "l08-058",
+     "kana": "〜から",
+     "kanji": "",
+     "meaning": "from",
+     "category": "Particles"
+    },
+    {
+     "id": "l08-059",
+     "kana": "〜まで",
+     "kanji": "",
+     "meaning": "until; as far as",
+     "category": "Particles"
+    }
+   ]
+  }
+ ]
+}

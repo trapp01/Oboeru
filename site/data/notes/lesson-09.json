@@ -1,0 +1,2414 @@
+{
+  "l09-001": {
+    "sentence": {
+      "ja": "この犬[いぬ]はとても{大[おお]きい}ですね。",
+      "en": "This dog is really big, isn't it?",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "犬",
+          "en": "dog"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very, really"
+        },
+        {
+          "text": "大きいです",
+          "en": "is big",
+          "base": "大[おお]きい",
+          "baseEn": "large, big"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it? (seeks agreement)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh-oh, key",
+      "story": "A key the size of a surfboard leans against your front door. \"*Oh-oh, key*,\" you groan, hauling the **large** thing up to the lock with both arms. Ōki-i: large."
+    }
+  },
+  "l09-002": {
+    "sentence": {
+      "ja": "私[わたし]の部屋[へや]はとても{小[ちい]さい}です。",
+      "en": "My room is very small.",
+      "breakdown": [
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "'s (my)"
+        },
+        {
+          "text": "部屋",
+          "en": "room"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "小さいです",
+          "en": "is small",
+          "base": "小[ちい]さい",
+          "baseEn": "small"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cheese + sigh",
+      "story": "A mouse is handed a crumb of *cheese* so **small** he can barely see it, and he lets out a tiny *sigh*. Chiisa-i: small."
+    }
+  },
+  "l09-003": {
+    "sentence": {
+      "ja": "{新[あたら]しい}スマホを買[か]いました。",
+      "en": "I bought a new smartphone.",
+      "breakdown": [
+        {
+          "text": "新しい",
+          "en": "new"
+        },
+        {
+          "text": "スマホ",
+          "en": "smartphone"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "at a ra(lly), she",
+      "story": "*At a rally, she* rips the cover off her brand-**new** car, and the whole crowd breathes in the smell of fresh paint. Atarashi-i: new."
+    }
+  },
+  "l09-004": {
+    "sentence": {
+      "ja": "京都[きょうと]で{古[ふる]い}お寺[てら]を見[み]ました。",
+      "en": "I saw an old temple in Kyoto.",
+      "breakdown": [
+        {
+          "text": "京都",
+          "en": "Kyoto"
+        },
+        {
+          "text": "で",
+          "en": "in (where it happens)"
+        },
+        {
+          "text": "古い",
+          "en": "old"
+        },
+        {
+          "text": "お寺",
+          "en": "temple"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "見ました",
+          "en": "saw",
+          "base": "見[み]る",
+          "baseEn": "to see, to watch"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "furry",
+      "story": "Grandpa's **old** armchair has gone so *furry* with dust that it looks like a sleeping dog; you sit down and sneeze. Furu-i: old, for things, never for people."
+    }
+  },
+  "l09-005": {
+    "sentence": {
+      "ja": "この雑誌[ざっし]は{いい}ですよ。",
+      "en": "This magazine is good.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "雑誌",
+          "en": "magazine"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "いい",
+          "en": "good"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "よ",
+          "en": "I tell you"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "E, E",
+      "story": "Your report card comes back with two big *E*s, Excellent and Excellent: **good**, very good. Ii: good. Add an e sound and iie means \"no\"."
+    }
+  },
+  "l09-006": {
+    "sentence": {
+      "ja": "今日[きょう]は天気[てんき]が{悪[わる]い}ですね。",
+      "en": "The weather's bad today, isn't it?",
+      "breakdown": [
+        {
+          "text": "今日",
+          "en": "today"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "天気",
+          "en": "weather"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "悪いです",
+          "en": "is bad",
+          "base": "悪[わる]い",
+          "baseEn": "bad"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "walrus",
+      "story": "A *walrus* flops into your bath, shoves you out onto the cold tiles and splashes fishy water everywhere: a very **bad** walrus. Waru-i: bad."
+    }
+  },
+  "l09-007": {
+    "sentence": {
+      "ja": "この映画[えいが]はとても{長[なが]い}です。",
+      "en": "This movie is really long.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "映画",
+          "en": "movie"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "長いです",
+          "en": "is long",
+          "base": "長[なが]い",
+          "baseEn": "long"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nag",
+      "story": "Your old *nag* of a horse drags a tail so **long** that it sweeps the whole stable floor behind her, hay and all. Naga-i: long."
+    }
+  },
+  "l09-008": {
+    "sentence": {
+      "ja": "この鉛筆[えんぴつ]は{短[みじか]い}ですね。",
+      "en": "This pencil is short, isn't it?",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "鉛筆",
+          "en": "pencil"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "短いです",
+          "en": "is short",
+          "base": "短[みじか]い",
+          "baseEn": "short (length)"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it?"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "midgie car",
+      "story": "A *midgie*, one of those tiny biting flies, zips past in a toy *car* so **short** it parks on your thumbnail. Mijika-i: short, for things; people are se ga hikui."
+    }
+  },
+  "l09-009": {
+    "sentence": {
+      "ja": "駅[えき]の前[まえ]の道[みち]は{広[ひろ]い}です。",
+      "en": "The road in front of the station is wide.",
+      "breakdown": [
+        {
+          "text": "駅",
+          "en": "station"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "前",
+          "en": "front"
+        },
+        {
+          "text": "の",
+          "en": "(the road) in"
+        },
+        {
+          "text": "道",
+          "en": "road"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "広いです",
+          "en": "is wide",
+          "base": "広[ひろ]い",
+          "baseEn": "wide; spacious"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hero",
+      "story": "A caped *hero* plants his feet and shoves the canyon walls apart, grinding rock, until the road is **wide** enough for a parade. Hiro-i: wide, spacious."
+    }
+  },
+  "l09-010": {
+    "sentence": {
+      "ja": "この道[みち]は{狭[せま]い}ですね。",
+      "en": "This road is narrow, isn't it?",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "道",
+          "en": "road"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "狭いです",
+          "en": "is narrow",
+          "base": "狭[せま]い",
+          "baseEn": "narrow; not spacious"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "semaphore",
+      "story": "You try to signal *semaphore* in a **narrow** hallway, but the flags slap both walls every time you lift your arms. Sema-i: narrow, cramped."
+    }
+  },
+  "l09-011": {
+    "sentence": {
+      "ja": "日本語[にほんご]は{難[むずか]しい}ですか。",
+      "en": "Is Japanese difficult?",
+      "breakdown": [
+        {
+          "text": "日本語",
+          "en": "Japanese language"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "難しいです",
+          "en": "is difficult",
+          "base": "難[むずか]しい",
+          "baseEn": "difficult"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "moose car, she",
+      "story": "A *moose* tries to parallel park a tiny *car*, and *she* finds it very **difficult**: antlers scraping the roof, hooves on all three pedals. Muzukashi-i: difficult."
+    }
+  },
+  "l09-012": {
+    "sentence": {
+      "ja": "今日[きょう]のテストは{やさしかった}です。",
+      "en": "Today's test was easy.",
+      "breakdown": [
+        {
+          "text": "今日",
+          "en": "today"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "テスト",
+          "en": "test"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "やさしかったです",
+          "en": "was easy",
+          "base": "やさしい",
+          "baseEn": "easy; kind"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yah, sashay",
+      "story": "The test is so **easy** you shout \"*Yah!*\" and *sashay* up to hand it in first, hips swinging past every desk. Yasashi-i: easy; also kind, for a person."
+    }
+  },
+  "l09-013": {
+    "sentence": {
+      "ja": "昨日[きのう]の映画[えいが]は{面白[おもしろ]かった}です。",
+      "en": "Yesterday's movie was interesting.",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "映画",
+          "en": "movie"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "面白かったです",
+          "en": "was interesting",
+          "base": "面白[おもしろ]い",
+          "baseEn": "interesting; funny"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, mo', she row(s)",
+      "story": "\"*Oh, mo'!*\" the crowd begs as *she rows* a bathtub across the park pond, ducks quacking behind her. Nobody has seen anything so **interesting**. Omoshiro-i: interesting; also funny."
+    }
+  },
+  "l09-014": {
+    "sentence": {
+      "ja": "この雑誌[ざっし]は{つまらない}ですね。",
+      "en": "This magazine is boring, isn't it?",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "雑誌",
+          "en": "magazine"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "つまらないです",
+          "en": "is boring",
+          "base": "つまらない",
+          "baseEn": "boring"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it? (seeks agreement)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tomorrow night",
+      "story": "Your uncle promises more slides of his stamp collection *tomorrow night*, and the night after, and the night after that: **boring** forever. Tsumarana-i: boring."
+    }
+  },
+  "l09-015": {
+    "sentence": {
+      "ja": "旅行[りょこう]はとても{楽[たの]しかった}です。",
+      "en": "The trip was a lot of fun.",
+      "breakdown": [
+        {
+          "text": "旅行",
+          "en": "trip"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "楽しかったです",
+          "en": "was fun",
+          "base": "楽[たの]しい",
+          "baseEn": "fun"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "the nosy",
+      "story": "*The nosy* neighbour peeks over the fence at your water-balloon fight, takes one right in the face, and squeals with laughter: it is too much **fun** to complain. Tanoshi-i: fun."
+    }
+  },
+  "l09-016": {
+    "sentence": {
+      "ja": "今週[こんしゅう]はすごく{忙[いそが]しい}です。",
+      "en": "I'm extremely busy this week.",
+      "breakdown": [
+        {
+          "text": "今週",
+          "en": "this week"
+        },
+        {
+          "text": "は",
+          "en": "topic marker (as for this week)"
+        },
+        {
+          "text": "すごく",
+          "en": "extremely"
+        },
+        {
+          "text": "忙しいです",
+          "en": "am busy",
+          "base": "忙[いそが]しい",
+          "baseEn": "busy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "easy? gosh!",
+      "story": "You ask your **busy** friend if she has a minute. \"*Easy? Gosh!*\" she gasps, sprinting past with three phones ringing and a sandwich in her teeth. Isogashi-i: busy."
+    }
+  },
+  "l09-017": {
+    "sentence": {
+      "ja": "この猫[ねこ]は{かわいい}ですね。",
+      "en": "This cat is so cute.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "猫",
+          "en": "cat"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "かわいいです",
+          "en": "is cute",
+          "base": "かわいい",
+          "baseEn": "cute"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it? (shared feeling)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Hawaii (with a k)",
+      "story": "On a beach in *Hawaii* a puppy in a tiny grass skirt does the hula, and it's so **cute** that the whole beach squeals. Swap the h for a k. Kawai-i: cute."
+    }
+  },
+  "l09-018": {
+    "sentence": {
+      "ja": "田中[たなか]さんのお兄[にい]さんは{かっこいい}です。",
+      "en": "Tanaka-san's older brother is good-looking.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "お兄さん",
+          "en": "older brother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "かっこいいです",
+          "en": "is good-looking",
+          "base": "かっこいい",
+          "baseEn": "good-looking"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kakko (cocky) + ii (good)",
+      "story": "Kakko is how you look and ii is good: looking good. A *cocky* surfer flips his wet hair, so **good-looking** the seagulls stop to stare. Kakko-ii: good-looking; past tense kakko-yokatta."
+    }
+  },
+  "l09-019": {
+    "sentence": {
+      "ja": "この映画[えいが]はすごく{怖[こわ]い}です。",
+      "en": "This movie is really frightening.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "映画",
+          "en": "movie"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "すごく",
+          "en": "really, extremely"
+        },
+        {
+          "text": "怖いです",
+          "en": "is frightening",
+          "base": "怖[こわ]い",
+          "baseEn": "frightening"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cow eye",
+      "story": "At midnight one huge *cow eye* presses against your bedroom window, wet lashes squeaking on the glass. Utterly **frightening**. Kowa-i: frightening."
+    }
+  },
+  "l09-020": {
+    "sentence": {
+      "ja": "新幹線[しんかんせん]はとても{速[はや]い}です。",
+      "en": "The bullet train is really fast.",
+      "breakdown": [
+        {
+          "text": "新幹線",
+          "en": "bullet train"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "速いです",
+          "en": "is fast",
+          "base": "速[はや]い",
+          "baseEn": "fast"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hi-yah",
+      "story": "\"*Hi-yah!*\" Your karate chop is so **fast** the board splits before anyone sees your hand move. Same sound as hayai, early, with a different kanji. Haya-i: fast."
+    }
+  },
+  "l09-021": {
+    "sentence": {
+      "ja": "山田[やまだ]さんのお母[かあ]さんは{若[わか]い}です。",
+      "en": "Yamada-san's mother is young.",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "お母さん",
+          "en": "mother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "若いです",
+          "en": "is young",
+          "base": "若[わか]い",
+          "baseEn": "young"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "wacky",
+      "story": "Your **young** cousin, five years old and totally *wacky*, cartwheels across the living room and sends a vase spinning. Waka-i: young."
+    }
+  },
+  "l09-022": {
+    "sentence": {
+      "ja": "東京[とうきょう]は人[ひと]が{多[おお]い}です。",
+      "en": "There are a lot of people in Tokyo.",
+      "breakdown": [
+        {
+          "text": "東京",
+          "en": "Tokyo"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "人",
+          "en": "people"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "多いです",
+          "en": "are many",
+          "base": "多[おお]い",
+          "baseEn": "there are many"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh-oh",
+      "story": "*Oh*... *oh*... you open the cupboard and **there are many** spiders, then more, and each 'oh' comes out higher than the last. Ō-i: there are many."
+    }
+  },
+  "l09-023": {
+    "sentence": {
+      "ja": "日本[にほん]に家族[かぞく]がいませんから、{寂[さび]しい}です。",
+      "en": "My family isn't in Japan, so I'm lonely.",
+      "breakdown": [
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "に",
+          "en": "in (where someone is)"
+        },
+        {
+          "text": "家族",
+          "en": "(my) family"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "いません",
+          "en": "isn't here",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        },
+        {
+          "text": "から",
+          "en": "because, so"
+        },
+        {
+          "text": "寂しいです",
+          "en": "am lonely",
+          "base": "寂[さび]しい",
+          "baseEn": "lonely"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sobby she",
+      "story": "Alone on the platform, *sobby*, *she* waves at an empty train as it pulls away, rain ticking on her umbrella. Nobody waves back: **lonely**. Sabishi-i: lonely."
+    }
+  },
+  "l09-024": {
+    "sentence": {
+      "ja": "昨日[きのう]遅[おそ]く寝[ね]ましたから、{眠[ねむ]い}です。",
+      "en": "I went to bed late last night, so I'm sleepy.",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday (last night)"
+        },
+        {
+          "text": "遅く",
+          "en": "late",
+          "base": "遅[おそ]い",
+          "baseEn": "slow; late"
+        },
+        {
+          "text": "寝ました",
+          "en": "went to bed",
+          "base": "寝[ね]る",
+          "baseEn": "to sleep, to go to bed"
+        },
+        {
+          "text": "から",
+          "en": "so"
+        },
+        {
+          "text": "眠い",
+          "en": "sleepy"
+        },
+        {
+          "text": "です",
+          "en": "am"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "neigh, moo",
+      "story": "Your alarm rings at five and you answer it with \"*Neigh*... *moo*...\", half horse, half cow, too **sleepy** to make human words. Nemu-i: sleepy."
+    }
+  },
+  "l09-025": {
+    "sentence": {
+      "ja": "この花[はな]はとても{きれい}ですね。",
+      "en": "This flower is really beautiful.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "花",
+          "en": "flower"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very, really"
+        },
+        {
+          "text": "きれいです",
+          "en": "is beautiful",
+          "base": "きれい",
+          "baseEn": "beautiful; clean"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it? (seeks agreement)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "key ray",
+      "story": "A golden *key* catches a *ray* of sunlight and throws rainbows across the walls, so **beautiful** you forget to breathe. Ray, not rye: rye is the bread of kirai. Kirei: beautiful; also clean."
+    }
+  },
+  "l09-026": {
+    "sentence": {
+      "ja": "{静[しず]かな}町[まち]が好[す]きです。",
+      "en": "I like quiet towns.",
+      "breakdown": [
+        {
+          "text": "静かな",
+          "en": "quiet",
+          "base": "静[しず]か",
+          "baseEn": "quiet"
+        },
+        {
+          "text": "町",
+          "en": "towns"
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "好きです",
+          "en": "like",
+          "base": "好[す]き",
+          "baseEn": "fond of; to like"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shh, zoo car",
+      "story": "On the night safari the guide hisses \"*Shh! Zoo car!*\" and the whole bus goes **quiet** as a lion pads past the window. Shizuka: quiet."
+    }
+  },
+  "l09-027": {
+    "sentence": {
+      "ja": "週末[しゅうまつ]の公園[こうえん]は{にぎやか}です。",
+      "en": "The park is lively on weekends.",
+      "breakdown": [
+        {
+          "text": "週末",
+          "en": "weekend"
+        },
+        {
+          "text": "の",
+          "en": "of (the park on weekends)"
+        },
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "にぎやかです",
+          "en": "is lively",
+          "base": "にぎやか",
+          "baseEn": "lively"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nigi(ri) + yack",
+      "story": "At the busiest sushi bar in town, plates of *nigiri* whizz past while the chefs *yack* and shout orders over each other: loud, crowded, **lively**. Nigiyaka: lively."
+    }
+  },
+  "l09-028": {
+    "sentence": {
+      "ja": "田中[たなか]さんのお母[かあ]さんはとても{元気[げんき]}です。",
+      "en": "Tanaka-san's mother is very healthy.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "お母さん",
+          "en": "mother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "元気です",
+          "en": "is healthy",
+          "base": "元気[げんき]",
+          "baseEn": "healthy; energetic"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "gain key",
+      "story": "Every morning you jog to the gym and *gain* one more locker *key*, until you jingle like a jailer and feel wonderfully **healthy**. Genki: healthy, energetic."
+    }
+  },
+  "l09-029": {
+    "sentence": {
+      "ja": "明日[あした]は{暇[ひま]}ですか。",
+      "en": "Are you free tomorrow?",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "暇です",
+          "en": "are free",
+          "base": "暇[ひま]",
+          "baseEn": "not busy; free (time)"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Hima(layas)",
+      "story": "With a whole **free** week and nothing to fill it, you hike the *Himalayas* just to pass the time, snow crunching under your boots. Hima: not busy, free."
+    }
+  },
+  "l09-030": {
+    "sentence": {
+      "ja": "田中[たなか]さんは{親切[しんせつ]な}人[ひと]です。",
+      "en": "Tanaka-san is a kind person.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "親切な",
+          "en": "kind",
+          "base": "親切[しんせつ]",
+          "baseEn": "kind"
+        },
+        {
+          "text": "人",
+          "en": "person"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shin sets",
+      "story": "You crack your *shin* on a hiking trail, and a **kind** stranger *sets* it with two sticks and her own scarf, humming to keep you calm. Shin-setsu: kind."
+    }
+  },
+  "l09-031": {
+    "sentence": {
+      "ja": "スマホはとても{便利[べんり]}です。",
+      "en": "Smartphones are really convenient.",
+      "breakdown": [
+        {
+          "text": "スマホ",
+          "en": "smartphones"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "便利です",
+          "en": "are convenient",
+          "base": "便利[べんり]",
+          "baseEn": "convenient"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "bendy",
+      "story": "A *bendy* straw is the most **convenient** thing in the house: you sip your juice lying flat on the sofa without lifting your head. Ben-ri: convenient."
+    }
+  },
+  "l09-032": {
+    "sentence": {
+      "ja": "ここは{有名[ゆうめい]な}レストランです。",
+      "en": "This is a famous restaurant.",
+      "breakdown": [
+        {
+          "text": "ここ",
+          "en": "here; this place"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "有名な",
+          "en": "famous",
+          "base": "有名[ゆうめい]",
+          "baseEn": "famous"
+        },
+        {
+          "text": "レストラン",
+          "en": "restaurant"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "you may",
+      "story": "\"*You may* take one photo,\" the **famous** singer's bodyguard announces, and a hundred phone flashes go off at once. Yūmei: famous."
+    }
+  },
+  "l09-033": {
+    "sentence": {
+      "ja": "昨日[きのう]のテストは{簡単[かんたん]}でした。",
+      "en": "Yesterday's test was easy.",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "テスト",
+          "en": "test"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "簡単",
+          "en": "easy"
+        },
+        {
+          "text": "でした",
+          "en": "was",
+          "base": "です",
+          "baseEn": "is, am, are"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "can tan",
+      "story": "A spray-*can tan* is so **easy**: one long hiss and you're bronze from head to toe without a minute in the sun. Kantan: easy, simple."
+    }
+  },
+  "l09-034": {
+    "sentence": {
+      "ja": "毎日[まいにち]アルバイトがありますから、{大変[たいへん]}です。",
+      "en": "I have a part-time job every day, so things are tough.",
+      "breakdown": [
+        {
+          "text": "毎日",
+          "en": "every day"
+        },
+        {
+          "text": "アルバイト",
+          "en": "part-time job"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "あります",
+          "en": "there is, I have",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        },
+        {
+          "text": "から",
+          "en": "so (gives the reason)"
+        },
+        {
+          "text": "大変です",
+          "en": "it's tough",
+          "base": "大変[たいへん]",
+          "baseEn": "tough (situation)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tie + hen",
+      "story": "You try to *tie* a bow tie on a furious *hen*, feathers flying and beak pecking your knuckles: a **tough** job. Tai-hen: tough, hard going."
+    }
+  },
+  "l09-035": {
+    "sentence": {
+      "ja": "{素敵[すてき]な}服[ふく]ですね。",
+      "en": "Those are nice clothes.",
+      "breakdown": [
+        {
+          "text": "素敵な",
+          "en": "nice",
+          "base": "素敵[すてき]",
+          "baseEn": "nice"
+        },
+        {
+          "text": "服",
+          "en": "clothes"
+        },
+        {
+          "text": "です",
+          "en": "are"
+        },
+        {
+          "text": "ね",
+          "en": "aren't they"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "steak (short e)",
+      "story": "The waiter sets down a sizzling *steak* and you sigh, 'How **nice**.' The meat is sutēki with a long e; the compliment is suteki, short and quick. Suteki: nice."
+    }
+  },
+  "l09-036": {
+    "sentence": {
+      "ja": "ケンさんと私[わたし]は{同[おな]じ}クラスです。",
+      "en": "Ken and I are in the same class.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "と",
+          "en": "and"
+        },
+        {
+          "text": "私",
+          "en": "I"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "同じ",
+          "en": "same"
+        },
+        {
+          "text": "クラス",
+          "en": "class"
+        },
+        {
+          "text": "です",
+          "en": "are (in)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, nah, gee",
+      "story": "You walk into the party wearing the **same** shirt as the host. '*Oh, nah, gee*,' you mutter, as every head turns from one of you to the other. Onaji: same."
+    }
+  },
+  "l09-037": {
+    "sentence": {
+      "ja": "好[す]きな{色[いろ]}は何[なん]ですか。",
+      "en": "What's your favorite color?",
+      "breakdown": [
+        {
+          "text": "好きな",
+          "en": "favorite",
+          "base": "好[す]き",
+          "baseEn": "liked, favorite"
+        },
+        {
+          "text": "色",
+          "en": "color"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "何",
+          "en": "what"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hero (no h)",
+      "story": "A *hero* bursts through the wall, and his cape changes **color** with every step: red, green, gold. Drop the h and hero becomes iro. Iro: color."
+    }
+  },
+  "l09-038": {
+    "sentence": {
+      "ja": "{緑[みどり]}のかばんを買[か]いました。",
+      "en": "I bought a green bag.",
+      "breakdown": [
+        {
+          "text": "緑",
+          "en": "green"
+        },
+        {
+          "text": "の",
+          "en": "links the color to bag"
+        },
+        {
+          "text": "かばん",
+          "en": "bag"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "meadow-ree",
+      "story": "You roll down a *meadow* so **green** that your clothes come up stained and there's grass in your teeth. Midori: green. Gurīn is the loanword."
+    }
+  },
+  "l09-039": {
+    "sentence": {
+      "ja": "田中[たなか]さんの車[くるま]は{赤[あか]い}です。",
+      "en": "Tanaka-san's car is red.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "車",
+          "en": "car"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "赤いです",
+          "en": "is red",
+          "base": "赤[あか]い",
+          "baseEn": "red"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a kite",
+      "story": "*A kite* shaped like a dragon rips loose from its string and tumbles, bright **red**, into your arms, its paper tail snapping. Aka-i: red."
+    }
+  },
+  "l09-040": {
+    "sentence": {
+      "ja": "{青[あお]い}傘[かさ]を買[か]いました。",
+      "en": "I bought a blue umbrella.",
+      "breakdown": [
+        {
+          "text": "青い",
+          "en": "blue"
+        },
+        {
+          "text": "傘",
+          "en": "umbrella"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ahoy",
+      "story": "*Ahoy!* shouts a sailor from the crow's nest, pointing at a sea so **blue** it hurts your eyes, salt spray on your lips. Ao-i: blue."
+    }
+  },
+  "l09-041": {
+    "sentence": {
+      "ja": "{白[しろ]い}靴[くつ]を買[か]いました。",
+      "en": "I bought white shoes.",
+      "breakdown": [
+        {
+          "text": "白い",
+          "en": "white"
+        },
+        {
+          "text": "靴",
+          "en": "shoes"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "she rows",
+      "story": "*She rows* across a lake of milk, and every stroke of the oars splashes thick **white** drops onto the boat with a soft plop. Shiro-i: white."
+    }
+  },
+  "l09-042": {
+    "sentence": {
+      "ja": "公園[こうえん]に{黒[くろ]い}猫[ねこ]がいました。",
+      "en": "There was a black cat in the park.",
+      "breakdown": [
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "に",
+          "en": "in (where something is)"
+        },
+        {
+          "text": "黒い",
+          "en": "black"
+        },
+        {
+          "text": "猫",
+          "en": "cat"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "いました",
+          "en": "there was",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "crow",
+      "story": "A *crow* lands on your windowsill, glossy **black** from beak to claw, and caws so loud the glass rattles. Kuro-i: black."
+    }
+  },
+  "l09-043": {
+    "sentence": {
+      "ja": "{黄色[きいろ]い}花[はな]が好[す]きです。",
+      "en": "I like yellow flowers.",
+      "breakdown": [
+        {
+          "text": "黄色い",
+          "en": "yellow"
+        },
+        {
+          "text": "花",
+          "en": "flower"
+        },
+        {
+          "text": "が",
+          "en": "marks what is liked"
+        },
+        {
+          "text": "好きです",
+          "en": "like",
+          "base": "好[す]き",
+          "baseEn": "liked, favorite"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ki (key) + iro (color) + i",
+      "story": "*Key* plus iro, color: an old brass key, the shade of butter. Key-color is **yellow**, and the final i makes it an adjective. Kiiro-i: yellow."
+    }
+  },
+  "l09-044": {
+    "sentence": {
+      "ja": "父[ちち]は{茶色[ちゃいろ]い}眼鏡[めがね]をかけています。",
+      "en": "My father wears brown glasses.",
+      "breakdown": [
+        {
+          "text": "父",
+          "en": "(my) father"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "茶色い",
+          "en": "brown"
+        },
+        {
+          "text": "眼鏡",
+          "en": "glasses"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "かけています",
+          "en": "wears (glasses)",
+          "base": "かける",
+          "baseEn": "to put on (glasses)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cha (tea) + iro (color) + i",
+      "story": "Tea-color: *cha* from ocha plus iro. You knock a mug of tea onto a white shirt and watch the stain spread **brown**. Chairo-i: brown."
+    }
+  },
+  "l09-045": {
+    "sentence": {
+      "ja": "昨日[きのう]はいい{天気[てんき]}でした。",
+      "en": "The weather was nice yesterday.",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "いい",
+          "en": "nice, good"
+        },
+        {
+          "text": "天気",
+          "en": "weather"
+        },
+        {
+          "text": "でした",
+          "en": "was",
+          "base": "です",
+          "baseEn": "is, am, are"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ten keys",
+      "story": "You hang *ten keys* on a string outside the window to read the **weather**: when they jingle, wind is coming; when they drip, rain. Ten-ki: weather."
+    }
+  },
+  "l09-046": {
+    "sentence": {
+      "ja": "今日[きょう]は{晴[は]れ}だから、洗濯[せんたく]します。",
+      "en": "It's sunny today, so I'm doing the laundry.",
+      "breakdown": [
+        {
+          "text": "今日",
+          "en": "today"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "晴れ",
+          "en": "sunny weather"
+        },
+        {
+          "text": "だ",
+          "en": "is"
+        },
+        {
+          "text": "から",
+          "en": "so (because)"
+        },
+        {
+          "text": "洗濯します",
+          "en": "do the laundry",
+          "base": "洗濯[せんたく]する",
+          "baseEn": "to do laundry"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ha! ray",
+      "story": "\"*Ha!*\" you laugh as the curtains open on **sunny weather** and one fat *ray* of sun lands on your face, warm as fresh toast. Hare: sunny weather."
+    }
+  },
+  "l09-047": {
+    "sentence": {
+      "ja": "{雨[あめ]}だから、傘[かさ]を持[も]っていきます。",
+      "en": "It's raining, so I'll take an umbrella.",
+      "breakdown": [
+        {
+          "text": "雨",
+          "en": "rain"
+        },
+        {
+          "text": "だ",
+          "en": "is"
+        },
+        {
+          "text": "から",
+          "en": "so (because)"
+        },
+        {
+          "text": "傘",
+          "en": "umbrella"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "持っていきます",
+          "en": "will take (along)",
+          "base": "持[も]っていく",
+          "baseEn": "to take (a thing)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ah, meh",
+      "story": "You open the front door onto pouring **rain**, a cold drop sliding down your neck, and all you can manage is a shrug: \"*Ah... meh.*\" Ame: rain."
+    }
+  },
+  "l09-048": {
+    "sentence": {
+      "ja": "明日[あした]は{曇[くも]り}だと思[おも]います。",
+      "en": "I think it'll be cloudy tomorrow.",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "曇り",
+          "en": "cloudy weather"
+        },
+        {
+          "text": "だ",
+          "en": "will be"
+        },
+        {
+          "text": "と",
+          "en": "marks what is thought"
+        },
+        {
+          "text": "思います",
+          "en": "think",
+          "base": "思[おも]う",
+          "baseEn": "to think"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cool moray",
+      "story": "A *cool moray* eel slides across the sky, long and grey and slimy, and coils itself over the sun. The whole town goes dim: **cloudy weather**. Kumori: cloudy weather."
+    }
+  },
+  "l09-049": {
+    "sentence": {
+      "ja": "{雪[ゆき]}の日[ひ]は家[いえ]で本[ほん]を読[よ]みます。",
+      "en": "On snowy days I read books at home.",
+      "breakdown": [
+        {
+          "text": "雪",
+          "en": "snow"
+        },
+        {
+          "text": "の",
+          "en": "of (a day of snow)"
+        },
+        {
+          "text": "日",
+          "en": "day"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "家",
+          "en": "home"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "本",
+          "en": "book"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "読みます",
+          "en": "read",
+          "base": "読[よ]む",
+          "baseEn": "to read"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "you key",
+      "story": "*You* scrape a smiley face into the **snow** on your windshield with your car *key*, the crust squeaking under the metal. Yuki: snow."
+    }
+  },
+  "l09-050": {
+    "sentence": {
+      "ja": "日本[にほん]には{季節[きせつ]}が四[よっ]つあります。",
+      "en": "Japan has four seasons.",
+      "breakdown": [
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "に",
+          "en": "in"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "季節",
+          "en": "seasons"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "四つ",
+          "en": "four (things)"
+        },
+        {
+          "text": "あります",
+          "en": "there are",
+          "base": "ある",
+          "baseEn": "to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "key sets",
+      "story": "You keep four *key sets* on one ring, one for each **season**: a snowflake key, a blossom key, a sun key, a leaf key, jangling as the year turns. Kisetsu: season."
+    }
+  },
+  "l09-051": {
+    "sentence": {
+      "ja": "{春[はる]}に日本[にほん]へ行[い]くつもりです。",
+      "en": "I'm planning to go to Japan in spring.",
+      "breakdown": [
+        {
+          "text": "春",
+          "en": "spring"
+        },
+        {
+          "text": "に",
+          "en": "in (a time)"
+        },
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行く",
+          "en": "go"
+        },
+        {
+          "text": "つもりです",
+          "en": "am planning to"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ha, roo",
+      "story": "In **spring** a baby kangaroo pokes its head out of the pouch for the first time and sneezes at the cherry blossoms. \"*Ha! Roo!*\" you laugh. Haru: spring."
+    }
+  },
+  "l09-052": {
+    "sentence": {
+      "ja": "{夏[なつ]}はよく海[うみ]で泳[およ]ぎます。",
+      "en": "In summer I often swim in the sea.",
+      "breakdown": [
+        {
+          "text": "夏",
+          "en": "summer"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "よく",
+          "en": "often"
+        },
+        {
+          "text": "海",
+          "en": "sea"
+        },
+        {
+          "text": "で",
+          "en": "in (where it happens)"
+        },
+        {
+          "text": "泳ぎます",
+          "en": "swim",
+          "base": "泳[およ]ぐ",
+          "baseEn": "to swim"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "gnats",
+      "story": "Every **summer** a cloud of *gnats* follows you along the river, whining in your ears and sticking to your sunscreen. Natsu: summer."
+    }
+  },
+  "l09-053": {
+    "sentence": {
+      "ja": "京都[きょうと]の{秋[あき]}はとてもきれいです。",
+      "en": "Kyoto is beautiful in the fall.",
+      "breakdown": [
+        {
+          "text": "京都",
+          "en": "Kyoto"
+        },
+        {
+          "text": "の",
+          "en": "of, in"
+        },
+        {
+          "text": "秋",
+          "en": "fall"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "きれいです",
+          "en": "is beautiful",
+          "base": "きれい",
+          "baseEn": "pretty, beautiful, clean"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ah, key",
+      "story": "Raking the **fall** leaves into a crunchy pile, you hear a clink and shout \"*Ah, key!*\": the house key you lost back in summer. Aki: fall, autumn."
+    }
+  },
+  "l09-054": {
+    "sentence": {
+      "ja": "{冬[ふゆ]}は寒[さむ]いから、あまり出[で]かけません。",
+      "en": "It's cold in winter, so I don't go out much.",
+      "breakdown": [
+        {
+          "text": "冬",
+          "en": "winter"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "寒い",
+          "en": "is cold"
+        },
+        {
+          "text": "から",
+          "en": "so (because)"
+        },
+        {
+          "text": "あまり",
+          "en": "(not) much"
+        },
+        {
+          "text": "出かけません",
+          "en": "don't go out",
+          "base": "出[で]かける",
+          "baseEn": "to go out"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "foo-yoo (blowing on cold hands)",
+      "story": "Deep in **winter** you cup your frozen fingers and blow into them, *fooo, yooo*, two white puffs of breath that warm nothing at all. Fuyu: winter."
+    }
+  },
+  "l09-055": {
+    "sentence": {
+      "ja": "今日[きょう]はすごく{暑[あつ]い}ですね。",
+      "en": "It's really hot today, isn't it?",
+      "breakdown": [
+        {
+          "text": "今日",
+          "en": "today"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "すごく",
+          "en": "really, extremely"
+        },
+        {
+          "text": "暑いです",
+          "en": "is hot",
+          "base": "暑[あつ]い",
+          "baseEn": "hot"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it? (seeks agreement)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "achoo",
+      "story": "One spoonful of **hot** curry and your nose explodes, *achoo!*, steam whistling out of your ears. Atsu-i: hot. Written 暑い for weather and 熱い for things."
+    }
+  },
+  "l09-056": {
+    "sentence": {
+      "ja": "昨日[きのう]はとても{寒[さむ]かった}です。",
+      "en": "It was very cold yesterday.",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "寒かったです",
+          "en": "was cold",
+          "base": "寒[さむ]い",
+          "baseEn": "cold (weather)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "samu(rai)",
+      "story": "A *samurai* stands guard in the snow, his armour so **cold** it rattles with every shiver and icicles hang from his topknot. Samu-i: cold, for weather."
+    }
+  },
+  "l09-057": {
+    "sentence": {
+      "ja": "春[はる]になって、{暖[あたた]かく}なりました。",
+      "en": "Spring is here, and it's gotten warm.",
+      "breakdown": [
+        {
+          "text": "春",
+          "en": "spring"
+        },
+        {
+          "text": "に",
+          "en": "marks what it became"
+        },
+        {
+          "text": "なって",
+          "en": "became, and",
+          "base": "なる",
+          "baseEn": "to become"
+        },
+        {
+          "text": "暖かく",
+          "en": "warm (form used before なる)",
+          "base": "暖[あたた]かい",
+          "baseEn": "warm"
+        },
+        {
+          "text": "なりました",
+          "en": "has gotten",
+          "base": "なる",
+          "baseEn": "to become"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "at a taco",
+      "story": "You stand *at a taco* truck in the spring sun, a **warm** tortilla soft in both hands and steam curling up into your face. Atataka-i: warm."
+    }
+  },
+  "l09-058": {
+    "sentence": {
+      "ja": "秋[あき]は夏[なつ]より{涼[すず]しい}です。",
+      "en": "Fall is cooler than summer.",
+      "breakdown": [
+        {
+          "text": "秋",
+          "en": "fall"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "夏",
+          "en": "summer"
+        },
+        {
+          "text": "より",
+          "en": "than"
+        },
+        {
+          "text": "涼しい",
+          "en": "cool"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Suzy, she",
+      "story": "*Suzy*, *she* sits on the porch while a **cool** evening breeze lifts her hair and the wind chime tinkles. It is for weather, never for a drink. Suzushi-i: cool."
+    }
+  },
+  "l09-059": {
+    "sentence": {
+      "ja": "暑[あつ]いですから、{冷[つめ]たい}水[みず]を飲[の]みましょう。",
+      "en": "It's hot, so let's drink some cold water.",
+      "breakdown": [
+        {
+          "text": "暑いです",
+          "en": "it's hot",
+          "base": "暑[あつ]い",
+          "baseEn": "hot (weather)"
+        },
+        {
+          "text": "から",
+          "en": "so"
+        },
+        {
+          "text": "冷たい",
+          "en": "cold"
+        },
+        {
+          "text": "水",
+          "en": "water"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飲みましょう",
+          "en": "let's drink",
+          "base": "飲[の]む",
+          "baseEn": "to drink"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Sue met a",
+      "story": "*Sue met a* snowman and shook its twig hand: **cold**, so cold her mitten froze to it. Things and people are tsumetai; the weather is samui. Tsumeta-i: cold."
+    }
+  },
+  "l09-060": {
+    "sentence": {
+      "ja": "外[そと]は雨[あめ]が{降[ふ]っています}。",
+      "en": "It's raining outside.",
+      "breakdown": [
+        {
+          "text": "外",
+          "en": "outside"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "雨",
+          "en": "rain"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "降っています",
+          "en": "is falling",
+          "base": "降[ふ]る",
+          "baseEn": "(rain/snow) falls"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "frou-frou",
+      "story": "Snow **falls** so thick and *frou-frou* that every rooftop ends up wearing a lacy white frill. Fu-ru: rain or snow falls."
+    }
+  },
+  "l09-061": {
+    "sentence": {
+      "ja": "このカフェは{とても}静[しず]かです。",
+      "en": "This cafe is very quiet.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "カフェ",
+          "en": "cafe"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "静かです",
+          "en": "is quiet",
+          "base": "静[しず]か",
+          "baseEn": "quiet"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "totem (o)",
+      "story": "You keep stacking carved faces on a *totem* pole until it is **very**, very tall, creaking and swaying in the wind. Totemo: very."
+    }
+  },
+  "l09-062": {
+    "sentence": {
+      "ja": "この魚[さかな]は{すごく}おいしいです。",
+      "en": "This fish is extremely good.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "魚",
+          "en": "fish"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "すごく",
+          "en": "extremely"
+        },
+        {
+          "text": "おいしいです",
+          "en": "is good, tasty",
+          "base": "おいしい",
+          "baseEn": "delicious"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Sue go(es) cu(ckoo)",
+      "story": "The coffee is **extremely** strong: after one sip *Sue goes cuckoo*, bouncing off the walls and chirping at the clock. Sugoku: extremely."
+    }
+  },
+  "l09-063": {
+    "sentence": {
+      "ja": "日本語[にほんご]を{ちょっと}話[はな]します。",
+      "en": "I speak a little Japanese.",
+      "breakdown": [
+        {
+          "text": "日本語",
+          "en": "Japanese language"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "ちょっと",
+          "en": "a little"
+        },
+        {
+          "text": "話します",
+          "en": "speak",
+          "base": "話[はな]す",
+          "baseEn": "to speak, to talk"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shot, oh",
+      "story": "The bartender tips the bottle and you pinch two fingers together: \"A *shot*? *Oh*, just **a little**.\" Two drops splash in. Chotto: a little."
+    }
+  },
+  "l09-064": {
+    "sentence": {
+      "ja": "{もっと}ゆっくり話[はな]してください。",
+      "en": "Please speak more slowly.",
+      "breakdown": [
+        {
+          "text": "もっと",
+          "en": "more"
+        },
+        {
+          "text": "ゆっくり",
+          "en": "slowly"
+        },
+        {
+          "text": "話してください",
+          "en": "please speak",
+          "base": "話[はな]す",
+          "baseEn": "to speak, to talk"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "motto",
+      "story": "Your family *motto* is one word, stitched on every pillow: **more**. More rice, more cake, more pillows. Motto: more."
+    }
+  },
+  "l09-065": {
+    "sentence": {
+      "ja": "クラスでだれが{一番[いちばん]}歌[うた]が上手[じょうず]ですか。",
+      "en": "Who's the best singer in the class?",
+      "breakdown": [
+        {
+          "text": "クラス",
+          "en": "class"
+        },
+        {
+          "text": "で",
+          "en": "in (within a group)"
+        },
+        {
+          "text": "だれ",
+          "en": "who"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "一番",
+          "en": "best, most"
+        },
+        {
+          "text": "歌",
+          "en": "singing, song"
+        },
+        {
+          "text": "が",
+          "en": "marks what one is good at"
+        },
+        {
+          "text": "上手です",
+          "en": "is good at",
+          "base": "上手[じょうず]",
+          "baseEn": "skillful, good at"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ichi (one) + ban (number)",
+      "story": "*Ichi* is one, and *ban* is the number from bangō: number one, the **best**. Picture a heavy gold medal stamped 1 thunking onto your chest. Ichi-ban: best, most."
+    }
+  },
+  "l09-066": {
+    "sentence": {
+      "ja": "この映画[えいが]は{まあまあ}でした。",
+      "en": "This movie was so-so.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "映画",
+          "en": "movie"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "まあまあ",
+          "en": "so-so"
+        },
+        {
+          "text": "でした",
+          "en": "was",
+          "base": "です",
+          "baseEn": "is, am, are"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mama",
+      "story": "Asked how dinner was, *Mama* tilts her hand side to side, \"Mā, mā\": **so-so**, okay. Māmā: so-so."
+    }
+  },
+  "l09-067": {
+    "sentence": {
+      "ja": "新[あたら]しい先生[せんせい]は{どんな}人[ひと]ですか。",
+      "en": "What kind of person is the new teacher?",
+      "breakdown": [
+        {
+          "text": "新しい",
+          "en": "new"
+        },
+        {
+          "text": "先生",
+          "en": "teacher"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "どんな",
+          "en": "what kind of"
+        },
+        {
+          "text": "人",
+          "en": "person"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "doughnut",
+      "story": "The baker slides out a steaming tray: \"*Doughnut*? **What kind of** doughnut?\" Glazed, sprinkled, jam-filled, a hundred choices smelling of hot sugar. Donna: what kind of."
+    }
+  },
+  "l09-068": {
+    "sentence": {
+      "ja": "週末[しゅうまつ]は{どう}でしたか。",
+      "en": "How was your weekend?",
+      "breakdown": [
+        {
+          "text": "週末",
+          "en": "weekend"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "どう",
+          "en": "how"
+        },
+        {
+          "text": "でした",
+          "en": "was",
+          "base": "です",
+          "baseEn": "is, am, are"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "dough",
+      "story": "A friend drops a lump of sticky *dough* in your hands and asks **how** to turn it into bread; you squeeze it, flour puffing, and shrug. Dō: how."
+    }
+  }
+}

@@ -1,0 +1,62 @@
+[
+ {
+  "lesson": 1,
+  "exercises": 5,
+  "items": 33
+ },
+ {
+  "lesson": 2,
+  "exercises": 6,
+  "items": 32
+ },
+ {
+  "lesson": 3,
+  "exercises": 6,
+  "items": 32
+ },
+ {
+  "lesson": 4,
+  "exercises": 6,
+  "items": 33
+ },
+ {
+  "lesson": 5,
+  "exercises": 6,
+  "items": 33
+ },
+ {
+  "lesson": 6,
+  "exercises": 5,
+  "items": 29
+ },
+ {
+  "lesson": 7,
+  "exercises": 5,
+  "items": 31
+ },
+ {
+  "lesson": 8,
+  "exercises": 6,
+  "items": 31
+ },
+ {
+  "lesson": 9,
+  "exercises": 6,
+  "items": 32
+ },
+ {
+  "lesson": 10,
+  "exercises": 6,
+  "items": 32
+ },
+ {
+  "lesson": 11,
+  "exercises": 6,
+  "items": 33
+ },
+ {
+  "lesson": 12,
+  "exercises": 6,
+  "items": 31
+ }
+]

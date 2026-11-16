@@ -1,0 +1,514 @@
+{
+  "lesson": 11,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Give the て-form of the verb.",
+      "kind": "typed",
+      "example": { "cue": "買[か]う", "answer": "買[か]って" },
+      "items": [
+        {
+          "id": "l11-p001",
+          "cue": "乗[の]る",
+          "answers": [
+            "乗[の]って"
+          ],
+          "en": "ride, get on (て-form)"
+        },
+        {
+          "id": "l11-p002",
+          "cue": "読[よ]む",
+          "answers": [
+            "読[よ]んで"
+          ],
+          "en": "read (て-form)"
+        },
+        {
+          "id": "l11-p003",
+          "cue": "歩[ある]く",
+          "answers": [
+            "歩[ある]いて"
+          ],
+          "en": "walk (て-form)"
+        },
+        {
+          "id": "l11-p004",
+          "cue": "急[いそ]ぐ",
+          "answers": [
+            "急[いそ]いで"
+          ],
+          "en": "hurry (て-form)"
+        },
+        {
+          "id": "l11-p005",
+          "cue": "なくす",
+          "answers": [
+            "なくして"
+          ],
+          "en": "lose (て-form)"
+        },
+        {
+          "id": "l11-p006",
+          "cue": "降[お]りる",
+          "answers": [
+            "降[お]りて"
+          ],
+          "en": "get off (て-form)"
+        },
+        {
+          "id": "l11-p007",
+          "cue": "来[く]る",
+          "answers": [
+            "来[き]て"
+          ],
+          "en": "come (て-form)"
+        },
+        {
+          "id": "l11-p008",
+          "cue": "行[い]く",
+          "answers": [
+            "行[い]って"
+          ],
+          "en": "go (て-form)"
+        },
+        {
+          "id": "l11-p009",
+          "cue": "運転[うんてん]する",
+          "answers": [
+            "運転[うんてん]して"
+          ],
+          "en": "drive (て-form)"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Ask someone politely to do it, with 〜てください.",
+      "kind": "typed",
+      "example": { "cue": "wait · here", "answer": "ここで待[ま]ってください。" },
+      "items": [
+        {
+          "id": "l11-p010",
+          "cue": "get on · the bus over there",
+          "answers": [
+            "あのバスに乗[の]ってください。"
+          ],
+          "en": "Please get on that bus over there.",
+          "breakdown": [
+            { "text": "あの", "en": "that … over there" },
+            { "text": "バス", "en": "bus" },
+            { "text": "に", "en": "marks what you get on" },
+            { "text": "乗ってください", "en": "please get on", "base": "乗[の]る", "baseEn": "to ride, to get on" }
+          ]
+        },
+        {
+          "id": "l11-p011",
+          "cue": "get off · at this station",
+          "answers": [
+            "この駅[えき]で降[お]りてください。"
+          ],
+          "en": "Please get off at this station.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "駅", "en": "station" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "降りてください", "en": "please get off", "base": "降[お]りる", "baseEn": "to get off" }
+          ]
+        },
+        {
+          "id": "l11-p012",
+          "cue": "hurry",
+          "answers": [
+            "急[いそ]いでください。"
+          ],
+          "en": "Please hurry.",
+          "breakdown": [
+            { "text": "急いでください", "en": "please hurry", "base": "急[いそ]ぐ", "baseEn": "to hurry" }
+          ]
+        },
+        {
+          "id": "l11-p013",
+          "cue": "drive · slowly",
+          "answers": [
+            "ゆっくり運転[うんてん]してください。"
+          ],
+          "en": "Please drive slowly.",
+          "breakdown": [
+            { "text": "ゆっくり", "en": "slowly" },
+            { "text": "運転してください", "en": "please drive", "base": "運転[うんてん]する", "baseEn": "to drive" }
+          ]
+        },
+        {
+          "id": "l11-p014",
+          "cue": "bring · a ticket",
+          "answers": [
+            "切符[きっぷ]を持[も]ってきてください。",
+            "切符[きっぷ]を持[も]って来[き]てください。"
+          ],
+          "en": "Please bring a ticket.",
+          "breakdown": [
+            { "text": "切符", "en": "ticket" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "持ってきてください", "en": "please bring", "base": "持[も]ってくる", "baseEn": "to bring (a thing)" }
+          ]
+        },
+        {
+          "id": "l11-p015",
+          "cue": "buy · a round-trip ticket",
+          "answers": [
+            "往復[おうふく]の切符[きっぷ]を買[か]ってください。"
+          ],
+          "en": "Please buy a round-trip ticket.",
+          "breakdown": [
+            { "text": "往復", "en": "round trip" },
+            { "text": "の", "en": "for (links to ticket)" },
+            { "text": "切符", "en": "ticket" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "買ってください", "en": "please buy", "base": "買[か]う", "baseEn": "to buy" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Say how the person gets there, with で or 歩いて.",
+      "kind": "typed",
+      "example": { "cue": "Tanaka-san · to the office · by train", "answer": "田中[たなか]さんは電車[でんしゃ]で会社[かいしゃ]に行[い]きます。" },
+      "items": [
+        {
+          "id": "l11-p016",
+          "cue": "Ken · to school · by bicycle",
+          "answers": [
+            "ケンさんは自転車[じてんしゃ]で学校[がっこう]に行[い]きます。"
+          ],
+          "en": "Ken goes to school by bicycle.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "自転車", "en": "bicycle" },
+            { "text": "で", "en": "by (means)" },
+            { "text": "学校", "en": "school" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きます", "en": "goes", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l11-p017",
+          "cue": "Sakura · to university · by subway",
+          "answers": [
+            "さくらさんは地下鉄[ちかてつ]で大学[だいがく]に行[い]きます。"
+          ],
+          "en": "Sakura goes to university by subway.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "地下鉄", "en": "subway" },
+            { "text": "で", "en": "by (means)" },
+            { "text": "大学", "en": "university" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きます", "en": "goes", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l11-p018",
+          "cue": "Yamada-sensei · to the station · on foot",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は歩[ある]いて駅[えき]に行[い]きます。",
+            "山田[やまだ]先生[せんせい]は駅[えき]まで歩[ある]いて行[い]きます。"
+          ],
+          "en": "Yamada-sensei walks to the station.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "歩いて", "en": "on foot", "base": "歩[ある]く", "baseEn": "to walk" },
+            { "text": "駅", "en": "station" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きます", "en": "goes", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l11-p019",
+          "cue": "Ken · go home to Canada · by plane",
+          "answers": [
+            "ケンさんは飛行機[ひこうき]でカナダに帰[かえ]ります。"
+          ],
+          "en": "Ken goes home to Canada by plane.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "飛行機", "en": "plane" },
+            { "text": "で", "en": "by (means)" },
+            { "text": "カナダ", "en": "Canada" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "帰ります", "en": "goes home", "base": "帰[かえ]る", "baseEn": "to go home, to return" }
+          ]
+        },
+        {
+          "id": "l11-p020",
+          "cue": "Sakura · to the hot spring · by bus",
+          "answers": [
+            "さくらさんはバスで温泉[おんせん]に行[い]きます。"
+          ],
+          "en": "Sakura goes to the hot spring by bus.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "バス", "en": "bus" },
+            { "text": "で", "en": "by (means)" },
+            { "text": "温泉", "en": "hot spring" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きます", "en": "goes", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Say how long the trip takes or what it costs, with から, まで and かかります.",
+      "kind": "typed",
+      "example": { "cue": "my home → the station · by bus · 15 minutes", "answer": "うちから駅[えき]までバスで十五分[じゅうごふん]かかります。" },
+      "items": [
+        {
+          "id": "l11-p021",
+          "cue": "the station → the university · on foot · 20 minutes",
+          "answers": [
+            "駅[えき]から大学[だいがく]まで歩[ある]いて二十分[にじゅっぷん]かかります。",
+            "駅[えき]から大学[だいがく]まで歩[ある]いて二十分[にじっぷん]かかります。"
+          ],
+          "en": "It takes twenty minutes on foot from the station to the university.",
+          "breakdown": [
+            { "text": "駅", "en": "station" },
+            { "text": "から", "en": "from" },
+            { "text": "大学", "en": "university" },
+            { "text": "まで", "en": "to, as far as" },
+            { "text": "歩いて", "en": "on foot", "base": "歩[ある]く", "baseEn": "to walk" },
+            { "text": "二十分", "en": "twenty minutes" },
+            { "text": "かかります", "en": "takes (time)", "base": "かかる", "baseEn": "to take (time, money)" }
+          ]
+        },
+        {
+          "id": "l11-p022",
+          "cue": "Tokyo → Osaka · by bullet train · about two and a half hours",
+          "answers": [
+            "東京[とうきょう]から大阪[おおさか]まで新幹線[しんかんせん]で二時間半[にじかんはん]ぐらいかかります。"
+          ],
+          "en": "It takes about two and a half hours from Tokyo to Osaka by bullet train.",
+          "breakdown": [
+            { "text": "東京", "en": "Tokyo" },
+            { "text": "から", "en": "from" },
+            { "text": "大阪", "en": "Osaka" },
+            { "text": "まで", "en": "to, as far as" },
+            { "text": "新幹線", "en": "bullet train" },
+            { "text": "で", "en": "by (means)" },
+            { "text": "二時間半", "en": "two and a half hours" },
+            { "text": "ぐらい", "en": "about" },
+            { "text": "かかります", "en": "takes (time)", "base": "かかる", "baseEn": "to take (time, money)" }
+          ]
+        },
+        {
+          "id": "l11-p023",
+          "cue": "Canada → Japan · by plane · about ten hours",
+          "answers": [
+            "カナダから日本[にほん]まで飛行機[ひこうき]で十時間[じゅうじかん]ぐらいかかります。"
+          ],
+          "en": "It takes about ten hours from Canada to Japan by plane.",
+          "breakdown": [
+            { "text": "カナダ", "en": "Canada" },
+            { "text": "から", "en": "from" },
+            { "text": "日本", "en": "Japan" },
+            { "text": "まで", "en": "to, as far as" },
+            { "text": "飛行機", "en": "plane" },
+            { "text": "で", "en": "by (means)" },
+            { "text": "十時間", "en": "ten hours" },
+            { "text": "ぐらい", "en": "about" },
+            { "text": "かかります", "en": "takes (time)", "base": "かかる", "baseEn": "to take (time, money)" }
+          ]
+        },
+        {
+          "id": "l11-p024",
+          "cue": "the station → the hot spring · by bus · 600 yen",
+          "answers": [
+            "駅[えき]から温泉[おんせん]までバスで六百円[ろっぴゃくえん]かかります。"
+          ],
+          "en": "It costs 600 yen by bus from the station to the hot spring.",
+          "breakdown": [
+            { "text": "駅", "en": "station" },
+            { "text": "から", "en": "from" },
+            { "text": "温泉", "en": "hot spring" },
+            { "text": "まで", "en": "to, as far as" },
+            { "text": "バス", "en": "bus" },
+            { "text": "で", "en": "by (means)" },
+            { "text": "六百円", "en": "600 yen" },
+            { "text": "かかります", "en": "costs", "base": "かかる", "baseEn": "to take (time, money)" }
+          ]
+        },
+        {
+          "id": "l11-p025",
+          "cue": "ask · school → the station · how long",
+          "answers": [
+            "学校[がっこう]から駅[えき]までどのぐらいかかりますか。"
+          ],
+          "en": "How long does it take from school to the station?",
+          "breakdown": [
+            { "text": "学校", "en": "school" },
+            { "text": "から", "en": "from" },
+            { "text": "駅", "en": "station" },
+            { "text": "まで", "en": "to, as far as" },
+            { "text": "どのぐらい", "en": "how long" },
+            { "text": "かかります", "en": "takes (time)", "base": "かかる", "baseEn": "to take (time, money)" },
+            { "text": "か", "en": "question marker" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Say what Ken did on his trip to Kyoto, in the past tense.",
+      "kind": "typed",
+      "example": { "cue": "buy · a one-way ticket", "answer": "片道[かたみち]の切符[きっぷ]を買[か]いました。" },
+      "items": [
+        {
+          "id": "l11-p026",
+          "cue": "9:00 · get on · the bullet train",
+          "answers": [
+            "(ケンさんは)九時[くじ]に新幹線[しんかんせん]に乗[の]りました。"
+          ],
+          "en": "Ken got on the bullet train at nine.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "九時", "en": "nine o'clock" },
+            { "text": "に", "en": "at (a time)" },
+            { "text": "新幹線", "en": "bullet train" },
+            { "text": "に", "en": "marks what you get on" },
+            { "text": "乗りました", "en": "got on", "base": "乗[の]る", "baseEn": "to ride, to get on" }
+          ]
+        },
+        {
+          "id": "l11-p027",
+          "cue": "get off · the bullet train · at Kyoto",
+          "answers": [
+            "(ケンさんは)京都[きょうと]で新幹線[しんかんせん]を降[お]りました。"
+          ],
+          "en": "Ken got off the bullet train at Kyoto.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "京都", "en": "Kyoto" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "新幹線", "en": "bullet train" },
+            { "text": "を", "en": "marks what you get off" },
+            { "text": "降りました", "en": "got off", "base": "降[お]りる", "baseEn": "to get off" }
+          ]
+        },
+        {
+          "id": "l11-p028",
+          "cue": "go · to a temple · by bus",
+          "answers": [
+            "(ケンさんは)バスでお寺[てら]に行[い]きました。"
+          ],
+          "en": "Ken went to a temple by bus.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "バス", "en": "bus" },
+            { "text": "で", "en": "by (means)" },
+            { "text": "お寺", "en": "temple" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きました", "en": "went", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l11-p029",
+          "cue": "stay · at a hotel near the river",
+          "answers": [
+            "(ケンさんは)川[かわ]の近[ちか]くのホテルに泊[と]まりました。"
+          ],
+          "en": "Ken stayed at a hotel near the river.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "川", "en": "river" },
+            { "text": "の", "en": "of" },
+            { "text": "近く", "en": "near" },
+            { "text": "の", "en": "links \"near the river\" to hotel" },
+            { "text": "ホテル", "en": "hotel" },
+            { "text": "に", "en": "at (where you stay)" },
+            { "text": "泊まりました", "en": "stayed", "base": "泊[と]まる", "baseEn": "to stay (overnight)" }
+          ]
+        },
+        {
+          "id": "l11-p030",
+          "cue": "buy · souvenirs · for Sakura",
+          "answers": [
+            "(ケンさんは)さくらさんにお土産[みやげ]を買[か]いました。",
+            "(ケンさんは)さくらさんのお土産[みやげ]を買[か]いました。"
+          ],
+          "en": "Ken bought souvenirs for Sakura.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "に", "en": "for (a person)" },
+            { "text": "お土産", "en": "souvenir" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "買いました", "en": "bought", "base": "買[か]う", "baseEn": "to buy" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "instruction": "Answer about yourself.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l11-p031",
+          "cue": "どうやって学校[がっこう]に行[い]きますか。",
+          "cueEn": "How do you get to school?",
+          "answers": [
+            "電車[でんしゃ]で行[い]きます。",
+            "歩[ある]いて行[い]きます。"
+          ],
+          "en": "I go by train.",
+          "breakdown": [
+            { "text": "電車", "en": "train" },
+            { "text": "で", "en": "by (means)" },
+            { "text": "行きます", "en": "go", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l11-p032",
+          "cue": "うちから駅[えき]までどのぐらいかかりますか。",
+          "cueEn": "How long does it take from your home to the station?",
+          "answers": [
+            "歩[ある]いて十分[じゅっぷん]ぐらいかかります。"
+          ],
+          "en": "It takes about ten minutes on foot.",
+          "breakdown": [
+            { "text": "歩いて", "en": "on foot", "base": "歩[ある]く", "baseEn": "to walk" },
+            { "text": "十分", "en": "ten minutes" },
+            { "text": "ぐらい", "en": "about" },
+            { "text": "かかります", "en": "takes (time)", "base": "かかる", "baseEn": "to take (time, money)" }
+          ]
+        },
+        {
+          "id": "l11-p033",
+          "cue": "どこに旅行[りょこう]に行[い]きたいですか。",
+          "cueEn": "Where do you want to go on a trip?",
+          "answers": [
+            "日本[にほん]の温泉[おんせん]に行[い]きたいです。"
+          ],
+          "en": "I want to go to a hot spring in Japan.",
+          "breakdown": [
+            { "text": "日本", "en": "Japan" },
+            { "text": "の", "en": "in ('s)" },
+            { "text": "温泉", "en": "hot spring" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きたいです", "en": "want to go", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+ "lesson": 7,
+ "title": "Around town",
+ "sections": [
+  {
+   "id": "places",
+   "title": "Places",
+   "words": [
+    {
+     "id": "l07-001",
+     "kana": "まち",
+     "kanji": "町",
+     "meaning": "town",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-002",
+     "kana": "ところ",
+     "kanji": "所",
+     "meaning": "place",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-003",
+     "kana": "えき",
+     "kanji": "駅",
+     "meaning": "station",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-004",
+     "kana": "ぎんこう",
+     "kanji": "銀行",
+     "meaning": "bank",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-005",
+     "kana": "ゆうびんきょく",
+     "kanji": "郵便局",
+     "meaning": "post office",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-006",
+     "kana": "びょういん",
+     "kanji": "病院",
+     "meaning": "hospital",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-007",
+     "kana": "としょかん",
+     "kanji": "図書館",
+     "meaning": "library",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-008",
+     "kana": "こうえん",
+     "kanji": "公園",
+     "meaning": "park",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-009",
+     "kana": "スーパー",
+     "kanji": "",
+     "meaning": "supermarket",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-010",
+     "kana": "コンビニ",
+     "kanji": "",
+     "meaning": "convenience store",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-011",
+     "kana": "デパート",
+     "kanji": "",
+     "meaning": "department store",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-012",
+     "kana": "ほんや",
+     "kanji": "本屋",
+     "meaning": "bookshop",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-013",
+     "kana": "レストラン",
+     "kanji": "",
+     "meaning": "restaurant",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-014",
+     "kana": "カフェ",
+     "kanji": "",
+     "meaning": "cafe",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-015",
+     "kana": "しょくどう",
+     "kanji": "食堂",
+     "meaning": "cafeteria",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-016",
+     "kana": "ホテル",
+     "kanji": "",
+     "meaning": "hotel",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-017",
+     "kana": "おてら",
+     "kanji": "お寺",
+     "meaning": "temple",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-018",
+     "kana": "じんじゃ",
+     "kanji": "神社",
+     "meaning": "shrine",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-019",
+     "kana": "びじゅつかん",
+     "kanji": "美術館",
+     "meaning": "art museum",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-020",
+     "kana": "どうぶつえん",
+     "kanji": "動物園",
+     "meaning": "zoo",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-021",
+     "kana": "トイレ",
+     "kanji": "",
+     "meaning": "toilet",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-022",
+     "kana": "いりぐち",
+     "kanji": "入口",
+     "meaning": "entrance",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-023",
+     "kana": "でぐち",
+     "kanji": "出口",
+     "meaning": "exit",
+     "category": "Nouns"
+    },
+    {
+     "id": "l07-024",
+     "kana": "ここ",
+     "kanji": "",
+     "meaning": "here",
+     "category": "Pointing words"
+    },
+    {
+     "id": "l07-025",
+     "kana": "そこ",
+     "kanji": "",
+     "meaning": "there (near you)",
+     "category": "Pointing words"
+    },
+    {
+     "id": "l07-026",
+     "kana": "あそこ",
+     "kanji": "",
+     "meaning": "over there",
+     "category": "Pointing words"
+    },
+    {
+     "id": "l07-027",
+     "kana": "どこ",
+     "kanji": "",
+     "meaning": "where",
+     "category": "Pointing words"
+    }
+   ]
+  },
+  {
+   "id": "location",
+   "title": "Where things are",
+   "words": [
+    {
+     "id": "l07-028",
+     "kana": "うえ",
+     "kanji": "上",
+     "meaning": "on, above",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-029",
+     "kana": "した",
+     "kanji": "下",
+     "meaning": "under, below",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-030",
+     "kana": "まえ",
+     "kanji": "前",
+     "meaning": "in front",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-031",
+     "kana": "うしろ",
+     "kanji": "後ろ",
+     "meaning": "behind",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-032",
+     "kana": "なか",
+     "kanji": "中",
+     "meaning": "inside",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-033",
+     "kana": "みぎ",
+     "kanji": "右",
+     "meaning": "right",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-034",
+     "kana": "ひだり",
+     "kanji": "左",
+     "meaning": "left",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-035",
+     "kana": "となり",
+     "kanji": "隣",
+     "meaning": "next to",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-036",
+     "kana": "ちかく",
+     "kanji": "近く",
+     "meaning": "near",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-037",
+     "kana": "あいだ",
+     "kanji": "間",
+     "meaning": "between",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-038",
+     "kana": "きた",
+     "kanji": "北",
+     "meaning": "north",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-039",
+     "kana": "みなみ",
+     "kanji": "南",
+     "meaning": "south",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-040",
+     "kana": "ひがし",
+     "kanji": "東",
+     "meaning": "east",
+     "category": "Location words"
+    },
+    {
+     "id": "l07-041",
+     "kana": "にし",
+     "kanji": "西",
+     "meaning": "west",
+     "category": "Location words"
+    }
+   ]
+  },
+  {
+   "id": "moving",
+   "title": "Being there and getting there",
+   "words": [
+    {
+     "id": "l07-042",
+     "kana": "ある",
+     "kanji": "",
+     "meaning": "to be, to exist (things)",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l07-043",
+     "kana": "いく",
+     "kanji": "行く",
+     "meaning": "to go",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l07-044",
+     "kana": "かえる",
+     "kanji": "帰る",
+     "meaning": "to go home, to return",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l07-045",
+     "kana": "はいる",
+     "kanji": "入る",
+     "meaning": "to enter",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l07-046",
+     "kana": "あるく",
+     "kanji": "歩く",
+     "meaning": "to walk",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l07-047",
+     "kana": "はしる",
+     "kanji": "走る",
+     "meaning": "to run",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l07-048",
+     "kana": "あう",
+     "kanji": "会う",
+     "meaning": "to meet",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l07-049",
+     "kana": "まつ",
+     "kanji": "待つ",
+     "meaning": "to wait",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l07-050",
+     "kana": "いる",
+     "kanji": "",
+     "meaning": "to be, to exist (people and animals)",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l07-051",
+     "kana": "でる",
+     "kanji": "出る",
+     "meaning": "to leave; to appear",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l07-052",
+     "kana": "くる",
+     "kanji": "来る",
+     "meaning": "to come",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l07-053",
+     "kana": "まっすぐいく",
+     "kanji": "まっすぐ行く",
+     "meaning": "to go straight",
+     "category": "Expressions"
+    },
+    {
+     "id": "l07-054",
+     "kana": "みぎにまがる",
+     "kanji": "右に曲がる",
+     "meaning": "to turn right",
+     "category": "Expressions"
+    },
+    {
+     "id": "l07-055",
+     "kana": "ひだりにまがる",
+     "kanji": "左に曲がる",
+     "meaning": "to turn left",
+     "category": "Expressions"
+    },
+    {
+     "id": "l07-056",
+     "kana": "みちをわたる",
+     "kanji": "道を渡る",
+     "meaning": "to cross the street",
+     "category": "Expressions"
+    }
+   ]
+  }
+ ]
+}

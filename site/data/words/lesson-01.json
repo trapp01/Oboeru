@@ -1,0 +1,270 @@
+{
+ "lesson": 1,
+ "title": "Greetings and first words",
+ "sections": [
+  {
+   "id": "greetings",
+   "title": "Greetings",
+   "words": [
+    {
+     "id": "l01-001",
+     "kana": "おはよう",
+     "kanji": "",
+     "meaning": "good morning (casual)",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-002",
+     "kana": "おはようございます",
+     "kanji": "",
+     "meaning": "good morning (polite)",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-003",
+     "kana": "こんにちは",
+     "kanji": "",
+     "meaning": "hello; good afternoon",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-004",
+     "kana": "こんばんは",
+     "kanji": "",
+     "meaning": "good evening",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-005",
+     "kana": "さようなら",
+     "kanji": "",
+     "meaning": "goodbye",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-006",
+     "kana": "おやすみなさい",
+     "kanji": "",
+     "meaning": "good night",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-007",
+     "kana": "ありがとう",
+     "kanji": "",
+     "meaning": "thank you (casual)",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-008",
+     "kana": "ありがとうございます",
+     "kanji": "",
+     "meaning": "thank you (polite)",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-009",
+     "kana": "すみません",
+     "kanji": "",
+     "meaning": "excuse me; I'm sorry",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-010",
+     "kana": "ごめんなさい",
+     "kanji": "",
+     "meaning": "I'm sorry",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-011",
+     "kana": "はじめまして",
+     "kanji": "",
+     "meaning": "nice to meet you (at a first meeting)",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-012",
+     "kana": "よろしくおねがいします",
+     "kanji": "",
+     "meaning": "pleased to meet you (closing an introduction)",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-013",
+     "kana": "いってきます",
+     "kanji": "",
+     "meaning": "I'm off (said when leaving home)",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-014",
+     "kana": "いってらっしゃい",
+     "kanji": "",
+     "meaning": "see you later (said to someone leaving)",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-015",
+     "kana": "ただいま",
+     "kanji": "",
+     "meaning": "I'm home",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-016",
+     "kana": "おかえりなさい",
+     "kanji": "",
+     "meaning": "welcome back",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-017",
+     "kana": "いただきます",
+     "kanji": "",
+     "meaning": "said before eating",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-018",
+     "kana": "ごちそうさまでした",
+     "kanji": "",
+     "meaning": "said after eating",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-019",
+     "kana": "もしもし",
+     "kanji": "",
+     "meaning": "hello (on the phone)",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-020",
+     "kana": "ひさしぶり",
+     "kanji": "久しぶり",
+     "meaning": "long time no see",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-021",
+     "kana": "おだいじに",
+     "kanji": "お大事に",
+     "meaning": "get well soon",
+     "category": "Greetings"
+    },
+    {
+     "id": "l01-022",
+     "kana": "かんぱい",
+     "kanji": "乾杯",
+     "meaning": "cheers!",
+     "category": "Greetings"
+    }
+   ]
+  },
+  {
+   "id": "replies",
+   "title": "Short replies",
+   "words": [
+    {
+     "id": "l01-023",
+     "kana": "はい",
+     "kanji": "",
+     "meaning": "yes",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-024",
+     "kana": "いいえ",
+     "kanji": "",
+     "meaning": "no",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-025",
+     "kana": "ええ",
+     "kanji": "",
+     "meaning": "yes (softer than はい)",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-026",
+     "kana": "うん",
+     "kanji": "",
+     "meaning": "yeah (casual)",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-027",
+     "kana": "ううん",
+     "kanji": "",
+     "meaning": "nope (casual)",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-028",
+     "kana": "そうです",
+     "kanji": "",
+     "meaning": "that's right",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-029",
+     "kana": "そうですか",
+     "kanji": "",
+     "meaning": "I see; is that so?",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-030",
+     "kana": "どうぞ",
+     "kanji": "",
+     "meaning": "go ahead; here you are",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-031",
+     "kana": "どうも",
+     "kanji": "",
+     "meaning": "thanks",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-032",
+     "kana": "あのう",
+     "kanji": "",
+     "meaning": "um…",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-033",
+     "kana": "じゃあ",
+     "kanji": "",
+     "meaning": "well then",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-034",
+     "kana": "だいじょうぶ",
+     "kanji": "大丈夫",
+     "meaning": "all right; no problem",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-035",
+     "kana": "ほんとうですか",
+     "kanji": "本当ですか",
+     "meaning": "really?",
+     "category": "Replies"
+    },
+    {
+     "id": "l01-036",
+     "kana": "もちろん",
+     "kanji": "",
+     "meaning": "of course",
+     "category": "Replies"
+    }
+   ]
+  }
+ ]
+}

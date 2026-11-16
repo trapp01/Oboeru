@@ -1,0 +1,444 @@
+{
+ "lesson": 2,
+ "title": "Numbers and time",
+ "sections": [
+  {
+   "id": "numbers",
+   "title": "Numbers",
+   "words": [
+    {
+     "id": "l02-001",
+     "kana": "ゼロ／れい",
+     "kanji": "",
+     "meaning": "0",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-002",
+     "kana": "いち",
+     "kanji": "一",
+     "meaning": "1",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-003",
+     "kana": "に",
+     "kanji": "二",
+     "meaning": "2",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-004",
+     "kana": "さん",
+     "kanji": "三",
+     "meaning": "3",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-005",
+     "kana": "よん／し／(よ)",
+     "kanji": "四",
+     "meaning": "4",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-006",
+     "kana": "ご",
+     "kanji": "五",
+     "meaning": "5",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-007",
+     "kana": "ろく",
+     "kanji": "六",
+     "meaning": "6",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-008",
+     "kana": "なな／しち",
+     "kanji": "七",
+     "meaning": "7",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-009",
+     "kana": "はち",
+     "kanji": "八",
+     "meaning": "8",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-010",
+     "kana": "きゅう／く",
+     "kanji": "九",
+     "meaning": "9",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-011",
+     "kana": "じゅう",
+     "kanji": "十",
+     "meaning": "10",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-012",
+     "kana": "じゅういち",
+     "kanji": "十一",
+     "meaning": "11",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-013",
+     "kana": "じゅうに",
+     "kanji": "十二",
+     "meaning": "12",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-014",
+     "kana": "にじゅう",
+     "kanji": "二十",
+     "meaning": "20",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-015",
+     "kana": "さんじゅう",
+     "kanji": "三十",
+     "meaning": "30",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-016",
+     "kana": "よんじゅう",
+     "kanji": "四十",
+     "meaning": "40",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-017",
+     "kana": "ごじゅう",
+     "kanji": "五十",
+     "meaning": "50",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-018",
+     "kana": "ろくじゅう",
+     "kanji": "六十",
+     "meaning": "60",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-019",
+     "kana": "ななじゅう",
+     "kanji": "七十",
+     "meaning": "70",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-020",
+     "kana": "はちじゅう",
+     "kanji": "八十",
+     "meaning": "80",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-021",
+     "kana": "きゅうじゅう",
+     "kanji": "九十",
+     "meaning": "90",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-022",
+     "kana": "ひゃく",
+     "kanji": "百",
+     "meaning": "100",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-023",
+     "kana": "さんびゃく",
+     "kanji": "三百",
+     "meaning": "300",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-024",
+     "kana": "ろっぴゃく",
+     "kanji": "六百",
+     "meaning": "600",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-025",
+     "kana": "はっぴゃく",
+     "kanji": "八百",
+     "meaning": "800",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-026",
+     "kana": "せん",
+     "kanji": "千",
+     "meaning": "1,000",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-027",
+     "kana": "さんぜん",
+     "kanji": "三千",
+     "meaning": "3,000",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-028",
+     "kana": "はっせん",
+     "kanji": "八千",
+     "meaning": "8,000",
+     "category": "Numbers"
+    },
+    {
+     "id": "l02-029",
+     "kana": "いちまん",
+     "kanji": "一万",
+     "meaning": "10,000",
+     "category": "Numbers"
+    }
+   ]
+  },
+  {
+   "id": "counting-things",
+   "title": "Counting things",
+   "words": [
+    {
+     "id": "l02-030",
+     "kana": "ひとつ",
+     "kanji": "一つ",
+     "meaning": "one (thing)",
+     "category": "Counters"
+    },
+    {
+     "id": "l02-031",
+     "kana": "ふたつ",
+     "kanji": "二つ",
+     "meaning": "two (things)",
+     "category": "Counters"
+    },
+    {
+     "id": "l02-032",
+     "kana": "みっつ",
+     "kanji": "三つ",
+     "meaning": "three (things)",
+     "category": "Counters"
+    },
+    {
+     "id": "l02-033",
+     "kana": "よっつ",
+     "kanji": "四つ",
+     "meaning": "four (things)",
+     "category": "Counters"
+    },
+    {
+     "id": "l02-034",
+     "kana": "いつつ",
+     "kanji": "五つ",
+     "meaning": "five (things)",
+     "category": "Counters"
+    },
+    {
+     "id": "l02-035",
+     "kana": "むっつ",
+     "kanji": "六つ",
+     "meaning": "six (things)",
+     "category": "Counters"
+    },
+    {
+     "id": "l02-036",
+     "kana": "ななつ",
+     "kanji": "七つ",
+     "meaning": "seven (things)",
+     "category": "Counters"
+    },
+    {
+     "id": "l02-037",
+     "kana": "やっつ",
+     "kanji": "八つ",
+     "meaning": "eight (things)",
+     "category": "Counters"
+    },
+    {
+     "id": "l02-038",
+     "kana": "ここのつ",
+     "kanji": "九つ",
+     "meaning": "nine (things)",
+     "category": "Counters"
+    },
+    {
+     "id": "l02-039",
+     "kana": "とお",
+     "kanji": "十",
+     "meaning": "ten (things)",
+     "category": "Counters"
+    }
+   ]
+  },
+  {
+   "id": "clock-time",
+   "title": "Clock time",
+   "words": [
+    {
+     "id": "l02-040",
+     "kana": "いま",
+     "kanji": "今",
+     "meaning": "now",
+     "category": "Time"
+    },
+    {
+     "id": "l02-041",
+     "kana": "ごぜん",
+     "kanji": "午前",
+     "meaning": "a.m.",
+     "category": "Time"
+    },
+    {
+     "id": "l02-042",
+     "kana": "ごご",
+     "kanji": "午後",
+     "meaning": "p.m.",
+     "category": "Time"
+    },
+    {
+     "id": "l02-043",
+     "kana": "いちじ",
+     "kanji": "一時",
+     "meaning": "one o'clock",
+     "category": "Time"
+    },
+    {
+     "id": "l02-044",
+     "kana": "にじ",
+     "kanji": "二時",
+     "meaning": "two o'clock",
+     "category": "Time"
+    },
+    {
+     "id": "l02-045",
+     "kana": "よじ",
+     "kanji": "四時",
+     "meaning": "four o'clock",
+     "category": "Time"
+    },
+    {
+     "id": "l02-046",
+     "kana": "しちじ",
+     "kanji": "七時",
+     "meaning": "seven o'clock",
+     "category": "Time"
+    },
+    {
+     "id": "l02-047",
+     "kana": "くじ",
+     "kanji": "九時",
+     "meaning": "nine o'clock",
+     "category": "Time"
+    },
+    {
+     "id": "l02-048",
+     "kana": "じゅうにじ",
+     "kanji": "十二時",
+     "meaning": "twelve o'clock",
+     "category": "Time"
+    },
+    {
+     "id": "l02-049",
+     "kana": "はん",
+     "kanji": "半",
+     "meaning": "half past",
+     "category": "Time"
+    },
+    {
+     "id": "l02-050",
+     "kana": "いちじはん",
+     "kanji": "一時半",
+     "meaning": "half past one",
+     "category": "Time"
+    },
+    {
+     "id": "l02-051",
+     "kana": "いっぷん",
+     "kanji": "一分",
+     "meaning": "one minute",
+     "category": "Time"
+    },
+    {
+     "id": "l02-052",
+     "kana": "さんぷん",
+     "kanji": "三分",
+     "meaning": "three minutes",
+     "category": "Time"
+    },
+    {
+     "id": "l02-053",
+     "kana": "ごふん",
+     "kanji": "五分",
+     "meaning": "five minutes",
+     "category": "Time"
+    },
+    {
+     "id": "l02-054",
+     "kana": "じゅっぷん",
+     "kanji": "十分",
+     "meaning": "ten minutes",
+     "category": "Time"
+    },
+    {
+     "id": "l02-055",
+     "kana": "さんじゅっぷん",
+     "kanji": "三十分",
+     "meaning": "thirty minutes",
+     "category": "Time"
+    },
+    {
+     "id": "l02-056",
+     "kana": "いちじかん",
+     "kanji": "一時間",
+     "meaning": "one hour",
+     "category": "Time"
+    },
+    {
+     "id": "l02-057",
+     "kana": "〜じかん",
+     "kanji": "〜時間",
+     "meaning": "… hours (a length of time)",
+     "category": "Time"
+    },
+    {
+     "id": "l02-058",
+     "kana": "〜ごろ",
+     "kanji": "",
+     "meaning": "around (a time)",
+     "category": "Time"
+    },
+    {
+     "id": "l02-059",
+     "kana": "いつ",
+     "kanji": "",
+     "meaning": "when",
+     "category": "Question words"
+    },
+    {
+     "id": "l02-060",
+     "kana": "なん／なに",
+     "kanji": "何",
+     "meaning": "what",
+     "category": "Question words"
+    }
+   ]
+  }
+ ]
+}

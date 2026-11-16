@@ -1,0 +1,2124 @@
+{
+  "l04-001": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]八時[はちじ]に{学校[がっこう]}へ行[い]きます。",
+      "en": "I go to school at eight every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "八時",
+          "en": "eight o'clock"
+        },
+        {
+          "text": "に",
+          "en": "at (a time)"
+        },
+        {
+          "text": "学校",
+          "en": "school"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きます",
+          "en": "go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "gaku (study) + kō (school)",
+      "story": "Gaku is the \"study\" in daigaku; kō is the second half of kōkō, high school. A study-place is a **school**, where everyone *gawks* at one *coat* left on a hook. Gakkō."
+    }
+  },
+  "l04-002": {
+    "sentence": {
+      "ja": "妹[いもうと]は{高校[こうこう]}一年生[いちねんせい]です。",
+      "en": "My younger sister is a first-year in high school.",
+      "breakdown": [
+        {
+          "text": "妹",
+          "en": "my younger sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "高校",
+          "en": "high school"
+        },
+        {
+          "text": "一年生",
+          "en": "first-year student"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "coat + coat",
+      "story": "On the first day of **high school** everyone hangs a *coat* on the same hook, *coat* on *coat*, until the hook snaps with a crack. Kō-kō: high school, both vowels long."
+    }
+  },
+  "l04-003": {
+    "sentence": {
+      "ja": "田中[たなか]さんは{大学[だいがく]}の先生[せんせい]です。",
+      "en": "Tanaka-san is a university professor.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "大学",
+          "en": "university"
+        },
+        {
+          "text": "の",
+          "en": "of (a university)"
+        },
+        {
+          "text": "先生",
+          "en": "professor"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "dye + gawk",
+      "story": "Outside the **university** gates, graduates *dye* their gowns purple in a bubbling vat while tourists stop to *gawk*, splashes staining the cobbles. Dai-gaku: university, college."
+    }
+  },
+  "l04-004": {
+    "sentence": {
+      "ja": "ケンさんは{学生[がくせい]}ですか。",
+      "en": "Is Ken a student?",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "学生",
+          "en": "student"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "gawk + say",
+      "story": "The whole lecture hall turns to *gawk* as one **student** climbs onto her chair to *say* the answer, chalk dust drifting in the light. Gaku-sei: student."
+    }
+  },
+  "l04-005": {
+    "sentence": {
+      "ja": "弟[おとうと]は{高校生[こうこうせい]}です。",
+      "en": "My younger brother is in high school.",
+      "breakdown": [
+        {
+          "text": "弟",
+          "en": "my younger brother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "高校生",
+          "en": "high school student"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kōkō (high school) + sei (student)",
+      "story": "Kōkō is high school, sei is student: a **high school student**. The two coats from kōkō now have a teenager inside, ready to *say* her name at roll call. Kōkō-sei."
+    }
+  },
+  "l04-006": {
+    "sentence": {
+      "ja": "山田[やまだ]さんは{大学生[だいがくせい]}ですか。",
+      "en": "Is Yamada-san a college student?",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "大学生",
+          "en": "college student"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "daigaku (university) + sei (student)",
+      "story": "Daigaku is university, and sei is the *say* from gakusei, a student: a **college student**. Picture one saying her name at the purple-dyed gates on day one. Daigaku-sei."
+    }
+  },
+  "l04-007": {
+    "sentence": {
+      "ja": "ケンさんは{留学生[りゅうがくせい]}です。",
+      "en": "Ken is an international student.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "留学生",
+          "en": "international student"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "(are) you + gakusei",
+      "story": "At passport control the officer squints at your backpack: \"*Are you* gakusei?\" Slur it, r'you-gakusei, and you're an **international student**, a student from abroad. Ryū-gakusei."
+    }
+  },
+  "l04-008": {
+    "sentence": {
+      "ja": "山田[やまだ]さんは英語[えいご]の{先生[せんせい]}です。",
+      "en": "Yamada-san is an English teacher.",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "英語",
+          "en": "English (language)"
+        },
+        {
+          "text": "の",
+          "en": "of (a subject)"
+        },
+        {
+          "text": "先生",
+          "en": "teacher"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cent + say",
+      "story": "Your **teacher** drops a *cent* into a jar each time someone can *say* the answer, coins clinking all lesson long. Sen-sei: teacher, and after a name, Professor."
+    }
+  },
+  "l04-009": {
+    "sentence": {
+      "ja": "明日[あした]は九時[くじ]から{授業[じゅぎょう]}があります。",
+      "en": "Tomorrow I have class from nine.",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "九時",
+          "en": "nine o'clock"
+        },
+        {
+          "text": "から",
+          "en": "from"
+        },
+        {
+          "text": "授業",
+          "en": "class"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "あります",
+          "en": "there is (I have)",
+          "base": "ある",
+          "baseEn": "to exist, to have"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ju(ice) + gyō(za)",
+      "story": "You sneak *juice* and *gyoza* into **class** under your desk, and the garlic smell gives you away by the second slide. Jugyō: class."
+    }
+  },
+  "l04-010": {
+    "sentence": {
+      "ja": "今日[きょう]は{宿題[しゅくだい]}がたくさんあります。",
+      "en": "I have a lot of homework today.",
+      "breakdown": [
+        {
+          "text": "今日",
+          "en": "today"
+        },
+        {
+          "text": "は",
+          "en": "topic marker (as for today)"
+        },
+        {
+          "text": "宿題",
+          "en": "homework"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "たくさん",
+          "en": "a lot"
+        },
+        {
+          "text": "あります",
+          "en": "there is (I have)",
+          "base": "ある",
+          "baseEn": "there is (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shook + dye",
+      "story": "You *shook* a bottle of purple *dye* too hard, and now every page of your **homework** is dripping and violet. Shuku-dai: homework."
+    }
+  },
+  "l04-011": {
+    "sentence": {
+      "ja": "明日[あした]は日本語[にほんご]の{テスト}です。",
+      "en": "Tomorrow is the Japanese test.",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "日本語",
+          "en": "Japanese language"
+        },
+        {
+          "text": "の",
+          "en": "of (a test in Japanese)"
+        },
+        {
+          "text": "テスト",
+          "en": "test"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "test",
+      "story": "*Test* gains a final o: te-su-to, with the su whispered so it still sounds close to \"test-o\". **Test**."
+    }
+  },
+  "l04-012": {
+    "sentence": {
+      "ja": "明日[あした]は日本語[にほんご]の{試験[しけん]}があります。",
+      "en": "I have a Japanese exam tomorrow.",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "日本語",
+          "en": "Japanese language"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "試験",
+          "en": "exam"
+        },
+        {
+          "text": "が",
+          "en": "marks what there is"
+        },
+        {
+          "text": "あります",
+          "en": "there is (I have)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "she can",
+      "story": "The **exam** papers slap down on every desk, and the girl beside you whispers *she can*, *she can* to herself, pencil trembling, the clock ticking loud. Shiken: exam."
+    }
+  },
+  "l04-013": {
+    "sentence": {
+      "ja": "{教科書[きょうかしょ]}の二十[にじゅっ]ページを読[よ]んでください。",
+      "en": "Please read page twenty of the textbook.",
+      "breakdown": [
+        {
+          "text": "教科書",
+          "en": "textbook"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "二十ページ",
+          "en": "page twenty"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "読んでください",
+          "en": "please read",
+          "base": "読[よ]む",
+          "baseEn": "to read"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Kyoto + car show",
+      "story": "At a *Kyoto car show*, a fat **textbook** is chained to every bumper, and you must read a whole chapter before the guard lets you sit behind the wheel. Kyō-ka-sho: textbook."
+    }
+  },
+  "l04-014": {
+    "sentence": {
+      "ja": "英語[えいご]の{辞書[じしょ]}はどこですか。",
+      "en": "Where is the English dictionary?",
+      "breakdown": [
+        {
+          "text": "英語",
+          "en": "English"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "辞書",
+          "en": "dictionary"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "どこ",
+          "en": "where"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "gee, show",
+      "story": "\"*Gee, show* me!\" your friend begs, and you heave open the giant **dictionary**, pages thudding over one by one. Jisho: dictionary."
+    }
+  },
+  "l04-015": {
+    "sentence": {
+      "ja": "この{漢字[かんじ]}を読[よ]んでください。",
+      "en": "Please read this kanji.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "漢字",
+          "en": "kanji, Chinese character"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "読んでください",
+          "en": "please read",
+          "base": "読[よ]む",
+          "baseEn": "to read"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "congee",
+      "story": "You stir a bowl of rice *congee* and the grains drift into a perfect **Chinese character**, every brush stroke drawn in steaming porridge. Kan-ji: kanji, a Chinese character."
+    }
+  },
+  "l04-016": {
+    "sentence": {
+      "ja": "この{単語[たんご]}が分[わ]かりません。",
+      "en": "I don't understand this word.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "単語",
+          "en": "word"
+        },
+        {
+          "text": "が",
+          "en": "marks what isn't understood"
+        },
+        {
+          "text": "分かりません",
+          "en": "don't understand",
+          "base": "分[わ]かる",
+          "baseEn": "to understand"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tango",
+      "story": "You dance a *tango* across a giant flashcard, and every stamp of your heel prints a new **word** into the floor, click, clack. Tan-go: word, vocabulary."
+    }
+  },
+  "l04-017": {
+    "sentence": {
+      "ja": "日本語[にほんご]の{文法[ぶんぽう]}はあまり難[むずか]しくないです。",
+      "en": "Japanese grammar isn't very hard.",
+      "breakdown": [
+        {
+          "text": "日本語",
+          "en": "Japanese language"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "文法",
+          "en": "grammar"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "あまり",
+          "en": "(not) very"
+        },
+        {
+          "text": "難しくないです",
+          "en": "isn't hard",
+          "base": "難[むずか]しい",
+          "baseEn": "difficult"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "bump, oh",
+      "story": "Every **grammar** mistake in your essay is a speed *bump*: *oh!*, your teeth rattle, and the red pen keeps going. Bunpō, said bum-pō: grammar."
+    }
+  },
+  "l04-018": {
+    "sentence": {
+      "ja": "さくらさんは英語[えいご]の{発音[はつおん]}がとても上手[じょうず]です。",
+      "en": "Sakura's English pronunciation is really good.",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "英語",
+          "en": "English"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "発音",
+          "en": "pronunciation"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "とても",
+          "en": "really"
+        },
+        {
+          "text": "上手です",
+          "en": "is good",
+          "base": "上手[じょうず]",
+          "baseEn": "good at, skillful"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hats on",
+      "story": "The teacher makes you drill vowels with three *hats on*, so your **pronunciation** has to be loud and clear to get through the felt. Hatsu-on: pronunciation."
+    }
+  },
+  "l04-019": {
+    "sentence": {
+      "ja": "この漢字[かんじ]の{意味[いみ]}は何[なん]ですか。",
+      "en": "What does this kanji mean?",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "漢字",
+          "en": "kanji"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "意味",
+          "en": "meaning"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "何",
+          "en": "what"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ee(ny) mee(ny)",
+      "story": "Stuck on a word's **meaning**, you run a finger down the dictionary going \"*eeny, meeny*...\" and pick one at random. Imi: meaning."
+    }
+  },
+  "l04-020": {
+    "sentence": {
+      "ja": "先生[せんせい]に{質問[しつもん]}があります。",
+      "en": "I have a question for the teacher.",
+      "breakdown": [
+        {
+          "text": "先生",
+          "en": "teacher"
+        },
+        {
+          "text": "に",
+          "en": "for (the person)"
+        },
+        {
+          "text": "質問",
+          "en": "question"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "あります",
+          "en": "have (there is)",
+          "base": "ある",
+          "baseEn": "to exist, to have"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "she sues Mon(day)",
+      "story": "*She sues Mon*day in court, and the judge leans in with one **question**: \"What did Monday ever do to you?\" Shitsu-mon: question."
+    }
+  },
+  "l04-021": {
+    "sentence": {
+      "ja": "この質問[しつもん]の{答[こた]え}が分[わ]かりません。",
+      "en": "I don't know the answer to this question.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "質問",
+          "en": "question"
+        },
+        {
+          "text": "の",
+          "en": "'s / to"
+        },
+        {
+          "text": "答え",
+          "en": "answer"
+        },
+        {
+          "text": "が",
+          "en": "marks what is known"
+        },
+        {
+          "text": "分かりません",
+          "en": "don't know",
+          "base": "分[わ]かる",
+          "baseEn": "to understand, to know"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "coat, ah, eh",
+      "story": "You flash open your *coat*, \"*Ah, eh*...\", and every **answer** to the test is pinned inside the lining, rustling. Kotae: answer."
+    }
+  },
+  "l04-022": {
+    "sentence": {
+      "ja": "宿題[しゅくだい]は教科書[きょうかしょ]の{練習[れんしゅう]}です。",
+      "en": "The homework is the exercises in the textbook.",
+      "breakdown": [
+        {
+          "text": "宿題",
+          "en": "homework"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "教科書",
+          "en": "textbook"
+        },
+        {
+          "text": "の",
+          "en": "of; here 'in the textbook'"
+        },
+        {
+          "text": "練習",
+          "en": "exercises"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "wren + shoe",
+      "story": "A *wren* hops into your *shoe* every morning to do its **exercises**: flap, hop, flap, again. Ren-shū: exercise, practice, as in renshū suru."
+    }
+  },
+  "l04-023": {
+    "sentence": {
+      "ja": "週末[しゅうまつ]に{作文[さくぶん]}を書[か]きました。",
+      "en": "I wrote an essay over the weekend.",
+      "breakdown": [
+        {
+          "text": "週末",
+          "en": "weekend"
+        },
+        {
+          "text": "に",
+          "en": "over (a time)"
+        },
+        {
+          "text": "作文",
+          "en": "essay"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "書きました",
+          "en": "wrote",
+          "base": "書[か]く",
+          "baseEn": "to write"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sack + boom",
+      "story": "Your twelve-page **essay** won't fit in any folder, so you cram it into a paper *sack*, which bursts with a *boom*, pages snowing over the classroom. Saku-bun: essay."
+    }
+  },
+  "l04-024": {
+    "sentence": {
+      "ja": "田中[たなか]さんは毎朝[まいあさ]新聞[しんぶん]を{読[よ]みます}。",
+      "en": "Tanaka-san reads the newspaper every morning.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "新聞",
+          "en": "newspaper"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "読みます",
+          "en": "reads",
+          "base": "読[よ]む",
+          "baseEn": "to read"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yo, moo",
+      "story": "A cow in tiny glasses **reads** the farm paper aloud: \"*Yo*, listen to this... *moo*.\" She turns the page with her nose. Yom-u: to read."
+    }
+  },
+  "l04-025": {
+    "sentence": {
+      "ja": "友達[ともだち]に手紙[てがみ]を{書[か]きました}。",
+      "en": "I wrote a letter to my friend.",
+      "breakdown": [
+        {
+          "text": "友達",
+          "en": "friend"
+        },
+        {
+          "text": "に",
+          "en": "to (a person)"
+        },
+        {
+          "text": "手紙",
+          "en": "letter"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "書きました",
+          "en": "wrote",
+          "base": "書[か]く",
+          "baseEn": "to write"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "caw, coo",
+      "story": "You **write** a letter with a black crow's quill, and the crow on your shoulder reads along: \"*Caw, coo*.\" Ka-ku: to write."
+    }
+  },
+  "l04-026": {
+    "sentence": {
+      "ja": "日本語[にほんご]で{話[はな]しません}か。",
+      "en": "Shall we talk in Japanese?",
+      "breakdown": [
+        {
+          "text": "日本語",
+          "en": "Japanese language"
+        },
+        {
+          "text": "で",
+          "en": "in (a language)"
+        },
+        {
+          "text": "話しません",
+          "en": "don't talk",
+          "base": "話[はな]す",
+          "baseEn": "to speak, to talk"
+        },
+        {
+          "text": "か",
+          "en": "question marker (an invitation)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hah, nah",
+      "story": "Your parrot finally learns to **speak**, but it answers every question with \"*Hah! Nah.*\", flapping its wings on each word. Hanas-u: to speak."
+    }
+  },
+  "l04-027": {
+    "sentence": {
+      "ja": "山田[やまだ]さんに電話[でんわ]番号[ばんごう]を{聞[き]きます}。",
+      "en": "I'll ask Yamada-san for their phone number.",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "に",
+          "en": "marks the person asked"
+        },
+        {
+          "text": "電話番号",
+          "en": "phone number"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "聞きます",
+          "en": "will ask",
+          "base": "聞[き]く",
+          "baseEn": "to ask, to listen, to hear"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "key + cook",
+      "story": "You press your ear to the *key*hole and **listen**: a *cook* inside is humming and chopping onions. Kik-u: to listen, and with に, to ask."
+    }
+  },
+  "l04-028": {
+    "sentence": {
+      "ja": "田中[たなか]さんは英語[えいご]が{わかります}。",
+      "en": "Tanaka-san understands English.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "英語",
+          "en": "English"
+        },
+        {
+          "text": "が",
+          "en": "marks what is understood"
+        },
+        {
+          "text": "わかります",
+          "en": "understands",
+          "base": "わかる",
+          "baseEn": "to understand"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "wok, ah",
+      "story": "Your cousin tosses fried rice in a *wok* and it finally clicks: \"*Ah!*\" Now you **understand**. Waka-ru: to understand; the thing you understand takes ga."
+    }
+  },
+  "l04-029": {
+    "sentence": {
+      "ja": "毎週[まいしゅう]ピアノを{習[なら]っています}。",
+      "en": "I take piano lessons every week.",
+      "breakdown": [
+        {
+          "text": "毎週",
+          "en": "every week"
+        },
+        {
+          "text": "ピアノ",
+          "en": "piano"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "習っています",
+          "en": "am learning (take lessons)",
+          "base": "習[なら]う",
+          "baseEn": "to learn"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Nara, ow",
+      "story": "In *Nara*, a bowing deer teaches you to bow back. You **learn** fast, because each sloppy bow earns a headbutt: *ow*! Nara-u: to learn, from a teacher."
+    }
+  },
+  "l04-030": {
+    "sentence": {
+      "ja": "土曜日[どようび]に子供[こども]に英語[えいご]を{教[おし]えます}。",
+      "en": "I teach English to kids on Saturdays.",
+      "breakdown": [
+        {
+          "text": "土曜日",
+          "en": "Saturday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "子供",
+          "en": "children, kids"
+        },
+        {
+          "text": "に",
+          "en": "to (a person)"
+        },
+        {
+          "text": "英語",
+          "en": "English"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "教えます",
+          "en": "teach",
+          "base": "教[おし]える",
+          "baseEn": "to teach, to instruct"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, she errs",
+      "story": "You **teach** a parrot to watch the class, and whenever a student misspells a word it squawks \"*Oh, she errs!*\" and taps the board with its beak. Oshie-ru: to teach."
+    }
+  },
+  "l04-031": {
+    "sentence": {
+      "ja": "漢字[かんじ]をたくさん{覚[おぼ]えました}。",
+      "en": "I memorized a lot of kanji.",
+      "breakdown": [
+        {
+          "text": "漢字",
+          "en": "kanji"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "たくさん",
+          "en": "a lot"
+        },
+        {
+          "text": "覚えました",
+          "en": "memorized",
+          "base": "覚[おぼ]える",
+          "baseEn": "to memorize"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oboe",
+      "story": "You **memorize** a whole symphony by playing it on an *oboe*, note by reedy note, until your lips buzz and you could play it asleep. Oboe-ru: to memorize."
+    }
+  },
+  "l04-032": {
+    "sentence": {
+      "ja": "先生[せんせい]、宿題[しゅくだい]を{忘[わす]れました}。",
+      "en": "Sensei, I forgot my homework.",
+      "breakdown": [
+        {
+          "text": "先生",
+          "en": "sensei, teacher"
+        },
+        {
+          "text": "宿題",
+          "en": "homework"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "忘れました",
+          "en": "forgot",
+          "base": "忘[わす]れる",
+          "baseEn": "to forget, to leave behind"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "what's-her(-name)",
+      "story": "At a party you **forget** a guest's name and stammer \"*What's-her*-name...\" while she taps her foot, ice clinking in her glass. Wasure-ru: to forget; also to leave something behind."
+    }
+  },
+  "l04-033": {
+    "sentence": {
+      "ja": "週末[しゅうまつ]も{勉強[べんきょう]します}。",
+      "en": "I study on weekends too.",
+      "breakdown": [
+        {
+          "text": "週末",
+          "en": "weekend"
+        },
+        {
+          "text": "も",
+          "en": "also, too"
+        },
+        {
+          "text": "勉強します",
+          "en": "study",
+          "base": "勉強[べんきょう]する",
+          "baseEn": "to study"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ben + kyō (Kyoto) + suru",
+      "story": "On a stone *bench* in *Kyoto* you **study** until the temple lamps come on, flashcards flapping in the wind. Benkyō plus suru, to do: to study."
+    }
+  },
+  "l04-034": {
+    "sentence": {
+      "ja": "毎晩[まいばん]ギターを{練習[れんしゅう]しています}。",
+      "en": "I practice the guitar every night.",
+      "breakdown": [
+        {
+          "text": "毎晩",
+          "en": "every night"
+        },
+        {
+          "text": "ギター",
+          "en": "guitar"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "練習しています",
+          "en": "practice (regularly)",
+          "base": "練習[れんしゅう]する",
+          "baseEn": "to practice"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "renshū (practice) + suru",
+      "story": "A tiny *wren* **practices** tap dancing inside your *shoe*, tick-tick-tick, all night long on the closet floor. Renshū suru: to practice."
+    }
+  },
+  "l04-035": {
+    "sentence": {
+      "ja": "兄[あに]はアメリカに{留学[りゅうがく]しました}。",
+      "en": "My older brother studied abroad in America.",
+      "breakdown": [
+        {
+          "text": "兄",
+          "en": "my older brother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "アメリカ",
+          "en": "America"
+        },
+        {
+          "text": "に",
+          "en": "to (a place)"
+        },
+        {
+          "text": "留学しました",
+          "en": "studied abroad",
+          "base": "留学[りゅうがく]する",
+          "baseEn": "to study abroad"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ryūgaku (as in ryūgakusei) + suru",
+      "story": "A ryūgakusei is an international student, and gaku is the study you *gawk* at in a foreign classroom. Swap sei for suru and you're doing it: **studying abroad**. Ryūgaku suru."
+    }
+  },
+  "l04-036": {
+    "sentence": {
+      "ja": "休[やす]みに{国[くに]}へ帰[かえ]ります。",
+      "en": "I'm going back to my home country for the break.",
+      "breakdown": [
+        {
+          "text": "休み",
+          "en": "break, holiday"
+        },
+        {
+          "text": "に",
+          "en": "during (a time)"
+        },
+        {
+          "text": "国",
+          "en": "home country"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "帰ります",
+          "en": "go back",
+          "base": "帰[かえ]る",
+          "baseEn": "to go back, to return"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "coo + knee",
+      "story": "A homing pigeon lands on your *knee* and *coos*, a tiny flag of its home **country** tied to one leg. Kuni: country, or the place you come from."
+    }
+  },
+  "l04-037": {
+    "sentence": {
+      "ja": "{外国[がいこく]}に行[い]ったことがありますか。",
+      "en": "Have you ever been to a foreign country?",
+      "breakdown": [
+        {
+          "text": "外国",
+          "en": "foreign country"
+        },
+        {
+          "text": "に",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行った",
+          "en": "went (been)",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        },
+        {
+          "text": "こと",
+          "en": "the experience of"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "あります",
+          "en": "have (there is)",
+          "base": "ある",
+          "baseEn": "to exist, to have"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "guy + coke",
+      "story": "A *guy* in sunglasses cracks open a *coke* in every **foreign country** he lands in, and it fizzes all over his passport stamps. Gai-koku: foreign country."
+    }
+  },
+  "l04-038": {
+    "sentence": {
+      "ja": "{日本[にほん]}は今[いま]、夜[よる]です。",
+      "en": "It's night in Japan right now.",
+      "breakdown": [
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "夜",
+          "en": "night"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "knee + hone",
+      "story": "Down on one *knee*, a swordsmith *hones* a blade until it sings, sparks hissing onto the tatami: **Japan**. Ni-hon. Nippon is the same name said with more force."
+    }
+  },
+  "l04-039": {
+    "sentence": {
+      "ja": "山田[やまだ]さんは{日本人[にほんじん]}ですか。",
+      "en": "Is Yamada-san Japanese?",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "日本人",
+          "en": "Japanese person"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nihon (Japan) + jin (person)",
+      "story": "Nihon is Japan and jin is a person: **Japanese people**, or one Japanese person. Picture a Tokyo commuter in pressed *jeans*, a tiny red sun stitched on one knee. Nihon-jin."
+    }
+  },
+  "l04-040": {
+    "sentence": {
+      "ja": "{日本語[にほんご]}の先生[せんせい]は田中[たなか]さんです。",
+      "en": "Our Japanese teacher is Tanaka-san.",
+      "breakdown": [
+        {
+          "text": "日本語",
+          "en": "Japanese language"
+        },
+        {
+          "text": "の",
+          "en": "of (a subject)"
+        },
+        {
+          "text": "先生",
+          "en": "teacher"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nihon (Japan) + go (language)",
+      "story": "Nihon is Japan and go is language: the **Japanese language**. The swordsmith looks up from his whetstone and barks \"*Go!*\" at his apprentice, in Japanese of course. Nihon-go."
+    }
+  },
+  "l04-041": {
+    "sentence": {
+      "ja": "{英語[えいご]}の先生[せんせい]はアメリカ人[じん]です。",
+      "en": "The English teacher is American.",
+      "breakdown": [
+        {
+          "text": "英語",
+          "en": "English (language)"
+        },
+        {
+          "text": "の",
+          "en": "of (teacher of)"
+        },
+        {
+          "text": "先生",
+          "en": "teacher"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "アメリカ",
+          "en": "America"
+        },
+        {
+          "text": "人",
+          "en": "person (from a country)"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ei (A) + go (language)",
+      "story": "Go is language, as in nihongo. Ei sounds like the letter *A*, the first letter of the alphabet English is written in. A + go: **English**. Ei-go: English."
+    }
+  },
+  "l04-042": {
+    "sentence": {
+      "ja": "田中[たなか]さんの友達[ともだち]は{アメリカ}人[じん]です。",
+      "en": "Tanaka-san's friend is American.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "友達",
+          "en": "friend"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "アメリカ",
+          "en": "U.S.A."
+        },
+        {
+          "text": "人",
+          "en": "person (nationality)"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "America",
+      "story": "*America* keeps four even beats, a-me-ri-ka, the r a quick tap of the tongue. It means the **U.S.A.** in particular, not the Americas as a whole."
+    }
+  },
+  "l04-043": {
+    "sentence": {
+      "ja": "{カナダ}は今[いま]、午後[ごご]五時[ごじ]です。",
+      "en": "It's 5 p.m. in Canada now.",
+      "breakdown": [
+        {
+          "text": "カナダ",
+          "en": "Canada"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "午後",
+          "en": "p.m."
+        },
+        {
+          "text": "五時",
+          "en": "five o'clock"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Canada",
+      "story": "*Canada* stays at three beats, ka-na-da, but flat and even, with no stress on the first. **Canada**."
+    }
+  },
+  "l04-044": {
+    "sentence": {
+      "ja": "山田[やまだ]さんのお母[かあ]さんは{イギリス}人[じん]です。",
+      "en": "Yamada-san's mother is British.",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "お母さん",
+          "en": "mother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "イギリス",
+          "en": "Britain"
+        },
+        {
+          "text": "人",
+          "en": "person (nationality)"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Inglês (Portuguese for English)",
+      "story": "Borrowed centuries ago from Portuguese *Inglês*, \"English\", and reshaped as i-gi-ri-su. It means **Britain**, and people use it loosely for England too."
+    }
+  },
+  "l04-045": {
+    "sentence": {
+      "ja": "{オーストラリア}の大学[だいがく]の学生[がくせい]です。",
+      "en": "I'm a student at an Australian university.",
+      "breakdown": [
+        {
+          "text": "オーストラリア",
+          "en": "Australia"
+        },
+        {
+          "text": "の",
+          "en": "in (a country)"
+        },
+        {
+          "text": "大学",
+          "en": "university"
+        },
+        {
+          "text": "の",
+          "en": "at (a university)"
+        },
+        {
+          "text": "学生",
+          "en": "student"
+        },
+        {
+          "text": "です",
+          "en": "(I) am"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Australia",
+      "story": "*Australia* stretches to six beats, ō-su-to-ra-ri-a: a long ō up front and a vowel after every consonant. **Australia**."
+    }
+  },
+  "l04-046": {
+    "sentence": {
+      "ja": "田中[たなか]さんの専攻[せんこう]は{中国[ちゅうごく]}の歴史[れきし]です。",
+      "en": "Tanaka-san's major is Chinese history.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "専攻",
+          "en": "major"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "中国",
+          "en": "China"
+        },
+        {
+          "text": "の",
+          "en": "of (China)"
+        },
+        {
+          "text": "歴史",
+          "en": "history"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "chew + go cook",
+      "story": "In **China** a chef hands you one dumpling: *chew* it, then *go cook* the next batch yourself, steam hissing out of the bamboo basket. Chū-goku: China."
+    }
+  },
+  "l04-047": {
+    "sentence": {
+      "ja": "ケンさんの友達[ともだち]は{韓国[かんこく]}の留学生[りゅうがくせい]です。",
+      "en": "Ken's friend is an international student from Korea.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "友達",
+          "en": "friend"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "韓国",
+          "en": "Korea"
+        },
+        {
+          "text": "の",
+          "en": "from (a country)"
+        },
+        {
+          "text": "留学生",
+          "en": "international student"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "can cook",
+      "story": "In **Korea** your host proves she *can cook*: meat sizzles on the table grill and kimchi steam fogs up your glasses. Kan-koku: Korea."
+    }
+  },
+  "l04-048": {
+    "sentence": {
+      "ja": "今週[こんしゅう]は{仕事[しごと]}が忙[いそが]しいです。",
+      "en": "Work is busy this week.",
+      "breakdown": [
+        {
+          "text": "今週",
+          "en": "this week"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "仕事",
+          "en": "work"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "忙しいです",
+          "en": "is busy",
+          "base": "忙[いそが]しい",
+          "baseEn": "busy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "she go to",
+      "story": "\"*She go to* **work**?\" your toddler asks, pointing as your sister sprints for the bus, briefcase flapping and toast still in her mouth. Shigoto: job, work."
+    }
+  },
+  "l04-049": {
+    "sentence": {
+      "ja": "兄[あに]の{会社[かいしゃ]}は東京[とうきょう]にあります。",
+      "en": "My older brother's company is in Tokyo.",
+      "breakdown": [
+        {
+          "text": "兄",
+          "en": "my older brother"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "会社",
+          "en": "company"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "東京",
+          "en": "Tokyo"
+        },
+        {
+          "text": "に",
+          "en": "in (a place)"
+        },
+        {
+          "text": "あります",
+          "en": "is (located)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kite + shah",
+      "story": "A *kite* tugs at the roof of the **company** building, and on the other end of the string a *shah* in silk robes runs board meetings from up there. Kai-sha: company."
+    }
+  },
+  "l04-050": {
+    "sentence": {
+      "ja": "山田[やまだ]さんは{会社員[かいしゃいん]}です。",
+      "en": "Yamada-san is an office worker.",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "会社員",
+          "en": "office worker"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kite + shah + inn",
+      "story": "On lunch break an **office worker** flies a *kite* off the roof, and it tangles in the sign of the *Shah*'s *Inn* next door. Kaisha (company) + in (member): kaisha-in."
+    }
+  },
+  "l04-051": {
+    "sentence": {
+      "ja": "うちの{社長[しゃちょう]}は毎日[まいにち]七時[しちじ]に会社[かいしゃ]に来[き]ます。",
+      "en": "Our company president gets to the office at seven every day.",
+      "breakdown": [
+        {
+          "text": "うち",
+          "en": "our (my side, my company)"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "社長",
+          "en": "company president"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "毎日",
+          "en": "every day"
+        },
+        {
+          "text": "七時",
+          "en": "seven o'clock"
+        },
+        {
+          "text": "に",
+          "en": "at (a time)"
+        },
+        {
+          "text": "会社",
+          "en": "the office (company)"
+        },
+        {
+          "text": "に",
+          "en": "to (a place)"
+        },
+        {
+          "text": "来ます",
+          "en": "comes",
+          "base": "来[く]る",
+          "baseEn": "to come"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shah + cho(sen)",
+      "story": "The board crowns a *shah*, *chosen* by a show of hands, and seats him in the gold chair on the top floor: **company president**. Sha-chō: president of a company."
+    }
+  },
+  "l04-052": {
+    "sentence": {
+      "ja": "コンビニで{アルバイト}をします。",
+      "en": "I work part-time at a convenience store.",
+      "breakdown": [
+        {
+          "text": "コンビニ",
+          "en": "convenience store"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "アルバイト",
+          "en": "part-time job"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "します",
+          "en": "do (work)",
+          "base": "する",
+          "baseEn": "to do"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Arbeit (German for work)",
+      "story": "From the German *Arbeit*, \"work\": a-ru-ba-i-to. In Japan it narrowed to a student's **part-time job**, and friends shorten it to baito."
+    }
+  },
+  "l04-053": {
+    "sentence": {
+      "ja": "さくらさんは{医者[いしゃ]}です。",
+      "en": "Sakura is a doctor.",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "医者",
+          "en": "doctor"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eee + shah",
+      "story": "\"Say *eee*,\" the **doctor** tells the *shah*, peering down the royal throat over a cold wooden stick. I-sha: doctor."
+    }
+  },
+  "l04-054": {
+    "sentence": {
+      "ja": "さくらさんのお姉[ねえ]さんは{看護師[かんごし]}です。",
+      "en": "Sakura's older sister is a nurse.",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "お姉さん",
+          "en": "older sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "看護師",
+          "en": "nurse"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "can go + she",
+      "story": "\"*Can go?*\" you ask, one leg out of bed. \"No,\" says *she*, the **nurse**, tucking you back under a starchy sheet. Kan-go-shi: nurse."
+    }
+  },
+  "l04-055": {
+    "sentence": {
+      "ja": "ケンさんのお父[とう]さんは{弁護士[べんごし]}です。",
+      "en": "Ken's father is a lawyer.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "お父さん",
+          "en": "father"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "弁護士",
+          "en": "lawyer"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "bingo + she",
+      "story": "The **lawyer** slaps the missing receipt on the table, \"*Bingo!*\", and *she* wins the case. Ben-go-shi: lawyer. Kangoshi, the nurse, differs only in its first beat."
+    }
+  },
+  "l04-056": {
+    "sentence": {
+      "ja": "駅[えき]の前[まえ]に{警察官[けいさつかん]}がいます。",
+      "en": "There's a police officer in front of the station.",
+      "breakdown": [
+        {
+          "text": "駅",
+          "en": "station"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "前",
+          "en": "front"
+        },
+        {
+          "text": "に",
+          "en": "at (a place)"
+        },
+        {
+          "text": "警察官",
+          "en": "police officer"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "います",
+          "en": "there is (a person)",
+          "base": "いる",
+          "baseEn": "to be (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "case + satsu(ma) + can",
+      "story": "A **police officer** opens an evidence *case* and finds a *satsuma* jammed inside a soda *can*: very suspicious. Keisatsu-kan: police officer."
+    }
+  },
+  "l04-057": {
+    "sentence": {
+      "ja": "私[わたし]は{歌手[かしゅ]}になりたいです。",
+      "en": "I want to become a singer.",
+      "breakdown": [
+        {
+          "text": "私",
+          "en": "I"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "歌手",
+          "en": "singer"
+        },
+        {
+          "text": "に",
+          "en": "into (what you become)"
+        },
+        {
+          "text": "なりたいです",
+          "en": "want to become",
+          "base": "なる",
+          "baseEn": "to become"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cashew",
+      "story": "A **singer** gargles a handful of salted *cashews* before every show, and her high note comes out rich and buttery. Kashu: singer."
+    }
+  },
+  "l04-058": {
+    "sentence": {
+      "ja": "好[す]きな{作家[さっか]}はだれですか。",
+      "en": "Who's your favorite writer?",
+      "breakdown": [
+        {
+          "text": "好きな",
+          "en": "favorite (that you like)",
+          "base": "好[す]き",
+          "baseEn": "liked, fond of"
+        },
+        {
+          "text": "作家",
+          "en": "writer"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "だれ",
+          "en": "who"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "soccer (short)",
+      "story": "A **writer** kicks a *soccer* ball against her study wall, thud, thud, until the next line comes. Keep it short, sakka, for writer; stretch the end, sakkā, and it's soccer."
+    }
+  },
+  "l04-059": {
+    "sentence": {
+      "ja": "姉[あね]は東京[とうきょう]の病院[びょういん]で{働[はたら]いています}。",
+      "en": "My older sister works at a hospital in Tokyo.",
+      "breakdown": [
+        {
+          "text": "姉",
+          "en": "my older sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "東京",
+          "en": "Tokyo"
+        },
+        {
+          "text": "の",
+          "en": "of, in"
+        },
+        {
+          "text": "病院",
+          "en": "hospital"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "働いています",
+          "en": "works, is working",
+          "base": "働[はたら]く",
+          "baseEn": "to work"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hot tar rake",
+      "story": "You **work** all day on a road crew, dragging a *hot tar rake* through steaming black goo that sticks to your boots. Hatarak-u: to work."
+    }
+  }
+}

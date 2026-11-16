@@ -1,0 +1,1865 @@
+{
+  "l05-001": {
+    "sentence": {
+      "ja": "{これ}は私[わたし]のスマホです。",
+      "en": "This is my smartphone.",
+      "breakdown": [
+        {
+          "text": "これ",
+          "en": "this one"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "'s (私の: my)"
+        },
+        {
+          "text": "スマホ",
+          "en": "smartphone"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "core, eh",
+      "story": "You hold an apple *core, eh*, right under your own nose: **this one**, the one by me. Ko- words sit by the speaker. Kore: this one."
+    }
+  },
+  "l05-002": {
+    "sentence": {
+      "ja": "{それ}はだれの本[ほん]ですか。",
+      "en": "Whose book is that?",
+      "breakdown": [
+        {
+          "text": "それ",
+          "en": "that one (near you)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "だれ",
+          "en": "who"
+        },
+        {
+          "text": "の",
+          "en": "'s (だれの: whose)"
+        },
+        {
+          "text": "本",
+          "en": "book"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sore, eh",
+      "story": "Your friend winces and you point at their *sore* knee, *eh*? **That one**, the one near them. So- words sit by the listener. Sore: that one."
+    }
+  },
+  "l05-003": {
+    "sentence": {
+      "ja": "{あれ}は何[なん]ですか。",
+      "en": "What's that over there?",
+      "breakdown": [
+        {
+          "text": "あれ",
+          "en": "that one (over there)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "何",
+          "en": "what"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ah, ray",
+      "story": "\"*Ah, a ray!*\" A manta glides far out past both of you, and you point: **that one over there**. A- words are far from everyone. Are: that one over there."
+    }
+  },
+  "l05-004": {
+    "sentence": {
+      "ja": "田中[たなか]さんのかばんは{どれ}ですか。",
+      "en": "Which one is your bag, Tanaka-san?",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka (here: you)"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "かばん",
+          "en": "bag"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "どれ",
+          "en": "which one"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "do, re",
+      "story": "A choir sings \"*do, re*...\" and stops dead, staring at the sheet music: **which one** comes next? Do- words ask. Dore: which one."
+    }
+  },
+  "l05-005": {
+    "sentence": {
+      "ja": "{この}自転車[じてんしゃ]はケンさんのです。",
+      "en": "This bicycle is Ken's.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "自転車",
+          "en": "bicycle"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "の",
+          "en": "'s (one)"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cone, oh",
+      "story": "You lick the ice cream *cone* in your own hand, \"*oh*!\": **this** cone, mine. Ko- is by the speaker, and -no always needs a noun after it. Kono: this ..."
+    }
+  },
+  "l05-006": {
+    "sentence": {
+      "ja": "{その}帽子[ぼうし]はケンさんのですか。",
+      "en": "Is that hat Ken's?",
+      "breakdown": [
+        {
+          "text": "その",
+          "en": "that (near you)"
+        },
+        {
+          "text": "帽子",
+          "en": "hat"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "の",
+          "en": "'s (one)"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sonar",
+      "story": "Your friend's *sonar* screen pings, and you tap the blip on their side of the desk: **that** whale. So- is by the listener; -no needs a noun. Sono: that ..."
+    }
+  },
+  "l05-007": {
+    "sentence": {
+      "ja": "{あの}人[ひと]はケンさんのお父[とう]さんです。",
+      "en": "That man over there is Ken's father.",
+      "breakdown": [
+        {
+          "text": "あの",
+          "en": "that (over there)"
+        },
+        {
+          "text": "人",
+          "en": "person"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "お父さん",
+          "en": "father"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ah, no",
+      "story": "\"*Ah, no!*\" **That** seagull **over there** is flapping off with your sandwich. A- is far from both of you; -no needs a noun. Ano: that ... over there."
+    }
+  },
+  "l05-008": {
+    "sentence": {
+      "ja": "すみません、{どの}ノートですか。",
+      "en": "Sorry, which notebook?",
+      "breakdown": [
+        {
+          "text": "すみません",
+          "en": "sorry; excuse me"
+        },
+        {
+          "text": "どの",
+          "en": "which"
+        },
+        {
+          "text": "ノート",
+          "en": "notebook"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "doughnut",
+      "story": "A tray of sticky *doughnuts* sits in front of you and your hand hovers: **which** doughnut? Do- asks, -no needs a noun. Dono: which ..."
+    }
+  },
+  "l05-009": {
+    "sentence": {
+      "ja": "この店[みせ]には面白[おもしろ]い{物[もの]}がたくさんあります。",
+      "en": "This shop has lots of interesting things.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "店",
+          "en": "shop"
+        },
+        {
+          "text": "に",
+          "en": "in (a place)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "面白い",
+          "en": "interesting"
+        },
+        {
+          "text": "物",
+          "en": "things"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "たくさん",
+          "en": "a lot"
+        },
+        {
+          "text": "あります",
+          "en": "there are",
+          "base": "ある",
+          "baseEn": "to be (of things), to have"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "moan, oh",
+      "story": "Someone keeps stacking **things** into your arms: a lamp, a kettle, one boot. You *moan*, '*Oh*, no more,' as the tower wobbles under your chin. Mono: thing."
+    }
+  },
+  "l05-010": {
+    "sentence": {
+      "ja": "その{かばん}は高[たか]いですね。",
+      "en": "That bag is expensive, isn't it?",
+      "breakdown": [
+        {
+          "text": "その",
+          "en": "that (near you)"
+        },
+        {
+          "text": "かばん",
+          "en": "bag"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "高いです",
+          "en": "is expensive",
+          "base": "高[たか]い",
+          "baseEn": "expensive; high"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it?"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cabana",
+      "story": "You stuff a whole beach *cabana*, poles, canvas and all, into your **bag** and force the zip shut. Kaban: bag."
+    }
+  },
+  "l05-011": {
+    "sentence": {
+      "ja": "これはお父[とう]さんの{財布[さいふ]}ですか。",
+      "en": "Is this your father's wallet?",
+      "breakdown": [
+        {
+          "text": "これ",
+          "en": "this"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "お父さん",
+          "en": "(your) father"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "財布",
+          "en": "wallet"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sci-fi",
+      "story": "You flip open your **wallet** and it's pure *sci-fi*: lights blink, it beeps, and your last coin hovers in mid-air. Saifu: wallet."
+    }
+  },
+  "l05-012": {
+    "sentence": {
+      "ja": "それは山田[やまだ]さんの{スマホ}ですよ。",
+      "en": "That's Yamada-san's phone.",
+      "breakdown": [
+        {
+          "text": "それ",
+          "en": "that one (near you)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "スマホ",
+          "en": "smartphone"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "よ",
+          "en": "you know (pointing it out)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "smartphone",
+      "story": "*Smartphone* is chopped to two beats of each half: su-ma from smart, ho from phone, with the f softened to h. Sumaho: **smartphone**."
+    }
+  },
+  "l05-013": {
+    "sentence": {
+      "ja": "ケンさんの{時計[とけい]}は日本[にほん]のですか。",
+      "en": "Is your watch Japanese, Ken?",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken (here: you)"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "時計",
+          "en": "watch"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "の",
+          "en": "one from"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "toe, 'kay",
+      "story": "You strap a **watch** around your big *toe*, and it ticks against the floorboards. \"*'Kay*, five more minutes.\" Tokei: watch; also clock."
+    }
+  },
+  "l05-014": {
+    "sentence": {
+      "ja": "今日[きょう]は{傘[かさ]}を持[も]って出[で]かけます。",
+      "en": "I'm taking an umbrella when I go out today.",
+      "breakdown": [
+        {
+          "text": "今日",
+          "en": "today"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "傘",
+          "en": "umbrella"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "持って",
+          "en": "holding, taking",
+          "base": "持[も]つ",
+          "baseEn": "to hold, to carry"
+        },
+        {
+          "text": "出かけます",
+          "en": "go out",
+          "base": "出[で]かける",
+          "baseEn": "to go out"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "casa",
+      "story": "Your **umbrella** is a tiny *casa*, a house on a stick, with rain drumming on its roof. Kasa: umbrella."
+    }
+  },
+  "l05-015": {
+    "sentence": {
+      "ja": "新[あたら]しい{眼鏡[めがね]}を買[か]いました。",
+      "en": "I bought new glasses.",
+      "breakdown": [
+        {
+          "text": "新しい",
+          "en": "new"
+        },
+        {
+          "text": "眼鏡",
+          "en": "glasses"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mega net",
+      "story": "Your new **glasses** are so huge they work like a *mega net*, scooping moths out of the air as you walk down the street. Me-ga-ne: glasses."
+    }
+  },
+  "l05-016": {
+    "sentence": {
+      "ja": "これは日本語[にほんご]の{本[ほん]}です。",
+      "en": "This is a book in Japanese.",
+      "breakdown": [
+        {
+          "text": "これ",
+          "en": "this one"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "日本語",
+          "en": "Japanese language"
+        },
+        {
+          "text": "の",
+          "en": "in (a language)"
+        },
+        {
+          "text": "本",
+          "en": "book"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hone",
+      "story": "You *hone* a kitchen knife on the spine of a fat **book**, shhk, shhk, paper dust drifting up. Hon: book."
+    }
+  },
+  "l05-017": {
+    "sentence": {
+      "ja": "この{ノート}はさくらさんのですか。",
+      "en": "Is this notebook Sakura's?",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "ノート",
+          "en": "notebook"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "の",
+          "en": "'s (one)"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "note",
+      "story": "*Note* becomes nō-to with a long o, but it means a **notebook**, not a scribbled note."
+    }
+  },
+  "l05-018": {
+    "sentence": {
+      "ja": "この{ペン}は私[わたし]のじゃないです。",
+      "en": "This pen isn't mine.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "ペン",
+          "en": "pen"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "'s (私の: mine)"
+        },
+        {
+          "text": "じゃないです",
+          "en": "isn't"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "pen",
+      "story": "*Pen* stays pen, one short beat with a crisp n at the end. **Pen**."
+    }
+  },
+  "l05-019": {
+    "sentence": {
+      "ja": "それは私[わたし]の{鉛筆[えんぴつ]}じゃないです。",
+      "en": "That's not my pencil.",
+      "breakdown": [
+        {
+          "text": "それ",
+          "en": "that one (near you)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "'s (私の: my)"
+        },
+        {
+          "text": "鉛筆",
+          "en": "pencil"
+        },
+        {
+          "text": "じゃないです",
+          "en": "isn't"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hen pits",
+      "story": "A *hen* scratches *pits* in the dirt with a **pencil** gripped in her beak, slowly writing her own name. En-pitsu: pencil."
+    }
+  },
+  "l05-020": {
+    "sentence": {
+      "ja": "これはケンさんの{消[け]しゴム}ですか。",
+      "en": "Is this Ken's eraser?",
+      "breakdown": [
+        {
+          "text": "これ",
+          "en": "this one"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "消しゴム",
+          "en": "eraser"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "keshi (rub out) + gomu (gum)",
+      "story": "You scrub a wrong *cash* sum off your page with a wad of pink *gum*: an **eraser**. Keshi is rubbing out; gomu, rubber, comes from Dutch gom. Keshi-gomu: eraser."
+    }
+  },
+  "l05-021": {
+    "sentence": {
+      "ja": "これは今日[きょう]の{新聞[しんぶん]}ですか。",
+      "en": "Is this today's paper?",
+      "breakdown": [
+        {
+          "text": "これ",
+          "en": "this"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "今日",
+          "en": "today"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "新聞",
+          "en": "newspaper"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shin + boon",
+      "story": "A rolled-up **newspaper** sails off the delivery bike and smacks your *shin*: *boon*! Shin-bun: newspaper."
+    }
+  },
+  "l05-022": {
+    "sentence": {
+      "ja": "図書館[としょかん]で{雑誌[ざっし]}を読[よ]みます。",
+      "en": "I read magazines at the library.",
+      "breakdown": [
+        {
+          "text": "図書館",
+          "en": "library"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "雑誌",
+          "en": "magazines"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "読みます",
+          "en": "read",
+          "base": "読[よ]む",
+          "baseEn": "to read"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "czar sheet",
+      "story": "A *czar* in a fur hat tears a glossy **magazine** into single *sheets* and papers his throne room with them, page by crinkling page. Zasshi: magazine."
+    }
+  },
+  "l05-023": {
+    "sentence": {
+      "ja": "母[はは]に{手紙[てがみ]}を書[か]きました。",
+      "en": "I wrote a letter to my mother.",
+      "breakdown": [
+        {
+          "text": "母",
+          "en": "(my) mother"
+        },
+        {
+          "text": "に",
+          "en": "to (a person)"
+        },
+        {
+          "text": "手紙",
+          "en": "letter"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "書きました",
+          "en": "wrote",
+          "base": "書[か]く",
+          "baseEn": "to write"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "te (hand) + gummy",
+      "story": "Te is hand. A hand-written **letter** arrives sealed with a *gummy* bear instead of wax, and you peel it off with sticky fingers. Te-gami: letter."
+    }
+  },
+  "l05-024": {
+    "sentence": {
+      "ja": "机[つくえ]の上[うえ]に犬[いぬ]の{写真[しゃしん]}があります。",
+      "en": "There's a photo of a dog on the desk.",
+      "breakdown": [
+        {
+          "text": "机",
+          "en": "desk"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "上",
+          "en": "top"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "犬",
+          "en": "dog"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "写真",
+          "en": "photo"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shah + shin",
+      "story": "A *shah* in a jewelled robe poses for a **photograph**, steps back for the flash and cracks his *shin* on the throne. Click. Sha-shin: photograph, picture."
+    }
+  },
+  "l05-025": {
+    "sentence": {
+      "ja": "旅行[りょこう]に{カメラ}を持[も]っていきます。",
+      "en": "I'm taking my camera on the trip.",
+      "breakdown": [
+        {
+          "text": "旅行",
+          "en": "trip"
+        },
+        {
+          "text": "に",
+          "en": "on (the trip)"
+        },
+        {
+          "text": "カメラ",
+          "en": "camera"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "持っていきます",
+          "en": "will take (along)",
+          "base": "持[も]っていく",
+          "baseEn": "to take (a thing)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "camera",
+      "story": "*Camera* keeps all three beats, ka-me-ra, with clean ah and eh vowels where English swallows the middle. **Camera**."
+    }
+  },
+  "l05-026": {
+    "sentence": {
+      "ja": "公園[こうえん]に{花[はな]}がたくさんあります。",
+      "en": "There are lots of flowers in the park.",
+      "breakdown": [
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "花",
+          "en": "flowers"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "たくさん",
+          "en": "lots, many"
+        },
+        {
+          "text": "あります",
+          "en": "there are",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ha! nah!",
+      "story": "You lean in to sniff a **flower**, a bee shoots out of it, and you leap back laughing \"*Ha! Nah!*\" Hana: flower."
+    }
+  },
+  "l05-027": {
+    "sentence": {
+      "ja": "母[はは]の誕生日[たんじょうび]に{プレゼント}を買[か]いました。",
+      "en": "I bought a present for my mother's birthday.",
+      "breakdown": [
+        {
+          "text": "母",
+          "en": "my mother"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "誕生日",
+          "en": "birthday"
+        },
+        {
+          "text": "に",
+          "en": "for (an occasion)"
+        },
+        {
+          "text": "プレゼント",
+          "en": "present"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "present",
+      "story": "*Present* becomes pu-re-zen-to: a u slips in after the p, the s buzzes into a z, and a soft o closes it off. Only the gift kind of **present**."
+    }
+  },
+  "l05-028": {
+    "sentence": {
+      "ja": "電車[でんしゃ]に{荷物[にもつ]}を忘[わす]れました。",
+      "en": "I left my luggage on the train.",
+      "breakdown": [
+        {
+          "text": "電車",
+          "en": "train"
+        },
+        {
+          "text": "に",
+          "en": "on (where it was left)"
+        },
+        {
+          "text": "荷物",
+          "en": "luggage, baggage"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "忘れました",
+          "en": "left behind",
+          "base": "忘[わす]れる",
+          "baseEn": "to forget, to leave behind"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Nemo's",
+      "story": "Captain *Nemo's* crew hauls your **baggage** down into the submarine, suitcase after dripping suitcase, until the hatch won't close. Nimotsu: baggage."
+    }
+  },
+  "l05-029": {
+    "sentence": {
+      "ja": "{服[ふく]}を買[か]いすぎました。",
+      "en": "I bought too many clothes.",
+      "breakdown": [
+        {
+          "text": "服",
+          "en": "clothes"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いすぎました",
+          "en": "bought too many",
+          "base": "買[か]いすぎる",
+          "baseEn": "to buy too much"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "phoo + coo",
+      "story": "You blow *phoo* at the dust on a pile of old **clothes**, and a pigeon nesting in a sleeve answers *coo*. Fuku: clothes."
+    }
+  },
+  "l05-030": {
+    "sentence": {
+      "ja": "それは私[わたし]の{靴[くつ]}じゃないです。",
+      "en": "Those aren't my shoes.",
+      "breakdown": [
+        {
+          "text": "それ",
+          "en": "those (near you)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "'s (私の: my)"
+        },
+        {
+          "text": "靴",
+          "en": "shoes"
+        },
+        {
+          "text": "じゃないです",
+          "en": "aren't"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "coots",
+      "story": "Two black *coots* have built a nest in your **shoes**, and they peck your toes when you try to put them on. Kutsu: shoes."
+    }
+  },
+  "l05-031": {
+    "sentence": {
+      "ja": "あれは田中[たなか]さんの{帽子[ぼうし]}ですよ。",
+      "en": "That over there is Tanaka-san's hat.",
+      "breakdown": [
+        {
+          "text": "あれ",
+          "en": "that one (over there)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "帽子",
+          "en": "hat"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "よ",
+          "en": "you know (pointing it out)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "bow, she",
+      "story": "A giant pink *bow* sits on her **hat**, so wide that *she* turns sideways to get through every door. Bōshi: hat; also cap."
+    }
+  },
+  "l05-032": {
+    "sentence": {
+      "ja": "この{ジーンズ}はアメリカのですよ。",
+      "en": "These jeans are from America.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "these"
+        },
+        {
+          "text": "ジーンズ",
+          "en": "jeans"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "アメリカ",
+          "en": "America"
+        },
+        {
+          "text": "の",
+          "en": "one(s) from"
+        },
+        {
+          "text": "です",
+          "en": "are"
+        },
+        {
+          "text": "よ",
+          "en": "you know (pointing it out)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "jeans",
+      "story": "*Jeans* becomes jī-n-zu: a long jī, then a soft zu at the end. **Jeans**. The same pair returns as the keyword for jin, person, as in nihonjin."
+    }
+  },
+  "l05-033": {
+    "say": "ティーシャツ",
+    "sentence": {
+      "ja": "この{Tシャツ}も千円[せんえん]ですか。",
+      "en": "Is this T-shirt 1,000 yen too?",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "Tシャツ",
+          "en": "T-shirt"
+        },
+        {
+          "text": "も",
+          "en": "also, too"
+        },
+        {
+          "text": "千円",
+          "en": "1,000 yen"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "T-shirt",
+      "story": "*T-shirt* becomes tī-sha-tsu: the letter T stretches into tī, and shirt loses its r and gains a soft tsu. **T-shirt**."
+    }
+  },
+  "l05-034": {
+    "sentence": {
+      "ja": "寒[さむ]いですから、{手袋[てぶくろ]}をしてください。",
+      "en": "It's cold, so put your gloves on.",
+      "breakdown": [
+        {
+          "text": "寒いです",
+          "en": "it's cold",
+          "base": "寒[さむ]い",
+          "baseEn": "cold (weather)"
+        },
+        {
+          "text": "から",
+          "en": "so"
+        },
+        {
+          "text": "手袋",
+          "en": "gloves"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "してください",
+          "en": "please put on",
+          "base": "する",
+          "baseEn": "to do; to wear (gloves)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "te (hand) + boo crow",
+      "story": "Te is hand. A *crow* snatches one of your **gloves** off the fence and you wave the bare hand at it, shouting \"*Boo!*\", until it drops the glove in the snow. Te-bukuro: gloves."
+    }
+  },
+  "l05-035": {
+    "sentence": {
+      "ja": "姉[あね]はジーンズを{はいています}。",
+      "en": "My older sister is wearing jeans.",
+      "breakdown": [
+        {
+          "text": "姉",
+          "en": "my older sister"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "ジーンズ",
+          "en": "jeans"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "はいています",
+          "en": "is wearing (below the waist)",
+          "base": "はく",
+          "baseEn": "to put on (below the waist)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hack",
+      "story": "You *hack* the legs off your old jeans with kitchen scissors, then **put on** the shorts and wiggle into them. Hak-u: to put on below the waist: trousers, skirts, socks, shoes."
+    }
+  },
+  "l05-036": {
+    "sentence": {
+      "ja": "弟[おとうと]は帽子[ぼうし]を{かぶっています}。",
+      "en": "My younger brother is wearing a hat.",
+      "breakdown": [
+        {
+          "text": "弟",
+          "en": "my younger brother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "帽子",
+          "en": "hat"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "かぶっています",
+          "en": "is wearing (on the head)",
+          "base": "かぶる",
+          "baseEn": "to put on (a hat)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cab + roo",
+      "story": "In the back seat of a *cab*, a kanga*roo* **puts on a hat**, tugging the top hat down until its ears pop through two holes. Kabu-ru: to put on (a hat)."
+    }
+  },
+  "l05-037": {
+    "sentence": {
+      "ja": "山田[やまだ]さんは着物[きもの]を{着[き]ています}。",
+      "en": "Yamada-san is wearing a kimono.",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "着物",
+          "en": "kimono"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "着ています",
+          "en": "is wearing",
+          "base": "着[き]る",
+          "baseEn": "to put on (above the waist)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "key",
+      "story": "You **put on** a stiff tin jacket, and a friend winds it up with a big *key* in the back until you march like a toy soldier. Ki-ru: to put on (above the waist)."
+    }
+  },
+  "l05-038": {
+    "sentence": {
+      "ja": "町[まち]で{買[か]い物[もの]}をしました。",
+      "en": "I went shopping in town.",
+      "breakdown": [
+        {
+          "text": "町",
+          "en": "town"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "買い物",
+          "en": "shopping"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "しました",
+          "en": "did (went)",
+          "base": "する",
+          "baseEn": "to do"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kite + mono(rail)",
+      "story": "You go **shopping** with a *kite* tied to your wrist, and a gust drags you onto the *monorail*, bags swinging. Kai-mono: shopping, literally buy-things."
+    }
+  },
+  "l05-039": {
+    "sentence": {
+      "ja": "財布[さいふ]に{お金[かね]}がありません。",
+      "en": "There's no money in my wallet.",
+      "breakdown": [
+        {
+          "text": "財布",
+          "en": "wallet"
+        },
+        {
+          "text": "に",
+          "en": "in (where it is)"
+        },
+        {
+          "text": "お金",
+          "en": "money"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "ありません",
+          "en": "there isn't",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "oh, Connie",
+      "story": "Your friend Connie turns out her pockets and **money** pours out, coins clinking and rolling under the sofa. \"*Oh, Connie!*\" O-kane: money; the o is the polite prefix."
+    }
+  },
+  "l05-040": {
+    "say": "えん",
+    "sentence": {
+      "ja": "この新聞[しんぶん]は百五十[ひゃくごじゅう]{円[えん]}です。",
+      "en": "This newspaper is 150 yen.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "新聞",
+          "en": "newspaper"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "百五十円",
+          "en": "150 yen"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yen",
+      "story": "English *yen* comes from this word, but Japanese drops the y: en, like the clink of one coin. It sits after the number: hyaku-en, 100 **yen**. -En: yen."
+    }
+  },
+  "l05-041": {
+    "sentence": {
+      "ja": "すみません、このりんごは{いくら}ですか。",
+      "en": "Excuse me, how much are these apples?",
+      "breakdown": [
+        {
+          "text": "すみません",
+          "en": "excuse me"
+        },
+        {
+          "text": "この",
+          "en": "this, these"
+        },
+        {
+          "text": "りんご",
+          "en": "apples"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "いくら",
+          "en": "how much"
+        },
+        {
+          "text": "です",
+          "en": "is, are"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eek, cooler",
+      "story": "\"*Eek!* **How much** is that *cooler*?\" You drop the price tag of the plastic camping box like it burned you. Ikura: how much."
+    }
+  },
+  "l05-042": {
+    "sentence": {
+      "ja": "わあ、この自転車[じてんしゃ]は{高[たか]い}ですね。",
+      "en": "Wow, this bicycle is expensive.",
+      "breakdown": [
+        {
+          "text": "わあ",
+          "en": "wow"
+        },
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "自転車",
+          "en": "bicycle"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "高いです",
+          "en": "is expensive",
+          "base": "高[たか]い",
+          "baseEn": "expensive; high"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it?"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tacky",
+      "story": "A *tacky* gold sneaker sits under a spotlight, its price tag dangling: wildly **expensive**, and on the top shelf too. Taka-i: expensive; also high."
+    }
+  },
+  "l05-043": {
+    "sentence": {
+      "ja": "この傘[かさ]は{安[やす]い}です。",
+      "en": "This umbrella is cheap.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "傘",
+          "en": "umbrella"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "安いです",
+          "en": "is cheap",
+          "base": "安[やす]い",
+          "baseEn": "inexpensive; cheap"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yah, sweet!",
+      "story": "The price tag says one hundred yen and you slap the counter: \"*Yah, sweet!*\" Something **inexpensive** earns that cheer. Yasu-i: cheap. Yasumi, holiday, is the one that shouts \"yes, me\"."
+    }
+  },
+  "l05-044": {
+    "sentence": {
+      "ja": "コンビニで水[みず]を{買[か]いました}。",
+      "en": "I bought water at the convenience store.",
+      "breakdown": [
+        {
+          "text": "コンビニ",
+          "en": "convenience store"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "水",
+          "en": "water"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cow",
+      "story": "You **buy** a *cow* at the market and lead it home through the crowd, its bell clanking at every step. Ka-u: to buy."
+    }
+  },
+  "l05-045": {
+    "sentence": {
+      "ja": "ホテルのお金[かね]を{払[はら]いました}か。",
+      "en": "Did you pay for the hotel?",
+      "breakdown": [
+        {
+          "text": "ホテル",
+          "en": "hotel"
+        },
+        {
+          "text": "の",
+          "en": "for"
+        },
+        {
+          "text": "お金",
+          "en": "money"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "払いました",
+          "en": "paid",
+          "base": "払[はら]う",
+          "baseEn": "to pay"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hurrah",
+      "story": "You slap the last coins on the counter to **pay** off the debt and shout '*Hurrah*!' as the clerk counts them, clink, clink. Hara-u: to pay."
+    }
+  },
+  "l05-046": {
+    "sentence": {
+      "ja": "明日[あした]は傘[かさ]が{いらない}と思[おも]います。",
+      "en": "I don't think you'll need an umbrella tomorrow.",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "傘",
+          "en": "umbrella"
+        },
+        {
+          "text": "が",
+          "en": "marks what is needed"
+        },
+        {
+          "text": "いらない",
+          "en": "won't need",
+          "base": "いる",
+          "baseEn": "to need"
+        },
+        {
+          "text": "と",
+          "en": "marks what is thought"
+        },
+        {
+          "text": "思います",
+          "en": "think",
+          "base": "思[おも]う",
+          "baseEn": "to think"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ee, roo",
+      "story": "Arms overflowing, you **need** a pocket, so you yell \"*Ee, roo!*\" and a kangaroo bounds over and lends you its warm pouch. I-ru: to need, a u-verb (iranai), unlike iru, to be."
+    }
+  },
+  "l05-047": {
+    "sentence": {
+      "ja": "{いらっしゃいませ}、メニューをどうぞ。",
+      "en": "Welcome! Here's the menu.",
+      "breakdown": [
+        {
+          "text": "いらっしゃいませ",
+          "en": "welcome (to our store)"
+        },
+        {
+          "text": "メニュー",
+          "en": "menu"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "どうぞ",
+          "en": "here you are, please take"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "irasshai (come, honorific) + mase (polite please)",
+      "story": "Irasshai is a very polite \"come\", and mase makes it a request. *Ira's shy*, but behind the shop counter he has to bellow \"**Welcome**!\" at every customer. Irasshai-mase."
+    }
+  },
+  "l05-048": {
+    "sentence": {
+      "ja": "この靴[くつ]を{ください}。",
+      "en": "I'll take these shoes, please.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "these"
+        },
+        {
+          "text": "靴",
+          "en": "shoes"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "ください",
+          "en": "please give me",
+          "base": "くださる",
+          "baseEn": "to give (to me), polite"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "could I, sigh",
+      "story": "\"*Could I*...\" you begin at the bakery counter, then *sigh* and just point at the cake: **please give me** that. Kudasai: please give me."
+    }
+  },
+  "l05-049": {
+    "sentence": {
+      "ja": "とんかつを{お願[ねが]いします}。",
+      "en": "The pork cutlet, please.",
+      "breakdown": [
+        {
+          "text": "とんかつ",
+          "en": "pork cutlet"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "お願いします",
+          "en": "please (I would like)",
+          "base": "お願[ねが]いする",
+          "baseEn": "to ask for, to request"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "o + negai (wish) + shimasu (I do)",
+      "story": "Literally \"I make a wish.\" At the fair you hand the pony man a coin: \"*Oh, neigh, guy*, one ride, **please**.\" Onegai-shimasu: ..., please."
+    }
+  },
+  "l05-050": {
+    "say": "まい",
+    "sentence": {
+      "ja": "写真[しゃしん]を{二枚[にまい]}撮[と]りました。",
+      "en": "I took two photos.",
+      "breakdown": [
+        {
+          "text": "写真",
+          "en": "photos"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "二枚",
+          "en": "two (flat things)"
+        },
+        {
+          "text": "撮りました",
+          "en": "took",
+          "base": "撮[と]る",
+          "baseEn": "to take (a photo)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "number + mai (my)",
+      "story": "Add mai to a number to count **flat objects**: photos, tickets, shirts, sheets of paper. Hook it with *my*: two of my photos, ni-mai. No sound changes: ichi-mai, san-mai, yon-mai. Mai: counter for flat objects."
+    }
+  },
+  "l05-051": {
+    "sentence": {
+      "ja": "図書館[としょかん]に本[ほん]が{たくさん}あります。",
+      "en": "The library has lots of books.",
+      "breakdown": [
+        {
+          "text": "図書館",
+          "en": "library"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "本",
+          "en": "books"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "たくさん",
+          "en": "lots, many"
+        },
+        {
+          "text": "あります",
+          "en": "there are",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tack-san",
+      "story": "A jar tips and **a lot** of thumbtacks pour across the floor, ping, ping, ping, hundreds of them. You bow to the pile: \"*Tack-san*, so many of you.\" Takusan: many, a lot."
+    }
+  }
+}

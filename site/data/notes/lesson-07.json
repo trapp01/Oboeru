@@ -1,0 +1,2074 @@
+{
+  "l07-001": {
+    "sentence": {
+      "ja": "この{町[まち]}に大学[だいがく]があります。",
+      "en": "There's a university in this town.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "町",
+          "en": "town"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "大学",
+          "en": "university"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "match + ee",
+      "story": "You build a model **town** out of *match*sticks, roofs and all, and when one sparks you squeal \"*ee!*\" as the main street smokes. Machi: town, city."
+    }
+  },
+  "l07-002": {
+    "sentence": {
+      "ja": "ここはとても静[しず]かな{所[ところ]}ですね。",
+      "en": "This is a really quiet place, isn't it?",
+      "breakdown": [
+        {
+          "text": "ここ",
+          "en": "here; this place"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "静かな",
+          "en": "quiet",
+          "base": "静[しず]か",
+          "baseEn": "quiet"
+        },
+        {
+          "text": "所",
+          "en": "place"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "ね",
+          "en": "isn't it?"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "toco row",
+      "story": "Every toco toucan in the zoo squeezes onto one branch, a whole *toco row* of orange beaks clacking, because that branch is their favourite **place**. Tokoro: place."
+    }
+  },
+  "l07-003": {
+    "sentence": {
+      "ja": "{駅[えき]}の近[ちか]くに住[す]んでいます。",
+      "en": "I live near the station.",
+      "breakdown": [
+        {
+          "text": "駅",
+          "en": "station"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "近く",
+          "en": "near, the area near"
+        },
+        {
+          "text": "に",
+          "en": "in (where one lives)"
+        },
+        {
+          "text": "住んでいます",
+          "en": "live",
+          "base": "住[す]む",
+          "baseEn": "to live (in a place)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eh, key",
+      "story": "At the **station** you slap every pocket, \"*Eh? Key?*\", and find your house key jammed in the ticket slot while the gate beeps and the queue sighs. Eki: station."
+    }
+  },
+  "l07-004": {
+    "sentence": {
+      "ja": "あれは{銀行[ぎんこう]}じゃないですよ。",
+      "en": "That's not a bank over there, you know.",
+      "breakdown": [
+        {
+          "text": "あれ",
+          "en": "that one (over there)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "銀行",
+          "en": "bank"
+        },
+        {
+          "text": "じゃないです",
+          "en": "isn't"
+        },
+        {
+          "text": "よ",
+          "en": "you know (pointing it out)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "gin + coat",
+      "story": "At the **bank**, you slide a bottle of *gin* out of your *coat* and ask to deposit it; the teller sniffs the cork. Gin-kō: bank."
+    }
+  },
+  "l07-005": {
+    "sentence": {
+      "ja": "あれは{郵便局[ゆうびんきょく]}ですよ。",
+      "en": "That over there is the post office.",
+      "breakdown": [
+        {
+          "text": "あれ",
+          "en": "that one (over there)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "郵便局",
+          "en": "post office"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "よ",
+          "en": "you know (pointing it out)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "you bin + Kyoto",
+      "story": "*You bin* a postcard in the slot at the **post office**, and the clerk stamps it for *Kyoto*: thunk. Yū-bin-kyoku: post office."
+    }
+  },
+  "l07-006": {
+    "sentence": {
+      "ja": "{病院[びょういん]}はどこにありますか。",
+      "en": "Where is the hospital?",
+      "breakdown": [
+        {
+          "text": "病院",
+          "en": "hospital"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "どこ",
+          "en": "where"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "あります",
+          "en": "is (located)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "bee, yo + inn",
+      "story": "Stung on the nose, you yell \"*Bee! Yo!*\" all the way to the **hospital**, a cosy *inn* with bandages at the front desk. Byō-in: hospital. Keep byō one beat; biyōin is a hair salon."
+    }
+  },
+  "l07-007": {
+    "sentence": {
+      "ja": "ここは大学[だいがく]の{図書館[としょかん]}です。",
+      "en": "This is the university library.",
+      "breakdown": [
+        {
+          "text": "ここ",
+          "en": "here, this place"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "大学",
+          "en": "university"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "図書館",
+          "en": "library"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "toe show + can",
+      "story": "In the **library**, you put on a *toe show* with a soup *can* balanced on your bare foot, until the librarian hisses \"shh\". To-sho-kan: library."
+    }
+  },
+  "l07-008": {
+    "sentence": {
+      "ja": "朝[あさ]、{公園[こうえん]}でコーヒーを飲[の]みました。",
+      "en": "This morning I had coffee in the park.",
+      "breakdown": [
+        {
+          "text": "朝",
+          "en": "this morning"
+        },
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "コーヒー",
+          "en": "coffee"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "飲みました",
+          "en": "drank",
+          "base": "飲[の]む",
+          "baseEn": "to drink"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "coat + hen",
+      "story": "In the **park** you hang your *coat* on a low branch, and a *hen* waddles over to peck at the buttons. Kō-en: park."
+    }
+  },
+  "l07-009": {
+    "sentence": {
+      "ja": "{スーパー}で野菜[やさい]を買[か]いました。",
+      "en": "I bought vegetables at the supermarket.",
+      "breakdown": [
+        {
+          "text": "スーパー",
+          "en": "supermarket"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "野菜",
+          "en": "vegetables"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "supermarket",
+      "story": "Japanese keeps only the front of *supermarket*: sū-pā, the long ā swallowing the r. A sūpā is a **supermarket**, not a superhero."
+    }
+  },
+  "l07-010": {
+    "sentence": {
+      "ja": "あの{コンビニ}のコーヒーはおいしいですよ。",
+      "en": "The coffee at that convenience store is good.",
+      "breakdown": [
+        {
+          "text": "あの",
+          "en": "that (over there)"
+        },
+        {
+          "text": "コンビニ",
+          "en": "convenience store"
+        },
+        {
+          "text": "の",
+          "en": "at, from"
+        },
+        {
+          "text": "コーヒー",
+          "en": "coffee"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "おいしいです",
+          "en": "is good, is delicious",
+          "base": "おいしい",
+          "baseEn": "delicious"
+        },
+        {
+          "text": "よ",
+          "en": "you know (pointing it out)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "convenience (store)",
+      "story": "*Convenience* store is cut down to kon-bi-ni: the v turns into b and everything after the third beat is dropped. **Convenience store**."
+    }
+  },
+  "l07-011": {
+    "sentence": {
+      "ja": "{デパート}へ帽子[ぼうし]を買[か]いに行[い]きます。",
+      "en": "I'm going to the department store to buy a hat.",
+      "breakdown": [
+        {
+          "text": "デパート",
+          "en": "department store"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "帽子",
+          "en": "hat"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買い",
+          "en": "buy",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        },
+        {
+          "text": "に",
+          "en": "to (do something), for"
+        },
+        {
+          "text": "行きます",
+          "en": "go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "department (store)",
+      "story": "Japanese keeps the front of *department* and drops the rest: de-pā-to, the ar stretched into a long ā. It always means a **department store**, never a department of anything else."
+    }
+  },
+  "l07-012": {
+    "sentence": {
+      "ja": "{本屋[ほんや]}で雑誌[ざっし]を買[か]いました。",
+      "en": "I bought a magazine at the bookstore.",
+      "breakdown": [
+        {
+          "text": "本屋",
+          "en": "bookstore"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "雑誌",
+          "en": "magazine"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hon (book) + ya (shop)",
+      "story": "Hon is book; ya is a shop. At the **bookstore** the owner whoops \"*Yah!*\" like a cowboy every time a book sells. Hon-ya: bookstore."
+    }
+  },
+  "l07-013": {
+    "sentence": {
+      "ja": "昨日[きのう]、田中[たなか]さんと{レストラン}へ行[い]きました。",
+      "en": "Yesterday I went to a restaurant with Tanaka-san.",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "と",
+          "en": "with"
+        },
+        {
+          "text": "レストラン",
+          "en": "restaurant"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きました",
+          "en": "went",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "restaurant",
+      "story": "*Restaurant* shrinks to four beats, re-su-to-ran: the final t falls away and each r becomes a light tap. **Restaurant**."
+    }
+  },
+  "l07-014": {
+    "sentence": {
+      "ja": "明日[あした]、{カフェ}で勉強[べんきょう]しませんか。",
+      "en": "Want to study at a cafe tomorrow?",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "カフェ",
+          "en": "cafe"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "勉強しません",
+          "en": "don't study",
+          "base": "勉強[べんきょう]する",
+          "baseEn": "to study"
+        },
+        {
+          "text": "か",
+          "en": "question marker (an invitation)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "café",
+      "story": "*Café* stays close: ka-fe, one of the few words where Japanese keeps an f sound, written with a small ェ after フ. **Cafe**."
+    }
+  },
+  "l07-015": {
+    "sentence": {
+      "ja": "大学[だいがく]の{食堂[しょくどう]}で昼[ひる]ご飯[はん]を食[た]べます。",
+      "en": "I eat lunch at the university cafeteria.",
+      "breakdown": [
+        {
+          "text": "大学",
+          "en": "university"
+        },
+        {
+          "text": "の",
+          "en": "of (the university)"
+        },
+        {
+          "text": "食堂",
+          "en": "cafeteria"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "昼ご飯",
+          "en": "lunch"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "食べます",
+          "en": "eat",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shock + dough",
+      "story": "In the **cafeteria** line you get a static *shock* off the tray rail, then poke a lump of raw pizza *dough* someone left on the counter. Sho-ku-dō: cafeteria."
+    }
+  },
+  "l07-016": {
+    "sentence": {
+      "ja": "今[いま]、{ホテル}にいます。",
+      "en": "I'm at the hotel right now.",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "ホテル",
+          "en": "hotel"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "います",
+          "en": "am (here)",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hotel",
+      "story": "*Hotel* gets a vowel after its l, which becomes a tapped r: ho-te-ru, said \"hoh-teh-roo\". **Hotel**."
+    }
+  },
+  "l07-017": {
+    "sentence": {
+      "ja": "明日[あした]、{お寺[てら]}へ行[い]きませんか。",
+      "en": "Do you want to go to a temple tomorrow?",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "お寺",
+          "en": "temple"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きません",
+          "en": "don't (we) go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        },
+        {
+          "text": "か",
+          "en": "question marker (an invitation)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "o + terra (cotta)",
+      "story": "Polite o plus tera. At the **temple** gate you bump a *terra* cotta incense pot and it shatters with a clunk, grey ash everywhere. O-tera: temple."
+    }
+  },
+  "l07-018": {
+    "sentence": {
+      "ja": "この{神社[じんじゃ]}はとても古[ふる]いです。",
+      "en": "This shrine is very old.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "神社",
+          "en": "shrine"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "古いです",
+          "en": "is old",
+          "base": "古[ふる]い",
+          "baseEn": "old (of things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "jeans + jar",
+      "story": "At the **shrine** you empty your *jeans* pockets into a big wooden *jar* of offerings, coins clattering. Jin-ja is a Shinto shrine; a Buddhist temple is otera."
+    }
+  },
+  "l07-019": {
+    "sentence": {
+      "ja": "日曜日[にちようび]に{美術館[びじゅつかん]}に行[い]きませんか。",
+      "en": "Do you want to go to the art museum on Sunday?",
+      "breakdown": [
+        {
+          "text": "日曜日",
+          "en": "Sunday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "美術館",
+          "en": "art museum"
+        },
+        {
+          "text": "に",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きません",
+          "en": "won't (we) go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        },
+        {
+          "text": "か",
+          "en": "question marker (an invitation)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "bee juice can",
+      "story": "At the **art museum** a *bee* sips *juice* from a *can* balanced on a marble statue's head, buzzing past the guards. Bijutsu-kan: art museum; kan is the building, as in toshokan."
+    }
+  },
+  "l07-020": {
+    "sentence": {
+      "ja": "日曜日[にちようび]に{動物園[どうぶつえん]}へ行[い]きませんか。",
+      "en": "Do you want to go to the zoo on Sunday?",
+      "breakdown": [
+        {
+          "text": "日曜日",
+          "en": "Sunday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "動物園",
+          "en": "zoo"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きません",
+          "en": "don't go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "doe + boots + (p)en",
+      "story": "At the **zoo** a *doe* in yellow rain *boots* clomps around her *pen*, squelch, squelch, while the kids at the fence shriek with joy. Dō-butsu-en: zoo."
+    }
+  },
+  "l07-021": {
+    "sentence": {
+      "ja": "{トイレ}は二階[にかい]にあります。",
+      "en": "The toilet is on the second floor.",
+      "breakdown": [
+        {
+          "text": "トイレ",
+          "en": "toilet"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "二階",
+          "en": "second floor"
+        },
+        {
+          "text": "に",
+          "en": "on, at (a place)"
+        },
+        {
+          "text": "あります",
+          "en": "is (located)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "toilet",
+      "story": "*Toilet* becomes to-i-re: the final t falls off and the l turns into a flicked r. It means both the **toilet** and the **restroom**."
+    }
+  },
+  "l07-022": {
+    "sentence": {
+      "ja": "{入口[いりぐち]}に人[ひと]がたくさんいます。",
+      "en": "There are lots of people at the entrance.",
+      "breakdown": [
+        {
+          "text": "入口",
+          "en": "entrance"
+        },
+        {
+          "text": "に",
+          "en": "at (a place)"
+        },
+        {
+          "text": "人",
+          "en": "people"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "たくさん",
+          "en": "a lot, many"
+        },
+        {
+          "text": "います",
+          "en": "there are (people)",
+          "base": "いる",
+          "baseEn": "to be (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "iri (go in) + guchi (mouth)",
+      "story": "*Iri* is the go-in kanji of hairu, plus guchi, mouth: the mouth you go in by, the **entrance**. Where deguchi spits you out, iriguchi swallows you, gulp. Iri-guchi: entrance."
+    }
+  },
+  "l07-023": {
+    "sentence": {
+      "ja": "北[きた]の{出口[でぐち]}から出[で]てください。",
+      "en": "Please leave by the north exit.",
+      "breakdown": [
+        {
+          "text": "北",
+          "en": "north"
+        },
+        {
+          "text": "の",
+          "en": "'s, on the side of"
+        },
+        {
+          "text": "出口",
+          "en": "exit"
+        },
+        {
+          "text": "から",
+          "en": "from, by way of"
+        },
+        {
+          "text": "出てください",
+          "en": "please go out",
+          "base": "出[で]る",
+          "baseEn": "to go out, to leave"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "de (go out) + guchi (mouth)",
+      "story": "*De* from deru, to go out, plus kuchi, mouth, softened to guchi: the mouth you go out of, the **exit**. The station spits commuters out onto the street, ptoo. De-guchi: exit."
+    }
+  },
+  "l07-024": {
+    "sentence": {
+      "ja": "{ここ}は私[わたし]の大学[だいがく]です。",
+      "en": "This is my university.",
+      "breakdown": [
+        {
+          "text": "ここ",
+          "en": "here, this place"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "'s (私の: my)"
+        },
+        {
+          "text": "大学",
+          "en": "university"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cocoa",
+      "story": "Hot *cocoa* slops into your lap, right **here**, soaking warm through your jeans. Ko- is by the speaker. Koko: here."
+    }
+  },
+  "l07-025": {
+    "sentence": {
+      "ja": "メニューは{そこ}ですよ。",
+      "en": "The menu's right there, by you.",
+      "breakdown": [
+        {
+          "text": "メニュー",
+          "en": "menu"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "そこ",
+          "en": "there (near you)"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "よ",
+          "en": "you know (pointing it out)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sock, oh",
+      "story": "\"*Sock, oh*!\" Your friend's lost sock is right **there**, under their own foot. So- is by the listener. Soko: there."
+    }
+  },
+  "l07-026": {
+    "sentence": {
+      "ja": "郵便局[ゆうびんきょく]は{あそこ}です。",
+      "en": "The post office is over there.",
+      "breakdown": [
+        {
+          "text": "郵便局",
+          "en": "post office"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "あそこ",
+          "en": "over there"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a sock, oh",
+      "story": "\"*A sock, oh*!\" One sock flaps from the top of a flagpole **over there**, far from both of you. Unlike soko, it is out of reach. Asoko: over there."
+    }
+  },
+  "l07-027": {
+    "sentence": {
+      "ja": "田中[たなか]さんの大学[だいがく]は{どこ}ですか。",
+      "en": "Where is your university, Tanaka-san?",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka (here: you)"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "大学",
+          "en": "university"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "どこ",
+          "en": "where"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "doc, oh",
+      "story": "\"*Doc, oh* doc!\" You limp down the hospital corridor clutching your ankle: **where** is the doctor? Do- asks. Doko: where."
+    }
+  },
+  "l07-028": {
+    "sentence": {
+      "ja": "かばんは机[つくえ]の{上[うえ]}にあります。",
+      "en": "The bag is on the desk.",
+      "breakdown": [
+        {
+          "text": "かばん",
+          "en": "bag"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "机",
+          "en": "desk"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "上",
+          "en": "on (top)"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "あります",
+          "en": "is (located)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "way (up)",
+      "story": "Your cat sits **on** top of the wardrobe, *way* up by the ceiling, tail swishing. Say u-e fast and it is nearly \"way\". Ue: on, on top of."
+    }
+  },
+  "l07-029": {
+    "sentence": {
+      "ja": "傘[かさ]はいすの{下[した]}にあります。",
+      "en": "The umbrella is under the chair.",
+      "breakdown": [
+        {
+          "text": "傘",
+          "en": "umbrella"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "いす",
+          "en": "chair"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "下",
+          "en": "under"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "あります",
+          "en": "is (located)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shh + ta(-da)",
+      "story": "Your little sister hides **under** the bed, hissing \"*Shh!*\", then rolls out with a \"*ta-da!*\" Shita: under, below; ue is on top."
+    }
+  },
+  "l07-030": {
+    "sentence": {
+      "ja": "学校[がっこう]の{前[まえ]}にバス停[てい]があります。",
+      "en": "There's a bus stop in front of the school.",
+      "breakdown": [
+        {
+          "text": "学校",
+          "en": "school"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "前",
+          "en": "front"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "バス停",
+          "en": "bus stop"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ma, eh",
+      "story": "Your *ma* stands in **front** of the door, arms folded: \"*Eh?* Where were you?\" Mae: front, in front of."
+    }
+  },
+  "l07-031": {
+    "sentence": {
+      "ja": "私[わたし]の{後[うし]ろ}に猫[ねこ]がいます。",
+      "en": "There's a cat behind me.",
+      "breakdown": [
+        {
+          "text": "私",
+          "en": "I, me"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "後ろ",
+          "en": "back, behind"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "猫",
+          "en": "cat"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "います",
+          "en": "there is",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ooh, she rows",
+      "story": "\"*Ooh, she rows!*\" A rower sits facing the **back** of the boat, pulling hard while the shore slides away behind her. Ushiro: back, behind."
+    }
+  },
+  "l07-032": {
+    "sentence": {
+      "ja": "かばんの{中[なか]}に財布[さいふ]があります。",
+      "en": "My wallet is in my bag.",
+      "breakdown": [
+        {
+          "text": "かばん",
+          "en": "bag"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "中",
+          "en": "inside"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "財布",
+          "en": "wallet"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "knocker",
+      "story": "Someone bangs the brass door *knocker*, and **inside** the house you freeze under a blanket, pretending no one's home. Naka: inside."
+    }
+  },
+  "l07-033": {
+    "sentence": {
+      "ja": "本屋[ほんや]の{右[みぎ]}にカフェがあります。",
+      "en": "There's a cafe to the right of the bookstore.",
+      "breakdown": [
+        {
+          "text": "本屋",
+          "en": "bookstore"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "右",
+          "en": "right"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "カフェ",
+          "en": "cafe"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "me, gee",
+      "story": "Your **right** hand shoots up in class: \"*Me! Gee*, pick me!\" Migi: right. The right hand waves; the left one, hidari, hides."
+    }
+  },
+  "l07-034": {
+    "sentence": {
+      "ja": "病院[びょういん]の{左[ひだり]}にコンビニがあります。",
+      "en": "There's a convenience store to the left of the hospital.",
+      "breakdown": [
+        {
+          "text": "病院",
+          "en": "hospital"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "左",
+          "en": "left"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "コンビニ",
+          "en": "convenience store"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hid a ree(d)",
+      "story": "Behind your back, in your **left** hand, you *hid a reed* to whistle on when the teacher turns away. Hidari: left. Migi, right, is the hand you wave."
+    }
+  },
+  "l07-035": {
+    "sentence": {
+      "ja": "田中[たなか]さんは山田[やまだ]さんの{隣[となり]}にいます。",
+      "en": "Tanaka-san is next to Yamada-san.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "山田さん",
+          "en": "Mr./Ms. Yamada"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "隣",
+          "en": "next (to)"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "います",
+          "en": "is (there)",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "toenail",
+      "story": "Your feet sit side by side under the table, and you paint the *toenail* **next** to yours: wrong foot, your friend's. Tonari: next to."
+    }
+  },
+  "l07-036": {
+    "sentence": {
+      "ja": "家[いえ]の{近[ちか]く}にスーパーがあります。",
+      "en": "There's a supermarket near my house.",
+      "breakdown": [
+        {
+          "text": "家",
+          "en": "house, home"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "近く",
+          "en": "near, nearby"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "スーパー",
+          "en": "supermarket"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "chick-a-coo",
+      "story": "So close you could touch it, a fluffy *chick* goes \"*coo*\" in the grass **nearby**. Chikaku: near, nearby."
+    }
+  },
+  "l07-037": {
+    "sentence": {
+      "ja": "銀行[ぎんこう]と郵便局[ゆうびんきょく]の{間[あいだ]}に公園[こうえん]があります。",
+      "en": "There's a park between the bank and the post office.",
+      "breakdown": [
+        {
+          "text": "銀行",
+          "en": "bank"
+        },
+        {
+          "text": "と",
+          "en": "and"
+        },
+        {
+          "text": "郵便局",
+          "en": "post office"
+        },
+        {
+          "text": "の",
+          "en": "of"
+        },
+        {
+          "text": "間",
+          "en": "between"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eye-dah",
+      "story": "A bee hovers right **between** your *eyes*, and you go cross-eyed tracking it: \"*Eye... dah!*\" Aida: between; A to B no aida, between A and B."
+    }
+  },
+  "l07-038": {
+    "sentence": {
+      "ja": "日本[にほん]の{北[きた]}はとても寒[さむ]いです。",
+      "en": "The north of Japan is very cold.",
+      "breakdown": [
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "北",
+          "en": "north"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "とても",
+          "en": "very"
+        },
+        {
+          "text": "寒いです",
+          "en": "cold",
+          "base": "寒[さむ]い",
+          "baseEn": "cold (weather)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "keytar",
+      "story": "At the **North** Pole you play a *keytar* for an audience of polar bears, your fingertips sticking to the frozen keys. Kita: north."
+    }
+  },
+  "l07-039": {
+    "sentence": {
+      "ja": "{南[みなみ]}の海[うみ]で泳[およ]ぎましょう。",
+      "en": "Let's go swimming in the southern seas.",
+      "breakdown": [
+        {
+          "text": "南",
+          "en": "south"
+        },
+        {
+          "text": "の",
+          "en": "links the two nouns"
+        },
+        {
+          "text": "海",
+          "en": "sea"
+        },
+        {
+          "text": "で",
+          "en": "in (where it happens)"
+        },
+        {
+          "text": "泳ぎましょう",
+          "en": "let's swim",
+          "base": "泳[およ]ぐ",
+          "baseEn": "to swim"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Miami",
+      "story": "Head **south** to *Miami*, slip an n into the middle, and you get mi-na-mi. Hot sand squeaks under your sandals. Minami: south."
+    }
+  },
+  "l07-040": {
+    "sentence": {
+      "ja": "公園[こうえん]は図書館[としょかん]の{東[ひがし]}にあります。",
+      "en": "The park is east of the library.",
+      "breakdown": [
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "図書館",
+          "en": "library"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "東",
+          "en": "east"
+        },
+        {
+          "text": "に",
+          "en": "on (where it is)"
+        },
+        {
+          "text": "あります",
+          "en": "is (located)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hug a sheep",
+      "story": "At dawn you *hug a sheep* on the hilltop, both of you facing **east** as the sun comes up, its wool warm and smelling of grass. Higashi: east."
+    }
+  },
+  "l07-041": {
+    "sentence": {
+      "ja": "大学[だいがく]は町[まち]の{西[にし]}にあります。",
+      "en": "The university is on the west side of town.",
+      "breakdown": [
+        {
+          "text": "大学",
+          "en": "university"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "町",
+          "en": "town"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "西",
+          "en": "west"
+        },
+        {
+          "text": "に",
+          "en": "on (where it is)"
+        },
+        {
+          "text": "あります",
+          "en": "is (located)",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "knee sheet",
+      "story": "Facing **west** at sunset, you tuck a *sheet* over your *knees* on the porch, and the orange light glows through the cotton. Nishi: west."
+    }
+  },
+  "l07-042": {
+    "sentence": {
+      "ja": "学校[がっこう]にカフェが{あります}。",
+      "en": "There's a cafe at school.",
+      "breakdown": [
+        {
+          "text": "学校",
+          "en": "school"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "カフェ",
+          "en": "cafe"
+        },
+        {
+          "text": "が",
+          "en": "marks what exists"
+        },
+        {
+          "text": "あります",
+          "en": "there is",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a roo",
+      "story": "**There is** *a roo* on your bed: a stuffed kangaroo, button eyes, not breathing. A-ru is for things that can't move by themselves; living things use iru."
+    }
+  },
+  "l07-043": {
+    "sentence": {
+      "ja": "明日[あした]、銀行[ぎんこう]に{行[い]きます}。",
+      "en": "I'm going to the bank tomorrow.",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "銀行",
+          "en": "bank"
+        },
+        {
+          "text": "に",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きます",
+          "en": "am going",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eek",
+      "story": "A spider drops onto your shoulder, you shriek \"*Eek!*\", and you **go**: out the door, down the street, gone. Ik-u: to go."
+    }
+  },
+  "l07-044": {
+    "sentence": {
+      "ja": "田中[たなか]さんは日曜日[にちようび]に日本[にほん]へ{帰[かえ]ります}。",
+      "en": "Tanaka-san is going back to Japan on Sunday.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "日曜日",
+          "en": "Sunday"
+        },
+        {
+          "text": "に",
+          "en": "on (a day)"
+        },
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "帰ります",
+          "en": "goes back",
+          "base": "帰[かえ]る",
+          "baseEn": "to go back, to return"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "Cairo",
+      "story": "After a month in *Cairo* you **go back home** and shake desert sand out of your shoes onto your own doormat. Kae-ru: to return."
+    }
+  },
+  "l07-045": {
+    "sentence": {
+      "ja": "この店[みせ]に{入[はい]りましょう}。",
+      "en": "Let's go into this shop.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "店",
+          "en": "shop"
+        },
+        {
+          "text": "に",
+          "en": "into"
+        },
+        {
+          "text": "入りましょう",
+          "en": "let's enter",
+          "base": "入[はい]る",
+          "baseEn": "to enter"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hi, Lou",
+      "story": "\"*Hi, Lou!*\" you yell as you **enter** your friend's flat, shoving the door so hard the handle thuds into the wall. Hai-ru: to enter."
+    }
+  },
+  "l07-046": {
+    "sentence": {
+      "ja": "毎日[まいにち]駅[えき]まで{歩[ある]きます}。",
+      "en": "I walk to the station every day.",
+      "breakdown": [
+        {
+          "text": "毎日",
+          "en": "every day"
+        },
+        {
+          "text": "駅",
+          "en": "station"
+        },
+        {
+          "text": "まで",
+          "en": "as far as, to"
+        },
+        {
+          "text": "歩きます",
+          "en": "walk",
+          "base": "歩[ある]く",
+          "baseEn": "to walk"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "a rook",
+      "story": "*A rook* climbs off the chessboard and **walks** stiffly across the table, clunk, clunk, only ever in straight lines. Aru-ku: to walk."
+    }
+  },
+  "l07-047": {
+    "sentence": {
+      "ja": "毎朝[まいあさ]公園[こうえん]を{走[はし]ります}。",
+      "en": "I run in the park every morning.",
+      "breakdown": [
+        {
+          "text": "毎朝",
+          "en": "every morning"
+        },
+        {
+          "text": "公園",
+          "en": "park"
+        },
+        {
+          "text": "を",
+          "en": "through (the place you move in)"
+        },
+        {
+          "text": "走ります",
+          "en": "run",
+          "base": "走[はし]る",
+          "baseEn": "to run"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ha! she",
+      "story": "\"*Ha! She*'s fast!\" the crowd laughs as your grandma **runs** past you in the marathon, sneakers squeaking. Hashi-ru: to run."
+    }
+  },
+  "l07-048": {
+    "sentence": {
+      "ja": "明日[あした]、友達[ともだち]に{会[あ]います}。",
+      "en": "I'm meeting a friend tomorrow.",
+      "breakdown": [
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "友達",
+          "en": "friend"
+        },
+        {
+          "text": "に",
+          "en": "marks the person met"
+        },
+        {
+          "text": "会います",
+          "en": "meet, am meeting",
+          "base": "会[あ]う",
+          "baseEn": "to meet"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ow",
+      "story": "You **meet** an old friend at the station and they hug you so hard your ribs creak: \"*Ow!*\" A-u: to meet; the person you meet takes ni."
+    }
+  },
+  "l07-049": {
+    "sentence": {
+      "ja": "バス停[てい]で友達[ともだち]を{待[ま]ちました}。",
+      "en": "I waited for my friend at the bus stop.",
+      "breakdown": [
+        {
+          "text": "バス停",
+          "en": "bus stop"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "友達",
+          "en": "friend"
+        },
+        {
+          "text": "を",
+          "en": "marks the object (who)"
+        },
+        {
+          "text": "待ちました",
+          "en": "waited (for)",
+          "base": "待[ま]つ",
+          "baseEn": "to wait"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mats",
+      "story": "You **wait** in a line that never moves, shifting from foot to foot on soggy rubber *mats*. The same matsu as in shūmatsu. Ma-tsu: to wait."
+    }
+  },
+  "l07-050": {
+    "sentence": {
+      "ja": "今[いま]、図書館[としょかん]に田中[たなか]さんが{います}。",
+      "en": "Tanaka-san is at the library now.",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "図書館",
+          "en": "library"
+        },
+        {
+          "text": "に",
+          "en": "in / at (where it is)"
+        },
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "います",
+          "en": "is (there)",
+          "base": "いる",
+          "baseEn": "to be, to exist (people, animals)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eel",
+      "story": "Someone **is in** your bathtub: an *eel*, alive and wriggling, staring up at you. I-ru is for people and animals; the stuffed roo uses aru."
+    }
+  },
+  "l07-051": {
+    "sentence": {
+      "ja": "田中[たなか]さんはテレビに{出[で]ました}。",
+      "en": "Tanaka-san appeared on TV.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Mr./Ms. Tanaka"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "テレビ",
+          "en": "TV"
+        },
+        {
+          "text": "に",
+          "en": "on (where one appears)"
+        },
+        {
+          "text": "出ました",
+          "en": "appeared",
+          "base": "出[で]る",
+          "baseEn": "to appear; to exit"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "dare",
+      "story": "On a *dare*, you **appear** on live TV in a chicken suit, flap once, then waddle out through the studio door, clucking. De-ru: to appear, to attend; with を, to exit."
+    }
+  },
+  "l07-052": {
+    "sentence": {
+      "ja": "ケンさんは明日[あした]日本[にほん]に{来[き]ます}。",
+      "en": "Ken is coming to Japan tomorrow.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "明日",
+          "en": "tomorrow"
+        },
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "に",
+          "en": "to (a place)"
+        },
+        {
+          "text": "来ます",
+          "en": "comes",
+          "base": "来[く]る",
+          "baseEn": "to come"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cuckoo",
+      "story": "A *cuckoo* bursts out of the clock and **comes** flying straight at you, landing on your head with a soft \"koo\". Ku-ru: to come."
+    }
+  },
+  "l07-053": {
+    "sentence": {
+      "ja": "この道[みち]を{まっすぐ行[い]って}ください。",
+      "en": "Please go straight down this road.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "道",
+          "en": "road, street"
+        },
+        {
+          "text": "を",
+          "en": "along (a route)"
+        },
+        {
+          "text": "まっすぐ",
+          "en": "straight"
+        },
+        {
+          "text": "行ってください",
+          "en": "please go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "massugu (mass goo, straight) + iku (go)",
+      "story": "Massugu is straight; iku is to go. A *mass of goo* rolls down the road in a dead-straight line, and you **go straight** behind it, shoes sticking. Massugu iku."
+    }
+  },
+  "l07-054": {
+    "sentence": {
+      "ja": "郵便局[ゆうびんきょく]の前[まえ]で{右[みぎ]に曲[ま]がって}ください。",
+      "en": "Please turn right in front of the post office.",
+      "breakdown": [
+        {
+          "text": "郵便局",
+          "en": "post office"
+        },
+        {
+          "text": "の",
+          "en": "'s / of"
+        },
+        {
+          "text": "前",
+          "en": "front"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "右",
+          "en": "right"
+        },
+        {
+          "text": "に",
+          "en": "to (a direction)"
+        },
+        {
+          "text": "曲がってください",
+          "en": "please turn",
+          "base": "曲[ま]がる",
+          "baseEn": "to turn"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "migi (right) + ni + magaru (turn)",
+      "story": "Migi is right, and magaru is the *margarine* turn again. This time the greasy slick sends your bike skating round to the right: **turn right**. Migi ni magaru."
+    }
+  },
+  "l07-055": {
+    "sentence": {
+      "ja": "あそこを{左[ひだり]に曲[ま]がって}ください。",
+      "en": "Please turn left over there.",
+      "breakdown": [
+        {
+          "text": "あそこ",
+          "en": "over there"
+        },
+        {
+          "text": "を",
+          "en": "at (the place you turn)"
+        },
+        {
+          "text": "左",
+          "en": "left"
+        },
+        {
+          "text": "に",
+          "en": "to (a direction)"
+        },
+        {
+          "text": "曲がってください",
+          "en": "please turn",
+          "base": "曲[ま]がる",
+          "baseEn": "to turn"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hidari (left) + ni + magaru (margarine)",
+      "story": "Hidari is left; magaru is to turn. Your bike hits a slick of *margarine* on the road and slides round to the left: **turn left**. Hidari ni magaru."
+    }
+  },
+  "l07-056": {
+    "sentence": {
+      "ja": "ここで{道[みち]を渡[わた]って}はいけません。",
+      "en": "You mustn't cross the street here.",
+      "breakdown": [
+        {
+          "text": "ここ",
+          "en": "here"
+        },
+        {
+          "text": "で",
+          "en": "at (where it happens)"
+        },
+        {
+          "text": "道",
+          "en": "street"
+        },
+        {
+          "text": "を",
+          "en": "marks what you cross"
+        },
+        {
+          "text": "渡ってはいけません",
+          "en": "you mustn't cross",
+          "base": "渡[わた]る",
+          "baseEn": "to cross"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "michi (street) + o + wataru (water)",
+      "story": "Michi is street; wataru is to cross. The street is flooded with *water*, so you wade to **cross the street**, trousers rolled, cold water lapping at your knees. Michi o wata-ru."
+    }
+  }
+}

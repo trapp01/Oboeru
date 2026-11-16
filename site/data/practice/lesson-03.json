@@ -1,0 +1,511 @@
+{
+  "lesson": 3,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Say who the person is, with は and です.",
+      "kind": "typed",
+      "example": { "cue": "Ken · student", "answer": "ケンさんは学生[がくせい]です。" },
+      "items": [
+        {
+          "id": "l03-p001",
+          "cue": "Sakura · university student",
+          "answers": [
+            "さくらさんは大学生[だいがくせい]です。"
+          ],
+          "en": "Sakura is a university student.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "大学生", "en": "university student" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l03-p002",
+          "cue": "Ken · Canadian",
+          "answers": [
+            "ケンさんはカナダ人[じん]です。"
+          ],
+          "en": "Ken is Canadian.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "カナダ人", "en": "Canadian (person)" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l03-p003",
+          "cue": "Tanaka-san · office worker",
+          "answers": [
+            "田中[たなか]さんは会社員[かいしゃいん]です。"
+          ],
+          "en": "Tanaka-san is an office worker.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "会社員", "en": "office worker" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l03-p004",
+          "cue": "Yamada-sensei · Japanese teacher",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は日本語[にほんご]の先生[せんせい]です。"
+          ],
+          "en": "Yamada-sensei is a Japanese teacher.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "日本語", "en": "Japanese language" },
+            { "text": "の", "en": "of (what kind)" },
+            { "text": "先生", "en": "teacher" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l03-p005",
+          "cue": "Sakura · Ken's friend",
+          "answers": [
+            "さくらさんはケンさんの友達[ともだち]です。"
+          ],
+          "en": "Sakura is Ken's friend.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "の", "en": "'s" },
+            { "text": "友達", "en": "friend" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l03-p006",
+          "cue": "my father · doctor",
+          "answers": [
+            "(私[わたし]の)父[ちち]は医者[いしゃ]です。"
+          ],
+          "en": "My father is a doctor.",
+          "breakdown": [
+            { "text": "私", "en": "I" },
+            { "text": "の", "en": "'s (my)" },
+            { "text": "父", "en": "my father" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "医者", "en": "doctor" },
+            { "text": "です", "en": "is" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Say that the person is not what the cue says, ending in じゃないです.",
+      "kind": "typed",
+      "example": { "cue": "Sakura · not Canadian", "answer": "さくらさんはカナダ人[じん]じゃないです。" },
+      "items": [
+        {
+          "id": "l03-p007",
+          "cue": "Ken · not Japanese",
+          "answers": [
+            "ケンさんは日本人[にほんじん]じゃないです。"
+          ],
+          "en": "Ken isn't Japanese.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "日本人", "en": "Japanese (person)" },
+            { "text": "じゃないです", "en": "is not" }
+          ]
+        },
+        {
+          "id": "l03-p008",
+          "cue": "Tanaka-san · not a teacher",
+          "answers": [
+            "田中[たなか]さんは先生[せんせい]じゃないです。"
+          ],
+          "en": "Tanaka-san isn't a teacher.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "先生", "en": "teacher" },
+            { "text": "じゃないです", "en": "is not" }
+          ]
+        },
+        {
+          "id": "l03-p009",
+          "cue": "Sakura · not Ken's girlfriend",
+          "answers": [
+            "さくらさんはケンさんの彼女[かのじょ]じゃないです。"
+          ],
+          "en": "Sakura isn't Ken's girlfriend.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "の", "en": "'s" },
+            { "text": "彼女", "en": "girlfriend" },
+            { "text": "じゃないです", "en": "is not" }
+          ]
+        },
+        {
+          "id": "l03-p010",
+          "cue": "Tanaka-san · not 30",
+          "answers": [
+            "田中[たなか]さんは三十歳[さんじゅっさい]じゃないです。",
+            "田中[たなか]さんは三十歳[さんじっさい]じゃないです。"
+          ],
+          "en": "Tanaka-san isn't thirty.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "三十歳", "en": "thirty years old" },
+            { "text": "じゃないです", "en": "is not" }
+          ]
+        },
+        {
+          "id": "l03-p011",
+          "cue": "my older brother · not a student",
+          "answers": [
+            "(私[わたし]の)兄[あに]は学生[がくせい]じゃないです。"
+          ],
+          "en": "My older brother isn't a student.",
+          "breakdown": [
+            { "text": "私", "en": "I" },
+            { "text": "の", "en": "'s (my)" },
+            { "text": "兄", "en": "my older brother" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "学生", "en": "student" },
+            { "text": "じゃないです", "en": "is not" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Ask the question in the cue, ending in か.",
+      "kind": "typed",
+      "example": { "cue": "Ken · a student?", "answer": "ケンさんは学生[がくせい]ですか。" },
+      "items": [
+        {
+          "id": "l03-p012",
+          "cue": "Sakura · a university student?",
+          "answers": [
+            "さくらさんは大学生[だいがくせい]ですか。"
+          ],
+          "en": "Is Sakura a university student?",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "大学生", "en": "university student" },
+            { "text": "です", "en": "are" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l03-p013",
+          "cue": "Tanaka-san · how old?",
+          "answers": [
+            "田中[たなか]さんは何歳[なんさい]ですか。"
+          ],
+          "en": "How old is Tanaka-san?",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "何歳", "en": "how old" },
+            { "text": "です", "en": "is" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l03-p014",
+          "cue": "Sakura's older brother · a student?",
+          "answers": [
+            "さくらさんのお兄[にい]さんは学生[がくせい]ですか。"
+          ],
+          "en": "Is Sakura's older brother a student?",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "の", "en": "'s" },
+            { "text": "お兄さん", "en": "older brother" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "学生", "en": "student" },
+            { "text": "です", "en": "is" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l03-p015",
+          "cue": "Ken's Japanese teacher · who?",
+          "answers": [
+            "ケンさんの日本語[にほんご]の先生[せんせい]はだれですか。"
+          ],
+          "en": "Who is Ken's Japanese teacher?",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "の", "en": "'s" },
+            { "text": "日本語", "en": "Japanese language" },
+            { "text": "の", "en": "of (what kind)" },
+            { "text": "先生", "en": "teacher" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "だれ", "en": "who" },
+            { "text": "です", "en": "is" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l03-p016",
+          "cue": "a new classmate · their name?",
+          "answers": [
+            "お名前[なまえ]は何[なん]ですか。",
+            "名前[なまえ]は何[なん]ですか。"
+          ],
+          "en": "What's your name?",
+          "breakdown": [
+            { "text": "お名前", "en": "name (polite)" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "何", "en": "what" },
+            { "text": "です", "en": "is" },
+            { "text": "か", "en": "question marker" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Say who it is in Japanese, choosing the family word for your own family or for someone else's.",
+      "kind": "typed",
+      "example": { "cue": "my mother", "answer": "(私[わたし]の)母[はは]" },
+      "items": [
+        {
+          "id": "l03-p017",
+          "cue": "my father",
+          "answers": [
+            "(私[わたし]の)父[ちち]"
+          ],
+          "en": "my father"
+        },
+        {
+          "id": "l03-p018",
+          "cue": "Tanaka-san's father",
+          "answers": [
+            "田中[たなか]さんのお父[とう]さん"
+          ],
+          "en": "Tanaka-san's father"
+        },
+        {
+          "id": "l03-p019",
+          "cue": "my older sister",
+          "answers": [
+            "(私[わたし]の)姉[あね]"
+          ],
+          "en": "my older sister"
+        },
+        {
+          "id": "l03-p020",
+          "cue": "Ken's older sister",
+          "answers": [
+            "ケンさんのお姉[ねえ]さん"
+          ],
+          "en": "Ken's older sister"
+        },
+        {
+          "id": "l03-p021",
+          "cue": "my younger sister",
+          "answers": [
+            "(私[わたし]の)妹[いもうと]"
+          ],
+          "en": "my younger sister"
+        },
+        {
+          "id": "l03-p022",
+          "cue": "Yamada-sensei's mother",
+          "answers": [
+            "山田[やまだ]先生[せんせい]のお母[かあ]さん"
+          ],
+          "en": "Yamada-sensei's mother"
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Answer the question from the facts given.",
+      "kind": "typed",
+      "example": { "cue": "さくらさんは何歳[なんさい]ですか。", "answer": "(さくらさんは)二十歳[はたち]です。" },
+      "items": [
+        {
+          "id": "l03-p023",
+          "cue": "ケンさんは何歳[なんさい]ですか。",
+          "context": "Ken is 19.",
+          "cueEn": "How old is Ken?",
+          "answers": [
+            "(ケンさんは)十九歳[じゅうきゅうさい]です。"
+          ],
+          "en": "Ken is nineteen.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "十九歳", "en": "nineteen years old" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l03-p024",
+          "cue": "田中[たなか]さんは何歳[なんさい]ですか。",
+          "context": "Tanaka-san is 38.",
+          "cueEn": "How old is Tanaka-san?",
+          "answers": [
+            "(田中[たなか]さんは)三十八歳[さんじゅうはっさい]です。",
+            "(田中[たなか]さんは)三十八歳[さんじゅうはちさい]です。"
+          ],
+          "en": "Tanaka-san is thirty-eight.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "三十八歳", "en": "thirty-eight years old" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l03-p025",
+          "cue": "さくらさんの弟[おとうと]さんは何歳[なんさい]ですか。",
+          "context": "Sakura's younger brother is 10.",
+          "cueEn": "How old is Sakura's younger brother?",
+          "answers": [
+            "(弟[おとうと]さんは)十歳[じゅっさい]です。",
+            "(弟[おとうと]さんは)十歳[じっさい]です。",
+            "さくらさんの弟[おとうと]さんは十歳[じゅっさい]です。",
+            "さくらさんの弟[おとうと]さんは十歳[じっさい]です。"
+          ],
+          "en": "He is ten.",
+          "breakdown": [
+            { "text": "弟さん", "en": "younger brother" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "十歳", "en": "ten years old" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l03-p026",
+          "cue": "ご家族[かぞく]は何人[なんにん]ですか。",
+          "context": "Asked to Ken. Ken's family is his father, his mother, his older sister and Ken.",
+          "cueEn": "How many people are in your family?",
+          "answers": [
+            "(家族[かぞく]は)四人[よにん]です。",
+            "私[わたし]の家族[かぞく]は四人[よにん]です。"
+          ],
+          "en": "There are four of us.",
+          "breakdown": [
+            { "text": "家族", "en": "family" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "四人", "en": "four people" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l03-p027",
+          "cue": "クラスの学生[がくせい]は何人[なんにん]ですか。",
+          "context": "Yamada-sensei's class has seven students.",
+          "cueEn": "How many students are in the class?",
+          "answers": [
+            "(学生[がくせい]は)七人[しちにん]です。",
+            "(学生[がくせい]は)七人[ななにん]です。",
+            "クラスの学生[がくせい]は七人[しちにん]です。",
+            "クラスの学生[がくせい]は七人[ななにん]です。"
+          ],
+          "en": "There are seven students.",
+          "breakdown": [
+            { "text": "学生", "en": "students" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "七人", "en": "seven people" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l03-p028",
+          "cue": "田中[たなか]さんのお子[こ]さんは何人[なんにん]ですか。",
+          "context": "Tanaka-san has two children.",
+          "cueEn": "How many children does Tanaka-san have?",
+          "answers": [
+            "(お子[こ]さんは)二人[ふたり]です。",
+            "田中[たなか]さんのお子[こ]さんは二人[ふたり]です。"
+          ],
+          "en": "Tanaka-san has two children.",
+          "breakdown": [
+            { "text": "お子さん", "en": "children (someone else's)" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "二人", "en": "two people" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l03-p029",
+          "cue": "日本語[にほんご]の先生[せんせい]は何人[なんにん]ですか。",
+          "context": "Ken's Japanese class has one teacher, Yamada-sensei.",
+          "cueEn": "How many Japanese teachers are there?",
+          "answers": [
+            "(先生[せんせい]は)一人[ひとり]です。",
+            "日本語[にほんご]の先生[せんせい]は一人[ひとり]です。"
+          ],
+          "en": "There is one.",
+          "breakdown": [
+            { "text": "先生", "en": "teacher" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "一人", "en": "one person" },
+            { "text": "です", "en": "is" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "instruction": "Answer about yourself and your own family.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l03-p030",
+          "cue": "何歳[なんさい]ですか。",
+          "cueEn": "How old are you?",
+          "answers": [
+            "二十一歳[にじゅういっさい]です。",
+            "十八歳[じゅうはっさい]です。"
+          ],
+          "en": "I'm twenty-one.",
+          "breakdown": [
+            { "text": "二十一歳", "en": "twenty-one years old" },
+            { "text": "です", "en": "I am" }
+          ]
+        },
+        {
+          "id": "l03-p031",
+          "cue": "ご家族[かぞく]は何人[なんにん]ですか。",
+          "cueEn": "How many people are in your family?",
+          "answers": [
+            "五人[ごにん]です。",
+            "三人[さんにん]です。"
+          ],
+          "en": "There are five of us.",
+          "breakdown": [
+            { "text": "五人", "en": "five people" },
+            { "text": "です", "en": "it is" }
+          ]
+        },
+        {
+          "id": "l03-p032",
+          "cue": "ご兄弟[きょうだい]は何人[なんにん]ですか。",
+          "cueEn": "How many brothers and sisters do you have?",
+          "answers": [
+            "二人[ふたり]です。",
+            "一人[ひとり]です。"
+          ],
+          "en": "I have two.",
+          "breakdown": [
+            { "text": "二人", "en": "two people" },
+            { "text": "です", "en": "is, are" }
+          ]
+        }
+      ]
+    }
+  ]
+}

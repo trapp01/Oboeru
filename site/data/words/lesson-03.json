@@ -1,0 +1,311 @@
+{
+ "lesson": 3,
+ "title": "People and family",
+ "sections": [
+  {
+   "id": "people",
+   "title": "People",
+   "words": [
+    {
+     "id": "l03-001",
+     "kana": "わたし",
+     "kanji": "私",
+     "meaning": "I",
+     "category": "People"
+    },
+    {
+     "id": "l03-002",
+     "kana": "ぼく",
+     "kanji": "僕",
+     "meaning": "I (used by men and boys)",
+     "category": "People"
+    },
+    {
+     "id": "l03-003",
+     "kana": "あなた",
+     "kanji": "",
+     "meaning": "you",
+     "category": "People"
+    },
+    {
+     "id": "l03-004",
+     "kana": "かれ",
+     "kanji": "彼",
+     "meaning": "he, him; boyfriend",
+     "category": "People"
+    },
+    {
+     "id": "l03-005",
+     "kana": "かのじょ",
+     "kanji": "彼女",
+     "meaning": "she, her; girlfriend",
+     "category": "People"
+    },
+    {
+     "id": "l03-006",
+     "kana": "ともだち",
+     "kanji": "友達",
+     "meaning": "friend",
+     "category": "People"
+    },
+    {
+     "id": "l03-007",
+     "kana": "ひと",
+     "kanji": "人",
+     "meaning": "person",
+     "category": "People"
+    },
+    {
+     "id": "l03-008",
+     "kana": "おとこのひと",
+     "kanji": "男の人",
+     "meaning": "man",
+     "category": "People"
+    },
+    {
+     "id": "l03-009",
+     "kana": "おんなのひと",
+     "kanji": "女の人",
+     "meaning": "woman",
+     "category": "People"
+    },
+    {
+     "id": "l03-010",
+     "kana": "こども",
+     "kanji": "子供",
+     "meaning": "child",
+     "category": "People"
+    },
+    {
+     "id": "l03-011",
+     "kana": "みんな",
+     "kanji": "",
+     "meaning": "everyone",
+     "category": "People"
+    },
+    {
+     "id": "l03-012",
+     "kana": "なまえ",
+     "kanji": "名前",
+     "meaning": "name",
+     "category": "People"
+    },
+    {
+     "id": "l03-013",
+     "kana": "〜さん",
+     "kanji": "",
+     "meaning": "Mr., Ms. (added to a name)",
+     "category": "People"
+    },
+    {
+     "id": "l03-014",
+     "kana": "〜さい",
+     "kanji": "歳",
+     "meaning": "… years old",
+     "category": "People"
+    },
+    {
+     "id": "l03-015",
+     "kana": "だれ",
+     "kanji": "",
+     "meaning": "who",
+     "category": "Question words"
+    }
+   ]
+  },
+  {
+   "id": "counting-people",
+   "title": "Counting people",
+   "words": [
+    {
+     "id": "l03-016",
+     "kana": "ひとり",
+     "kanji": "一人",
+     "meaning": "one person",
+     "category": "Counters"
+    },
+    {
+     "id": "l03-017",
+     "kana": "ふたり",
+     "kanji": "二人",
+     "meaning": "two people",
+     "category": "Counters"
+    },
+    {
+     "id": "l03-018",
+     "kana": "さんにん",
+     "kanji": "三人",
+     "meaning": "three people",
+     "category": "Counters"
+    },
+    {
+     "id": "l03-019",
+     "kana": "よにん",
+     "kanji": "四人",
+     "meaning": "four people",
+     "category": "Counters"
+    },
+    {
+     "id": "l03-020",
+     "kana": "〜にん",
+     "kanji": "〜人",
+     "meaning": "counter for people",
+     "category": "Counters"
+    },
+    {
+     "id": "l03-021",
+     "kana": "ひとりで",
+     "kanji": "一人で",
+     "meaning": "alone",
+     "category": "Adverbs"
+    },
+    {
+     "id": "l03-022",
+     "kana": "いっしょに",
+     "kanji": "一緒に",
+     "meaning": "together",
+     "category": "Adverbs"
+    }
+   ]
+  },
+  {
+   "id": "family",
+   "title": "Family",
+   "words": [
+    {
+     "id": "l03-023",
+     "kana": "かぞく",
+     "kanji": "家族",
+     "meaning": "family",
+     "category": "Family"
+    },
+    {
+     "id": "l03-024",
+     "kana": "はは",
+     "kanji": "母",
+     "meaning": "my mother",
+     "category": "Family"
+    },
+    {
+     "id": "l03-025",
+     "kana": "ちち",
+     "kanji": "父",
+     "meaning": "my father",
+     "category": "Family"
+    },
+    {
+     "id": "l03-026",
+     "kana": "おかあさん",
+     "kanji": "お母さん",
+     "meaning": "mother (someone else's, or when speaking to your own)",
+     "category": "Family"
+    },
+    {
+     "id": "l03-027",
+     "kana": "おとうさん",
+     "kanji": "お父さん",
+     "meaning": "father (someone else's, or when speaking to your own)",
+     "category": "Family"
+    },
+    {
+     "id": "l03-028",
+     "kana": "あね",
+     "kanji": "姉",
+     "meaning": "my older sister",
+     "category": "Family"
+    },
+    {
+     "id": "l03-029",
+     "kana": "あに",
+     "kanji": "兄",
+     "meaning": "my older brother",
+     "category": "Family"
+    },
+    {
+     "id": "l03-030",
+     "kana": "おねえさん",
+     "kanji": "お姉さん",
+     "meaning": "older sister",
+     "category": "Family"
+    },
+    {
+     "id": "l03-031",
+     "kana": "おにいさん",
+     "kanji": "お兄さん",
+     "meaning": "older brother",
+     "category": "Family"
+    },
+    {
+     "id": "l03-032",
+     "kana": "いもうと",
+     "kanji": "妹",
+     "meaning": "younger sister",
+     "category": "Family"
+    },
+    {
+     "id": "l03-033",
+     "kana": "おとうと",
+     "kanji": "弟",
+     "meaning": "younger brother",
+     "category": "Family"
+    },
+    {
+     "id": "l03-034",
+     "kana": "きょうだい",
+     "kanji": "兄弟",
+     "meaning": "siblings",
+     "category": "Family"
+    },
+    {
+     "id": "l03-035",
+     "kana": "おじいさん",
+     "kanji": "",
+     "meaning": "grandfather; elderly man",
+     "category": "Family"
+    },
+    {
+     "id": "l03-036",
+     "kana": "おばあさん",
+     "kanji": "",
+     "meaning": "grandmother; elderly woman",
+     "category": "Family"
+    },
+    {
+     "id": "l03-037",
+     "kana": "けっこんする",
+     "kanji": "結婚する",
+     "meaning": "to get married",
+     "category": "Verbs"
+    },
+    {
+     "id": "l03-038",
+     "kana": "すむ",
+     "kanji": "住む",
+     "meaning": "to live (in a place)",
+     "category": "Verbs"
+    },
+    {
+     "id": "l03-039",
+     "kana": "しる",
+     "kanji": "知る",
+     "meaning": "to come to know",
+     "category": "Verbs"
+    },
+    {
+     "id": "l03-040",
+     "kana": "しっています",
+     "kanji": "知っています",
+     "meaning": "I know",
+     "category": "Verbs"
+    },
+    {
+     "id": "l03-041",
+     "kana": "しりません",
+     "kanji": "知りません",
+     "meaning": "I don't know",
+     "category": "Verbs"
+    }
+   ]
+  }
+ ]
+}

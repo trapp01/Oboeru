@@ -1,0 +1,1875 @@
+{
+  "l02-001": {
+    "say": "ゼロ、れい",
+    "sentence": {
+      "ja": "札幌[さっぽろ]は{ゼロ}度[ど]です。",
+      "en": "It's zero degrees in Sapporo.",
+      "breakdown": [
+        {
+          "text": "札幌",
+          "en": "Sapporo"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "ゼロ度",
+          "en": "zero degrees"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "zero; ray",
+      "story": "English *zero* becomes ze-ro, with a flipped r. The native word, rei, sounds like a *ray*: a laser ray burns a perfect empty ring into the snow, **0**. Zero or rei: zero."
+    }
+  },
+  "l02-002": {
+    "sentence": {
+      "ja": "ケンさんは{一[いち]}年生[ねんせい]です。",
+      "en": "Ken is a first-year student.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "一年生",
+          "en": "first-year student"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "itchy",
+      "story": "Exactly **1** mosquito bite on your ankle, and it's so *itchy* you scratch it raw. Ichi: one."
+    }
+  },
+  "l02-003": {
+    "sentence": {
+      "ja": "今[いま]、{二[に]}時[じ]です。",
+      "en": "It's two o'clock now.",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "二時",
+          "en": "two o'clock"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "knee",
+      "story": "Kneel on the gravel and feel it on both *knees*, one sharp sting for each: **2**. Ni: two."
+    }
+  },
+  "l02-004": {
+    "sentence": {
+      "ja": "さくらさんは{三[さん]}年生[ねんせい]ですか。",
+      "en": "Is Sakura a third-year student?",
+      "breakdown": [
+        {
+          "text": "さくらさん",
+          "en": "Sakura"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "三年生",
+          "en": "third-year student"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "sun",
+      "story": "You look up and **3** *suns* blaze in a row, so hot the pavement shimmers. Say it \"sahn\", with an open ah. San: three."
+    }
+  },
+  "l02-005": {
+    "say": "よん、し、よ",
+    "sentence": {
+      "ja": "弟[おとうと]は{四[よん]}歳[さい]です。",
+      "en": "My little brother is four.",
+      "breakdown": [
+        {
+          "text": "弟",
+          "en": "my little brother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "四歳",
+          "en": "four years old"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yawn",
+      "story": "At **4** a.m. you *yawn* so wide you could fit four fingers in. Yon is the everyday four; shi also means four but sounds like \"death\", and four o'clock shrinks to yo-ji. Yon: four."
+    }
+  },
+  "l02-006": {
+    "sentence": {
+      "ja": "朝[あさ]の{五[ご]}時[じ]です。",
+      "en": "It's five in the morning.",
+      "breakdown": [
+        {
+          "text": "朝",
+          "en": "morning"
+        },
+        {
+          "text": "の",
+          "en": "of, in (the morning)"
+        },
+        {
+          "text": "五時",
+          "en": "five o'clock"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "go",
+      "story": "The starter slaps a high **5** with all five fingers spread, and the runners hear \"*Go*!\" Go: five."
+    }
+  },
+  "l02-007": {
+    "sentence": {
+      "ja": "田中[たなか]さんの子[こ]どもは{六[ろく]}歳[さい]です。",
+      "en": "Tanaka-san's child is six.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Tanaka-san"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "子ども",
+          "en": "child"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "六歳",
+          "en": "six years old"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "rock",
+      "story": "You try to juggle **6** *rocks* and the last one thuds on your toe; the final u is so faint it's nearly \"rohk\". Roku: six."
+    }
+  },
+  "l02-008": {
+    "say": "なな、しち",
+    "sentence": {
+      "ja": "山田[やまだ]さんの娘[むすめ]さんは{七[なな]}歳[さい]です。",
+      "en": "Mr. Yamada's daughter is seven.",
+      "breakdown": [
+        {
+          "text": "山田さん",
+          "en": "Mr. Yamada"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "娘さん",
+          "en": "daughter (someone else's)"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "七歳",
+          "en": "seven years old"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nana",
+      "story": "Your *nana* blows out **7** birthday candles, one puff each, wax dripping on the icing. Nana: seven. Shichi is also seven, and it's the one in shichi-ji, seven o'clock."
+    }
+  },
+  "l02-009": {
+    "sentence": {
+      "ja": "今[いま]、{八[はち]}時[じ]ですか。",
+      "en": "Is it eight o'clock now?",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "八時",
+          "en": "eight o'clock"
+        },
+        {
+          "text": "です",
+          "en": "is it"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hatch",
+      "story": "An egg cracks and an octopus *hatches*, unrolling all **8** wet arms across your kitchen table. Hachi: eight."
+    }
+  },
+  "l02-010": {
+    "say": "きゅう、く",
+    "sentence": {
+      "ja": "ケンさんの犬[いぬ]は{九[きゅう]}歳[さい]です。",
+      "en": "Ken's dog is nine.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "犬",
+          "en": "dog"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "九歳",
+          "en": "nine years old"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cue",
+      "story": "You rack up **9** pool balls and smash them apart with your *cue*, crack. Kyū: nine. Ku also means nine, and it's the one in ku-ji, nine o'clock."
+    }
+  },
+  "l02-011": {
+    "sentence": {
+      "ja": "今[いま]、夜[よる]の{十[じゅう]}時[じ]です。",
+      "en": "It's ten at night.",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "夜",
+          "en": "night"
+        },
+        {
+          "text": "の",
+          "en": "of, at (night)"
+        },
+        {
+          "text": "十時",
+          "en": "ten o'clock"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "jewel",
+      "story": "You wear a *jewel* ring on every finger, **10** in all, clacking whenever you clap. The vowel is a long oo: jū. Jū: ten."
+    }
+  },
+  "l02-012": {
+    "sentence": {
+      "ja": "授業[じゅぎょう]は{十一[じゅういち]}時[じ]です。",
+      "en": "Class is at eleven.",
+      "breakdown": [
+        {
+          "text": "授業",
+          "en": "class"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "十一時",
+          "en": "eleven o'clock"
+        },
+        {
+          "text": "です",
+          "en": "is (at)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "jū + ichi",
+      "story": "Above ten you say ten, then the extra: *jewel* ten plus one *itchy* bite. Ten and one make **11**. Jū-ichi: eleven."
+    }
+  },
+  "l02-013": {
+    "sentence": {
+      "ja": "昼[ひる]ご飯[はん]は{十二[じゅうに]}時[じ]です。",
+      "en": "Lunch is at twelve.",
+      "breakdown": [
+        {
+          "text": "昼ご飯",
+          "en": "lunch"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "十二時",
+          "en": "twelve o'clock"
+        },
+        {
+          "text": "です",
+          "en": "is (at)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "jū + ni",
+      "story": "Ten, then two: a *jewel* on each of your two *knees*, glinting when you kneel. **12**. Jū-ni: twelve. Flip it to ni-jū and it means twenty."
+    }
+  },
+  "l02-014": {
+    "sentence": {
+      "ja": "{二十[にじゅう]}番[ばん]のバスですか。",
+      "en": "Is this the number twenty bus?",
+      "breakdown": [
+        {
+          "text": "二十番",
+          "en": "number twenty"
+        },
+        {
+          "text": "の",
+          "en": "of (the number-20 bus)"
+        },
+        {
+          "text": "バス",
+          "en": "bus"
+        },
+        {
+          "text": "です",
+          "en": "is (it)"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ni + jū",
+      "story": "Put the small number first and it counts tens: two *knees*, then ten, means two tens. **20**. Ni-jū: twenty. Ten first, jū-ni, is twelve."
+    }
+  },
+  "l02-015": {
+    "sentence": {
+      "ja": "東京[とうきょう]は{三十[さんじゅう]}度[ど]です。",
+      "en": "It's thirty degrees in Tokyo.",
+      "breakdown": [
+        {
+          "text": "東京",
+          "en": "Tokyo"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "三十度",
+          "en": "thirty degrees"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "san + jū",
+      "story": "Three *suns*, each wearing ten jewels: three tens. **30**. San-jū: thirty."
+    }
+  },
+  "l02-016": {
+    "sentence": {
+      "ja": "飛行機[ひこうき]は{四十[よんじゅう]}番[ばん]ゲートです。",
+      "en": "The plane is at gate forty.",
+      "breakdown": [
+        {
+          "text": "飛行機",
+          "en": "plane"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "四十番",
+          "en": "number forty"
+        },
+        {
+          "text": "ゲート",
+          "en": "gate"
+        },
+        {
+          "text": "です",
+          "en": "is (at)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yon + jū",
+      "story": "Four tens: you *yawn* four times waiting at the gate. **40**. Yon-jū: forty. Four takes yon here; shi-jū is old-fashioned."
+    }
+  },
+  "l02-017": {
+    "sentence": {
+      "ja": "次[つぎ]は{五十[ごじゅう]}番[ばん]です。",
+      "en": "Next is number fifty.",
+      "breakdown": [
+        {
+          "text": "次",
+          "en": "next"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "五十番",
+          "en": "number fifty"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "go + jū",
+      "story": "Five tens: \"*Go*!\" and five runners each grab ten jewels. **50**. Go-jū: fifty."
+    }
+  },
+  "l02-018": {
+    "sentence": {
+      "ja": "田中[たなか]さんの家[いえ]は{六十[ろくじゅう]}番地[ばんち]です。",
+      "en": "Tanaka-san's house is at number sixty.",
+      "breakdown": [
+        {
+          "text": "田中さん",
+          "en": "Tanaka-san"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "家",
+          "en": "house"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "六十番地",
+          "en": "lot number sixty (address)"
+        },
+        {
+          "text": "です",
+          "en": "is (at)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "roku + jū",
+      "story": "Six tens: six *rocks* lined up on a wall, ten jewels glued to each. **60**. Roku-jū: sixty."
+    }
+  },
+  "l02-019": {
+    "sentence": {
+      "ja": "ケンさんの背番号[せばんごう]は{七十[ななじゅう]}番[ばん]です。",
+      "en": "Ken's jersey number is seventy.",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "の",
+          "en": "'s"
+        },
+        {
+          "text": "背番号",
+          "en": "jersey number"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "七十番",
+          "en": "number seventy"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nana + jū",
+      "story": "Seven tens: your *nana* knits a sweater with seven rows of ten sequins. **70**. Nana-jū: seventy. Shichi-jū exists, but nana-jū is the usual one."
+    }
+  },
+  "l02-020": {
+    "sentence": {
+      "ja": "バナナは{八十[はちじゅう]}円[えん]です。",
+      "en": "The bananas are eighty yen.",
+      "breakdown": [
+        {
+          "text": "バナナ",
+          "en": "bananas"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "八十円",
+          "en": "eighty yen"
+        },
+        {
+          "text": "です",
+          "en": "are"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hachi + jū",
+      "story": "Eight tens: eight eggs *hatch* and each chick has ten jewels for eyes. **80**. Hachi-jū: eighty."
+    }
+  },
+  "l02-021": {
+    "sentence": {
+      "ja": "パンは{九十[きゅうじゅう]}円[えん]です。",
+      "en": "The bread is ninety yen.",
+      "breakdown": [
+        {
+          "text": "パン",
+          "en": "bread"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "九十円",
+          "en": "ninety yen"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kyū + jū",
+      "story": "Nine tens: you line up your *cue* and sink nine balls, ten points each. **90**. Kyū-jū: ninety. Nine takes kyū here, never ku."
+    }
+  },
+  "l02-022": {
+    "sentence": {
+      "ja": "祖母[そぼ]は{百[ひゃく]}歳[さい]です。",
+      "en": "My grandmother is a hundred.",
+      "breakdown": [
+        {
+          "text": "祖母",
+          "en": "my grandmother"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "百歳",
+          "en": "a hundred years old"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hey, yak",
+      "story": "\"*Hey, yak*!\" you yell across the valley, and a herd of exactly **100** shaggy yaks turns to stare. Hundred is its own word, never ichi-hyaku. Hyaku: one hundred."
+    }
+  },
+  "l02-023": {
+    "sentence": {
+      "ja": "このノートは{三百[さんびゃく]}円[えん]です。",
+      "en": "This notebook is 300 yen.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "ノート",
+          "en": "notebook"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "三百円",
+          "en": "300 yen"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "san + byaku",
+      "story": "Three is san, but its n hardens the h into a b: *san-byaku*, **300**, not san-hyaku. Picture three bees buzzing \"b-b-byaku\"."
+    }
+  },
+  "l02-024": {
+    "sentence": {
+      "ja": "その本[ほん]は{六百[ろっぴゃく]}円[えん]です。",
+      "en": "That book is 600 yen.",
+      "breakdown": [
+        {
+          "text": "その",
+          "en": "that (near you)"
+        },
+        {
+          "text": "本",
+          "en": "book"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "六百円",
+          "en": "600 yen"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "rop + pyaku (rock, pop)",
+      "story": "Six, roku, loses its ku and the h becomes a doubled p: roppyaku, **600**. A *rock* hits the dojo floor and goes *pop*: rop-pyaku."
+    }
+  },
+  "l02-025": {
+    "sentence": {
+      "ja": "この肉[にく]は{八百[はっぴゃく]}円[えん]です。",
+      "en": "This meat is 800 yen.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "肉",
+          "en": "meat"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "八百円",
+          "en": "800 yen"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hap + pyaku (happy)",
+      "story": "Eight, hachi, drops its chi and doubles the p: happyaku, **800**. Eight hundred *happy* yaks: hap-pyaku."
+    }
+  },
+  "l02-026": {
+    "sentence": {
+      "ja": "この傘[かさ]は{千[せん]}円[えん]です。",
+      "en": "This umbrella is 1,000 yen.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "傘",
+          "en": "umbrella"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "千円",
+          "en": "1,000 yen"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "cent",
+      "story": "**A thousand** *cents* pour out of a slot machine and clatter across the floor. Sen: 1000. Like hyaku, it stands alone with no ichi in front."
+    }
+  },
+  "l02-027": {
+    "sentence": {
+      "ja": "その辞書[じしょ]は{三千[さんぜん]}円[えん]です。",
+      "en": "That dictionary is 3,000 yen.",
+      "breakdown": [
+        {
+          "text": "その",
+          "en": "that (near you)"
+        },
+        {
+          "text": "辞書",
+          "en": "dictionary"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "三千円",
+          "en": "3,000 yen"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "san + zen",
+      "story": "San's n turns the s of sen into z: sanzen, **3000**, not sansen. Picture three thousand *Zen* monks sitting in silence."
+    }
+  },
+  "l02-028": {
+    "sentence": {
+      "ja": "この時計[とけい]は{八千[はっせん]}円[えん]です。",
+      "en": "This watch is 8,000 yen.",
+      "breakdown": [
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "時計",
+          "en": "watch"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "八千円",
+          "en": "8,000 yen"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "has + sen (hiss)",
+      "story": "Eight, hachi, drops its chi and doubles the s: hassen, **8000**. Hold the s like a *hiss*: \"hass-sen\"."
+    }
+  },
+  "l02-029": {
+    "sentence": {
+      "ja": "えっ、このペンは{一万[いちまん]}円[えん]ですか。",
+      "en": "What? This pen is 10,000 yen?",
+      "breakdown": [
+        {
+          "text": "えっ",
+          "en": "what?!"
+        },
+        {
+          "text": "この",
+          "en": "this"
+        },
+        {
+          "text": "ペン",
+          "en": "pen"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "一万円",
+          "en": "10,000 yen"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ichi + man",
+      "story": "Japanese counts big numbers in man, blocks of ten thousand. One *man* staggers past with ten thousand coins: ichi-man, **10,000**. Unlike hyaku and sen, man needs its ichi."
+    }
+  },
+  "l02-030": {
+    "sentence": {
+      "ja": "りんごを{一[ひと]つ}ください。",
+      "en": "One apple, please.",
+      "breakdown": [
+        {
+          "text": "りんご",
+          "en": "apple"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "一つ",
+          "en": "one (small item)"
+        },
+        {
+          "text": "ください",
+          "en": "please give me",
+          "base": "くださる",
+          "baseEn": "to give (to me), polite"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hito + tsu",
+      "story": "Small things are counted with native numbers plus tsu. *Hito* is the one in hitori, one person, so **one** small thing is hito-tsu: a single apple on an empty table. Hitotsu: one."
+    }
+  },
+  "l02-031": {
+    "sentence": {
+      "ja": "みかんを{二[ふた]つ}買[か]いました。",
+      "en": "I bought two mandarins.",
+      "breakdown": [
+        {
+          "text": "みかん",
+          "en": "mandarin orange"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "二つ",
+          "en": "two (small items)"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "futa + tsu",
+      "story": "*Futa* is the two in futari, two people. Add tsu and **two** small things are futa-tsu: two mandarins, one in each hand. Futatsu: two."
+    }
+  },
+  "l02-032": {
+    "sentence": {
+      "ja": "おにぎりを{三[みっ]つ}食[た]べました。",
+      "en": "I ate three rice balls.",
+      "breakdown": [
+        {
+          "text": "おにぎり",
+          "en": "rice ball"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "三つ",
+          "en": "three (small items)"
+        },
+        {
+          "text": "食べました",
+          "en": "ate",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mi + (t)tsu, like mitts",
+      "story": "*Mi* is the three in mikka, the 3rd. The tsu doubles with a little catch: mit-tsu, **three**, like three oven *mitts* on a hook. Mittsu: three."
+    }
+  },
+  "l02-033": {
+    "sentence": {
+      "ja": "部屋[へや]に窓[まど]が{四[よっ]つ}あります。",
+      "en": "My room has four windows.",
+      "breakdown": [
+        {
+          "text": "部屋",
+          "en": "(my) room"
+        },
+        {
+          "text": "に",
+          "en": "in (where something is)"
+        },
+        {
+          "text": "窓",
+          "en": "window"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "四つ",
+          "en": "four (small items)"
+        },
+        {
+          "text": "あります",
+          "en": "there are",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yo + (t)tsu",
+      "story": "*Yo* is the four in yoji and yokka, and the tsu doubles just as in mittsu: yot-tsu, **four**, with a catch before the tsu. Yottsu: four."
+    }
+  },
+  "l02-034": {
+    "sentence": {
+      "ja": "ももを{五[いつ]つ}買[か]いました。",
+      "en": "I bought five peaches.",
+      "breakdown": [
+        {
+          "text": "もも",
+          "en": "peach"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "五つ",
+          "en": "five (small items)"
+        },
+        {
+          "text": "買いました",
+          "en": "bought",
+          "base": "買[か]う",
+          "baseEn": "to buy"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "itsu + tsu",
+      "story": "*Itsu* is the five in itsuka, the 5th. Add tsu with no doubling: i-tsu-tsu, **five**, two tsu sounds tapping in a row like a drum. Itsutsu: five."
+    }
+  },
+  "l02-035": {
+    "sentence": {
+      "ja": "カレーにたまねぎを{六[むっ]つ}使[つか]います。",
+      "en": "I put six onions in the curry.",
+      "breakdown": [
+        {
+          "text": "カレー",
+          "en": "curry"
+        },
+        {
+          "text": "に",
+          "en": "in (put into)"
+        },
+        {
+          "text": "たまねぎ",
+          "en": "onion"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "六つ",
+          "en": "six (small items)"
+        },
+        {
+          "text": "使います",
+          "en": "use",
+          "base": "使[つか]う",
+          "baseEn": "to use"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "mu + (t)tsu, like mutts",
+      "story": "*Mu* is the six in muika, the 6th, and the tsu doubles: mut-tsu, **six**. Picture six *mutts* sitting in a row, waiting for treats. Muttsu: six."
+    }
+  },
+  "l02-036": {
+    "sentence": {
+      "ja": "ぎょうざを{七[なな]つ}食[た]べました。",
+      "en": "I ate seven gyoza.",
+      "breakdown": [
+        {
+          "text": "ぎょうざ",
+          "en": "gyoza (dumpling)"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "七つ",
+          "en": "seven (small items)"
+        },
+        {
+          "text": "食べました",
+          "en": "ate",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nana + tsu",
+      "story": "*Nana* is already seven; just add tsu with no change at all: nana-tsu, **seven**, the easiest of the set. Nanatsu: seven."
+    }
+  },
+  "l02-037": {
+    "sentence": {
+      "ja": "いちごを{八[やっ]つ}食[た]べました。",
+      "en": "I ate eight strawberries.",
+      "breakdown": [
+        {
+          "text": "いちご",
+          "en": "strawberry"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "八つ",
+          "en": "eight (small items)"
+        },
+        {
+          "text": "食べました",
+          "en": "ate",
+          "base": "食[た]べる",
+          "baseEn": "to eat"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ya + (t)tsu, like yachts",
+      "story": "Eight brings a new stem, ya, and the tsu doubles: yat-tsu, **eight**. Picture eight *yachts* bobbing in a harbor, masts clinking. Yattsu: eight."
+    }
+  },
+  "l02-038": {
+    "sentence": {
+      "ja": "かばんにみかんが{九[ここの]つ}あります。",
+      "en": "There are nine mandarins in the bag.",
+      "breakdown": [
+        {
+          "text": "かばん",
+          "en": "bag"
+        },
+        {
+          "text": "に",
+          "en": "in (where something is)"
+        },
+        {
+          "text": "みかん",
+          "en": "mandarin orange"
+        },
+        {
+          "text": "が",
+          "en": "marks the subject"
+        },
+        {
+          "text": "九つ",
+          "en": "nine (small items)"
+        },
+        {
+          "text": "あります",
+          "en": "there are",
+          "base": "ある",
+          "baseEn": "to be, to exist (things)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "kokono + tsu, like coconuts",
+      "story": "Kokono is the nine in kokonoka, the 9th. Add tsu and it sounds like *coconuts*: **nine** coconuts thud onto the sand. Kokonotsu: nine, the longest of the set."
+    }
+  },
+  "l02-039": {
+    "sentence": {
+      "ja": "りんごは{十[とお]}で千円[せんえん]です。",
+      "en": "The apples are 1,000 yen for ten.",
+      "breakdown": [
+        {
+          "text": "りんご",
+          "en": "apples"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "十",
+          "en": "ten (small items)"
+        },
+        {
+          "text": "で",
+          "en": "for (a quantity)"
+        },
+        {
+          "text": "千円",
+          "en": "1,000 yen"
+        },
+        {
+          "text": "です",
+          "en": "are"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "tō, like toe",
+      "story": "**Ten** breaks the pattern: no tsu, just tō with a long oh, as in tōka, the 10th. Count it on your ten *toes*. Tō: ten."
+    }
+  },
+  "l02-040": {
+    "sentence": {
+      "ja": "{今[いま]}何時[なんじ]ですか。",
+      "en": "What time is it now?",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "何時",
+          "en": "what time"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "e-mail",
+      "story": "Ping! An *e-mail* flashes across your screen in red capitals, REPLY **NOW**, and the laptop buzzes hot under your hands. Ima: now."
+    }
+  },
+  "l02-041": {
+    "sentence": {
+      "ja": "授業[じゅぎょう]は{午前[ごぜん]}九時[くじ]です。",
+      "en": "Class is at 9 a.m.",
+      "breakdown": [
+        {
+          "text": "授業",
+          "en": "class"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "午前",
+          "en": "a.m."
+        },
+        {
+          "text": "九時",
+          "en": "nine o'clock"
+        },
+        {
+          "text": "です",
+          "en": "is (at)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "go + Zen",
+      "story": "Every **A.M.** the temple bell says *go*, and you sit *Zen*-still on a cold mat until noon, incense curling past your nose. Go-zen: A.M., before noon. It comes before the hour."
+    }
+  },
+  "l02-042": {
+    "sentence": {
+      "ja": "パーティーは{午後[ごご]}六時[ろくじ]です。",
+      "en": "The party is at 6 p.m.",
+      "breakdown": [
+        {
+          "text": "パーティー",
+          "en": "party"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "午後",
+          "en": "p.m."
+        },
+        {
+          "text": "六時",
+          "en": "six o'clock"
+        },
+        {
+          "text": "です",
+          "en": "is (at)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "go-go",
+      "story": "After lunch the music kicks in, the crowd chants \"*Go! Go!*\", and you dance the whole **P.M.** away. Go-go: P.M., after noon. Gozen sits still; gogo dances."
+    }
+  },
+  "l02-043": {
+    "sentence": {
+      "ja": "日本語[にほんご]のクラスは{一時[いちじ]}です。",
+      "en": "Japanese class is at one.",
+      "breakdown": [
+        {
+          "text": "日本語",
+          "en": "Japanese language"
+        },
+        {
+          "text": "の",
+          "en": "of (a subject)"
+        },
+        {
+          "text": "クラス",
+          "en": "class"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "一時",
+          "en": "one o'clock"
+        },
+        {
+          "text": "です",
+          "en": "is (at)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ichi (1) + ji (o'clock)",
+      "story": "Ichi (one) + ji (o'clock): **one o'clock**. The first hour after noon, and your nose starts to *itch* in the warm classroom. Ichi-ji."
+    }
+  },
+  "l02-044": {
+    "sentence": {
+      "ja": "今[いま]、{二時[にじ]}ですか。",
+      "en": "Is it two o'clock now?",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "二時",
+          "en": "two o'clock"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ni + ji",
+      "story": "Ni (two) + ji: **two o'clock**. Two chimes, tapping your *knee* like a doctor's hammer. Ni-ji, no change."
+    }
+  },
+  "l02-045": {
+    "sentence": {
+      "ja": "今[いま]、午前[ごぜん]{四時[よじ]}です。",
+      "en": "It's four in the morning.",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "午前",
+          "en": "a.m."
+        },
+        {
+          "text": "四時",
+          "en": "four o'clock"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "yo + ji",
+      "story": "Four is yon or shi, but the hour takes a short *yo*: at **four o'clock** in the morning the night-shift baker greets you with a sleepy \"*Yo*.\" Yo-ji, never yon-ji."
+    }
+  },
+  "l02-046": {
+    "sentence": {
+      "ja": "朝[あさ]ご飯[はん]は{七時[しちじ]}です。",
+      "en": "Breakfast is at seven.",
+      "breakdown": [
+        {
+          "text": "朝ご飯",
+          "en": "breakfast"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "七時",
+          "en": "seven o'clock"
+        },
+        {
+          "text": "です",
+          "en": "is (at)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "shichi + ji",
+      "story": "The hour uses shichi for seven, not nana: shichi-ji, **seven o'clock**. It rhymes with *ichi*-ji, so lean on the sh or your friend turns up at one."
+    }
+  },
+  "l02-047": {
+    "sentence": {
+      "ja": "今[いま]、午後[ごご]{九時[くじ]}です。",
+      "en": "It's 9 p.m.",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "午後",
+          "en": "p.m."
+        },
+        {
+          "text": "九時",
+          "en": "nine o'clock"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ku + ji",
+      "story": "Nine is kyū, but the hour is a short ku: at **nine o'clock** a pigeon on the clock *coos* nine times. Ku-ji, never kyū-ji."
+    }
+  },
+  "l02-048": {
+    "sentence": {
+      "ja": "昼[ひる]ご飯[はん]は{十二時[じゅうにじ]}です。",
+      "en": "Lunch is at twelve.",
+      "breakdown": [
+        {
+          "text": "昼ご飯",
+          "en": "lunch"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "十二時",
+          "en": "twelve o'clock"
+        },
+        {
+          "text": "です",
+          "en": "is (at)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "jū-ni + ji",
+      "story": "Jū (ten) + ni (two) is twelve; add ji for **twelve o'clock**, noon or midnight. Both clock hands meet at the top like two *knees* together. Jū-ni-ji."
+    }
+  },
+  "l02-049": {
+    "sentence": {
+      "ja": "今[いま]、三時[さんじ]{半[はん]}です。",
+      "en": "It's half past three.",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "三時",
+          "en": "three o'clock"
+        },
+        {
+          "text": "半",
+          "en": "half (past)"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "hand",
+      "story": "The minute *hand* sweeps down to the six and the clock is **half** done with the hour. Han: half. It follows the hour: san-ji han, half past three."
+    }
+  },
+  "l02-050": {
+    "sentence": {
+      "ja": "コンサートは{一時半[いちじはん]}です。",
+      "en": "The concert is at one thirty.",
+      "breakdown": [
+        {
+          "text": "コンサート",
+          "en": "concert"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "一時半",
+          "en": "one thirty"
+        },
+        {
+          "text": "です",
+          "en": "is (at)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ichi-ji + han",
+      "story": "Ichi-ji (one o'clock) plus han, half: the minute *hand* swings down to the six. **1:30**, half past one. Ichi-ji-han."
+    }
+  },
+  "l02-051": {
+    "sentence": {
+      "ja": "今[いま]、三時[さんじ]{一分[いっぷん]}です。",
+      "en": "It's 3:01.",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "三時",
+          "en": "three o'clock"
+        },
+        {
+          "text": "一分",
+          "en": "one minute (past)"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ip + pun (ichi + fun)",
+      "story": "Minutes are number + fun, but ichi + fun squeezes into ip-pun: the chi drops out and the f pops into a p, quick as a *pun*. **1 minute**. Ip-pun."
+    }
+  },
+  "l02-052": {
+    "sentence": {
+      "ja": "カップラーメンは{三分[さんぷん]}です。",
+      "en": "Cup noodles take three minutes.",
+      "breakdown": [
+        {
+          "text": "カップラーメン",
+          "en": "cup noodles"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "三分",
+          "en": "three minutes"
+        },
+        {
+          "text": "です",
+          "en": "is (takes)"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "san + pun",
+      "story": "San (three) + fun, but after the n the f hardens into a p: san-pun, **3 minutes**, a *sun pun*. San-pun."
+    }
+  },
+  "l02-053": {
+    "sentence": {
+      "ja": "休[やす]みは{五分[ごふん]}です。",
+      "en": "The break is five minutes.",
+      "breakdown": [
+        {
+          "text": "休み",
+          "en": "break"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "五分",
+          "en": "five minutes"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "go + fun",
+      "story": "Go (five) + fun, no change: go-fun, **5 minutes**. *Go* have fun, but only for five. Go-fun."
+    }
+  },
+  "l02-054": {
+    "sentence": {
+      "ja": "休[やす]み時間[じかん]は{十分[じゅっぷん]}です。",
+      "en": "Break time is ten minutes.",
+      "breakdown": [
+        {
+          "text": "休み",
+          "en": "break"
+        },
+        {
+          "text": "時間",
+          "en": "time"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "十分",
+          "en": "ten minutes"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "jup + pun (jū + fun)",
+      "story": "Jū + fun squeezes into jup-pun: the long ū clips short and the f pops to a p, like a *juice* box popped open. **10 minutes**. Jup-pun."
+    }
+  },
+  "l02-055": {
+    "sentence": {
+      "ja": "今[いま]、七時[しちじ]{三十分[さんじゅっぷん]}です。",
+      "en": "It's 7:30.",
+      "breakdown": [
+        {
+          "text": "今",
+          "en": "now"
+        },
+        {
+          "text": "七時",
+          "en": "seven o'clock"
+        },
+        {
+          "text": "三十分",
+          "en": "thirty minutes (past)"
+        },
+        {
+          "text": "です",
+          "en": "it is"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "san-jup + pun",
+      "story": "San-jū (thirty) + fun, squeezed like ten: san-jup-pun, **30 minutes**, the same as han, half an hour. San-jup-*pun*."
+    }
+  },
+  "l02-056": {
+    "sentence": {
+      "ja": "昨日[きのう]は{一時間[いちじかん]}テレビを見[み]ました。",
+      "en": "Yesterday I watched TV for an hour.",
+      "breakdown": [
+        {
+          "text": "昨日",
+          "en": "yesterday"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "一時間",
+          "en": "one hour"
+        },
+        {
+          "text": "テレビ",
+          "en": "TV"
+        },
+        {
+          "text": "を",
+          "en": "marks the object"
+        },
+        {
+          "text": "見ました",
+          "en": "watched",
+          "base": "見[み]る",
+          "baseEn": "to see, to watch"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ichi (one) + jikan (hours)",
+      "story": "Ichi, one, plus jikan, hours: **one hour**. Ichiji is one o'clock, a single point on the dial; the *kan* stretches it into an hour of waiting. Ichi-jikan."
+    }
+  },
+  "l02-057": {
+    "say": "じかん",
+    "sentence": {
+      "ja": "毎晩[まいばん]{七時間[しちじかん]}寝[ね]ます。",
+      "en": "I sleep seven hours every night.",
+      "breakdown": [
+        {
+          "text": "毎晩",
+          "en": "every night"
+        },
+        {
+          "text": "七時間",
+          "en": "seven hours"
+        },
+        {
+          "text": "寝ます",
+          "en": "sleep",
+          "base": "寝[ね]る",
+          "baseEn": "to sleep, to go to bed"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "ji (hour) + kan (can)",
+      "story": "Ji is the o'clock of ichiji; add kan and the point becomes a span: number plus jikan counts **hours**. Seven hours of sleep packed into a ticking tin *can*. Shichi-jikan: seven hours."
+    }
+  },
+  "l02-058": {
+    "say": "ごろ",
+    "sentence": {
+      "ja": "七時[しちじ]{ごろ}うちへ帰[かえ]ります。",
+      "en": "I'll be home around seven.",
+      "breakdown": [
+        {
+          "text": "七時",
+          "en": "seven o'clock"
+        },
+        {
+          "text": "ごろ",
+          "en": "at about"
+        },
+        {
+          "text": "うち",
+          "en": "home"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "帰ります",
+          "en": "go back",
+          "base": "帰[かえ]る",
+          "baseEn": "to go back, to return"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "go row",
+      "story": "The coach yells \"*Go row!*\" **at about** six, and the crew drifts out somewhere around then, nobody checking a watch. Goro: at about, after a time."
+    }
+  },
+  "l02-059": {
+    "sentence": {
+      "ja": "{いつ}日本[にほん]へ行[い]きますか。",
+      "en": "When are you going to Japan?",
+      "breakdown": [
+        {
+          "text": "いつ",
+          "en": "when"
+        },
+        {
+          "text": "日本",
+          "en": "Japan"
+        },
+        {
+          "text": "へ",
+          "en": "to (a place)"
+        },
+        {
+          "text": "行きます",
+          "en": "go",
+          "base": "行[い]く",
+          "baseEn": "to go"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "eat soup",
+      "story": "You hold a spoon over a steaming bowl and stare at the clock: *eat soup*, but **when**? The soup goes cold while you decide. Itsu: when."
+    }
+  },
+  "l02-060": {
+    "say": "なん、なに",
+    "sentence": {
+      "ja": "ケンさんは{何[なに]}人[じん]ですか。",
+      "en": "What nationality is Ken?",
+      "breakdown": [
+        {
+          "text": "ケンさん",
+          "en": "Ken"
+        },
+        {
+          "text": "は",
+          "en": "topic marker"
+        },
+        {
+          "text": "何",
+          "en": "what"
+        },
+        {
+          "text": "人",
+          "en": "person (nationality)"
+        },
+        {
+          "text": "です",
+          "en": "is"
+        },
+        {
+          "text": "か",
+          "en": "question marker"
+        }
+      ]
+    },
+    "mnemonic": {
+      "soundsLike": "nan / nanny",
+      "story": "Your *nan* looks up from her knitting and the *nanny* from the stove, both at once: \"**What?**\" Nan comes before d, t and n sounds (nan desu ka, nan-ji); nani elsewhere."
+    }
+  }
+}

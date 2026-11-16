@@ -1,0 +1,341 @@
+{
+  "lesson": 1,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Greet the person in the cue: casually if it is Sakura, a friend, and politely to anyone else.",
+      "kind": "typed",
+      "example": { "cue": "1 p.m. · Yamada-sensei, in the library", "answer": "こんにちは" },
+      "items": [
+        {
+          "id": "l01-p001",
+          "cue": "8 a.m. · Yamada-sensei, in the corridor",
+          "answers": [
+            "おはようございます"
+          ],
+          "en": "good morning (polite)"
+        },
+        {
+          "id": "l01-p002",
+          "cue": "7 a.m. · Sakura, at the bus stop",
+          "answers": [
+            "おはよう"
+          ],
+          "en": "good morning (casual)"
+        },
+        {
+          "id": "l01-p003",
+          "cue": "3 p.m. · Tanaka-san, on the street",
+          "answers": [
+            "こんにちは"
+          ],
+          "en": "hello"
+        },
+        {
+          "id": "l01-p004",
+          "cue": "8 p.m. · Yamada-sensei, at the station",
+          "answers": [
+            "こんばんは"
+          ],
+          "en": "good evening"
+        },
+        {
+          "id": "l01-p005",
+          "cue": "11 p.m. · your host family, as you go to bed",
+          "answers": [
+            "おやすみなさい"
+          ],
+          "en": "good night"
+        },
+        {
+          "id": "l01-p006",
+          "cue": "5 p.m. · Yamada-sensei, as you leave school for the day",
+          "answers": [
+            "さようなら"
+          ],
+          "en": "goodbye"
+        },
+        {
+          "id": "l01-p007",
+          "cue": "a party · Tanaka-san, whom you are meeting for the first time",
+          "answers": [
+            "はじめまして"
+          ],
+          "en": "nice to meet you"
+        },
+        {
+          "id": "l01-p008",
+          "cue": "a cafe · Sakura, after six months without seeing her",
+          "answers": [
+            "久[ひさ]しぶり"
+          ],
+          "en": "long time no see"
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Say the phrase that this moment calls for.",
+      "kind": "typed",
+      "items": [
+        {
+          "id": "l01-p009",
+          "cue": "You leave your host family's house for class in the morning.",
+          "answers": [
+            "いってきます"
+          ],
+          "en": "I'm off"
+        },
+        {
+          "id": "l01-p010",
+          "cue": "You get back to your host family's house in the evening.",
+          "answers": [
+            "ただいま"
+          ],
+          "en": "I'm home"
+        },
+        {
+          "id": "l01-p011",
+          "cue": "Dinner is on the table and you are about to start eating.",
+          "answers": [
+            "いただきます"
+          ],
+          "en": "(said before eating)"
+        },
+        {
+          "id": "l01-p012",
+          "cue": "You have just finished a meal at Sakura's house.",
+          "answers": [
+            "ごちそうさまでした",
+            "ごちそうさま"
+          ],
+          "en": "(said after eating)"
+        },
+        {
+          "id": "l01-p013",
+          "cue": "Your phone rings and you pick it up.",
+          "answers": [
+            "もしもし"
+          ],
+          "en": "hello (on the phone)"
+        },
+        {
+          "id": "l01-p014",
+          "cue": "Everyone at the party raises a glass together.",
+          "answers": [
+            "乾杯[かんぱい]"
+          ],
+          "en": "cheers!"
+        },
+        {
+          "id": "l01-p015",
+          "cue": "Tanaka-san has a cold and is going home early.",
+          "answers": [
+            "お大事[だいじ]に"
+          ],
+          "en": "get well soon"
+        },
+        {
+          "id": "l01-p016",
+          "cue": "You are in a cafe and want the waiter to come over.",
+          "answers": [
+            "すみません"
+          ],
+          "en": "excuse me"
+        },
+        {
+          "id": "l01-p017",
+          "cue": "You hold a door open so Yamada-sensei can go through first.",
+          "answers": [
+            "どうぞ"
+          ],
+          "en": "go ahead"
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Reply to what the person says.",
+      "kind": "typed",
+      "items": [
+        {
+          "id": "l01-p018",
+          "cue": "いってきます。",
+          "context": "Your host brother, as he leaves for school",
+          "cueEn": "I'm off.",
+          "answers": [
+            "いってらっしゃい"
+          ],
+          "en": "see you later"
+        },
+        {
+          "id": "l01-p019",
+          "cue": "ただいま。",
+          "context": "Your host mother, coming in through the front door",
+          "cueEn": "I'm home.",
+          "answers": [
+            "おかえりなさい"
+          ],
+          "en": "welcome back"
+        },
+        {
+          "id": "l01-p020",
+          "cue": "どうぞ。",
+          "context": "Tanaka-san, handing you a cup of tea",
+          "cueEn": "Here you are.",
+          "answers": [
+            "ありがとうございます",
+            "どうも"
+          ],
+          "en": "thank you"
+        },
+        {
+          "id": "l01-p021",
+          "cue": "もしもし、ケンさんですか。",
+          "context": "Tanaka-san, on the phone. You are Ken.",
+          "cueEn": "Hello, is that Ken?",
+          "answers": [
+            "はい、そうです",
+            "ええ、そうです"
+          ],
+          "en": "yes, that's right"
+        },
+        {
+          "id": "l01-p022",
+          "cue": "ごめんなさい！",
+          "context": "Sakura, after she bumps into you. You are not hurt.",
+          "cueEn": "Sorry!",
+          "answers": [
+            "大丈夫[だいじょうぶ]",
+            "大丈夫[だいじょうぶ]です"
+          ],
+          "en": "it's all right"
+        },
+        {
+          "id": "l01-p023",
+          "cue": "ケンさん、今日[きょう]はテストですよ。",
+          "context": "Sakura. You had no idea.",
+          "cueEn": "Ken, there's a test today, you know.",
+          "answers": [
+            "本当[ほんとう]ですか",
+            "本当[ほんとう]"
+          ],
+          "en": "really?"
+        },
+        {
+          "id": "l01-p024",
+          "cue": "おやすみなさい。",
+          "context": "Your host mother, on her way to bed",
+          "cueEn": "Good night.",
+          "answers": [
+            "おやすみなさい"
+          ],
+          "en": "good night"
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Say it casually to Sakura, a friend, and politely to Yamada-sensei or Tanaka-san.",
+      "kind": "typed",
+      "example": { "cue": "good morning · to Tanaka-san", "answer": "おはようございます" },
+      "items": [
+        {
+          "id": "l01-p025",
+          "cue": "thank you · to Sakura",
+          "answers": [
+            "ありがとう",
+            "どうも"
+          ],
+          "en": "thanks"
+        },
+        {
+          "id": "l01-p026",
+          "cue": "thank you · to Tanaka-san",
+          "answers": [
+            "ありがとうございます"
+          ],
+          "en": "thank you"
+        },
+        {
+          "id": "l01-p027",
+          "cue": "good morning · to Sakura",
+          "answers": [
+            "おはよう"
+          ],
+          "en": "morning"
+        },
+        {
+          "id": "l01-p028",
+          "cue": "yes · to Sakura",
+          "answers": [
+            "うん"
+          ],
+          "en": "yeah"
+        },
+        {
+          "id": "l01-p029",
+          "cue": "yes · to Yamada-sensei",
+          "answers": [
+            "はい",
+            "ええ"
+          ],
+          "en": "yes"
+        },
+        {
+          "id": "l01-p030",
+          "cue": "no · to Sakura",
+          "answers": [
+            "ううん"
+          ],
+          "en": "nope"
+        },
+        {
+          "id": "l01-p031",
+          "cue": "no · to Tanaka-san",
+          "answers": [
+            "いいえ"
+          ],
+          "en": "no"
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Introduce yourself, using your own name.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l01-p032",
+          "cue": "first day of class · to Yamada-sensei",
+          "answers": [
+            "はじめまして。ケンです。よろしくおねがいします。",
+            "はじめまして。ケンです。カナダ人[じん]です。よろしくおねがいします。"
+          ],
+          "en": "Nice to meet you. I'm Ken. Pleased to meet you.",
+          "breakdown": [
+            { "text": "はじめまして", "en": "nice to meet you" },
+            { "text": "ケン", "en": "Ken" },
+            { "text": "です", "en": "I am" },
+            { "text": "よろしくおねがいします", "en": "pleased to meet you" }
+          ]
+        },
+        {
+          "id": "l01-p033",
+          "cue": "お名前[なまえ]は？",
+          "context": "Sakura's classmate, at a party",
+          "cueEn": "And your name?",
+          "answers": [
+            "ケンです。",
+            "ケンです。よろしくおねがいします。"
+          ],
+          "en": "I'm Ken.",
+          "breakdown": [
+            { "text": "ケン", "en": "Ken" },
+            { "text": "です", "en": "I am" }
+          ]
+        }
+      ]
+    }
+  ]
+}

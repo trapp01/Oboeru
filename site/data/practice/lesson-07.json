@@ -1,0 +1,585 @@
+{
+  "lesson": 7,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Say where the first place is.",
+      "kind": "typed",
+      "example": { "cue": "shrine · next to · temple", "answer": "神社[じんじゃ]はお寺[てら]の隣[となり]にあります。" },
+      "items": [
+        {
+          "id": "l07-p001",
+          "cue": "post office · next to · bank",
+          "answers": [
+            "郵便局[ゆうびんきょく]は銀行[ぎんこう]の隣[となり]にあります。",
+            "郵便局[ゆうびんきょく]は銀行[ぎんこう]の隣[となり]です。"
+          ],
+          "en": "The post office is next to the bank.",
+          "breakdown": [
+            { "text": "郵便局", "en": "post office" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "銀行", "en": "bank" },
+            { "text": "の", "en": "of" },
+            { "text": "隣", "en": "next to" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "あります", "en": "is (located)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p002",
+          "cue": "library · in front of · station",
+          "answers": [
+            "図書館[としょかん]は駅[えき]の前[まえ]にあります。",
+            "図書館[としょかん]は駅[えき]の前[まえ]です。"
+          ],
+          "en": "The library is in front of the station.",
+          "breakdown": [
+            { "text": "図書館", "en": "library" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "駅", "en": "station" },
+            { "text": "の", "en": "of" },
+            { "text": "前", "en": "in front" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "あります", "en": "is (located)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p003",
+          "cue": "cafe · behind · hotel",
+          "answers": [
+            "カフェはホテルの後[うし]ろにあります。",
+            "カフェはホテルの後[うし]ろです。"
+          ],
+          "en": "The cafe is behind the hotel.",
+          "breakdown": [
+            { "text": "カフェ", "en": "cafe" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "ホテル", "en": "hotel" },
+            { "text": "の", "en": "of" },
+            { "text": "後ろ", "en": "behind" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "あります", "en": "is (located)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p004",
+          "cue": "hospital · near · park",
+          "answers": [
+            "病院[びょういん]は公園[こうえん]の近[ちか]くにあります。",
+            "病院[びょういん]は公園[こうえん]の近[ちか]くです。"
+          ],
+          "en": "The hospital is near the park.",
+          "breakdown": [
+            { "text": "病院", "en": "hospital" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "公園", "en": "park" },
+            { "text": "の", "en": "of" },
+            { "text": "近く", "en": "near" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "あります", "en": "is (located)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p005",
+          "cue": "bookshop · between · supermarket and convenience store",
+          "answers": [
+            "本屋[ほんや]はスーパーとコンビニの間[あいだ]にあります。",
+            "本屋[ほんや]はスーパーとコンビニの間[あいだ]です。"
+          ],
+          "en": "The bookshop is between the supermarket and the convenience store.",
+          "breakdown": [
+            { "text": "本屋", "en": "bookshop" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "スーパー", "en": "supermarket" },
+            { "text": "と", "en": "and" },
+            { "text": "コンビニ", "en": "convenience store" },
+            { "text": "の", "en": "of" },
+            { "text": "間", "en": "between" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "あります", "en": "is (located)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p006",
+          "cue": "toilet · to the right of · entrance",
+          "answers": [
+            "トイレは入口[いりぐち]の右[みぎ]にあります。",
+            "トイレは入口[いりぐち]の右[みぎ]です。"
+          ],
+          "en": "The toilet is to the right of the entrance.",
+          "breakdown": [
+            { "text": "トイレ", "en": "toilet" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "入口", "en": "entrance" },
+            { "text": "の", "en": "of" },
+            { "text": "右", "en": "right" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "あります", "en": "is (located)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p007",
+          "cue": "zoo · north of · town",
+          "answers": [
+            "動物園[どうぶつえん]は町[まち]の北[きた]にあります。",
+            "動物園[どうぶつえん]は町[まち]の北[きた]です。"
+          ],
+          "en": "The zoo is north of the town.",
+          "breakdown": [
+            { "text": "動物園", "en": "zoo" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "町", "en": "town" },
+            { "text": "の", "en": "of" },
+            { "text": "北", "en": "north" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "あります", "en": "is (located)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Say what is in each place, choosing あります or います.",
+      "kind": "typed",
+      "example": { "cue": "on the desk · dictionary", "answer": "机[つくえ]の上[うえ]に辞書[じしょ]があります。" },
+      "items": [
+        {
+          "id": "l07-p008",
+          "cue": "in the bag · wallet",
+          "answers": [
+            "かばんの中[なか]に財布[さいふ]があります。"
+          ],
+          "en": "There is a wallet in the bag.",
+          "breakdown": [
+            { "text": "かばん", "en": "bag" },
+            { "text": "の", "en": "of" },
+            { "text": "中", "en": "inside" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "財布", "en": "wallet" },
+            { "text": "が", "en": "marks what is there" },
+            { "text": "あります", "en": "is (there)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p009",
+          "cue": "in front of the station · Sakura",
+          "answers": [
+            "駅[えき]の前[まえ]にさくらさんがいます。"
+          ],
+          "en": "Sakura is in front of the station.",
+          "breakdown": [
+            { "text": "駅", "en": "station" },
+            { "text": "の", "en": "of" },
+            { "text": "前", "en": "in front" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "が", "en": "marks who is there" },
+            { "text": "います", "en": "is (there)", "base": "いる", "baseEn": "to be, to exist (people and animals)" }
+          ]
+        },
+        {
+          "id": "l07-p010",
+          "cue": "under the desk · cat",
+          "answers": [
+            "机[つくえ]の下[した]に猫[ねこ]がいます。"
+          ],
+          "en": "There is a cat under the desk.",
+          "breakdown": [
+            { "text": "机", "en": "desk" },
+            { "text": "の", "en": "of" },
+            { "text": "下", "en": "under" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "猫", "en": "cat" },
+            { "text": "が", "en": "marks what is there" },
+            { "text": "います", "en": "is (there)", "base": "いる", "baseEn": "to be, to exist (people and animals)" }
+          ]
+        },
+        {
+          "id": "l07-p011",
+          "cue": "behind the hospital · park",
+          "answers": [
+            "病院[びょういん]の後[うし]ろに公園[こうえん]があります。"
+          ],
+          "en": "There is a park behind the hospital.",
+          "breakdown": [
+            { "text": "病院", "en": "hospital" },
+            { "text": "の", "en": "of" },
+            { "text": "後ろ", "en": "behind" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "公園", "en": "park" },
+            { "text": "が", "en": "marks what is there" },
+            { "text": "あります", "en": "is (there)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p012",
+          "cue": "in the park · children",
+          "answers": [
+            "公園[こうえん]に子供[こども]がいます。"
+          ],
+          "en": "There are children in the park.",
+          "breakdown": [
+            { "text": "公園", "en": "park" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "子供", "en": "children" },
+            { "text": "が", "en": "marks who is there" },
+            { "text": "います", "en": "are (there)", "base": "いる", "baseEn": "to be, to exist (people and animals)" }
+          ]
+        },
+        {
+          "id": "l07-p013",
+          "cue": "in the cafe · Tanaka-san",
+          "answers": [
+            "カフェに田中[たなか]さんがいます。"
+          ],
+          "en": "Tanaka-san is in the cafe.",
+          "breakdown": [
+            { "text": "カフェ", "en": "cafe" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "が", "en": "marks who is there" },
+            { "text": "います", "en": "is (there)", "base": "いる", "baseEn": "to be, to exist (people and animals)" }
+          ]
+        },
+        {
+          "id": "l07-p014",
+          "cue": "inside the station · convenience store",
+          "answers": [
+            "駅[えき]の中[なか]にコンビニがあります。"
+          ],
+          "en": "There is a convenience store inside the station.",
+          "breakdown": [
+            { "text": "駅", "en": "station" },
+            { "text": "の", "en": "of" },
+            { "text": "中", "en": "inside" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "コンビニ", "en": "convenience store" },
+            { "text": "が", "en": "marks what is there" },
+            { "text": "あります", "en": "is (there)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Answer the question from the facts given.",
+      "kind": "typed",
+      "items": [
+        {
+          "id": "l07-p015",
+          "cue": "銀行[ぎんこう]はどこにありますか。",
+          "context": "The bank is in front of the station.",
+          "cueEn": "Where is the bank?",
+          "answers": [
+            "(銀行[ぎんこう]は)駅[えき]の前[まえ]にあります。",
+            "(銀行[ぎんこう]は)駅[えき]の前[まえ]です。"
+          ],
+          "en": "The bank is in front of the station.",
+          "breakdown": [
+            { "text": "銀行", "en": "bank" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "駅", "en": "station" },
+            { "text": "の", "en": "of" },
+            { "text": "前", "en": "in front" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "あります", "en": "is (located)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p016",
+          "cue": "ケンさんはどこにいますか。",
+          "context": "Ken is in the library.",
+          "cueEn": "Where is Ken?",
+          "answers": [
+            "(ケンさんは)図書館[としょかん]にいます。",
+            "(ケンさんは)図書館[としょかん]です。"
+          ],
+          "en": "Ken is in the library.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "図書館", "en": "library" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "います", "en": "is (there)", "base": "いる", "baseEn": "to be, to exist (people and animals)" }
+          ]
+        },
+        {
+          "id": "l07-p017",
+          "cue": "トイレはどこですか。",
+          "context": "The toilet is next to the exit.",
+          "cueEn": "Where is the toilet?",
+          "answers": [
+            "(トイレは)出口[でぐち]の隣[となり]です。",
+            "(トイレは)出口[でぐち]の隣[となり]にあります。"
+          ],
+          "en": "The toilet is next to the exit.",
+          "breakdown": [
+            { "text": "トイレ", "en": "toilet" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "出口", "en": "exit" },
+            { "text": "の", "en": "of" },
+            { "text": "隣", "en": "next to" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l07-p018",
+          "cue": "山田[やまだ]先生[せんせい]はどこにいますか。",
+          "context": "Yamada-sensei is in the cafeteria.",
+          "cueEn": "Where is Yamada-sensei?",
+          "answers": [
+            "(山田[やまだ]先生[せんせい]は)食堂[しょくどう]にいます。",
+            "(山田[やまだ]先生[せんせい]は)食堂[しょくどう]です。"
+          ],
+          "en": "Yamada-sensei is in the cafeteria.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "食堂", "en": "cafeteria" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "います", "en": "is (there)", "base": "いる", "baseEn": "to be, to exist (people and animals)" }
+          ]
+        },
+        {
+          "id": "l07-p019",
+          "cue": "駅[えき]の近[ちか]くに何[なに]がありますか。",
+          "context": "Near the station: a department store.",
+          "cueEn": "What is there near the station?",
+          "answers": [
+            "(駅[えき]の近[ちか]くに)デパートがあります。"
+          ],
+          "en": "There is a department store near the station.",
+          "breakdown": [
+            { "text": "駅", "en": "station" },
+            { "text": "の", "en": "of" },
+            { "text": "近く", "en": "near" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "デパート", "en": "department store" },
+            { "text": "が", "en": "marks what is there" },
+            { "text": "あります", "en": "is (there)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p020",
+          "cue": "公園[こうえん]にだれがいますか。",
+          "context": "In the park: Sakura and Ken.",
+          "cueEn": "Who is in the park?",
+          "answers": [
+            "(公園[こうえん]に)さくらさんとケンさんがいます。"
+          ],
+          "en": "Sakura and Ken are in the park.",
+          "breakdown": [
+            { "text": "公園", "en": "park" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "と", "en": "and" },
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "が", "en": "marks who is there" },
+            { "text": "います", "en": "are (there)", "base": "いる", "baseEn": "to be, to exist (people and animals)" }
+          ]
+        },
+        {
+          "id": "l07-p021",
+          "cue": "美術館[びじゅつかん]はどこにありますか。",
+          "context": "The art museum is between the park and the zoo.",
+          "cueEn": "Where is the art museum?",
+          "answers": [
+            "(美術館[びじゅつかん]は)公園[こうえん]と動物園[どうぶつえん]の間[あいだ]にあります。",
+            "(美術館[びじゅつかん]は)公園[こうえん]と動物園[どうぶつえん]の間[あいだ]です。"
+          ],
+          "en": "The art museum is between the park and the zoo.",
+          "breakdown": [
+            { "text": "美術館", "en": "art museum" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "公園", "en": "park" },
+            { "text": "と", "en": "and" },
+            { "text": "動物園", "en": "zoo" },
+            { "text": "の", "en": "of" },
+            { "text": "間", "en": "between" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "あります", "en": "is (located)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Say where each person goes, comes or returns.",
+      "kind": "typed",
+      "example": { "cue": "Sakura · go · library", "answer": "さくらさんは図書館[としょかん]に行[い]きます。" },
+      "items": [
+        {
+          "id": "l07-p022",
+          "cue": "Ken · go · post office",
+          "answers": [
+            "ケンさんは郵便局[ゆうびんきょく]に行[い]きます。",
+            "ケンさんは郵便局[ゆうびんきょく]へ行[い]きます。"
+          ],
+          "en": "Ken goes to the post office.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "郵便局", "en": "post office" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きます", "en": "goes", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l07-p023",
+          "cue": "Tanaka-san · come · this cafe",
+          "answers": [
+            "田中[たなか]さんはこのカフェに来[き]ます。",
+            "田中[たなか]さんはこのカフェへ来[き]ます。"
+          ],
+          "en": "Tanaka-san comes to this cafe.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "この", "en": "this" },
+            { "text": "カフェ", "en": "cafe" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "来ます", "en": "comes", "base": "来[く]る", "baseEn": "to come" }
+          ]
+        },
+        {
+          "id": "l07-p024",
+          "cue": "Ken · return · Canada",
+          "answers": [
+            "ケンさんはカナダに帰[かえ]ります。",
+            "ケンさんはカナダへ帰[かえ]ります。"
+          ],
+          "en": "Ken goes back to Canada.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "カナダ", "en": "Canada" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "帰ります", "en": "goes back", "base": "帰[かえ]る", "baseEn": "to go home, to return" }
+          ]
+        },
+        {
+          "id": "l07-p025",
+          "cue": "Yamada-sensei · go · hospital",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は病院[びょういん]に行[い]きます。",
+            "山田[やまだ]先生[せんせい]は病院[びょういん]へ行[い]きます。"
+          ],
+          "en": "Yamada-sensei goes to the hospital.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "病院", "en": "hospital" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きます", "en": "goes", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l07-p026",
+          "cue": "Sakura · go · shrine",
+          "answers": [
+            "さくらさんは神社[じんじゃ]に行[い]きます。",
+            "さくらさんは神社[じんじゃ]へ行[い]きます。"
+          ],
+          "en": "Sakura goes to the shrine.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "神社", "en": "shrine" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きます", "en": "goes", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l07-p027",
+          "cue": "Ken · go · where?",
+          "answers": [
+            "ケンさんはどこに行[い]きますか。",
+            "ケンさんはどこへ行[い]きますか。"
+          ],
+          "en": "Where is Ken going?",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "どこ", "en": "where" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きます", "en": "go", "base": "行[い]く", "baseEn": "to go" },
+            { "text": "か", "en": "question marker" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Answer about where you live and what you carry.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l07-p028",
+          "cue": "うちの近[ちか]くに何[なに]がありますか。",
+          "cueEn": "What is there near your home?",
+          "answers": [
+            "うちの近[ちか]くにスーパーがあります。",
+            "うちの近[ちか]くに公園[こうえん]と病院[びょういん]があります。"
+          ],
+          "en": "There is a supermarket near my home.",
+          "breakdown": [
+            { "text": "うち", "en": "home" },
+            { "text": "の", "en": "of" },
+            { "text": "近く", "en": "near" },
+            { "text": "に", "en": "in, at (where it is)" },
+            { "text": "スーパー", "en": "supermarket" },
+            { "text": "が", "en": "marks what is there" },
+            { "text": "あります", "en": "is (there)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p029",
+          "cue": "よくどこに行[い]きますか。",
+          "cueEn": "Where do you often go?",
+          "answers": [
+            "よく図書館[としょかん]に行[い]きます。",
+            "よくカフェに行[い]きます。"
+          ],
+          "en": "I often go to the library.",
+          "breakdown": [
+            { "text": "よく", "en": "often" },
+            { "text": "図書館", "en": "library" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きます", "en": "go", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l07-p030",
+          "cue": "かばんの中[なか]に何[なに]がありますか。",
+          "cueEn": "What is in your bag?",
+          "answers": [
+            "財布[さいふ]とスマホがあります。",
+            "本[ほん]とペンがあります。"
+          ],
+          "en": "There is a wallet and a smartphone.",
+          "breakdown": [
+            { "text": "財布", "en": "wallet" },
+            { "text": "と", "en": "and" },
+            { "text": "スマホ", "en": "smartphone" },
+            { "text": "が", "en": "marks what is there" },
+            { "text": "あります", "en": "is (there)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        },
+        {
+          "id": "l07-p031",
+          "cue": "うちの近[ちか]くに駅[えき]がありますか。",
+          "cueEn": "Is there a station near your home?",
+          "answers": [
+            "はい、あります。",
+            "いいえ、ありません。"
+          ],
+          "en": "Yes, there is.",
+          "breakdown": [
+            { "text": "はい", "en": "yes" },
+            { "text": "あります", "en": "is (there)", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        }
+      ]
+    }
+  ]
+}

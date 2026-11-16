@@ -1,0 +1,437 @@
+{
+ "lesson": 4,
+ "title": "School and work",
+ "sections": [
+  {
+   "id": "school",
+   "title": "School",
+   "words": [
+    {
+     "id": "l04-001",
+     "kana": "がっこう",
+     "kanji": "学校",
+     "meaning": "school",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-002",
+     "kana": "こうこう",
+     "kanji": "高校",
+     "meaning": "high school",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-003",
+     "kana": "だいがく",
+     "kanji": "大学",
+     "meaning": "university",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-004",
+     "kana": "がくせい",
+     "kanji": "学生",
+     "meaning": "student",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-005",
+     "kana": "こうこうせい",
+     "kanji": "高校生",
+     "meaning": "high school student",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-006",
+     "kana": "だいがくせい",
+     "kanji": "大学生",
+     "meaning": "university student",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-007",
+     "kana": "りゅうがくせい",
+     "kanji": "留学生",
+     "meaning": "international student",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-008",
+     "kana": "せんせい",
+     "kanji": "先生",
+     "meaning": "teacher",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-009",
+     "kana": "じゅぎょう",
+     "kanji": "授業",
+     "meaning": "class, lesson",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-010",
+     "kana": "しゅくだい",
+     "kanji": "宿題",
+     "meaning": "homework",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-011",
+     "kana": "テスト",
+     "kanji": "",
+     "meaning": "test",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-012",
+     "kana": "しけん",
+     "kanji": "試験",
+     "meaning": "exam",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-013",
+     "kana": "きょうかしょ",
+     "kanji": "教科書",
+     "meaning": "textbook",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-014",
+     "kana": "じしょ",
+     "kanji": "辞書",
+     "meaning": "dictionary",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-015",
+     "kana": "かんじ",
+     "kanji": "漢字",
+     "meaning": "kanji",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-016",
+     "kana": "たんご",
+     "kanji": "単語",
+     "meaning": "word, vocabulary",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-017",
+     "kana": "ぶんぽう",
+     "kanji": "文法",
+     "meaning": "grammar",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-018",
+     "kana": "はつおん",
+     "kanji": "発音",
+     "meaning": "pronunciation",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-019",
+     "kana": "いみ",
+     "kanji": "意味",
+     "meaning": "meaning",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-020",
+     "kana": "しつもん",
+     "kanji": "質問",
+     "meaning": "question",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-021",
+     "kana": "こたえ",
+     "kanji": "答",
+     "meaning": "answer",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-022",
+     "kana": "れんしゅう",
+     "kanji": "練習",
+     "meaning": "practice",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-023",
+     "kana": "さくぶん",
+     "kanji": "作文",
+     "meaning": "essay",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-024",
+     "kana": "よむ",
+     "kanji": "読む",
+     "meaning": "to read",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l04-025",
+     "kana": "かく",
+     "kanji": "書く",
+     "meaning": "to write",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l04-026",
+     "kana": "はなす",
+     "kanji": "話す",
+     "meaning": "to speak, to talk",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l04-027",
+     "kana": "きく",
+     "kanji": "聞く",
+     "meaning": "to listen; to ask",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l04-028",
+     "kana": "わかる",
+     "kanji": "",
+     "meaning": "to understand",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l04-029",
+     "kana": "ならう",
+     "kanji": "習う",
+     "meaning": "to learn, to take lessons in",
+     "category": "Godan verbs"
+    },
+    {
+     "id": "l04-030",
+     "kana": "おしえる",
+     "kanji": "教える",
+     "meaning": "to teach; to tell",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l04-031",
+     "kana": "おぼえる",
+     "kanji": "覚える",
+     "meaning": "to memorize",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l04-032",
+     "kana": "わすれる",
+     "kanji": "忘れる",
+     "meaning": "to forget",
+     "category": "Ichidan verbs"
+    },
+    {
+     "id": "l04-033",
+     "kana": "べんきょうする",
+     "kanji": "勉強する",
+     "meaning": "to study",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l04-034",
+     "kana": "れんしゅうする",
+     "kanji": "練習する",
+     "meaning": "to practise",
+     "category": "Irregular verbs"
+    },
+    {
+     "id": "l04-035",
+     "kana": "りゅうがくする",
+     "kanji": "留学する",
+     "meaning": "to study abroad",
+     "category": "Irregular verbs"
+    }
+   ]
+  },
+  {
+   "id": "countries-languages",
+   "title": "Countries and languages",
+   "words": [
+    {
+     "id": "l04-036",
+     "kana": "くに",
+     "kanji": "国",
+     "meaning": "country",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-037",
+     "kana": "がいこく",
+     "kanji": "外国",
+     "meaning": "foreign country",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-038",
+     "kana": "にほん",
+     "kanji": "日本",
+     "meaning": "Japan",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-039",
+     "kana": "にほんじん",
+     "kanji": "日本人",
+     "meaning": "Japanese person",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-040",
+     "kana": "にほんご",
+     "kanji": "日本語",
+     "meaning": "Japanese (language)",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-041",
+     "kana": "えいご",
+     "kanji": "英語",
+     "meaning": "English (language)",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-042",
+     "kana": "アメリカ",
+     "kanji": "",
+     "meaning": "the United States",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-043",
+     "kana": "カナダ",
+     "kanji": "",
+     "meaning": "Canada",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-044",
+     "kana": "イギリス",
+     "kanji": "",
+     "meaning": "the United Kingdom",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-045",
+     "kana": "オーストラリア",
+     "kanji": "",
+     "meaning": "Australia",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-046",
+     "kana": "ちゅうごく",
+     "kanji": "中国",
+     "meaning": "China",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-047",
+     "kana": "かんこく",
+     "kanji": "韓国",
+     "meaning": "South Korea",
+     "category": "Nouns"
+    }
+   ]
+  },
+  {
+   "id": "work",
+   "title": "Work",
+   "words": [
+    {
+     "id": "l04-048",
+     "kana": "しごと",
+     "kanji": "仕事",
+     "meaning": "work, job",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-049",
+     "kana": "かいしゃ",
+     "kanji": "会社",
+     "meaning": "company",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-050",
+     "kana": "かいしゃいん",
+     "kanji": "会社員",
+     "meaning": "office worker",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-051",
+     "kana": "しゃちょう",
+     "kanji": "社長",
+     "meaning": "company president",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-052",
+     "kana": "アルバイト",
+     "kanji": "",
+     "meaning": "part-time job",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-053",
+     "kana": "いしゃ",
+     "kanji": "医者",
+     "meaning": "doctor",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-054",
+     "kana": "かんごし",
+     "kanji": "看護師",
+     "meaning": "nurse",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-055",
+     "kana": "べんごし",
+     "kanji": "弁護士",
+     "meaning": "lawyer",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-056",
+     "kana": "けいさつかん",
+     "kanji": "警察官",
+     "meaning": "police officer",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-057",
+     "kana": "かしゅ",
+     "kanji": "歌手",
+     "meaning": "singer",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-058",
+     "kana": "さっか",
+     "kanji": "作家",
+     "meaning": "writer",
+     "category": "Nouns"
+    },
+    {
+     "id": "l04-059",
+     "kana": "はたらく",
+     "kanji": "働く",
+     "meaning": "to work",
+     "category": "Godan verbs"
+    }
+   ]
+  }
+ ]
+}

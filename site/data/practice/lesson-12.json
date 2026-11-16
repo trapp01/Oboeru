@@ -1,0 +1,496 @@
+{
+  "lesson": 12,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Ask if you may do it, with 〜てもいいですか.",
+      "kind": "typed",
+      "example": { "cue": "turn on · the light", "answer": "電気[でんき]をつけてもいいですか。" },
+      "items": [
+        {
+          "id": "l12-p001",
+          "cue": "open · the door",
+          "answers": [
+            "ドアを開[あ]けてもいいですか。"
+          ],
+          "en": "May I open the door?",
+          "breakdown": [
+            { "text": "ドア", "en": "door" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "開けてもいいです", "en": "is it all right to open", "base": "開[あ]ける", "baseEn": "to open" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l12-p002",
+          "cue": "turn on · the air conditioner",
+          "answers": [
+            "エアコンをつけてもいいですか。"
+          ],
+          "en": "May I turn on the air conditioner?",
+          "breakdown": [
+            { "text": "エアコン", "en": "air conditioner" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "つけてもいいです", "en": "is it all right to turn on", "base": "つける", "baseEn": "to turn on" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l12-p003",
+          "cue": "use · this computer",
+          "answers": [
+            "このパソコンを使[つか]ってもいいですか。"
+          ],
+          "en": "May I use this computer?",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "パソコン", "en": "computer" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "使ってもいいです", "en": "is it all right to use", "base": "使[つか]う", "baseEn": "to use" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l12-p004",
+          "cue": "sit · here",
+          "answers": [
+            "ここに座[すわ]ってもいいですか。"
+          ],
+          "en": "May I sit here?",
+          "breakdown": [
+            { "text": "ここ", "en": "here" },
+            { "text": "に", "en": "in (the seat)" },
+            { "text": "座ってもいいです", "en": "is it all right to sit", "base": "座[すわ]る", "baseEn": "to sit down" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l12-p005",
+          "cue": "borrow · this dictionary",
+          "answers": [
+            "この辞書[じしょ]を借[か]りてもいいですか。"
+          ],
+          "en": "May I borrow this dictionary?",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "辞書", "en": "dictionary" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "借りてもいいです", "en": "is it all right to borrow", "base": "借[か]りる", "baseEn": "to borrow" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l12-p006",
+          "cue": "go · to the restroom",
+          "answers": [
+            "お手洗[てあら]いに行[い]ってもいいですか。",
+            "トイレに行[い]ってもいいですか。"
+          ],
+          "en": "May I go to the restroom?",
+          "breakdown": [
+            { "text": "お手洗い", "en": "restroom" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行ってもいいです", "en": "is it all right to go", "base": "行[い]く", "baseEn": "to go" },
+            { "text": "か", "en": "question marker" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Say what the person is doing right now, with 〜ています.",
+      "kind": "typed",
+      "example": { "cue": "Yamada-sensei · drink · coffee", "answer": "山田[やまだ]先生[せんせい]は今[いま]、コーヒーを飲[の]んでいます。" },
+      "items": [
+        {
+          "id": "l12-p007",
+          "cue": "Ken · clean · his room",
+          "answers": [
+            "ケンさんは(今[いま]、)部屋[へや]を掃除[そうじ]しています。"
+          ],
+          "en": "Ken is cleaning his room now.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "今", "en": "now" },
+            { "text": "部屋", "en": "room" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "掃除しています", "en": "is cleaning", "base": "掃除[そうじ]する", "baseEn": "to clean" }
+          ]
+        },
+        {
+          "id": "l12-p008",
+          "cue": "Sakura · do the laundry",
+          "answers": [
+            "さくらさんは(今[いま]、)洗濯[せんたく]しています。"
+          ],
+          "en": "Sakura is doing the laundry now.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "今", "en": "now" },
+            { "text": "洗濯しています", "en": "is doing the laundry", "base": "洗濯[せんたく]する", "baseEn": "to do laundry" }
+          ]
+        },
+        {
+          "id": "l12-p009",
+          "cue": "Tanaka-san · take a bath",
+          "answers": [
+            "田中[たなか]さんは(今[いま]、)お風呂[ふろ]に入[はい]っています。"
+          ],
+          "en": "Tanaka-san is taking a bath now.",
+          "breakdown": [
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "今", "en": "now" },
+            { "text": "お風呂", "en": "bath" },
+            { "text": "に", "en": "into" },
+            { "text": "入っています", "en": "is in (taking)", "base": "入[はい]る", "baseEn": "to enter" }
+          ]
+        },
+        {
+          "id": "l12-p010",
+          "cue": "Ken · wash · his hands",
+          "answers": [
+            "ケンさんは(今[いま]、)手[て]を洗[あら]っています。"
+          ],
+          "en": "Ken is washing his hands now.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "今", "en": "now" },
+            { "text": "手", "en": "hand" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "洗っています", "en": "is washing", "base": "洗[あら]う", "baseEn": "to wash" }
+          ]
+        },
+        {
+          "id": "l12-p011",
+          "cue": "Sakura · sleep",
+          "answers": [
+            "さくらさんは(今[いま]、)寝[ね]ています。"
+          ],
+          "en": "Sakura is sleeping now.",
+          "breakdown": [
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "今", "en": "now" },
+            { "text": "寝ています", "en": "is sleeping", "base": "寝[ね]る", "baseEn": "to sleep" }
+          ]
+        },
+        {
+          "id": "l12-p012",
+          "cue": "Yamada-sensei · use · the computer",
+          "answers": [
+            "山田[やまだ]先生[せんせい]は(今[いま]、)パソコンを使[つか]っています。"
+          ],
+          "en": "Yamada-sensei is using the computer now.",
+          "breakdown": [
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "今", "en": "now" },
+            { "text": "パソコン", "en": "computer" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "使っています", "en": "is using", "base": "使[つか]う", "baseEn": "to use" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Ask someone politely not to do it, with 〜ないでください.",
+      "kind": "typed",
+      "example": { "cue": "open · the window", "answer": "窓[まど]を開[あ]けないでください。" },
+      "items": [
+        {
+          "id": "l12-p013",
+          "cue": "close · the door",
+          "answers": [
+            "ドアを閉[し]めないでください。"
+          ],
+          "en": "Please don't close the door.",
+          "breakdown": [
+            { "text": "ドア", "en": "door" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "閉めないでください", "en": "please don't close", "base": "閉[し]める", "baseEn": "to close" }
+          ]
+        },
+        {
+          "id": "l12-p014",
+          "cue": "turn off · the light",
+          "answers": [
+            "電気[でんき]を消[け]さないでください。"
+          ],
+          "en": "Please don't turn off the light.",
+          "breakdown": [
+            { "text": "電気", "en": "light" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "消さないでください", "en": "please don't turn off", "base": "消[け]す", "baseEn": "to turn off; to erase" }
+          ]
+        },
+        {
+          "id": "l12-p015",
+          "cue": "throw away · this newspaper",
+          "answers": [
+            "この新聞[しんぶん]を捨[す]てないでください。"
+          ],
+          "en": "Please don't throw away this newspaper.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "新聞", "en": "newspaper" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "捨てないでください", "en": "please don't throw away", "base": "捨[す]てる", "baseEn": "to throw away" }
+          ]
+        },
+        {
+          "id": "l12-p016",
+          "cue": "sit · on this chair",
+          "answers": [
+            "このいすに座[すわ]らないでください。"
+          ],
+          "en": "Please don't sit on this chair.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "いす", "en": "chair" },
+            { "text": "に", "en": "on (a seat)" },
+            { "text": "座らないでください", "en": "please don't sit", "base": "座[すわ]る", "baseEn": "to sit down" }
+          ]
+        },
+        {
+          "id": "l12-p017",
+          "cue": "take · photos · here",
+          "answers": [
+            "ここで写真[しゃしん]を撮[と]らないでください。"
+          ],
+          "en": "Please don't take photos here.",
+          "breakdown": [
+            { "text": "ここ", "en": "here" },
+            { "text": "で", "en": "at (where it happens)" },
+            { "text": "写真", "en": "photo" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "撮らないでください", "en": "please don't take", "base": "撮[と]る", "baseEn": "to take (a photo)" }
+          ]
+        },
+        {
+          "id": "l12-p018",
+          "cue": "worry",
+          "answers": [
+            "心配[しんぱい]しないでください。"
+          ],
+          "en": "Please don't worry.",
+          "breakdown": [
+            { "text": "心配しないでください", "en": "please don't worry", "base": "心配[しんぱい]する", "baseEn": "to worry" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Tell the doctor what is wrong.",
+      "kind": "typed",
+      "example": { "cue": "head · hurts", "answer": "頭[あたま]が痛[いた]いです。" },
+      "items": [
+        {
+          "id": "l12-p019",
+          "cue": "throat · hurts",
+          "answers": [
+            "のどが痛[いた]いです。"
+          ],
+          "en": "My throat hurts.",
+          "breakdown": [
+            { "text": "のど", "en": "throat" },
+            { "text": "が", "en": "marks what hurts" },
+            { "text": "痛いです", "en": "hurts", "base": "痛[いた]い", "baseEn": "painful, sore" }
+          ]
+        },
+        {
+          "id": "l12-p020",
+          "cue": "stomach · hurts",
+          "answers": [
+            "おなかが痛[いた]いです。"
+          ],
+          "en": "My stomach hurts.",
+          "breakdown": [
+            { "text": "おなか", "en": "stomach" },
+            { "text": "が", "en": "marks what hurts" },
+            { "text": "痛いです", "en": "hurts", "base": "痛[いた]い", "baseEn": "painful, sore" }
+          ]
+        },
+        {
+          "id": "l12-p021",
+          "cue": "back · hurts",
+          "answers": [
+            "背中[せなか]が痛[いた]いです。"
+          ],
+          "en": "My back hurts.",
+          "breakdown": [
+            { "text": "背中", "en": "back" },
+            { "text": "が", "en": "marks what hurts" },
+            { "text": "痛いです", "en": "hurts", "base": "痛[いた]い", "baseEn": "painful, sore" }
+          ]
+        },
+        {
+          "id": "l12-p022",
+          "cue": "eyes · hurt",
+          "answers": [
+            "目[め]が痛[いた]いです。"
+          ],
+          "en": "My eyes hurt.",
+          "breakdown": [
+            { "text": "目", "en": "eye" },
+            { "text": "が", "en": "marks what hurts" },
+            { "text": "痛いです", "en": "hurt", "base": "痛[いた]い", "baseEn": "painful, sore" }
+          ]
+        },
+        {
+          "id": "l12-p023",
+          "cue": "have · a fever",
+          "answers": [
+            "熱[ねつ]があります。"
+          ],
+          "en": "I have a fever.",
+          "breakdown": [
+            { "text": "熱", "en": "fever" },
+            { "text": "が", "en": "marks what there is" },
+            { "text": "あります", "en": "have, there is", "base": "ある", "baseEn": "to be, to exist (things)" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Say what Ken did last week when he was ill, in the past tense.",
+      "kind": "typed",
+      "example": { "cue": "stay · at home", "answer": "うちにいました。" },
+      "items": [
+        {
+          "id": "l12-p024",
+          "cue": "Monday · catch a cold",
+          "answers": [
+            "(ケンさんは)月曜日[げつようび]に風邪[かぜ]をひきました。"
+          ],
+          "en": "Ken caught a cold on Monday.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "月曜日", "en": "Monday" },
+            { "text": "に", "en": "on (a day)" },
+            { "text": "風邪", "en": "a cold" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "ひきました", "en": "caught", "base": "ひく", "baseEn": "to catch (a cold)" }
+          ]
+        },
+        {
+          "id": "l12-p025",
+          "cue": "miss · class",
+          "answers": [
+            "(ケンさんは)授業[じゅぎょう]を休[やす]みました。"
+          ],
+          "en": "Ken missed class.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "授業", "en": "class" },
+            { "text": "を", "en": "marks what he missed" },
+            { "text": "休みました", "en": "was absent from", "base": "休[やす]む", "baseEn": "to rest; to be absent" }
+          ]
+        },
+        {
+          "id": "l12-p026",
+          "cue": "go · to the hospital",
+          "answers": [
+            "(ケンさんは)病院[びょういん]に行[い]きました。"
+          ],
+          "en": "Ken went to the hospital.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "病院", "en": "hospital" },
+            { "text": "に", "en": "to (a place)" },
+            { "text": "行きました", "en": "went", "base": "行[い]く", "baseEn": "to go" }
+          ]
+        },
+        {
+          "id": "l12-p027",
+          "cue": "take · medicine",
+          "answers": [
+            "(ケンさんは)薬[くすり]を飲[の]みました。"
+          ],
+          "en": "Ken took medicine.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "薬", "en": "medicine" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "飲みました", "en": "took (medicine)", "base": "飲[の]む", "baseEn": "to drink; to take (medicine)" }
+          ]
+        },
+        {
+          "id": "l12-p028",
+          "cue": "go to bed · early",
+          "answers": [
+            "(ケンさんは)早[はや]く寝[ね]ました。"
+          ],
+          "en": "Ken went to bed early.",
+          "breakdown": [
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "早く", "en": "early", "base": "早[はや]い", "baseEn": "early" },
+            { "text": "寝ました", "en": "went to bed", "base": "寝[ね]る", "baseEn": "to sleep; to go to bed" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "instruction": "Answer about yourself.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l12-p029",
+          "cue": "今[いま]、どんな本[ほん]を読[よ]んでいますか。",
+          "cueEn": "What kind of book are you reading at the moment?",
+          "answers": [
+            "日本[にほん]の漫画[まんが]を読[よ]んでいます。"
+          ],
+          "en": "I'm reading a Japanese manga.",
+          "breakdown": [
+            { "text": "日本", "en": "Japan" },
+            { "text": "の", "en": "of, from" },
+            { "text": "漫画", "en": "manga, comics" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "読んでいます", "en": "am reading", "base": "読[よ]む", "baseEn": "to read" }
+          ]
+        },
+        {
+          "id": "l12-p030",
+          "cue": "よく風邪[かぜ]をひきますか。",
+          "cueEn": "Do you often catch colds?",
+          "answers": [
+            "いいえ、あまりひきません。"
+          ],
+          "en": "No, not very often.",
+          "breakdown": [
+            { "text": "いいえ", "en": "no" },
+            { "text": "あまり", "en": "not often" },
+            { "text": "ひきません", "en": "don't catch", "base": "ひく", "baseEn": "to catch (a cold)" }
+          ]
+        },
+        {
+          "id": "l12-p031",
+          "cue": "よく部屋[へや]を掃除[そうじ]しますか。",
+          "cueEn": "Do you often clean your room?",
+          "answers": [
+            "はい、毎週[まいしゅう]掃除[そうじ]します。"
+          ],
+          "en": "Yes, I clean it every week.",
+          "breakdown": [
+            { "text": "はい", "en": "yes" },
+            { "text": "毎週", "en": "every week" },
+            { "text": "掃除します", "en": "clean", "base": "掃除[そうじ]する", "baseEn": "to clean" }
+          ]
+        }
+      ]
+    }
+  ]
+}

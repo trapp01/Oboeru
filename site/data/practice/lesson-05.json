@@ -1,0 +1,559 @@
+{
+  "lesson": 5,
+  "exercises": [
+    {
+      "ref": "1",
+      "instruction": "Say what the thing is, with これ (by you), それ (by the listener) or あれ (away from you both).",
+      "kind": "typed",
+      "example": { "cue": "this · umbrella", "answer": "これは傘[かさ]です。" },
+      "items": [
+        {
+          "id": "l05-p001",
+          "cue": "that · wallet",
+          "answers": [
+            "それは財布[さいふ]です。"
+          ],
+          "en": "That's a wallet.",
+          "breakdown": [
+            { "text": "それ", "en": "that one (near you)" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "財布", "en": "wallet" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l05-p002",
+          "cue": "over there · clock",
+          "answers": [
+            "あれは時計[とけい]です。"
+          ],
+          "en": "That over there is a clock.",
+          "breakdown": [
+            { "text": "あれ", "en": "that one over there" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "時計", "en": "clock" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l05-p003",
+          "cue": "this · my glasses",
+          "answers": [
+            "これは私[わたし]の眼鏡[めがね]です。"
+          ],
+          "en": "These are my glasses.",
+          "breakdown": [
+            { "text": "これ", "en": "this one" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "私", "en": "I" },
+            { "text": "の", "en": "'s (私の = my)" },
+            { "text": "眼鏡", "en": "glasses" },
+            { "text": "です", "en": "are" }
+          ]
+        },
+        {
+          "id": "l05-p004",
+          "cue": "that · newspaper",
+          "answers": [
+            "それは新聞[しんぶん]です。"
+          ],
+          "en": "That's a newspaper.",
+          "breakdown": [
+            { "text": "それ", "en": "that one (near you)" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "新聞", "en": "newspaper" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l05-p005",
+          "cue": "over there · Ken's bag",
+          "answers": [
+            "あれはケンさんのかばんです。"
+          ],
+          "en": "That over there is Ken's bag.",
+          "breakdown": [
+            { "text": "あれ", "en": "that one over there" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "の", "en": "'s" },
+            { "text": "かばん", "en": "bag" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l05-p006",
+          "cue": "that · ask what it is",
+          "answers": [
+            "それは何[なん]ですか。"
+          ],
+          "en": "What's that?",
+          "breakdown": [
+            { "text": "それ", "en": "that one (near you)" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "何", "en": "what" },
+            { "text": "です", "en": "is" },
+            { "text": "か", "en": "question marker" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "2",
+      "instruction": "Say whose the thing is, with この (by you), その (by the listener) or あの (away from you both) before it.",
+      "kind": "typed",
+      "example": { "cue": "this · pen · mine", "answer": "このペンは私[わたし]のです。" },
+      "items": [
+        {
+          "id": "l05-p007",
+          "cue": "that · umbrella · Sakura's",
+          "answers": [
+            "その傘[かさ]はさくらさんのです。"
+          ],
+          "en": "That umbrella is Sakura's.",
+          "breakdown": [
+            { "text": "その", "en": "that (near you)" },
+            { "text": "傘", "en": "umbrella" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "さくらさん", "en": "Sakura" },
+            { "text": "の", "en": "'s (Sakura's one)" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l05-p008",
+          "cue": "over there · bag · Tanaka's",
+          "answers": [
+            "あのかばんは田中[たなか]さんのです。"
+          ],
+          "en": "That bag over there is Tanaka-san's.",
+          "breakdown": [
+            { "text": "あの", "en": "that … over there" },
+            { "text": "かばん", "en": "bag" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "田中さん", "en": "Tanaka-san" },
+            { "text": "の", "en": "'s (Tanaka-san's one)" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l05-p009",
+          "cue": "this · textbook · Ken's",
+          "answers": [
+            "この教科書[きょうかしょ]はケンさんのです。"
+          ],
+          "en": "This textbook is Ken's.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "教科書", "en": "textbook" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "の", "en": "'s (Ken's one)" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l05-p010",
+          "cue": "that · camera · Yamada-sensei's",
+          "answers": [
+            "そのカメラは山田[やまだ]先生[せんせい]のです。"
+          ],
+          "en": "That camera is Yamada-sensei's.",
+          "breakdown": [
+            { "text": "その", "en": "that (near you)" },
+            { "text": "カメラ", "en": "camera" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "山田先生", "en": "Yamada-sensei" },
+            { "text": "の", "en": "'s (the teacher's one)" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l05-p011",
+          "cue": "this · smartphone · not mine",
+          "answers": [
+            "このスマホは私[わたし]のじゃないです。"
+          ],
+          "en": "This smartphone isn't mine.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "スマホ", "en": "smartphone" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "私", "en": "I" },
+            { "text": "の", "en": "'s (私の = mine)" },
+            { "text": "じゃないです", "en": "is not" }
+          ]
+        },
+        {
+          "id": "l05-p012",
+          "cue": "over there · hat · Ken's",
+          "answers": [
+            "あの帽子[ぼうし]はケンさんのです。"
+          ],
+          "en": "That hat over there is Ken's.",
+          "breakdown": [
+            { "text": "あの", "en": "that … over there" },
+            { "text": "帽子", "en": "hat" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "ケンさん", "en": "Ken" },
+            { "text": "の", "en": "'s (Ken's one)" },
+            { "text": "です", "en": "is" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "3",
+      "instruction": "Ask whose the thing is: 'this' is by you, 'that' by the listener, 'over there' away from you both.",
+      "kind": "typed",
+      "example": { "cue": "that · pencil", "answer": "その鉛筆[えんぴつ]はだれのですか。" },
+      "items": [
+        {
+          "id": "l05-p013",
+          "cue": "this · watch",
+          "answers": [
+            "この時計[とけい]はだれのですか。",
+            "これはだれの時計[とけい]ですか。"
+          ],
+          "en": "Whose watch is this?",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "時計", "en": "watch" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "だれ", "en": "who" },
+            { "text": "の", "en": "'s (だれの = whose)" },
+            { "text": "です", "en": "is" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l05-p014",
+          "cue": "that · gloves",
+          "answers": [
+            "その手袋[てぶくろ]はだれのですか。",
+            "それはだれの手袋[てぶくろ]ですか。"
+          ],
+          "en": "Whose gloves are those?",
+          "breakdown": [
+            { "text": "その", "en": "that (near you)" },
+            { "text": "手袋", "en": "gloves" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "だれ", "en": "who" },
+            { "text": "の", "en": "'s (だれの = whose)" },
+            { "text": "です", "en": "are" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l05-p015",
+          "cue": "over there · bicycle",
+          "answers": [
+            "あの自転車[じてんしゃ]はだれのですか。",
+            "あれはだれの自転車[じてんしゃ]ですか。"
+          ],
+          "en": "Whose bicycle is that over there?",
+          "breakdown": [
+            { "text": "あの", "en": "that … over there" },
+            { "text": "自転車", "en": "bicycle" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "だれ", "en": "who" },
+            { "text": "の", "en": "'s (whose)" },
+            { "text": "です", "en": "is" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l05-p016",
+          "cue": "this · luggage",
+          "answers": [
+            "この荷物[にもつ]はだれのですか。",
+            "これはだれの荷物[にもつ]ですか。"
+          ],
+          "en": "Whose luggage is this?",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "荷物", "en": "luggage" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "だれ", "en": "who" },
+            { "text": "の", "en": "'s (だれの = whose)" },
+            { "text": "です", "en": "is" },
+            { "text": "か", "en": "question marker" }
+          ]
+        },
+        {
+          "id": "l05-p017",
+          "cue": "that · notebook",
+          "answers": [
+            "そのノートはだれのですか。",
+            "それはだれのノートですか。"
+          ],
+          "en": "Whose notebook is that?",
+          "breakdown": [
+            { "text": "その", "en": "that (near you)" },
+            { "text": "ノート", "en": "notebook" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "だれ", "en": "who" },
+            { "text": "の", "en": "'s (だれの = whose)" },
+            { "text": "です", "en": "is" },
+            { "text": "か", "en": "question marker" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "4",
+      "instruction": "Say what the thing costs.",
+      "kind": "typed",
+      "example": { "cue": "this pen · ¥200", "answer": "このペンは二百円[にひゃくえん]です。" },
+      "items": [
+        {
+          "id": "l05-p018",
+          "cue": "this umbrella · ¥900",
+          "answers": [
+            "この傘[かさ]は九百円[きゅうひゃくえん]です。"
+          ],
+          "en": "This umbrella is 900 yen.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "傘", "en": "umbrella" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "九百円", "en": "900 yen" },
+            { "text": "です", "en": "is, are" }
+          ]
+        },
+        {
+          "id": "l05-p019",
+          "cue": "that bag · ¥3,800",
+          "answers": [
+            "そのかばんは三千八百円[さんぜんはっぴゃくえん]です。"
+          ],
+          "en": "That bag is 3,800 yen.",
+          "breakdown": [
+            { "text": "その", "en": "that" },
+            { "text": "かばん", "en": "bag" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "三千八百円", "en": "3,800 yen" },
+            { "text": "です", "en": "is, are" }
+          ]
+        },
+        {
+          "id": "l05-p020",
+          "cue": "that hat over there · ¥2,600",
+          "answers": [
+            "あの帽子[ぼうし]は二千六百円[にせんろっぴゃくえん]です。"
+          ],
+          "en": "That hat over there is 2,600 yen.",
+          "breakdown": [
+            { "text": "あの", "en": "that … over there" },
+            { "text": "帽子", "en": "hat" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "二千六百円", "en": "2,600 yen" },
+            { "text": "です", "en": "is, are" }
+          ]
+        },
+        {
+          "id": "l05-p021",
+          "cue": "this notebook · ¥130",
+          "answers": [
+            "このノートは百三十円[ひゃくさんじゅうえん]です。"
+          ],
+          "en": "This notebook is 130 yen.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "ノート", "en": "notebook" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "百三十円", "en": "130 yen" },
+            { "text": "です", "en": "is, are" }
+          ]
+        },
+        {
+          "id": "l05-p022",
+          "cue": "those shoes · ¥8,300",
+          "answers": [
+            "その靴[くつ]は八千三百円[はっせんさんびゃくえん]です。"
+          ],
+          "en": "Those shoes are 8,300 yen.",
+          "breakdown": [
+            { "text": "その", "en": "those" },
+            { "text": "靴", "en": "shoes" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "八千三百円", "en": "8,300 yen" },
+            { "text": "です", "en": "is, are" }
+          ]
+        },
+        {
+          "id": "l05-p023",
+          "cue": "this one · ¥650",
+          "answers": [
+            "これは六百五十円[ろっぴゃくごじゅうえん]です。"
+          ],
+          "en": "This one is 650 yen.",
+          "breakdown": [
+            { "text": "これ", "en": "this one" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "六百五十円", "en": "650 yen" },
+            { "text": "です", "en": "is, are" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "5",
+      "instruction": "Say it in a shop: 'this' is by you, 'that' by the shop assistant, 'over there' away from you both.",
+      "kind": "typed",
+      "example": { "cue": "ask for · that · umbrella", "answer": "その傘[かさ]をください。" },
+      "items": [
+        {
+          "id": "l05-p024",
+          "cue": "ask for · this · bag",
+          "answers": [
+            "このかばんをください。"
+          ],
+          "en": "I'll take this bag, please.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "かばん", "en": "bag" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "ください", "en": "please give me", "base": "くださる", "baseEn": "to give (to me)" }
+          ]
+        },
+        {
+          "id": "l05-p025",
+          "cue": "ask for · the one over there",
+          "answers": [
+            "あれをください。"
+          ],
+          "en": "That one over there, please.",
+          "breakdown": [
+            { "text": "あれ", "en": "that one over there" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "ください", "en": "please give me", "base": "くださる", "baseEn": "to give (to me)" }
+          ]
+        },
+        {
+          "id": "l05-p026",
+          "cue": "this · watch · expensive",
+          "answers": [
+            "この時計[とけい]は高[たか]いです。"
+          ],
+          "en": "This watch is expensive.",
+          "breakdown": [
+            { "text": "この", "en": "this" },
+            { "text": "時計", "en": "watch" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "高いです", "en": "is expensive", "base": "高[たか]い", "baseEn": "expensive" }
+          ]
+        },
+        {
+          "id": "l05-p027",
+          "cue": "that · jeans · cheap",
+          "answers": [
+            "そのジーンズは安[やす]いです。"
+          ],
+          "en": "Those jeans are cheap.",
+          "breakdown": [
+            { "text": "その", "en": "that (near you)" },
+            { "text": "ジーンズ", "en": "jeans" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "安いです", "en": "are cheap", "base": "安[やす]い", "baseEn": "cheap" }
+          ]
+        },
+        {
+          "id": "l05-p028",
+          "cue": "ask for · two · this one",
+          "answers": [
+            "これを二[ふた]つください。"
+          ],
+          "en": "Two of these, please.",
+          "breakdown": [
+            { "text": "これ", "en": "this one" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "二つ", "en": "two (things)" },
+            { "text": "ください", "en": "please give me", "base": "くださる", "baseEn": "to give (to me)" }
+          ]
+        },
+        {
+          "id": "l05-p029",
+          "cue": "ask the price · over there · shoes",
+          "answers": [
+            "あの靴[くつ]はいくらですか。"
+          ],
+          "en": "How much are those shoes over there?",
+          "breakdown": [
+            { "text": "あの", "en": "that … over there" },
+            { "text": "靴", "en": "shoes" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "いくら", "en": "how much" },
+            { "text": "です", "en": "are" },
+            { "text": "か", "en": "question marker" }
+          ]
+        }
+      ]
+    },
+    {
+      "ref": "6",
+      "instruction": "Say it about your own things, in your own words.",
+      "kind": "open",
+      "items": [
+        {
+          "id": "l05-p030",
+          "cue": "a thing near you · what it is and whose",
+          "answers": [
+            "これは私[わたし]の財布[さいふ]です。"
+          ],
+          "en": "This is my wallet.",
+          "breakdown": [
+            { "text": "これ", "en": "this one" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "私", "en": "I" },
+            { "text": "の", "en": "'s (私の = my)" },
+            { "text": "財布", "en": "wallet" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l05-p031",
+          "cue": "あなたのかばんは高[たか]いですか。",
+          "cueEn": "Is your bag expensive?",
+          "answers": [
+            "いいえ、安[やす]いです。",
+            "はい、高[たか]いです。"
+          ],
+          "en": "No, it's cheap.",
+          "breakdown": [
+            { "text": "いいえ", "en": "no" },
+            { "text": "安いです", "en": "is cheap", "base": "安[やす]い", "baseEn": "cheap" }
+          ]
+        },
+        {
+          "id": "l05-p032",
+          "cue": "something you buy often · its price",
+          "answers": [
+            "コーヒーは三百円[さんびゃくえん]です。"
+          ],
+          "en": "Coffee is 300 yen.",
+          "breakdown": [
+            { "text": "コーヒー", "en": "coffee" },
+            { "text": "は", "en": "topic marker" },
+            { "text": "三百円", "en": "300 yen" },
+            { "text": "です", "en": "is" }
+          ]
+        },
+        {
+          "id": "l05-p033",
+          "cue": "in a shop · ask for something you want",
+          "answers": [
+            "そのカメラをください。"
+          ],
+          "en": "I'll take that camera, please.",
+          "breakdown": [
+            { "text": "その", "en": "that (near you)" },
+            { "text": "カメラ", "en": "camera" },
+            { "text": "を", "en": "marks the object" },
+            { "text": "ください", "en": "please give me", "base": "くださる", "baseEn": "to give (to me)" }
+          ]
+        }
+      ]
+    }
+  ]
+}
