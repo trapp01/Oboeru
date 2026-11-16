@@ -1,0 +1,289 @@
+/* Shared look: colour and type tokens, base elements, buttons and key hints.
+   Each component or screen keeps its own stylesheet beside its module; index.html links them all. */
+
+:root {
+  --paper: #f3eee3;
+  --paper-raised: #faf7f0;
+  --paper-sunk: #ebe4d5;
+  --ink: #1f2a4a;
+  --ink-soft: #4a5373;
+  --ink-faint: #7c8197;
+  --rule: #dcd3c1;
+  --seal: #b93526;
+  --seal-text: #b02f21;
+  --seal-wash: rgba(185, 53, 38, 0.1);
+  --on-seal: #fff8f1;
+  --cool: #2c6a80;
+  --cool-wash: #d6e5e8;
+  --correct: #3d7550;
+  --focus: #2c6a80;
+
+  --mincho: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", "Hiragino Sans", "Noto Sans JP", sans-serif;
+
+  --column: 640px;
+  --gutter: 16px;
+  --radius: 10px;
+  --fast: 160ms;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #182033;
+    --paper-raised: #1f2940;
+    --paper-sunk: #131a2a;
+    --ink: #ece5d6;
+    --ink-soft: #b9b4a8;
+    --ink-faint: #868a9c;
+    --rule: #2f3a55;
+    --seal: #c9452f;
+    --seal-text: #f07a63;
+    --seal-wash: rgba(240, 122, 99, 0.14);
+    --on-seal: #fff8f1;
+    --cool: #93c3d2;
+    --cool-wash: rgba(147, 195, 210, 0.18);
+    --correct: #8fc59f;
+    --focus: #93c3d2;
+    color-scheme: dark;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  min-height: 100dvh;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 1rem;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+h1,
+h2,
+h3,
+p,
+ul,
+ol {
+  margin: 0;
+}
+
+ul,
+ol {
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+[tabindex="-1"]:focus {
+  outline: none;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.screen {
+  max-width: var(--column);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+/* Japanese text */
+
+[lang="ja"] {
+  font-family: var(--mincho);
+}
+
+/* Centred, so a long fallback reading (じゅうよん／じゅうし over 十四) does not spread the kanji apart. */
+ruby {
+  ruby-position: over;
+  ruby-align: center;
+}
+
+rt {
+  font-family: var(--mincho);
+  font-size: max(0.45em, 0.8rem);
+  line-height: 1;
+  color: var(--ink-soft);
+  letter-spacing: 0.02em;
+}
+
+mark.target {
+  background: none;
+  color: var(--seal-text);
+  box-shadow: inset 0 -0.12em 0 var(--seal-wash);
+}
+
+mark.target rt {
+  color: var(--seal-text);
+}
+
+/* Buttons */
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6em;
+  min-height: 52px;
+  padding: 0 1.25rem;
+  border: 1px solid transparent;
+  border-radius: var(--radius);
+  font-size: 1.0625rem;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color var(--fast), transform 80ms;
+  touch-action: manipulation;
+}
+
+.button:active:not(:disabled) {
+  transform: translateY(1px);
+}
+
+.button-primary {
+  background: var(--seal);
+  color: var(--on-seal);
+}
+
+.button-primary:disabled {
+  background: var(--paper-sunk);
+  color: var(--ink-faint);
+  cursor: default;
+}
+
+.button-quiet,
+.button-again {
+  background: transparent;
+  border-color: var(--rule);
+  color: var(--ink);
+}
+
+@media (hover: hover) {
+  .button-primary:hover:not(:disabled) {
+    background: color-mix(in srgb, var(--seal) 88%, black);
+  }
+
+  .button-quiet:hover,
+  .button-again:hover {
+    background: var(--paper-raised);
+  }
+}
+
+/* Key hints show only where there is a keyboard to press them. */
+
+.key-hint {
+  display: none;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .key-hint {
+    display: inline-block;
+    min-width: 1.6em;
+    padding: 0.1em 0.4em;
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    font-family: var(--sans);
+    font-size: 0.6875rem;
+    font-weight: 500;
+    line-height: 1.3;
+    text-align: center;
+    opacity: 0.6;
+  }
+}
+
+/* Shared screen pieces */
+
+.screen-header {
+  padding: 1.25rem 0 1rem;
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  min-height: 44px;
+  margin-left: -0.25rem;
+  padding: 0 0.25rem;
+  color: var(--ink-soft);
+  font-size: 0.9375rem;
+  text-decoration: none;
+}
+
+.back-link::before {
+  content: "";
+  width: 0.5em;
+  height: 0.5em;
+  border-left: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: rotate(45deg);
+}
+
+.screen-title {
+  margin-top: 0.5rem;
+  font-size: 1.875rem;
+  font-weight: 650;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+}
+
+.screen-subtitle {
+  margin-top: 0.2rem;
+  color: var(--ink-soft);
+}
+
+.load-error {
+  display: grid;
+  justify-items: start;
+  gap: 1rem;
+  padding: 2rem 0;
+  color: var(--ink-soft);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0s !important;
+    scroll-behavior: auto !important;
+  }
+}

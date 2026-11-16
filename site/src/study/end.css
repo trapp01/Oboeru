@@ -1,0 +1,81 @@
+/* End of session (end-screen.js). It reuses the card-in animation from study.css. */
+
+.end {
+  padding: clamp(1.5rem, 6vh, 3.5rem) 0 calc(2rem + env(safe-area-inset-bottom));
+  animation: card-in 200ms var(--ease);
+}
+
+.end-head {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.end-seal {
+  display: inline-grid;
+  place-items: center;
+  width: 3.25rem;
+  height: 3.25rem;
+  border: 2px solid var(--seal);
+  border-radius: 8px;
+  color: var(--seal-text);
+  font-size: 1.75rem;
+  line-height: 1;
+  transform: rotate(-6deg);
+  animation: seal-in 260ms var(--ease) both;
+}
+
+@keyframes seal-in {
+  from { opacity: 0; transform: rotate(-6deg) scale(1.3); }
+}
+
+.end-title {
+  font-size: 2.25rem;
+  font-weight: 650;
+  letter-spacing: -0.01em;
+}
+
+.end-summary {
+  margin-top: 1rem;
+  color: var(--ink-soft);
+  font-size: 1.0625rem;
+}
+
+.missed-list {
+  margin-top: 1.75rem;
+  border-top: 1px solid var(--rule);
+}
+
+.missed-row {
+  display: grid;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.missed-ja {
+  font-size: 1.375rem;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.missed-ja rt {
+  font-size: 0.55em;
+}
+
+.missed-meaning {
+  color: var(--ink-soft);
+  font-size: 0.9375rem;
+}
+
+.end-actions {
+  display: grid;
+  gap: 0.75rem;
+  margin-top: 2rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .end,
+  .end-seal {
+    animation: none;
+  }
+}

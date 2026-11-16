@@ -1,0 +1,36 @@
+/* The masthead and the Vocabulary and Practice tabs over the lesson list (list-frame.js). */
+
+.list-header .masthead {
+  padding-bottom: 1rem;
+}
+
+.list-tabs {
+  display: flex;
+  gap: 1.75rem;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.list-tab {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  margin-bottom: -1px;
+  border-bottom: 2px solid transparent;
+  color: var(--ink-faint);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color var(--fast), border-color var(--fast);
+}
+
+.list-tab[aria-current="page"] {
+  border-bottom-color: var(--ink);
+  color: var(--ink);
+}
+
+@media (hover: hover) {
+  .list-tab:hover {
+    color: var(--ink);
+  }
+}

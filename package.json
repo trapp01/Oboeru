@@ -1,0 +1,15 @@
+{
+  "name": "oboeru",
+  "description": "Flashcards for Japanese vocabulary with spoken clips, example sentences you can take apart, and mnemonics.",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test",
+    "validate": "node scripts/validate-words.mjs && node scripts/validate-notes.mjs && node scripts/validate-practice.mjs"
+  }
+}

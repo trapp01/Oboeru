@@ -1,0 +1,316 @@
+/* Lesson list and lesson screen. */
+
+/* Lesson list */
+
+.masthead {
+  display: flex;
+  align-items: baseline;
+  gap: 0.9rem;
+  padding: 2.75rem 0 1.75rem;
+  font-weight: normal;
+}
+
+.masthead-mark {
+  font-size: 3rem;
+  line-height: 1.25;
+  letter-spacing: 0.04em;
+}
+
+.masthead-name {
+  color: var(--ink-faint);
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.mix-hint {
+  margin: -0.75rem 0 1rem;
+  color: var(--ink-faint);
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+.lesson-list {
+  border-top: 1px solid var(--rule);
+}
+
+.list-footer {
+  display: grid;
+  gap: 0.25rem;
+  padding: 1.25rem 0 calc(2rem + env(safe-area-inset-bottom));
+  color: var(--ink-faint);
+  font-size: 0.8125rem;
+}
+
+/* Leaves room for the mix dock while it is showing. */
+.list-screen:has(.mix-dock:not([hidden])) .list-footer {
+  padding-bottom: calc(11.5rem + env(safe-area-inset-bottom));
+}
+
+.lesson-item {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  border-bottom: 1px solid var(--rule);
+}
+
+.lesson-row {
+  display: grid;
+  grid-template-columns: 3.25rem 1fr;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.95rem 0.5rem 0.95rem 0;
+  text-decoration: none;
+}
+
+.lesson-pick {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 3.25rem;
+  cursor: pointer;
+}
+
+.lesson-item:has(.lesson-pick input:checked) .lesson-number {
+  color: var(--seal-text);
+}
+
+@media (hover: hover) {
+  .lesson-row:hover {
+    background: var(--paper-raised);
+  }
+
+  .lesson-row:hover .lesson-number {
+    color: var(--seal-text);
+  }
+}
+
+.lesson-number {
+  font-family: var(--mincho);
+  font-size: 2rem;
+  line-height: 1;
+  color: var(--ink-faint);
+  text-align: right;
+  font-variant-numeric: lining-nums tabular-nums;
+  transition: color var(--fast);
+}
+
+.lesson-text {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  column-gap: 0.75rem;
+  row-gap: 0.15rem;
+  align-items: baseline;
+}
+
+.lesson-title {
+  font-size: 1.0625rem;
+  font-weight: 600;
+}
+
+.lesson-count {
+  color: var(--ink-soft);
+  font-size: 0.9375rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.lesson-sections {
+  grid-column: 1 / -1;
+  color: var(--ink-faint);
+  font-size: 0.875rem;
+  line-height: 1.4;
+}
+
+/* Lesson screen */
+
+.lesson-screen {
+  padding-bottom: calc(6.5rem + env(safe-area-inset-bottom));
+}
+
+.segmented {
+  display: flex;
+  margin: 0.25rem 0 1.5rem;
+  padding: 3px;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  background: var(--paper-sunk);
+}
+
+.segmented-option {
+  position: relative;
+  flex: 1;
+}
+
+.segmented-option input {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  margin: 0;
+  cursor: pointer;
+}
+
+.segmented-option span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 42px;
+  border-radius: calc(var(--radius) - 3px);
+  color: var(--ink-soft);
+  font-size: 0.9375rem;
+  font-weight: 500;
+  transition: background-color var(--fast), color var(--fast);
+}
+
+.segmented-option input:checked + span {
+  background: var(--paper-raised);
+  color: var(--ink);
+  box-shadow: 0 0 0 1px var(--rule);
+}
+
+.segmented-option input:focus-visible + span {
+  outline: 2px solid var(--focus);
+  outline-offset: 1px;
+}
+
+.word-section + .word-section {
+  margin-top: 1.75rem;
+}
+
+.section-head {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 0 calc(-1 * var(--gutter));
+  padding: 0 var(--gutter);
+  border-bottom: 1px solid var(--ink);
+  background: var(--paper);
+  font-size: 1.125rem;
+  font-weight: 650;
+}
+
+.section-pick {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  gap: 0.85rem;
+  min-height: 52px;
+  cursor: pointer;
+}
+
+.section-count {
+  color: var(--ink-faint);
+  font-size: 0.875rem;
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+}
+
+.category-title {
+  padding: 1.1rem 0 0.35rem calc(1.25rem + 0.85rem);
+  color: var(--ink-faint);
+  font-size: 0.8125rem;
+  font-weight: 500;
+}
+
+input[type="checkbox"] {
+  flex: none;
+  width: 1.25rem;
+  height: 1.25rem;
+  margin: 0;
+  accent-color: var(--ink);
+  cursor: pointer;
+}
+
+.word-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.word-pick {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  gap: 0.85rem;
+  min-width: 0;
+  min-height: 60px;
+  padding: 0.55rem 0;
+  cursor: pointer;
+}
+
+.word-text {
+  display: grid;
+  min-width: 0;
+  transition: opacity var(--fast);
+}
+
+.word-pick:has(input:not(:checked)) .word-text {
+  opacity: 0.42;
+}
+
+.word-ja {
+  font-size: 1.375rem;
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+
+.word-ja rt {
+  font-size: 0.55em;
+}
+
+.word-meaning {
+  color: var(--ink-soft);
+  font-size: 0.9375rem;
+  line-height: 1.35;
+}
+
+.dock {
+  position: fixed;
+  inset: auto 0 0;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  padding: 1.25rem var(--gutter) calc(0.75rem + env(safe-area-inset-bottom));
+  background: linear-gradient(to bottom, transparent, var(--paper) 1.1rem);
+  pointer-events: none;
+}
+
+.study-button {
+  width: 100%;
+  max-width: calc(var(--column) - 2 * var(--gutter));
+  pointer-events: auto;
+}
+
+/* The lesson list's dock stacks the batch size, the pass status and the button. */
+.mix-dock {
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding-top: 1.75rem;
+  background: linear-gradient(to bottom, transparent, var(--paper) 1.5rem);
+}
+
+.mix-dock[hidden] {
+  display: none;
+}
+
+.mix-dock .segmented {
+  width: 100%;
+  max-width: calc(var(--column) - 2 * var(--gutter));
+  margin: 0;
+  pointer-events: auto;
+}
+
+.segmented-compact .segmented-option span {
+  min-height: 38px;
+  font-variant-numeric: tabular-nums;
+}
+
+.mix-status {
+  color: var(--ink-soft);
+  font-size: 0.875rem;
+  font-variant-numeric: tabular-nums;
+}

@@ -1,0 +1,56 @@
+/* The kana keyboard panel from kana-keyboard-view.js: ten columns of keys,
+   one per gojūon row, under the answer row. Its button is styled in practice.css. */
+
+.kana-keyboard {
+  display: grid;
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+  gap: 4px;
+  margin-top: 0.5rem;
+  padding: 6px;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  background: var(--paper-sunk);
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+
+.kana-key {
+  min-width: 0;
+  min-height: 44px;
+  padding: 0;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  background: var(--paper-raised);
+  color: var(--ink);
+  font-family: var(--mincho);
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+.kana-key-dakuten,
+.kana-key-handakuten,
+.kana-key-delete {
+  background: var(--paper);
+  color: var(--ink-soft);
+  font-family: var(--sans);
+}
+
+.kana-key:active:not(:disabled) {
+  background: var(--paper-sunk);
+  border-color: var(--ink-faint);
+}
+
+.kana-key:disabled {
+  color: var(--ink-faint);
+  background: transparent;
+  cursor: default;
+}
+
+@media (hover: hover) {
+  .kana-key:hover:not(:disabled) {
+    border-color: var(--ink-faint);
+  }
+}

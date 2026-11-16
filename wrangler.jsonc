@@ -1,0 +1,16 @@
+// Cloudflare deploys the repo with this: the files in site/ as static assets,
+// worker/index.js for /api/progress and /api/transcribe, a KV namespace for
+// the shared mix state, and Workers AI for transcribing spoken answers.
+{
+  "name": "oboeru",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./site",
+    "binding": "ASSETS"
+  },
+  // No id: wrangler creates the namespace on the first deploy and keeps it linked.
+  "kv_namespaces": [{ "binding": "PROGRESS" }],
+  // Workers AI, reached in the Worker as env.AI. There is nothing to create first; whisper is billed per audio minute.
+  "ai": { "binding": "AI" }
+}

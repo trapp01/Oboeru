@@ -1,0 +1,63 @@
+/* The speaker button from speaker.js. A failed play shakes it, or flashes it under reduced motion. */
+
+.speaker {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  min-width: 44px;
+  height: 44px;
+  padding: 0 0.6rem;
+  border: 1px solid var(--rule);
+  border-radius: 22px;
+  background: transparent;
+  color: var(--ink-soft);
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+.speaker-icon {
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.speaker-icon .speaker-body {
+  fill: currentColor;
+}
+
+@media (hover: hover) {
+  .speaker:hover {
+    color: var(--ink);
+    border-color: var(--ink-faint);
+  }
+}
+
+.speaker:active {
+  background: var(--paper-sunk);
+}
+
+.speaker.is-failed {
+  animation: speaker-shake 360ms var(--ease);
+}
+
+@keyframes speaker-shake {
+  20% { transform: translateX(-4px); }
+  45% { transform: translateX(4px); }
+  70% { transform: translateX(-2px); }
+}
+
+@keyframes speaker-flash {
+  50% { border-color: var(--seal-text); color: var(--seal-text); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .speaker.is-failed {
+    animation: speaker-flash 400ms linear;
+  }
+}
