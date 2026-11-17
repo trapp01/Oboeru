@@ -98,6 +98,7 @@ export function showStudy(root, { deck, signal }) {
       const word = session.current;
       if (session.gotIt() && !rerun) deck.onCleared?.(word);
     } else {
+      deck.onMissed?.(session.current);
       session.again();
     }
     showCard();

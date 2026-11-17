@@ -1,10 +1,11 @@
-// What a mix remembers. The mix state (ticked lessons, cleared ids, for the
+// What a mix remembers. The mix state (ticked lessons, cleared and missed ids, for the
 // vocabulary and the practice pool) is kept in localStorage and synced with
 // the shared copy, so it follows the user between devices. Each pool's batch
 // size stays on the device.
 
 import {
-  checkPool, cleanState, clearedIds, mergeStates, sameState, tickedLessons, withCleared, withLessons, withRestart,
+  checkPool, cleanState, clearedIds, mergeStates, missedIds, sameState, tickedLessons, withCleared, withLessons, withMissed,
+  withRestart,
 } from './mix-state.js';
 import { fetchShared, sendShared } from './mix-sync.js';
 
@@ -82,9 +83,13 @@ export function mixStore(kind) {
     saveLessons: (lessons) => change(withLessons(readState(), lessons, Date.now(), kind)),
     /** Cleared ids across `lessons`. */
     clearedIds: (lessons) => clearedIds(readState(), lessons, kind),
+    /** The draw's { cleared, missed } ids across `lessons`. */
+    progress: (lessons) => ({ cleared: clearedIds(readState(), lessons, kind), missed: missedIds(readState(), lessons, kind) }),
     /** Records a word or item as cleared for this pass. It carries its lesson number. */
     markCleared: (word) => change(withCleared(readState(), word, kind)),
-    /** Starts a new pass for `lessons`, with nothing in them cleared. */
+    /** Records a word or item as missed, so the next draw deals it first. It carries its lesson number. */
+    markMissed: (word) => change(withMissed(readState(), word, kind)),
+    /** Starts a new pass for `lessons`, with nothing in them cleared and the missed ids kept. */
     restartPass: (lessons) => change(withRestart(readState(), lessons, kind)),
     /** The batch size, a number or Infinity for "All". Stored as a number or the string "all". */
     savedBatchSize() {

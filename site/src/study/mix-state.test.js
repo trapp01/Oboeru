@@ -1,7 +1,8 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
-  checkPool, cleanState, clearedIds, emptyState, mergeStates, sameState, tickedLessons, withCleared, withLessons, withRestart,
+  checkPool, cleanState, clearedIds, emptyState, mergeStates, missedIds, sameState, tickedLessons, withCleared, withLessons, withMissed,
+  withRestart,
 } from './mix-state.js';
 
 const pad = (n, width) => String(n).padStart(width, '0');
@@ -107,6 +108,42 @@ test('the practice pool merges by the same rules', () => {
   assert.deepEqual(clearedIds(mergeStates(stale, other), [3], 'practice'), ['l03-p001', 'l03-p002', 'l03-p008']);
   assert.deepEqual(tickedLessons(mergeStates(other, emptyState()), 'practice'), [3, 4]);
   assert.ok(sameState(mergeStates(restarted, other), mergeStates(other, restarted)));
+});
+
+test('a missed word stays missed until it is cleared', () => {
+  let state = withMissed(withMissed(emptyState(), word(3, 4)), word(3, 4));
+  assert.deepEqual(missedIds(state, [3]), ['l03-004']);
+  assert.deepEqual(clearedIds(state, [3]), []);
+  state = withCleared(state, word(3, 4));
+  assert.deepEqual(missedIds(state, [3]), []);
+  assert.deepEqual(state.passes[3], { pass: 0, cleared: ['l03-004'] });
+});
+
+test('missing a cleared word takes it out of the cleared ids', () => {
+  const state = withMissed(withCleared(emptyState(), word(3, 4)), word(3, 4));
+  assert.deepEqual(clearedIds(state, [3]), []);
+  assert.deepEqual(missedIds(state, [3]), ['l03-004']);
+});
+
+test('a restart keeps the missed words', () => {
+  const state = withRestart(withMissed(withCleared(emptyState(), word(3, 1)), word(3, 2)), [3]);
+  assert.deepEqual(clearedIds(state, [3]), []);
+  assert.deepEqual(missedIds(state, [3]), ['l03-002']);
+});
+
+test('missed words are pooled across copies and passes, less what the winning pass cleared', () => {
+  const phone = withMissed(withMissed(emptyState(), word(3, 1)), word(3, 2));
+  const laptop = withCleared(withMissed(emptyState(), word(3, 3)), word(3, 2));
+  assert.deepEqual(missedIds(mergeStates(phone, laptop), [3]), ['l03-001', 'l03-003']);
+  const restarted = withCleared(withRestart(laptop, [3]), word(3, 1));
+  assert.deepEqual(missedIds(mergeStates(phone, restarted), [3]), ['l03-002', 'l03-003']);
+  assert.ok(sameState(mergeStates(phone, restarted), mergeStates(restarted, phone)));
+});
+
+test('missed practice items are kept apart from missed words', () => {
+  const state = withMissed(withMissed(emptyState(), word(3, 1)), item(3, 1), 'practice');
+  assert.deepEqual(missedIds(state, [3]), ['l03-001']);
+  assert.deepEqual(missedIds(state, [3], 'practice'), ['l03-p001']);
 });
 
 test('an unknown pool is refused', () => {

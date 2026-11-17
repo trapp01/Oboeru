@@ -32,17 +32,17 @@ It is used on a phone held in one hand and on a laptop with a keyboard. Both are
 A mix is a deck drawn from all the words of the checked lessons, for a short daily session over old and new words together.
 
 - While at least one lesson is checked, a dock is fixed at the bottom: a batch size control (10, 20, 30, All; 20 at first, remembered), a status line "3 lessons · 264 of 283 left in this pass", and the button "Study 20 words".
-- A word answered "Got it" without an "Again" in a mixed session is **cleared**. A batch is drawn at random from the words not yet cleared, so every word in the pool comes up before any repeats. A word marked "Again" stays uncleared and is dealt again in a later batch.
-- When fewer uncleared words are left than the batch size, the **pass** restarts: the leftovers go into the batch, cleared words fill the rest, and the pool's cleared record is emptied. "All" deals the whole pool.
+- A word answered "Got it" without an "Again" in a mixed session is **cleared**. A batch is drawn at random from the words not yet cleared, so every word in the pool comes up before any repeats. A word marked "Again" is **missed**: it stays uncleared, and every later batch deals missed words first, before the rest, until the word is answered "Got it" without an "Again" in a later session. Closing a session part way through keeps what was missed.
+- When fewer uncleared words are left than the batch size, the **pass** restarts: the leftovers go into the batch, cleared words fill the rest, and the pool's cleared record is emptied. Missed words stay missed. "All" deals the whole pool.
 - Cleared words are stored per lesson, so checking or unchecking a lesson keeps the progress of the others. Sessions started from a lesson screen and reruns of missed words do not clear anything.
 
 ### Sync
 
-The ticked lessons and the cleared words (the **mix state**) follow the user between devices. Batch size and card direction do not.
+The ticked lessons and the cleared and missed words (the **mix state**) follow the user between devices. Batch size and card direction do not.
 
 - Each device keeps the mix state in localStorage and works from that copy, so the app is usable offline and on a host without the endpoint.
 - The lesson list fetches the shared copy from `/api/progress` when it opens and when the tab becomes visible again, merges it with the device's copy, and redraws if anything changed. A change on the device is sent about 1.5 seconds later, or at once when the page is hidden.
-- Copies are merged, never overwritten. Each lesson has a pass number that goes up when its pass restarts: the later pass wins, and two copies of the same pass pool their cleared words. The ticked lessons come from the device that changed them last.
+- Copies are merged, never overwritten. Each lesson has a pass number that goes up when its pass restarts: the later pass wins, and two copies of the same pass pool their cleared words. Missed words are pooled from both copies, less any the winning pass has cleared. The ticked lessons come from the device that changed them last.
 - A line under the list says "Progress is synced across your devices." or, when the shared copy cannot be reached, "Progress is saved on this device only."
 - There is one shared copy and no accounts: a deployment is one person's, and its login is whatever sits in front of the site (the README names Cloudflare Access).
 - The mixed deck goes to the study screen in memory; reloading `#/study/mix` goes to the lesson list.
@@ -116,7 +116,7 @@ The lesson list has two tabs under the masthead: **Vocabulary** (`#/`) and **Pra
 
 - One row per lesson in `data/practice/index.json`: the lesson's title and "31 items". The whole row is the label of its checkbox; a row does not open anything.
 - While at least one lesson is ticked, the same dock as the mix: batch size (10, 20, 30, All; 20 at first), a status line "2 lessons · 140 of 310 left in this pass", and the button "Practice 20 items".
-- Passes work as they do for a mix: an item answered right without a miss is cleared, a batch is drawn from the items not yet cleared, and the pass restarts when too few are left.
+- Passes work as they do for a mix: an item answered right without a miss is cleared, an item sent back with Again is missed and dealt first in later batches, a batch is drawn from the items not yet cleared, and the pass restarts when too few are left.
 - The ticked lessons, the cleared items and the batch size are separate from the vocabulary mix. The ticked lessons and cleared items sync through the same `/api/progress`, as the `practice` part of the mix state, and merge by the same rules. The same sync line sits under the list.
 - When there is no index, the tab says "No practice files yet." and nothing else.
 - The deck goes to the session in memory; reloading `#/practice/run` goes to `#/practice`.

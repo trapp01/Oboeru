@@ -1,6 +1,7 @@
 // A mix is a deck drawn from the words of several lessons, the pool. A word
 // got without a miss is cleared and sits out until every word in the pool is
-// cleared; that is one pass. No DOM and no storage; mix-store.js keeps the ids.
+// cleared; that is one pass. A word marked Again is missed and is dealt first
+// until it is got without a miss. No DOM and no storage; mix-store.js keeps the ids.
 
 import { shuffle } from './session.js';
 
@@ -8,16 +9,21 @@ import { shuffle } from './session.js';
 export const BATCH_SIZES = [10, 20, 30, Infinity];
 
 /**
- * Draws up to `size` words from `pool`, taking words whose id is not in
- * `clearedIds` first. When too few of those are left the pass restarts: the
- * leftovers are kept and cleared words fill the rest of the batch.
+ * Draws up to `size` words from `pool`: missed words first, then words that
+ * are not cleared. `progress` is { cleared, missed }, two lists of ids. When
+ * too few uncleared words are left the pass restarts: the leftovers are kept
+ * and cleared words fill the rest of the batch.
  * Returns { batch, restarted }; on a restart the caller forgets the pool's cleared ids.
  */
-export function drawBatch(pool, clearedIds, size, random = Math.random) {
+export function drawBatch(pool, { cleared: clearedIds, missed: missedIds = [] }, size, random = Math.random) {
   const cleared = new Set(clearedIds);
-  const fresh = pool.filter((word) => !cleared.has(word.id));
+  const missed = new Set(missedIds);
+  const fresh = [
+    ...shuffle(pool.filter((word) => missed.has(word.id) && !cleared.has(word.id)), random),
+    ...shuffle(pool.filter((word) => !missed.has(word.id) && !cleared.has(word.id)), random),
+  ];
   if (fresh.length >= size) {
-    return { batch: shuffle(fresh, random).slice(0, size), restarted: false };
+    return { batch: fresh.slice(0, size), restarted: false };
   }
   const again = shuffle(pool.filter((word) => cleared.has(word.id)), random);
   const room = Math.min(size, pool.length) - fresh.length;

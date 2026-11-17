@@ -101,6 +101,7 @@ export function showPracticeSession(root, { deck, signal }) {
       const item = session.current;
       if (session.gotIt() && !rerun) deck.onCleared?.(item);
     } else {
+      deck.onMissed?.(session.current);
       session.again();
     }
     showCard();

@@ -17,7 +17,8 @@ These words mean one thing each, in the code, the data, and the docs.
 | Deck | The words chosen for one session: checked words of one lesson, or a mix. | `site/src/study/` |
 | Mix | A deck drawn from the words of several lessons checked on the lesson list. | `site/src/study/mix.js` |
 | Pass | One trip through every word of the checked lessons. A word got without a miss in a mix is cleared and sits out for the rest of the pass. | `site/src/study/mix.js` |
-| Mix state | The ticked lessons plus each lesson's pass number and cleared words, once for vocabulary and once for practice: the part that is synced between devices. | `site/src/study/mix-state.js` |
+| Missed | A word marked "Again" in a mix. Later batches deal it first until it is got without a miss. | `site/src/study/mix.js` |
+| Mix state | The ticked lessons plus each lesson's pass number, cleared words and missed words, once for vocabulary and once for practice: the part that is synced between devices. | `site/src/study/mix-state.js` |
 | Card | A word while it is being studied. It has a front, and after the reveal an answer with pages. | `site/src/study/` |
 | Page | One panel of a revealed card: Sentence or Mnemonic. | `site/src/study/` |
 | Session | One run through a deck. A card marked "Again" comes back later in the same session. | `site/src/study/` |

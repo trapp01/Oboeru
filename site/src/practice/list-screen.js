@@ -33,9 +33,9 @@ function lessonRow(entry, checked, onPick) {
 async function buildDeck(picked) {
   const lessons = await Promise.all(picked.map(loadPracticeItems));
   const pool = lessons.flat();
-  const { batch, restarted } = drawBatch(pool, store.clearedIds(picked), store.savedBatchSize());
+  const { batch, restarted } = drawBatch(pool, store.progress(picked), store.savedBatchSize());
   if (restarted) store.restartPass(picked);
-  return { key: 'practice', title: 'Practice', items: batch, onCleared: store.markCleared };
+  return { key: 'practice', title: 'Practice', items: batch, onCleared: store.markCleared, onMissed: store.markMissed };
 }
 
 export async function showPracticeList(root, { signal, onPractice }) {

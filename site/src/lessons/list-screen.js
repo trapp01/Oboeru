@@ -42,7 +42,7 @@ function lessonRow(entry, checked, onPick) {
 async function buildMix(picked, direction) {
   const lessons = await Promise.all(picked.map(loadLesson));
   const pool = lessons.flatMap((data) => data.sections.flatMap((s) => s.words));
-  const { batch, restarted } = drawBatch(pool, store.clearedIds(picked), store.savedBatchSize());
+  const { batch, restarted } = drawBatch(pool, store.progress(picked), store.savedBatchSize());
   if (restarted) store.restartPass(picked);
   return {
     key: 'mix',
@@ -51,6 +51,7 @@ async function buildMix(picked, direction) {
     notes: Object.assign({}, ...lessons.map((data) => data.notes)),
     direction,
     onCleared: store.markCleared,
+    onMissed: store.markMissed,
   };
 }
 

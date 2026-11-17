@@ -1,6 +1,6 @@
 // The part of a mix that follows the user between devices: for each pool, the
-// ticked lessons and, per lesson, its pass number and the ids cleared in that
-// pass. The vocabulary pool sits at the top level and the practice pool under
+// ticked lessons and, per lesson, its pass number, the ids cleared in that
+// pass, and the missed ids still waiting to be got right. The vocabulary pool sits at the top level and the practice pool under
 // `practice`, with the same shape. No DOM and no storage: mix-store.js keeps
 // the device's copy and worker/ keeps the shared one, and both merge copies with mergeStates().
 
@@ -19,8 +19,13 @@ function cleanPool(value, idPattern) {
   for (const lesson of Object.keys(passes).map(Number).filter(isLesson).sort(byNumber)) {
     const entry = passes[lesson];
     const pass = Number.isInteger(entry?.pass) && entry.pass > 0 ? entry.pass : 0;
-    const cleared = Array.isArray(entry?.cleared) ? entry.cleared.filter((id) => typeof id === 'string' && idPattern.test(id)) : [];
-    if (pass || cleared.length) pool.passes[lesson] = { pass, cleared: [...new Set(cleared)].sort() };
+    const ids = (list) => (Array.isArray(list) ? [...new Set(list.filter((id) => typeof id === 'string' && idPattern.test(id)))].sort() : []);
+    const cleared = ids(entry?.cleared);
+    // A cleared id is no longer missed, so clearing it anywhere takes it off every copy's missed list.
+    const missed = ids(entry?.missed).filter((id) => !cleared.includes(id));
+    if (!pass && !cleared.length && !missed.length) continue;
+    pool.passes[lesson] = { pass, cleared };
+    if (missed.length) pool.passes[lesson].missed = missed;
   }
   return pool;
 }
@@ -29,9 +34,13 @@ function mergePools(a, b) {
   const merged = { lessons: b.lessons.at > a.lessons.at ? b.lessons : a.lessons, passes: {} };
   for (const lesson of new Set([...Object.keys(a.passes), ...Object.keys(b.passes)])) {
     const [x, y] = [a.passes[lesson], b.passes[lesson]];
-    if (!x || !y) merged.passes[lesson] = x ?? y;
-    else if (x.pass !== y.pass) merged.passes[lesson] = x.pass > y.pass ? x : y;
-    else merged.passes[lesson] = { pass: x.pass, cleared: [...x.cleared, ...y.cleared] };
+    if (!x || !y) {
+      merged.passes[lesson] = x ?? y;
+      continue;
+    }
+    const missed = [...(x.missed ?? []), ...(y.missed ?? [])];
+    if (x.pass !== y.pass) merged.passes[lesson] = { ...(x.pass > y.pass ? x : y), missed };
+    else merged.passes[lesson] = { pass: x.pass, cleared: [...x.cleared, ...y.cleared], missed };
   }
   return merged;
 }
@@ -50,7 +59,10 @@ function withPool(state, kind, pool) {
   return cleanState(kind === 'practice' ? { ...state, practice: pool } : { ...state, ...pool });
 }
 
-/** { lessons: { list, at }, passes: { [lesson]: { pass, cleared } }, practice: { lessons, passes } } with nothing ticked or cleared. */
+/**
+ * { lessons: { list, at }, passes: { [lesson]: { pass, cleared, missed? } }, practice: { lessons, passes } }
+ * with nothing ticked or cleared. `missed` is left out when empty.
+ */
 export function emptyState() {
   return { ...emptyPool(), practice: emptyPool() };
 }
@@ -66,7 +78,8 @@ export function cleanState(value) {
 /**
  * Combines two clean copies of the state, pool by pool. The ticked lessons
  * come from whichever copy changed them last. For each lesson the later pass
- * wins, and two copies of the same pass pool their cleared ids.
+ * wins, and two copies of the same pass pool their cleared ids. Missed ids are
+ * pooled across passes, less those the winning pass has cleared.
  */
 export function mergeStates(a, b) {
   return cleanState({ ...mergePools(a, b), practice: mergePools(a.practice, b.practice) });
@@ -90,18 +103,37 @@ export function clearedIds(state, lessons, kind = 'vocabulary') {
   return lessons.flatMap((lesson) => pool.passes[lesson]?.cleared ?? []);
 }
 
-/** The state with `word` (or practice item) cleared in its lesson's current pass. It carries its lesson number. */
-export function withCleared(state, word, kind = 'vocabulary') {
+/** Missed ids across `lessons`: marked Again and not got right without a miss since. */
+export function missedIds(state, lessons, kind = 'vocabulary') {
   const pool = poolOf(state, kind);
-  const entry = pool.passes[word.lesson] ?? { pass: 0, cleared: [] };
-  return withPool(state, kind, { ...pool, passes: { ...pool.passes, [word.lesson]: { ...entry, cleared: [...entry.cleared, word.id] } } });
+  return lessons.flatMap((lesson) => pool.passes[lesson]?.missed ?? []);
 }
 
-/** The state with a new, empty pass for each of `lessons`. */
+function withEntry(state, kind, lesson, change) {
+  const pool = poolOf(state, kind);
+  const entry = pool.passes[lesson] ?? { pass: 0, cleared: [] };
+  return withPool(state, kind, { ...pool, passes: { ...pool.passes, [lesson]: change({ missed: [], ...entry }) } });
+}
+
+/** The state with `word` (or practice item) cleared in its lesson's current pass, and no longer missed. It carries its lesson number. */
+export function withCleared(state, word, kind = 'vocabulary') {
+  return withEntry(state, kind, word.lesson, (entry) => ({ ...entry, cleared: [...entry.cleared, word.id] }));
+}
+
+/** The state with `word` (or practice item) missed, and no longer cleared in this pass. It carries its lesson number. */
+export function withMissed(state, word, kind = 'vocabulary') {
+  return withEntry(state, kind, word.lesson, (entry) => ({
+    ...entry,
+    cleared: entry.cleared.filter((id) => id !== word.id),
+    missed: [...entry.missed, word.id],
+  }));
+}
+
+/** The state with a new pass for each of `lessons`: nothing cleared, the missed ids kept. */
 export function withRestart(state, lessons, kind = 'vocabulary') {
   const pool = poolOf(state, kind);
   const passes = { ...pool.passes };
-  for (const lesson of lessons) passes[lesson] = { pass: (passes[lesson]?.pass ?? 0) + 1, cleared: [] };
+  for (const lesson of lessons) passes[lesson] = { pass: (passes[lesson]?.pass ?? 0) + 1, cleared: [], missed: passes[lesson]?.missed ?? [] };
   return withPool(state, kind, { ...pool, passes });
 }
 
