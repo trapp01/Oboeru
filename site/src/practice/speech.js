@@ -8,10 +8,19 @@ const HEARINGS = 5;
 /** True when the browser can listen. */
 export const canListen = typeof Recognition === 'function';
 
+// The recognition's error codes, as the reasons transcribe.js gives for a recording.
+const REASONS = {
+  'not-allowed': 'blocked',
+  'service-not-allowed': 'blocked',
+  'audio-capture': 'no-mic',
+  network: 'offline',
+};
+
 /**
  * Starts listening. `onHeard(hearings)` receives what was heard, best first.
- * `onEnd(failed)` runs once when listening ends; `failed` is true when nothing
- * was heard, except after stop() with no speech. Returns stop(), which ends
+ * `onEnd(failure)` runs once when listening ends; `failure` is null when
+ * something was heard or stop() ended a quiet try, else { reason, detail }
+ * with the reasons transcribe.js record() uses. Returns stop(), which ends
  * listening and keeps what was already said.
  */
 export function listen({ onHeard, onEnd }) {
@@ -36,13 +45,14 @@ export function listen({ onHeard, onEnd }) {
   };
   recognition.onend = () => {
     const quiet = !error || error === 'no-speech' || error === 'aborted';
-    onEnd(!heard && (!stopped || !quiet));
+    if (heard || (stopped && quiet)) return onEnd(null);
+    onEnd(quiet ? { reason: 'quiet' } : { reason: REASONS[error] ?? 'failed', detail: error });
   };
   try {
     recognition.start();
   } catch (failure) {
     console.warn(`Speech recognition did not start: ${failure.message}`);
-    queueMicrotask(() => onEnd(true));
+    queueMicrotask(() => onEnd({ reason: 'failed', detail: failure.name || failure.message }));
   }
   return {
     stop() {

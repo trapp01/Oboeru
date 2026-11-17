@@ -64,7 +64,9 @@ export function buildPracticeCard(item, { onInput }) {
   const mic = canUseMic ? micButton(box, item.answers, onInput) : null;
   if (mic) row.append(mic.element);
   const slot = el('div', 'practice-result-slot');
-  card.append(row, keyboard.panel, slot);
+  card.append(row);
+  if (mic) card.append(mic.message);
+  card.append(keyboard.panel, slot);
 
   let outcome = null;
   let speaker = null;

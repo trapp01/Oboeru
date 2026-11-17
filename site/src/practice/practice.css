@@ -105,6 +105,13 @@
   margin-top: 1.5rem;
 }
 
+.mic-message {
+  margin-top: 0.5rem;
+  color: var(--seal-text);
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
 .answer-box {
   flex: 1;
   min-width: 0;
