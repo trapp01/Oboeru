@@ -126,7 +126,7 @@ The lesson list has two tabs under the masthead: **Vocabulary** (`#/`) and **Pra
 The top bar, the progress count and the end of a session are the study screen's. A card shows, top to bottom:
 
 - The source in quiet type: "Food and drink · Exercise 2", or "Lesson 3 · Textbook II-A (b) · p. 95" for an exercise that names its book and page.
-- The instruction, and under it the exercise's example when it has one: "e.g. Ken · eat · bread · home → ケンさんはうちでパンを食べます。"
+- The instruction. The exercise's worked example is not shown.
 - The context when the item has one, then the cue, large. Japanese is drawn with furigana.
 - The answer box and, beside it, the kana keyboard button and the microphone button. The kana keyboard opens under them.
 - After the check, the result.

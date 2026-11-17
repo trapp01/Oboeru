@@ -1,23 +1,17 @@
-// One practice card: where the item comes from, the instruction and example,
-// the context and cue, the answer box with its romaji input, kana keyboard
+// One practice card: where the item comes from, the instruction, the context
+// and cue, the answer box with its romaji input, kana keyboard
 // and microphone, and after the check the result.
 
 import { el } from '../study/dom.js';
 import { sourceLine } from './catalog.js';
 import { markupText } from './dom.js';
-import { matchAnswer, normalize, shownAnswer } from './grade.js';
+import { matchAnswer, normalize } from './grade.js';
 import { finishKana, romajiToKana } from './kana.js';
 import { kanaKeyboard } from './kana-keyboard-view.js';
 import { canUseMic, micButton } from './mic-view.js';
 import { buildResult } from './result-view.js';
 
 const LONG_CUE = 14;
-
-function exampleLine({ cue, answer }) {
-  const line = el('p', 'practice-example');
-  line.append('e.g. ', markupText('span', '', cue), ' → ', markupText('span', '', shownAnswer(answer)));
-  return line;
-}
 
 // Romaji before the caret becomes kana as it is typed; the caret stays after the converted text.
 function convertBox(box) {
@@ -39,7 +33,6 @@ export function buildPracticeCard(item, { onInput }) {
   const card = el('article', 'practice-card');
   card.tabIndex = -1;
   card.append(el('p', 'practice-source', sourceLine(item)), el('p', 'practice-instruction', exercise.instruction));
-  if (exercise.example) card.append(exampleLine(exercise.example));
   if (item.context) card.append(markupText('p', 'practice-context', item.context));
   const cue = markupText('p', 'practice-cue', item.cue);
   if (item.cue.length > LONG_CUE) cue.classList.add('is-long');

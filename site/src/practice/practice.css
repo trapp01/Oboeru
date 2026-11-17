@@ -56,14 +56,6 @@
   line-height: 1.45;
 }
 
-.practice-example {
-  margin-top: 0.75rem;
-  color: var(--ink-soft);
-  font-size: 0.9375rem;
-  line-height: 1.9;
-}
-
-.practice-example rt,
 .practice-context rt {
   font-size: 0.55em;
 }

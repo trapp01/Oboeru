@@ -56,7 +56,7 @@ A practice file belongs to the lesson with the same number in `site/data/words/`
 | `title` | Optional. A heading for the exercise, in sentence markup when it is Japanese |
 | `instruction` | One English sentence telling the learner what to produce from the cue. It stands alone on a card: no "look at the picture", "the following", "your partner", "above" |
 | `kind` | `"typed"`: the app checks what is typed or spoken against `answers`. `"open"`: the learner's own answer; `answers` are samples to compare with |
-| `example` | Optional. A worked example as `{ "cue", "answer" }`, shown under the instruction. The example is never also an item |
+| `example` | Optional. A worked example as `{ "cue", "answer" }`. The app does not show it. The example is never also an item |
 | `items` | The prompts, in order |
 
 ### Item
